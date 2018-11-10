@@ -1,8 +1,2 @@
 # InlineEvals
-
-HEADERS
-============
-Professor, Subject, Course, Key, Clarity, Amount Learned, Instructor's Quality, Course Quality
-============
-EXAMPLE ENTRY
-Michael Hennessey, CIS, 110, FirstLastCourse, Question 6, Question 7, Question 2, Question 1
+InlineEvals is an exntension that brings information right to where you need it! Course Eval info is displayed next to courses on classes.uoregon.edu, facilitating well-informed registration decisions! See which professors your peers loved, and which courses they didn't prefer!
