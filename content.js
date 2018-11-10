@@ -11,13 +11,22 @@ function add_column(title) {
 
   for (i = 0; i < tbl.rows.length; i++) {
     var row = tbl.rows[i].getElementsByClassName("dddead");
+    console.log(row)
+      try{
+        var x = row[1].textContent;
+        console.log(x)
+          
+        if (x == "Grading Options:") { // Non-breakable space is char 160
+            //console.log(x)
+            create_table_header(tbl.rows[i+2],title);
+          }
+      }
+      catch(err) {
+          continue;
+      }
+      
     var cell = row[0];
-    try {
-      cell.colspan
-    } catch(err) {
-      create_table_header(tbl.rows[i],title);
-      break;
-    }
+
 
   }
 }
