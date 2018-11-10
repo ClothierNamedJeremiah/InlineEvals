@@ -7,6 +7,26 @@ function create_table_header(cell, header_title) {
   cell.append(td)
 }
 
+function create_graph_hyperlink(cell, header_title) {
+//    var td = document.createElement('td');
+//    td.setAttribute("class","dddead")
+//    td.appendChild(document.createTextNode(header_title));
+//    cell.append(td)
+    
+    
+    
+    
+    var leftDiv = document.createElement("div"); //Create left div
+    leftDiv.id = "left"; //Assign div id
+    leftDiv.setAttribute("class","dddead")
+    a = document.createElement('a');
+  
+   a.href =  'file:///Users/anisha/Documents/InlineEvals/test.png'; // Insted of calling setAttribute
+    a.innerHTML = header_title // <a>INNER_TEXT</a>
+    leftDiv.appendChild(a); // Append the link to the div
+    cell.append(leftDiv); // And append the div to the document body
+}
+
 function create_table_cell(cell, text){
   // Create Table Element
   var td = document.createElement('td');
@@ -43,6 +63,8 @@ function add_table_cells(prof_dict){
             try{
                 if(rowClass[0].textContent.includes("CIS")){
                     curClass = rowClass[0].textContent.slice(6,9)
+                    create_graph_hyperlink(rowClass[0], "Other Terms Taught")
+                    
                 }
                   
             }

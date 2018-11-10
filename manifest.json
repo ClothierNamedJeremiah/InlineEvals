@@ -12,6 +12,6 @@
   	}],
 
 		"web_accessible_resources": [
-    	"data/data.txt", "CIS.csv"
+    	"data/data.txt", "CIS.csv", "test.png"
 	]
 }
