@@ -6,6 +6,17 @@ function create_table_header(cell, title) {
   cell.append(td)
 }
 
+function add_info(number, prof){
+    var tbl = document.getElementsByClassName("datadisplaytable")[0]; // table reference
+    var i; // row index
+    
+    for (i = 0; i < tbl.rows.length; i++) {
+        var row = tbl.rows[i].getElementsByClassName("dddefault");
+        console.log(row)
+    }
+                    
+}
+
 function add_headers() {
   var tbl = document.getElementsByClassName("datadisplaytable")[0]; // table reference
   var i; // row index
@@ -15,7 +26,7 @@ function add_headers() {
     console.log(row)
       try{
         var x = row[1].textContent;
-        console.log(x)
+        //console.log(x)
 
         if (x == "Grading Options:") { // Non-breakable space is char 160
             create_table_header(tbl.rows[i+2],"Clarity");
