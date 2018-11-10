@@ -85,10 +85,18 @@ function add_table_cells(prof_dict){
                     var theKey = curClass + teacherList[0]
                     console.log(prof_dict[theKey])
                     listOfScores = prof_dict[theKey]
+                    try{
                     create_table_cell(tbl.rows[i], listOfScores[5] )
                     create_table_cell(tbl.rows[i],listOfScores[6])
                     create_table_cell(tbl.rows[i],listOfScores[7])
                     create_table_cell(tbl.rows[i],listOfScores[8])
+                    }
+                    catch(err){
+                        create_table_cell(tbl.rows[i],"-")
+                        create_table_cell(tbl.rows[i],"-")
+                        create_table_cell(tbl.rows[i],"-")
+                        create_table_cell(tbl.rows[i],"-")
+                    }
                 }
             }
             catch(err) {
@@ -149,7 +157,12 @@ function read_file(){
         // console.log(lines[i])
         var aLine = lines[i].split(",")
         // console.log(aLine)
+        if(aLine[3] == "Freeman Hennessy"){
+        prof_dict[aLine[1] + "Freeman"] = aLine
+        }
+        else{
         prof_dict[aLine[1] + aLine[3]] = aLine
+        }
 
   }
   add_table_cells(prof_dict)
