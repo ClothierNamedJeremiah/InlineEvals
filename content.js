@@ -1,6 +1,4 @@
 function create_table_header(cell, header_title) {
-  console.log("Creating Table Header")
-  console.log(cell)
   var td = document.createElement('td');
   td.setAttribute("class","dddead")
   td.appendChild(document.createTextNode(header_title));
@@ -50,10 +48,8 @@ function add_table_headers() {
 
   for (i = 0; i < tbl.rows.length; i++) {
     var row = tbl.rows[i].getElementsByClassName("dddead");
-    console.log(row)
       try{
         var x = row[1].textContent;
-        //console.log(x)
 
         if (x == "Grading Options:") { // Non-breakable space is char 160
             create_table_header(tbl.rows[i+2],"Clarity");
@@ -68,5 +64,30 @@ function add_table_headers() {
   }
 }
 
+function open_file(callback) {
+		const url = chrome.runtime.getURL("data/data.txt");
+		var xhr = new XMLHttpRequest();
+		xhr.open('GET', url, true);
+	 	xhr.onreadystatechange = function() {
+			if (xhr.readyState == 4 && xhr.status == 200) {
+				if (typeof callback == "function") {
+					callback.apply(xhr)
+				}
+			}
+		};
+		xhr.send();
+}
+
+function read_file(){
+	var prof_dict = {};
+	var file_text = this.responseText;
+	var lines = file_text.split("\n");
+	var i;
+	for (i = 0; i < lines.length-1; i++) {
+    console.log(lines[i])
+  }
+}
+
+open_file(read_file)
 add_table_headers()
 add_table_cells()
