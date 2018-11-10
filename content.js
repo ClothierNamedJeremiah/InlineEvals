@@ -1,12 +1,12 @@
 function create_table_header(cell, title) {
   var td = document.createElement('td');
-  td.setAttribute("class","dddhead")
+  td.setAttribute("class","dddead")
   td.setAttribute("width", 100)
   td.appendChild(document.createTextNode(title));
   cell.append(td)
 }
 
-function add_column(title) {
+function add_headers() {
   var tbl = document.getElementsByClassName("datadisplaytable")[0]; // table reference
   var i; // row index
 
@@ -16,11 +16,10 @@ function add_column(title) {
       try{
         var x = row[1].textContent;
         console.log(x)
-          
+
         if (x == "Grading Options:") { // Non-breakable space is char 160
-            //console.log(x)
-            create_table_header(tbl.rows[i+2],"Clarity   ");
-            create_table_header(tbl.rows[i+2],"Learned   ");
+            create_table_header(tbl.rows[i+2],"Clarity");
+            create_table_header(tbl.rows[i+2],"Learned");
             create_table_header(tbl.rows[i+2],"Quality");
 
           }
@@ -28,11 +27,7 @@ function add_column(title) {
       catch(err) {
           continue;
       }
-      
-    var cell = row[0];
-
-
   }
 }
 
-add_column("Clarity")
+add_headers()
