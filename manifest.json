@@ -3,7 +3,7 @@
 	"name": "InlineEvals",
 	"version": "1.0",
 
-	"description": "TODO",
+	"description": "Displays course evaluation information",
 
   	"content_scripts": [{
     	"css": ["styles.css"],
@@ -14,4 +14,5 @@
 		"web_accessible_resources": [
     	"data/data.txt", "CIS.csv", "test.png"
 	]
+ 
 }
