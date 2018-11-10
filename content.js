@@ -21,7 +21,7 @@ function create_graph_hyperlink(cell, header_title) {
     leftDiv.setAttribute("class","dddead")
     a = document.createElement('a');
   
-   a.href =  'file:///Users/anisha/Documents/InlineEvals/test.png'; // Insted of calling setAttribute
+   a.href =  'https://parsabagheri.com/images/test.png'; // Insted of calling setAttribute
     a.innerHTML = header_title // <a>INNER_TEXT</a>
     leftDiv.appendChild(a); // Append the link to the div
     cell.append(leftDiv); // And append the div to the document body
