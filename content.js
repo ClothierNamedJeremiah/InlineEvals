@@ -14,7 +14,7 @@ function create_table_cell(cell, text){
   td.appendChild(document.createTextNode(text))
 
   // COLOR FOR CSS Here
-    
+
 	if (text != String.fromCharCode(45)) {
 		var value = parseFloat(text);
 		if (value < 2.5) {
@@ -41,11 +41,13 @@ function add_table_cells(number, prof){
                     create_table_cell(tbl.rows[i],"-")
                      create_table_cell(tbl.rows[i],"-")
                      create_table_cell(tbl.rows[i],"-")
+                     create_table_cell(tbl.rows[i],"-")
                 }
                 else if (row.length > 0) {
                     create_table_cell(tbl.rows[i],"1.0")
-                    create_table_cell(tbl.rows[i],"2.0")
+                    create_table_cell(tbl.rows[i],"4.0")
                     create_table_cell(tbl.rows[i],"3.0")
+                    create_table_cell(tbl.rows[i],"2.0")
                 }
             }
             catch(err) {
@@ -70,7 +72,7 @@ function add_table_headers() {
             create_table_header(tbl.rows[i+2],"Amount Learned");
             create_table_header(tbl.rows[i+2],"Instructor Rating");
             create_table_header(tbl.rows[i+2],"Course Quality");
-            
+
 
           }
       }
@@ -88,31 +90,33 @@ function open_file(callback) {
 			if (xhr.readyState == 4 && xhr.status == 200) {
 				if (typeof callback == "function") {
 					aDictionary = callback.apply(xhr)
-                    
+
 				}
 			}
 		};
 		xhr.send();
-    
+
 }
 
 function read_file(){
-	
 	var file_text = this.responseText;
 	var lines = file_text.split("\n");
 	var i;
 	for (i = 0; i < lines.length-1; i++) {
-        //console.log(lines[i])
+        // console.log(lines[i])
         var aLine = lines[i].split(",")
         // console.log(aLine)
         prof_dict[aLine[3]] = aLine
 
   }
-  console.log(prof_dict)
-    
+  // add_table_cells(prof_dict)
+  add_table_cells()
+
 }
 
-open_file(read_file)
-console.log(prof_dict)
-add_table_headers()
-add_table_cells()
+function main(){
+  add_table_headers()
+  open_file(read_file)
+}
+
+main()
