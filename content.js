@@ -12,7 +12,7 @@ function create_table_cell(cell, text){
   td.appendChild(document.createTextNode(text))
 
   // COLOR FOR CSS Here
-	if (text != "N/A") {
+	if (text != "-") {
 		var value = parseFloat(text);
 		if (value < 2.5) {
 			td.setAttribute("id","poor_quality");
@@ -30,15 +30,26 @@ function create_table_cell(cell, text){
 function add_table_cells(number, prof){
     var tbl = document.getElementsByClassName("datadisplaytable")[0]; // table reference
     var i; // row index
-
-    for (i = 0; i < tbl.rows.length; i++) {
+        for (i = 0; i < tbl.rows.length; i++) {
         var row = tbl.rows[i].getElementsByClassName("dddefault");
+            try{
+            var teacher = row[7].textContent
+                if(teacher == "tba"){
+                    create_table_cell(tbl.rows[i],"-")
+                     create_table_cell(tbl.rows[i],"-")
+                     create_table_cell(tbl.rows[i],"-")
+                }
+                else if (row.length > 0) {
+                    create_table_cell(tbl.rows[i],"1.0")
+                    create_table_cell(tbl.rows[i],"2.0")
+                    create_table_cell(tbl.rows[i],"3.0")
+                }
+            }
+            catch(err) {
+                continue;
+            }
         // If the length is greater than 0, we're looking at an actual table row we can append to
-        if (row.length > 0) {
-          create_table_cell(tbl.rows[i],"1.0")
-          create_table_cell(tbl.rows[i],"2.0")
-          create_table_cell(tbl.rows[i],"3.0")
-        }
+
     }
 }
 
@@ -53,8 +64,10 @@ function add_table_headers() {
 
         if (x == "Grading Options:") { // Non-breakable space is char 160
             create_table_header(tbl.rows[i+2],"Clarity");
-            create_table_header(tbl.rows[i+2],"Learned");
-            create_table_header(tbl.rows[i+2],"Quality");
+            create_table_header(tbl.rows[i+2],"Amount Learned");
+            create_table_header(tbl.rows[i+2],"Instructor Rating");
+            create_table_header(tbl.rows[i+2],"Course Quality");
+            
 
           }
       }
@@ -90,7 +103,7 @@ function read_file(){
     prof_dict[aLine[3]] = aLine
 
   }
-  console.log(prof_dict)
+  //console.log(prof_dict)
 }
 
 open_file(read_file)
