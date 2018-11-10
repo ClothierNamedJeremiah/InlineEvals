@@ -1,4 +1,4 @@
-var prof_dict = {};
+
 
 function create_table_header(cell, header_title) {
   var td = document.createElement('td');
@@ -17,9 +17,9 @@ function create_table_cell(cell, text){
 
 	if (text != String.fromCharCode(45)) {
 		var value = parseFloat(text);
-		if (value < 2.5) {
+		if (value < 3.0) {
 			td.setAttribute("id","poor_quality");
-		} else if (value < 3.5) {
+		} else if (value < 4) {
 			td.setAttribute("id","average");
 		} else {
 			td.setAttribute("id","good_quality");
@@ -30,11 +30,23 @@ function create_table_cell(cell, text){
   cell.append(td)
 }
 
-function add_table_cells(number, prof){
+function add_table_cells(prof_dict){
     var tbl = document.getElementsByClassName("datadisplaytable")[0]; // table reference
     var i; // row index
+    var curClass = ""
+    console.log(prof_dict)
         for (i = 0; i < tbl.rows.length; i++) {
-        var row = tbl.rows[i].getElementsByClassName("dddefault");
+            var row = tbl.rows[i].getElementsByClassName("dddefault");
+            var rowClass = tbl.rows[i].getElementsByClassName("dddead");
+           //console.log(rowClass)
+            //console.log(rowClass.length)
+            try{
+                if(rowClass[0].textContent.includes("CIS")){
+                    curClass = rowClass[0].textContent.slice(6,9)
+                }
+                  
+            }
+            catch{
             try{
             var teacher = row[7].textContent
                 if(teacher == "tba"){
@@ -44,14 +56,22 @@ function add_table_cells(number, prof){
                      create_table_cell(tbl.rows[i],"-")
                 }
                 else if (row.length > 0) {
-                    create_table_cell(tbl.rows[i],"1.0")
-                    create_table_cell(tbl.rows[i],"4.0")
-                    create_table_cell(tbl.rows[i],"3.0")
-                    create_table_cell(tbl.rows[i],"2.0")
+                    
+                    teacherList = teacher.split(" ")
+                    // console.log(teacherList)
+                    //console.log(curClass)
+                    var theKey = curClass + teacherList[0]
+                    console.log(prof_dict[theKey])
+                    listOfScores = prof_dict[theKey]
+                    create_table_cell(tbl.rows[i], listOfScores[5] )
+                    create_table_cell(tbl.rows[i],listOfScores[6])
+                    create_table_cell(tbl.rows[i],listOfScores[7])
+                    create_table_cell(tbl.rows[i],listOfScores[8])
                 }
             }
             catch(err) {
                 continue;
+            }
             }
         // If the length is greater than 0, we're looking at an actual table row we can append to
 
@@ -83,7 +103,7 @@ function add_table_headers() {
 }
 
 function open_file(callback) {
-		const url = chrome.runtime.getURL("data/data.txt");
+		const url = chrome.runtime.getURL("CIS.csv");
 		var xhr = new XMLHttpRequest();
 		xhr.open('GET', url, true);
 	 	xhr.onreadystatechange = function() {
@@ -99,6 +119,7 @@ function open_file(callback) {
 }
 
 function read_file(){
+    var prof_dict = {};
 	var file_text = this.responseText;
 	var lines = file_text.split("\n");
 	var i;
@@ -106,11 +127,11 @@ function read_file(){
         // console.log(lines[i])
         var aLine = lines[i].split(",")
         // console.log(aLine)
-        prof_dict[aLine[3]] = aLine
+        prof_dict[aLine[1] + aLine[3]] = aLine
 
   }
-  // add_table_cells(prof_dict)
-  add_table_cells()
+  add_table_cells(prof_dict)
+  //add_table_cells()
 
 }
 
