@@ -10,12 +10,13 @@ function add_column(title) {
   var i; // row index
 
   for (i = 0; i < tbl.rows.length; i++) {
-    var isHeader = tbl.rows[i].getElementsByClassName("dddead")
-    // console.log(isHeader);
-    if (isHeader) {
-      create_table_header(tbl.rows[i+2],title)
+    var row = tbl.rows[i].getElementsByClassName("dddead");
+    var cell = row[0];
+    try {
+      cell.colspan
+    } catch(err) {
+      create_table_header(tbl.rows[i],title);
       break;
-      i += 3;
     }
 
   }
