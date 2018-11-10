@@ -1,0 +1,33 @@
+/*
+POOR: 1-2.4
+poor_text = #9C0005;
+poor_fill = #FEC7CF;
+
+AVERAGE: 2.5-3.4
+average_text = #9B5700;
+average_fill = #FFEB9C;
+
+GOOD: 3.5-5
+good_text = #016000;
+good_fill = #C7F0CE;
+*/
+
+#poor_quality, #hard_difficulty{
+  color: #9C0005;
+  background-color: #FEC7CF;
+}
+
+#average {
+  color: #9B5700;
+  background-color: #FFEB9C;
+}
+
+#good_quality, #link, #easy_difficulty {
+  color: #016000;
+  background-color: #C7F0CE;
+}
+
+#nah {
+  color: #3E3F76;
+  background-color: #FFFFCB;
+}

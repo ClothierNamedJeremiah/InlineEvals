@@ -1,18 +1,17 @@
 {
-  "name": "InLineEvals",
-  "version": "1.0",
-  "description": "Build an Extension!",
-  "permissions": ["storage"],
-    "content_scripts": [
-                        {
-                        "matches": ["http://classes.uoregon.edu/pls/prod/*"],
-                        "js": ["content.js"]
-                        }
-                        ],
-    "background": {
-        "scripts": ["background.js"],
-        "persistent": false
+	"manifest_version": 2,
+	"name": "InlineEvals",
+	"version": "1.0",
 
-    },
-  "manifest_version": 2
+	"description": "TODO",
+
+  	"content_scripts": [{
+    	"css": ["styles.css"],
+    	"js": ["content.js"],
+    	"matches": ["http://classes.uoregon.edu/pls/prod/*"]
+  	}],
+
+		"web_accessible_resources": [
+    	"data/data.txt"
+	]
 }
