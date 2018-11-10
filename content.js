@@ -84,8 +84,13 @@ function read_file(){
 	var lines = file_text.split("\n");
 	var i;
 	for (i = 0; i < lines.length-1; i++) {
-    console.log(lines[i])
+    //console.log(lines[i])
+    var aLine = lines[i].split(",")
+    // console.log(aLine)
+    prof_dict[aLine[3]] = aLine
+
   }
+  console.log(prof_dict)
 }
 
 open_file(read_file)
