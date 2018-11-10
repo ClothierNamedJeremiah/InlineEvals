@@ -4,6 +4,7 @@
 	"version": "1.0",
 
 	"description": "Displays course evaluation information",
+	"icons": {"128": "icon128.png"},
 
   	"content_scripts": [{
     	"css": ["styles.css"],
@@ -14,5 +15,5 @@
 		"web_accessible_resources": [
     	"data/data.txt", "CIS.csv", "test.png"
 	]
- 
+
 }
