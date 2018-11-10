@@ -1,3 +1,5 @@
+var prof_dict = {};
+
 function create_table_header(cell, header_title) {
   var td = document.createElement('td');
   td.setAttribute("class","dddead")
@@ -12,7 +14,8 @@ function create_table_cell(cell, text){
   td.appendChild(document.createTextNode(text))
 
   // COLOR FOR CSS Here
-	if (text != "-") {
+    
+	if (text != String.fromCharCode(45)) {
 		var value = parseFloat(text);
 		if (value < 2.5) {
 			td.setAttribute("id","poor_quality");
@@ -84,28 +87,32 @@ function open_file(callback) {
 	 	xhr.onreadystatechange = function() {
 			if (xhr.readyState == 4 && xhr.status == 200) {
 				if (typeof callback == "function") {
-					callback.apply(xhr)
+					aDictionary = callback.apply(xhr)
+                    
 				}
 			}
 		};
 		xhr.send();
+    
 }
 
 function read_file(){
-	var prof_dict = {};
+	
 	var file_text = this.responseText;
 	var lines = file_text.split("\n");
 	var i;
 	for (i = 0; i < lines.length-1; i++) {
-    //console.log(lines[i])
-    var aLine = lines[i].split(",")
-    // console.log(aLine)
-    prof_dict[aLine[3]] = aLine
+        //console.log(lines[i])
+        var aLine = lines[i].split(",")
+        // console.log(aLine)
+        prof_dict[aLine[3]] = aLine
 
   }
-  //console.log(prof_dict)
+  console.log(prof_dict)
+    
 }
 
 open_file(read_file)
+console.log(prof_dict)
 add_table_headers()
 add_table_cells()
