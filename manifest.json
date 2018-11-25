@@ -4,7 +4,7 @@
 	"version": "1.0",
 
 	"description": "Displays course evaluation information",
-	"icons": {"128": "icon128.png"},
+	"icons": {"128": "icons/icon128.png"},
 
 	"browser_action": {
 			"default_popup" : "static/popup.html"
@@ -12,8 +12,8 @@
 
 
   	"content_scripts": [{
-    	"css": ["styles.css"],
-    	"js": ["content.js"],
+    	"css": ["static/css/styles.css"],
+    	"js": ["static/js/content.js"],
     	"matches": ["http://classes.uoregon.edu/pls/prod/*"]
   	}],
 
