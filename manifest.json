@@ -6,6 +6,11 @@
 	"description": "Displays course evaluation information",
 	"icons": {"128": "icon128.png"},
 
+	"browser_action": {
+			"default_popup" : "static/popup.html"
+	},
+
+
   	"content_scripts": [{
     	"css": ["styles.css"],
     	"js": ["content.js"],
