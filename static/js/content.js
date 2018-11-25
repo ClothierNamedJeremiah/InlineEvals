@@ -12,10 +12,10 @@ function create_graph_hyperlink(cell, header_title , aClass) {
 //    td.setAttribute("class","dddead")
 //    td.appendChild(document.createTextNode(header_title));
 //    cell.append(td)
-    
-    
-    
-    
+
+
+
+
     var leftDiv = document.createElement("div"); //Create left div
     leftDiv.id = "left"; //Assign div id
     leftDiv.setAttribute("class","dddead")
@@ -64,9 +64,9 @@ function add_table_cells(prof_dict){
                 if(rowClass[0].textContent.includes("CIS")){
                     curClass = rowClass[0].textContent.slice(6,9)
                     create_graph_hyperlink(rowClass[0], "Other Terms Taught", curClass)
-                    
+
                 }
-                  
+
             }
             catch{
             try{
@@ -78,7 +78,7 @@ function add_table_cells(prof_dict){
                      create_table_cell(tbl.rows[i],"-")
                 }
                 else if (row.length > 0) {
-                    
+
                     teacherList = teacher.split(" ")
                     // console.log(teacherList)
                     //console.log(curClass)
@@ -133,7 +133,7 @@ function add_table_headers() {
 }
 
 function open_file(callback) {
-		const url = chrome.runtime.getURL("CIS.csv");
+		const url = chrome.runtime.getURL("data/CIS.csv");
 		var xhr = new XMLHttpRequest();
 		xhr.open('GET', url, true);
 	 	xhr.onreadystatechange = function() {
