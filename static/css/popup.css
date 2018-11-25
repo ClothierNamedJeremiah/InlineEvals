@@ -1,0 +1,184 @@
+@import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
+html {
+  background: #29ce9a;
+  font-family: Raleway;
+  display: table;
+  width: 100%;
+  height: 100%;
+}
+
+body {
+  display: table-cell;
+  vertical-align: middle;
+  text-align: center;
+}
+
+.tooltip {
+    position: relative;
+    display: inline-block;
+    /* border-bottom: 1px dotted black; /* If you want dots under the hoverable text */ */
+}
+
+/* Tooltip text */
+.tooltip .tooltiptext {
+    visibility: hidden;
+    width: 120px;
+    background-color: black;
+    color: #fff;
+    text-align: center;
+    padding: 5px 0;
+    border-radius: 6px;
+
+    /* Position the tooltip text */
+    position: absolute;
+    z-index: 1;
+    left: -20%;
+}
+
+/* Show the tooltip text when you mouse over the tooltip container */
+.tooltip:hover .tooltiptext {
+    visibility: visible;
+}
+
+.demo__container {
+  display: inline-block;
+  padding: 5px;
+  background-color: #29ce9a;
+  border-radius: 5px;
+  color: #29ce9a;
+  text-align: center;
+
+}
+
+.demo {
+  display: inline-block;
+  padding: 20px;
+  background-color: #fff;
+  border-radius: 20px;
+  color: #666;
+  text-align: center;
+}
+
+.demo__content {
+  text-align: left;
+  display: inline-block;
+}
+
+.demo__title {
+  font-size: 25px;
+  font-weight: bold;
+  text-transform: uppercase;
+  padding-bottom: 15px;
+}
+
+.switcher {
+  position: relative;
+  display: inline-block;
+  cursor: pointer;
+  padding-left: 50px;
+  height: 20px;
+  line-height: 20px;
+  margin: 2.5px;
+  font-size: 15px;
+  -webkit-user-select: none;
+     -moz-user-select: none;
+      -ms-user-select: none;
+          user-select: none;
+}
+.switcher input {
+  display: none;
+}
+
+.switcher__indicator::after {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 20px;
+  width: 20px;
+  background-color: #d5d5d5;
+  border-radius: 50%;
+  -webkit-transition: all .3s ease;
+  transition: all .3s ease;
+  -webkit-animation-name: pulsein;
+          animation-name: pulsein;
+  -webkit-animation-duration: .3s;
+          animation-duration: .3s;
+}
+.switcher__indicator::before {
+  content: '';
+  position: absolute;
+  top: 8px;
+  left: 0;
+  width: 40px;
+  height: 4px;
+  background-color: #d5d5d5;
+  border-radius: 5px;
+  -webkit-transition: all .3s ease;
+  transition: all .3s ease;
+}
+input:checked + .switcher__indicator::after {
+  background-color: #29ce9a;
+  -webkit-transform: translateX(20px);
+          transform: translateX(20px);
+  -webkit-animation-name: pulseout;
+          animation-name: pulseout;
+  -webkit-animation-duration: .3s;
+          animation-duration: .3s;
+}
+input:checked + .switcher__indicator::before {
+  background-color: #29ce9a;
+}
+input:disabled + .switcher__indicator::after, input:disabled + .switcher__indicator::before {
+  background-color: #e5e5e5;
+}
+
+@-webkit-keyframes pulsein {
+  0%, 100% {
+    top: 0px;
+    height: 20px;
+    width: 20px;
+  }
+  50% {
+    top: 3px;
+    height: 14px;
+    width: 28px;
+  }
+}
+
+@keyframes pulsein {
+  0%, 100% {
+    top: 0px;
+    height: 20px;
+    width: 20px;
+  }
+  50% {
+    top: 3px;
+    height: 14px;
+    width: 26px;
+  }
+}
+@-webkit-keyframes pulseout {
+  0%, 100% {
+    top: 0px;
+    height: 20px;
+    width: 20px;
+  }
+  50% {
+    top: 3px;
+    height: 14px;
+    width: 26px;
+  }
+}
+@keyframes pulseout {
+  0%, 100% {
+    top: 0px;
+    height: 20px;
+    width: 20px;
+  }
+  50% {
+    top: 3px;
+    height: 14px;
+    width: 26px;
+  }
+}
