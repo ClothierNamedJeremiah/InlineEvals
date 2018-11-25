@@ -15,12 +15,12 @@
 <body>
 <div class="demo__container">
   <div class="demo">
-    <div class="demo__title">Checkboxes</div>
+    <div class="demo__title">Questions</div>
     <div class="demo__content">
-      <form>
+      <form id="questions">
       <!--  Question 1 -->
       <label class="switcher">
-        <input type="checkbox" checked="checked"/>
+        <input type="checkbox" name="box"/>
         <div class="switcher__indicator"></div>
         <span class="tooltip">Question 1
           <span class="tooltiptext">What was the quality of this course?</span>
@@ -29,7 +29,7 @@
 
       <!--  Question 2 -->
       <label class="switcher">
-        <input type="checkbox" checked="checked"/>
+        <input type="checkbox" name="box"/>
         <div class="switcher__indicator"></div>
         <span class="tooltip">Question 2
           <span class="tooltiptext">What was the quality of the instructor's teaching?</span>
@@ -38,7 +38,7 @@
 
       <!--  Question 3 -->
       <label class="switcher">
-        <input type="checkbox"/>
+        <input type="checkbox" name="box"/>
         <div class="switcher__indicator"></div>
         <span class="tooltip">Question 3
           <span class="tooltiptext">How well organized was this course?</span>
@@ -47,7 +47,7 @@
 
       <!--  Question 4 -->
       <label class="switcher">
-        <input type="checkbox"/>
+        <input type="checkbox" name="box"/>
         <div class="switcher__indicator"></div>
         <span class="tooltip">Question 4
           <span class="tooltiptext">How effective was the instructor's use of class time?</span>
@@ -56,7 +56,7 @@
 
       <!--  Question 5 -->
       <label class="switcher">
-        <input type="checkbox"/>
+        <input type="checkbox" name="box"/>
         <div class="switcher__indicator"></div>
         <span class="tooltip">Question 5
           <span class="tooltiptext">How available was the instructor for communication outside of class?</span>
@@ -65,7 +65,7 @@
 
       <!--  Question 6 -->
       <label class="switcher">
-        <input type="checkbox" checked="checked"/>
+        <input type="checkbox" name="box"/>
         <div class="switcher__indicator"></div>
         <span class="tooltip">Question 6
           <span class="tooltiptext">How clear were the guidelines for evaluating students' work in this course?</span>
@@ -74,14 +74,14 @@
 
       <!--  Question 7 -->
       <label class="switcher">
-        <input type="checkbox" checked="checked"/>
+        <input type="checkbox" name="box"/>
         <div class="switcher__indicator"></div>
         <span class="tooltip">Question 7
           <span class="tooltiptext">The amount that I learned in this course was:</span>
         </span>
       </label><br/><br/>
 
-      <input type="submit" value="Submit">
+      <input id="submit_button" type="submit" value="Submit" formmethod="dialog">
     </form>
 
   <!--  For Reference
