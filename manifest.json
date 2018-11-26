@@ -21,7 +21,8 @@
     	"data/CIS.csv"
 	],
 	"permissions": [
-		"storage"
+		"storage",
+		"tabs"
 	]
 
 }

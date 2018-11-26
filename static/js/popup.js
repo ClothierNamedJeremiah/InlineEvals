@@ -1,15 +1,20 @@
 // EventListener function for "Submit" Button
 function list_toggled_questions() {
+  // Refreshes Chrome Tab with title matching "Class Scheudle*"
+  chrome.tabs.query({title: "Class Schedule*",currentWindow: true}, function(tabs) {
+    chrome.tabs.reload(tabs[0].id);
+  });
+
+  // Lists all toggled_questions
   var i;
   var cb = document.getElementsByName("box");
-  preferences = [0,0,0,0,0,0,0]; // Flags for preferences.csv
+  preferences = [0,0,0,0,0,0,0]; // Flags for preferences
   for (i = 0; i < cb.length; i++) {
     if (cb[i].hasAttribute("checked")) {
       preferences[i] = 1;
     }
   }
   result = preferences.join(",");
-  // console.log(result)
   return result
 }
 
@@ -21,11 +26,9 @@ function add_listeners() {
     checkboxes[i].addEventListener('change', function() {
       if (this.checked) {
         // Checkbox is checked
-        // console.log("Checked");
         this.setAttribute("checked","checked");
       } else {
         // Checkbox is not checked..
-        // console.log("Not Checked");
         this.removeAttribute("checked");
       }
     });
@@ -42,10 +45,6 @@ function update_questions(){
   chrome.storage.sync.set({'preferences':preferences}, function() {
           console.log('update_questions: Value is set to ' + preferences);
         });
-
-  chrome.storage.sync.get('preferences', function(result) {
-          console.log('update_questions: Value currently is ' + result["preferences"]);
-        });
 }
 
 function main() {
@@ -54,7 +53,7 @@ function main() {
     var allKeys = Object.keys(items);
     if (allKeys.indexOf("preferences") <= -1) {
       chrome.storage.sync.set({'preferences':"1,1,0,0,0,1,1"}, function() {
-              console.log('Preferences Intialized to "1,1,0,0,0,1,1"');
+              console.log('Preferences Intialized to Default Values "1,1,0,0,0,1,1"');
             });
     }
   });
@@ -64,7 +63,6 @@ function main() {
   // Update's popup.html to display the user's saved question preferences
   chrome.storage.sync.get('preferences', function(result) {
           preferences = result["preferences"].split(',');
-          console.log("Preferences:",preferences);
           var cb = document.getElementsByName("box");
           for (i = 0; i < preferences.length; i++) {
             if (preferences[i] == 1) {
