@@ -1,4 +1,4 @@
-// returns a list of indexes pertaining to the questions which are toggled
+// EventListener function for "Submit" Button
 function list_toggled_questions() {
   var i;
   var cb = document.getElementsByName("box");
@@ -13,35 +13,7 @@ function list_toggled_questions() {
   return result
 }
 
-// Updates the toggled questions after submission
-function update_toggled_questions(){
-	var file_text = this.responseText;
-	var lines = file_text.split("\n");
-	var i;
-  var preferences;
-	for (i = 0; i < lines.length-1; i++) {
-        if (lines[i][0] == '#') {
-          continue;
-        }
-        preferences = lines[i].split(",")
-  }
-
-  var checkboxes = document.getElementsByName("box");
-  for (i = 0; i < preferences.length; i++) {
-    if (preferences[i] == 1) {
-      checkboxes[i].setAttribute("checked","checked");
-    }
-  }
-}
-
-function update_questions(){
-  preferences = list_toggled_questions();
-  console.log("Questions Toggled:",preferences);
-  // TODO: update text file
-  // update_toggled_questions()
-
-}
-// Adds event listeners to checkboxes (events when 'checked' and 'unchecked')
+// Adds event listeners to checkboxes (events when 'checked' and 'unchecked') & the "Submit" button
 function add_listeners() {
   var checkboxes = document.getElementsByTagName("input");
   var i;
@@ -61,29 +33,45 @@ function add_listeners() {
   // Event Listener for submit button
   btn = document.getElementById("submit_button")
   btn.addEventListener("click",update_questions)
-
 }
 
+function update_questions(){
+  preferences = list_toggled_questions();
+  console.log("Questions Toggled:",preferences);
 
-function open_file(callback) {
-		const url = chrome.runtime.getURL("preferences.csv");
-		var xhr = new XMLHttpRequest();
-		xhr.open('GET', url, true);
-	 	xhr.onreadystatechange = function() {
-			if (xhr.readyState == 4 && xhr.status == 200) {
-				if (typeof callback == "function") {
-					aDictionary = callback.apply(xhr)
-				}
-			}
-		};
-		xhr.send();
+  chrome.storage.sync.set({'preferences':preferences}, function() {
+          console.log('update_questions: Value is set to ' + preferences);
+        });
+
+  chrome.storage.sync.get('preferences', function(result) {
+          console.log('update_questions: Value currently is ' + result["preferences"]);
+        });
 }
 
 function main() {
-  add_listeners();
-  open_file(update_toggled_questions); // Read's the preferences.txt file and then updates the checkboxes accordingly
-  // prefs = list_toggled_questions();
-  // open_file(update_preferences(prefs));
+  // if a preference's key doesn't exist then initialize it to a default value
+  chrome.storage.sync.get(null, function(items) {
+    var allKeys = Object.keys(items);
+    if (allKeys.indexOf("preferences") <= -1) {
+      chrome.storage.sync.set({'preferences':"1,1,0,0,0,1,1"}, function() {
+              console.log('Preferences Intialized to "1,1,0,0,0,1,1"');
+            });
+    }
+  });
+
+  add_listeners(); // Adds EventListeners to checkboxes and the submit button on popup.html
+
+  // Update's popup.html to display the user's saved question preferences
+  chrome.storage.sync.get('preferences', function(result) {
+          preferences = result["preferences"].split(',');
+          console.log("Preferences:",preferences);
+          var cb = document.getElementsByName("box");
+          for (i = 0; i < preferences.length; i++) {
+            if (preferences[i] == 1) {
+              cb[i].setAttribute("checked","checked");
+            }
+          }
+        });
 }
 
 main();
