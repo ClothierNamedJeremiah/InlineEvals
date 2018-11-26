@@ -1,0 +1,142 @@
+AAAP@Historic Preservation.csv
+AAD@Arts & Administration.csv
+ACTG@Accounting.csv
+AEIS@Acad Eng for Intl St.csv
+AFR@African Studies.csv
+AIM@Applied Information Management.csv
+ANTH@Anthropology.csv
+ARB@Arabic.csv
+ARCH@Architecture.csv
+ARH@Art History.csv
+ART@Art.csv
+ARTC@Ceramics.csv
+ARTD@Digital Arts.csv
+ARTF@Fibers.csv
+ARTM@Metalsmithing & Jewelry.csv
+ARTO@Photography.csv
+ARTP@Painting.csv
+ARTR@Printmaking.csv
+ARTS@Sculpture.csv
+ASIA@Asian Studies.csv
+ASL@American Sign Language.csv
+ASTR@Astronomy.csv
+BA@Business Administration.csv
+BE@Business Environment.csv
+BI@Biology.csv
+CAS@College of Arts & Sciences.csv
+CDS@Communication Disorders & Sci.csv
+CFT@Couples & Family Therapy.csv
+CH@Chemistry.csv
+CHN@Chinese.csv
+CHNF@Chinese Flagship.csv
+CINE@Cinema Studies.csv
+CIS@Computer & Information Science.csv
+CIT@Computer Information Tech.csv
+CLAS@Classics.csv
+COLT@Comparative Literature.csv
+CPSY@Counseling Psychology.csv
+CRDG@Common Reading.csv
+CRES@Conflict & Dispute Resolution.csv
+CRWR@Creative Writing.csv
+CSCH@College Scholars Program.csv
+DAN@Dance Professional.csv
+DANC@Dance Activity.csv
+DANE@Danish.csv
+DIST@Distance Education.csv
+DSGN@College of Design.csv
+EALL@East Asian Lang & Literature.csv
+EC@Economics.csv
+EDLD@Educational Leadership.csv
+EDST@Education Studies.csv
+EDUC@Education.csv
+ENG@English.csv
+ENVS@Environmental Studies.csv
+ES@Ethnic Studies.csv
+ESC@Community Internship.csv
+EURO@European Studies.csv
+FHS@Family & Human Services.csv
+FIN@Finance.csv
+FINN@Finnish.csv
+FLR@Folklore.csv
+FR@French.csv
+GEOG@Geography.csv
+GEOL@Geology.csv
+GER@German.csv
+GRK@Greek.csv
+GRST@Graduate Studies.csv
+HBRW@Hebrew.csv
+HC@Honors College.csv
+HIST@History.csv
+HPHY@Human Physiology.csv
+HUM@Humanities.csv
+IARC@Interior Architectur.csv
+INTL@International Studies.csv
+ITAL@Italian.csv
+J@Journalism.csv
+JDST@Judaic Studies.csv
+JPN@Japanese.csv
+KRN@Korean.csv
+LA@Landscape Architecture.csv
+LAS@Latin American Studies.csv
+LAT@Latin.csv
+LAW@Law.csv
+LEAD@Leadership Development.csv
+LERC@Labor Educ & Research Center.csv
+LIB@Library.csv
+LING@Linguistics.csv
+LT@Language Teaching.csv
+MATH@Mathematics.csv
+MDVL@Medieval Studies.csv
+MENA@Middle East & North.csv
+MGMT@Management.csv
+MIL@Military Science.csv
+MKTG@Marketing.csv
+MUE@Music Education.csv
+MUJ@Music Jazz Studies.csv
+MUP@Music Performance.csv
+MUS@Music.csv
+NORW@Norwegian.csv
+OBA@Operat & Business Analytics.csv
+OLIS@Oregon Ldrship Sustainability.csv
+PD@Product Design.csv
+PEAQ@PE Aquatics.csv
+PEAS@PE Aquatics-SCUBA.csv
+PEC@PE Certification.csv
+PEF@PE Fitness.csv
+PEI@PE Individual Activities.csv
+PEIA@PE Intercollegiate Athletics.csv
+PEL@PE Leadership.csv
+PEMA@PE Martial Arts.csv
+PEMB@PE Mind-Body.csv
+PEO@PE Outdoor Pursuits - Land.csv
+PERS@PE Racquet Sports.csv
+PERU@PE Running.csv
+PETS@PE Team Sports.csv
+PEW@PE Weight Training.csv
+PHIL@Philosophy.csv
+PHYS@Physics.csv
+PORT@Portuguese.csv
+PPPM@Planning Public Policy.csv
+PREV@Prevention Science.csv
+PS@Political Science.csv
+PSY@Psychology.csv
+QST@Queer Studies.csv
+REES@Russ, E Euro & Eurasia Studies.csv
+REL@Religious Studies.csv
+RL@Romance Languages.csv
+RUSS@Russian.csv
+SBUS@Sports Business.csv
+SCAN@Scandinavian.csv
+SERV@Service Learning.csv
+SOC@Sociology.csv
+SPAN@Spanish.csv
+SPD@Sports Product Design.csv
+SPED@Special Education.csv
+SPSY@School Psychology.csv
+SWAH@Swahili.csv
+SWED@Swedish.csv
+TA@Theater Arts.csv
+TLC@Univ Teaching & Learning Ctr.csv
+UGST@Undergraduate Studies.csv
+WGS@Women's & Gender Studies.csv
+WR@Writing.csv
