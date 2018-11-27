@@ -4,16 +4,16 @@ Library,101,Karen,Munro,Intro Library Research,3.75,3.5,3.5,3.25,4.25,4.25,4.0
 Library,101,Ann,Zeidman-Karpinski,Intro Library Research,3.75,3.75,3.5,3.25,4.0,4.0,3.75
 Library,101,Jeffrey,Staiger,Intro Library Research,3.0,3.0,3.29,2.86,3.86,3.43,3.14
 Library,199,Dean,Walton,Sp St Pac Northwest,3.79,3.47,2.95,3.53,3.95,3.74,3.42
-Library,199,James,Fox,Sp St Art of the Book,2.42,2.33,2.29,2.21,2.38,2.29,16.5
-Library,199,Marilyn,Reaves,Sp St Art of the Book,2.46,2.38,2.25,2.29,2.33,2.29,16.96
+Library,199,James,Fox,Sp St Art of the Book,4.56,4.42,4.23,4.06,4.7,4.2,4.32
+Library,199,Marilyn,Reaves,Sp St Art of the Book,4.62,4.43,4.17,4.21,4.67,4.29,4.46
 Library,199,Paul,Frantz,Sp St Baseball Resrch,4.71,4.62,4.71,4.67,4.81,4.67,4.7
-Library,199,Mark,Watson,Sp St Baseball Resrch,2.41,2.39,2.36,2.36,2.45,2.39,18.25
-Library,199,James,Fox,Sp St Goth/Graph Novel,2.29,2.29,2.17,2.33,2.33,2.12,16.99
-Library,199,Marilyn,Reaves,Sp St Goth/Graph Novel,2.38,2.38,2.17,2.25,2.33,2.17,17.16
+Library,199,Mark,Watson,Sp St Baseball Resrch,4.74,4.79,4.8,4.73,4.85,4.72,4.65
+Library,199,James,Fox,Sp St Goth/Graph Novel,4.43,4.49,4.03,4.23,4.63,3.99,4.39
+Library,199,Marilyn,Reaves,Sp St Goth/Graph Novel,4.47,4.47,4.13,4.22,4.63,4.17,4.56
 Library,199,Mark,Watson,Sp St Baseball Res,4.8,4.8,4.8,4.8,4.93,4.93,4.73
 Library,199,James,Fox,Sp St Illuminated Book,4.5,4.79,4.36,4.14,4.71,4.21,4.5
 Library,199,Marilyn,Reaves,Sp St Illuminated Book,4.5,4.64,4.29,4.29,4.79,4.29,4.5
-Library,199,Barbara,Jenkins,Sp St Global Info,1.33,1.33,1.33,1.5,1.5,1.5,11.28
+Library,199,Barbara,Jenkins,Sp St Global Info,2.72,2.72,2.94,3.06,3.22,3.25,2.61
 Library,199,James,Fox,Sp St Hist Art of Book,4.75,4.75,4.62,4.88,4.88,4.62,4.62
 Library,199,Marilyn,Reaves,Sp St Hist Art of Book,4.71,4.71,4.57,4.86,4.86,4.57,4.57
 Library,199,Ted,Smith,Sp St Baseball Resrch,4.77,4.62,4.92,4.69,4.77,4.62,4.62
@@ -24,5 +24,5 @@ Library,399,John,Russell,Sp St Hist Res Method,3.91,4.0,3.54,3.82,4.0,3.82,3.82
 Library,407,John,Russell,Sem African Studies,4.33,4.33,4.33,4.33,4.67,5.0,4.67
 Library,507,Victoria,Mitchell,Sem Data Management,4.43,4.14,4.57,4.29,4.43,4.14,4.57
 Library,507,John,Russell,Sem African Studies,4.33,4.33,4.33,4.33,4.67,5.0,4.67
-Library,607,John,Russell,Sem Digital Scholarshp,1.15,1.15,1.15,1.15,1.1,0.95,24.3
+Library,607,John,Russell,Sem Digital Scholarshp,4.38,4.37,4.54,4.43,4.54,4.2,4.5
 Library,607,Victoria,Mitchell,Sem Data Management,3.67,3.44,4.11,3.56,4.22,4.0,3.67

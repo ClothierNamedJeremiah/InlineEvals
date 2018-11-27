@@ -1,18 +1,18 @@
-PE Running,101,Howard,McConnell,Fitness Walking,0.24,0.24,0.24,0.24,0.23,0.24,29.25
-PE Running,131,Howard,McConnell,Jog-Run,0.29,0.28,0.29,0.28,0.27,0.29,29.98
-PE Running,131,David,Rubino,Jog-Run,0.2,0.21,0.21,0.22,0.19,0.21,30.44
-PE Running,131,Joe,Henderson,Jog-Run,0.25,0.25,0.27,0.29,0.27,0.29,30.96
-PE Running,131,Anna,Denn,Jog-Run,0.66,0.67,0.68,0.68,0.68,0.68,27.85
-PE Running,131,Laurel,Mathiesen,Jog-Run,2.31,2.31,2.38,2.44,2.38,2.38,18.25
-PE Running,199,Anna,Denn,Sp St Run Tech/Core,2.5,2.5,2.42,2.42,2.42,2.5,18.6
+PE Running,101,Howard,McConnell,Fitness Walking,4.43,4.51,4.48,4.48,4.35,4.47,4.38
+PE Running,131,Howard,McConnell,Jog-Run,4.62,4.64,4.6,4.66,4.44,4.58,4.52
+PE Running,131,David,Rubino,Jog-Run,4.65,4.69,4.71,4.73,4.51,4.7,4.51
+PE Running,131,Joe,Henderson,Jog-Run,4.75,4.78,4.82,4.83,4.79,4.81,4.62
+PE Running,131,Anna,Denn,Jog-Run,4.66,4.69,4.73,4.74,4.46,4.74,4.54
+PE Running,131,Laurel,Mathiesen,Jog-Run,4.67,4.67,4.8,4.79,4.73,4.8,4.54
+PE Running,199,Anna,Denn,Sp St Run Tech/Core,4.91,4.91,4.83,4.83,4.72,4.91,4.8
 PE Running,199,Howard,McConnell,Sp St Walk/Jog,4.71,4.71,4.57,4.77,4.71,4.71,4.71
-PE Running,331,Howard,McConnell,5K Training I,2.42,2.35,2.42,2.38,2.31,2.42,18.06
-PE Running,331,David,Rubino,5K Training I,0.21,0.22,0.22,0.23,0.2,0.22,29.97
-PE Running,331,Joe,Henderson,5K Training I,0.34,0.34,0.34,0.34,0.33,0.34,30.59
-PE Running,331,Anna,Denn,5K Training I,0.65,0.65,0.67,0.67,0.6,0.66,27.28
-PE Running,331,Laurel,Mathiesen,5K Training I,2.31,2.31,2.38,2.44,2.38,2.38,18.25
-PE Running,332,Joe,Henderson,5K Training II,0.25,0.25,0.25,0.24,0.25,0.25,31.18
-PE Running,332,David,Rubino,5K Training II,2.3,2.35,2.35,2.35,2.35,2.3,17.9
+PE Running,331,Howard,McConnell,5K Training I,4.67,4.6,4.67,4.63,4.47,4.67,4.56
+PE Running,331,David,Rubino,5K Training I,4.67,4.72,4.72,4.75,4.55,4.66,4.46
+PE Running,331,Joe,Henderson,5K Training I,4.75,4.76,4.82,4.84,4.78,4.81,4.65
+PE Running,331,Anna,Denn,5K Training I,4.63,4.58,4.7,4.66,4.39,4.68,4.45
+PE Running,331,Laurel,Mathiesen,5K Training I,4.67,4.67,4.8,4.79,4.73,4.8,4.54
+PE Running,332,Joe,Henderson,5K Training II,4.81,4.81,4.85,4.85,4.78,4.78,4.63
+PE Running,332,David,Rubino,5K Training II,4.72,4.77,4.77,4.77,4.68,4.63,4.4
 PE Running,332,Anna,Denn,5K Training II,4.78,4.78,4.78,4.78,4.67,4.78,4.78
-PE Running,332,Howard,McConnell,5K Training II,0.8,0.83,0.81,0.81,0.8,0.84,25.27
-PE Running,341,Joe,Henderson,10K Training,0.19,0.19,0.19,0.18,0.19,0.19,31.53
+PE Running,332,Howard,McConnell,5K Training II,4.47,4.54,4.5,4.51,4.4,4.46,4.3
+PE Running,341,Joe,Henderson,10K Training,4.82,4.81,4.85,4.86,4.79,4.8,4.64

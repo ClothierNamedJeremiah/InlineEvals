@@ -38,7 +38,7 @@ for field in fields:
 				li[7] += 1
 				for L in range(0,7):
 					try:
-						li[j] += i[j]['summary']['mean']
+						li[L] += i[L]['summary']['mean']
 					except:
 						pass
 					
