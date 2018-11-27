@@ -11,7 +11,8 @@ GOOD: 3.5-5
 good_text = #016000;
 good_fill = #C7F0CE;
 */
-
+/*
+Hey it's Isaac, I'm changing these but here's the old ones.
 #poor_quality, #hard_difficulty{
   color: #9C0005;
   background-color: #FEC7CF;
@@ -30,4 +31,24 @@ good_fill = #C7F0CE;
 #nah {
   color: #3E3F76;
   background-color: #EBEBDA;
+}
+*/
+#poor_quality, #hard_difficulty{
+  color: #000000;
+  background-color: #E0F3E0;
+}
+
+#average {
+  color: #000000;
+  background-color: #C3F3C3;
+}
+
+#good_quality, #link, #easy_difficulty {
+  color: #000000;
+  background-color: #A3F3A3;
+}
+
+#nah {
+  color: #000000;
+  background-color: #CFF3CF;
 }

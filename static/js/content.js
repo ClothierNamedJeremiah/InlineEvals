@@ -1,5 +1,5 @@
 // Header's for Questions
-var HEADERS = ["Course Quality","Instructor's Quality","Course's Organization","Instructor's Effectiveness","Instructor's Availability","Grading Clarity","Amount Learned"]
+var HEADERS = ["Course Quality","Quality of Instruction","Course Organization","Eff. use of Time","Instructor Avail.","Grading Clarity","Amount Learned"]
 var COLUMNS_DISPLAYED;
 var PREFS;
 
