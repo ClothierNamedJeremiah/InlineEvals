@@ -2,7 +2,9 @@
 function list_toggled_questions() {
   // Refreshes Chrome Tab with title matching "Class Scheudle*"
   chrome.tabs.query({title: "Class Schedule*",currentWindow: true}, function(tabs) {
-    chrome.tabs.reload(tabs[0].id);
+    if (typeof(tabs[0]) != "undefined") {
+      chrome.tabs.reload(tabs[0].id);
+    }
   });
 
   // Lists all toggled_questions
