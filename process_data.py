@@ -28,7 +28,10 @@ for field in fields:
 		_class = file.split('.')
 		_dict = {}
 		for i in data:
-			instructor_course = field + ',' + _class[0] + ',' + i[0]['instructor']['firstName'] + ',' + i[0]['instructor']['lastName'] + ',' + i[0]['course']['name']
+			try:
+				instructor_course = field + ',' + _class[0] + ',' + i[0]['instructor']['firstName'] + ',' + i[0]['instructor']['lastName'] + ',' + i[0]['course']['name']
+			except:
+				continue
 			if instructor_course in _dict.keys():
 				li = _dict[instructor_course]
 				

@@ -1,0 +1,557 @@
+Human Physiology,101,Jennifer,Miner,Exercise as Medicine,4.63,4.82,4.78,4.75,4.56,4.6,4.62
+Human Physiology,101,Kara,Beasley,Exercise as Medicine,4.44,4.5,4.61,4.56,4.5,4.5,4.56
+Human Physiology,101,Elizabeth,Harding,Exercise as Medicine,4.35,4.47,4.05,4.31,4.37,4.26,4.22
+Human Physiology,101,Alice,Callahan,Exercise as Medicine,3.98,3.92,4.14,4.03,4.09,4.15,4.03
+Human Physiology,101,Li-Shan,Chou,Exercise as Medicine,4.22,4.24,4.23,4.27,4.41,4.14,4.24
+Human Physiology,101,Jon,Runyeon,Exercise as Medicine,4.38,4.58,4.33,4.35,4.21,4.0,4.32
+Human Physiology,101,Paul,van Donkelaar,Exercise as Medicine,4.18,4.18,4.28,4.3,4.16,4.23,4.15
+Human Physiology,102,JJ,Hannigan,Exercise & Wellness,4.57,4.86,5.0,5.0,5.0,5.0,4.86
+Human Physiology,102,Robin,Hopkins,Exercise & Wellness,4.57,4.61,4.69,4.65,4.49,4.72,4.59
+Human Physiology,102,Shiu-Ling,Chiu,Exercise & Wellness,2.78,2.67,3.38,2.67,3.33,2.56,3.0
+Human Physiology,102,David,Howell,Exercise & Wellness,4.0,4.3,4.3,4.3,4.5,4.5,4.0
+Human Physiology,102,Danielle,Miller,Exercise & Wellness,4.24,4.24,4.53,4.35,4.56,4.41,4.35
+Human Physiology,103,Amanda,Morris,Exercise & Performance,4.56,4.56,4.56,4.81,4.69,4.69,4.54
+Human Physiology,103,JJ,Hannigan,Exercise & Performance,4.49,4.47,4.66,4.44,4.61,4.58,4.56
+Human Physiology,103,Elizabeth,Harding,Exercise & Performance,4.51,4.59,4.36,4.41,4.36,4.41,4.49
+Human Physiology,103,Andy,Karduna,Exercise & Performance,3.95,3.89,3.91,4.06,3.93,4.01,3.91
+Human Physiology,103,Shiu-Ling,Chiu,Exercise & Performance,3.14,2.71,3.0,3.0,3.14,3.0,3.0
+Human Physiology,103,On-Yee,Lo,Exercise & Performance,3.12,2.62,3.0,2.75,3.0,3.0,2.88
+Human Physiology,103,Grace,Golden,Exercise & Performance,4.12,4.15,4.3,4.31,4.17,4.19,4.06
+Human Physiology,103,Scott,Breloff,Exercise & Performance,3.75,3.75,3.94,3.56,3.88,4.0,3.56
+Human Physiology,103,Tzurei,Chen,Exercise & Performance,3.95,4.07,4.06,4.18,4.13,4.05,3.77
+Human Physiology,103,James,Becker,Exercise & Performance,3.67,3.58,3.83,4.0,3.58,3.67,3.42
+Human Physiology,104,Vern,Katz,Understand Hum Disease,4.45,4.62,4.42,4.54,4.44,4.44,4.4
+Human Physiology,104,Shiu-Ling,Chiu,Understand Hum Disease,3.8,3.83,3.93,3.92,3.92,3.86,3.83
+Human Physiology,104,Elizabeth,Harding,Understand Hum Disease,4.24,4.28,4.25,4.24,4.26,4.25,4.2
+Human Physiology,104,Kazuko,Mumma,Understand Hum Disease,4.12,4.12,4.0,4.06,4.06,4.09,4.06
+Human Physiology,104,Tzurei,Chen,Understand Hum Disease,4.16,4.11,4.02,4.16,4.16,4.05,4.09
+Human Physiology,104,Scott,Breloff,Understand Hum Disease,4.38,4.29,4.31,4.24,4.29,4.37,4.27
+Human Physiology,104,Jennifer,Miner,Understand Hum Disease,4.54,4.61,4.49,4.54,4.51,4.58,4.54
+Human Physiology,105,Elinor,Sullivan,Princ of Nutrition,4.09,4.15,4.31,4.18,4.23,4.36,4.18
+Human Physiology,105,Kate,Christian,Princ of Nutrition,4.53,4.71,4.71,4.59,4.71,4.82,4.47
+Human Physiology,105,Ingrid,Skoog,Princ of Nutrition,4.23,4.34,4.17,4.29,4.16,4.2,4.3
+Human Physiology,105,Jessica,Wilson,Princ of Nutrition,3.87,3.73,3.87,3.91,4.11,3.89,3.9
+Human Physiology,105,Sarah,Underriner Weber,Princ of Nutrition,4.33,4.33,4.0,4.33,5.0,4.33,4.33
+Human Physiology,111,Josh,Mangum,The Science of Sex,4.76,4.81,4.81,4.71,4.76,4.74,4.71
+Human Physiology,111,Sierra,Dawson,The Science of Sex,4.81,4.82,4.78,4.84,4.9,4.73,4.92
+Human Physiology,111,Michael,Francisco,The Science of Sex,4.42,4.83,4.42,4.83,4.92,4.58,4.67
+Human Physiology,112,Robin,Hopkins,The Science of Health,4.8,4.86,4.86,4.84,4.78,4.7,4.78
+Human Physiology,199,Paul,van Donkelaar,Sp St College Connect,3.34,3.92,3.3,3.46,4.16,3.63,3.03
+Human Physiology,199,Jessica,Wilson,Sp St Cont Nutrition,3.63,3.41,3.67,3.7,3.44,3.3,3.78
+Human Physiology,199,Vern,Katz,Sp St College Connect,4.23,4.54,4.15,4.46,4.58,4.46,3.85
+Human Physiology,211,Frankie,Qu,Medical Terminology,4.62,4.46,4.7,4.77,4.7,4.63,4.69
+Human Physiology,211,Nicki,Swann,Medical Terminology,4.47,4.29,4.61,4.47,4.43,4.58,4.58
+Human Physiology,211,Robin,Hopkins,Medical Terminology,4.73,4.76,4.83,4.72,4.63,4.73,4.76
+Human Physiology,211,Alice,Callahan,Medical Terminology,4.41,4.27,4.59,4.35,4.25,4.49,4.52
+Human Physiology,211,Austin,Hocker,Medical Terminology,4.4,4.38,4.55,4.45,4.28,4.48,4.6
+Human Physiology,211,Jonathon,Miner,Medical Terminology,4.18,4.25,4.04,4.14,4.1,4.15,4.28
+Human Physiology,211,Joshua,Holexa,Medical Terminology,4.58,4.64,4.58,4.58,4.19,4.56,4.68
+Human Physiology,212,Philip,Matern,Evid, Infer, & Biostat,4.18,4.46,4.36,4.4,4.49,4.34,4.2
+Human Physiology,212,Andy,Karduna,Evid, Infer, & Biostat,3.81,4.07,3.99,3.87,4.18,4.11,3.71
+Human Physiology,212,JJ,Hannigan,Evid, Infer, & Biostat,4.37,4.67,4.59,4.57,4.49,4.57,4.33
+Human Physiology,212,Jim,Davis,Evid, Infer, & Biostat,3.72,3.81,3.98,4.06,4.06,4.06,3.78
+Human Physiology,212,Andy,Karduna,Evid Infer & Biostat,3.76,4.05,3.59,3.82,4.2,3.77,3.5
+Human Physiology,313,Brian,Nichols,Human Physiology I,4.44,4.38,4.11,4.3,4.14,4.27,4.59
+Human Physiology,313,Sierra,Dawson,Human Physiology I,4.61,4.65,4.69,4.53,4.55,4.64,4.57
+Human Physiology,313,Jonathon,Miner,Human Physiology I,4.14,4.27,3.98,4.26,3.95,4.0,4.17
+Human Physiology,313,Vincent,Lombardi,Human Physiology I,4.09,4.04,3.96,4.0,4.18,4.14,3.91
+Human Physiology,313,Gary,Klug,Human Physiology I,3.7,3.55,3.65,3.45,3.64,3.48,3.63
+Human Physiology,313,Andrew,Lovering,Human Physiology I,3.67,3.47,3.57,3.92,3.28,3.57,3.72
+Human Physiology,313,Paul,van Donkelaar,Human Physiology I,4.02,4.11,3.5,4.13,3.65,3.89,4.38
+Human Physiology,314,Brian,Nichols,Human Physiology II,4.17,4.1,3.95,4.13,3.9,4.03,4.22
+Human Physiology,314,Sierra,Dawson,Human Physiology II,4.37,4.2,4.24,4.38,4.46,4.4,4.37
+Human Physiology,314,Santiago,Lorenzo,Human Physiology II,4.04,4.1,4.0,4.14,3.82,3.82,4.0
+Human Physiology,314,Andrew,Lovering,Human Physiology II,4.07,4.0,4.16,4.17,3.77,3.93,4.13
+Human Physiology,314,John,Halliwill,Human Physiology II,4.2,4.12,4.12,4.21,3.94,3.85,4.29
+Human Physiology,316,Ashley,Bailey,Human Phys Lab I,4.6,4.6,4.6,4.6,4.6,4.6,4.6
+Human Physiology,316,Vienna,Brunt,Human Phys Lab I,4.57,4.69,4.6,4.69,4.64,4.52,4.52
+Human Physiology,316,Jon,Elliott,Human Phys Lab I,4.38,4.51,4.38,4.49,4.44,4.35,4.3
+Human Physiology,316,Sierra,Dawson,Human Phys Lab I,4.15,4.15,4.15,4.11,4.15,4.06,4.15
+Human Physiology,316,Sarah,Fuller,Human Phys Lab I,5.0,5.0,5.0,5.0,5.0,4.9,5.0
+Human Physiology,316,Melissa,Gergel,Human Phys Lab I,4.5,4.38,4.38,4.62,4.38,3.88,4.38
+Human Physiology,316,Alisha,Lacewell,Human Phys Lab I,3.53,3.33,3.68,3.79,3.83,3.11,3.78
+Human Physiology,316,Jonathon,Miner,Human Phys Lab I,3.85,3.92,3.75,3.72,3.72,3.82,3.92
+Human Physiology,316,Lauren,Moses,Human Phys Lab I,3.71,3.38,3.93,3.66,3.15,3.43,3.94
+Human Physiology,316,Alex,Wolff,Human Phys Lab I,4.5,4.47,4.59,4.7,4.46,4.61,4.55
+Human Physiology,316,Steven,Romero,Human Phys Lab I,4.0,4.0,2.0,4.0,4.0,4.0,4.0
+Human Physiology,316,Michael,Smith,Human Phys Lab I,3.14,3.43,3.14,3.14,3.29,3.14,3.14
+Human Physiology,317,Alisha,Lacewell,Human Phys Lab II,3.88,3.9,4.0,4.13,4.21,3.66,4.02
+Human Physiology,317,Stephen,Ratchford,Human Phys Lab II,4.0,3.94,3.5,3.62,3.94,4.19,3.75
+Human Physiology,317,Vienna,Brunt,Human Phys Lab II,4.48,4.62,4.59,4.59,4.42,4.35,4.45
+Human Physiology,317,Sierra,Dawson,Human Phys Lab II,4.29,4.3,4.42,4.33,4.37,4.25,4.35
+Human Physiology,317,Jon,Elliott,Human Phys Lab II,4.21,4.39,3.94,4.24,4.44,3.76,4.16
+Human Physiology,317,Sarah,Fuller,Human Phys Lab II,5.0,5.0,5.0,4.0,5.0,4.0,4.0
+Human Physiology,317,Melissa,Gergel,Human Phys Lab II,4.5,4.25,4.25,4.0,4.0,3.75,4.25
+Human Physiology,317,Steven,Laurie,Human Phys Lab II,4.19,3.95,4.18,3.9,3.86,3.57,3.98
+Human Physiology,317,Alex,Wolff,Human Phys Lab II,4.38,4.52,4.49,4.72,4.57,4.62,4.48
+Human Physiology,317,Michael,Smith,Human Phys Lab II,4.0,4.0,4.0,4.0,4.0,4.0,4.33
+Human Physiology,321,Alia,Yasen,Human Anatomy I,4.63,4.58,4.63,4.64,4.58,4.64,4.74
+Human Physiology,321,Jon,Runyeon,Human Anatomy I,4.64,4.68,4.61,4.56,4.4,4.52,4.69
+Human Physiology,321,Quinn,Peterson,Human Anatomy I,4.67,4.6,4.8,4.8,4.53,4.73,4.79
+Human Physiology,321,Jacqlyn,King,Human Anatomy I,4.49,4.42,4.23,4.29,4.48,4.45,4.52
+Human Physiology,321,Hilary,Senesac,Human Anatomy I,3.43,3.07,3.36,2.71,3.64,3.93,3.79
+Human Physiology,322,Kimber,Mattox,Human Physiology I,4.03,3.67,4.03,3.52,4.37,4.34,4.12
+Human Physiology,322,Michael,Francisco,Human Physiology I,4.69,4.69,4.69,4.69,4.62,4.75,4.81
+Human Physiology,322,Jim,Davis,Human Physiology I,3.0,2.5,2.25,3.25,3.0,3.5,3.5
+Human Physiology,322,Sierra,Dawson,Human Physiology I,4.52,4.58,4.51,4.2,4.49,4.54,4.57
+Human Physiology,322,Austin,Hocker,Human Physiology I,4.52,4.67,4.57,4.71,4.57,4.62,4.52
+Human Physiology,322,Brett,Ely,Human Physiology I,4.56,4.67,4.67,4.67,4.56,4.67,4.56
+Human Physiology,322,Brian,Nichols,Human Physiology I,4.5,4.5,4.62,4.88,4.25,4.62,4.5
+Human Physiology,323,Jon,Runyeon,Human Anatomy II,4.65,4.71,4.57,4.64,4.29,4.54,4.71
+Human Physiology,323,Jennifer,Miner,Human Anatomy II,4.42,4.5,4.5,4.58,4.58,4.58,4.67
+Human Physiology,324,Dylan,Sieck,Human Physiology II,3.94,3.77,4.12,3.94,4.06,4.0,4.06
+Human Physiology,324,Sierra,Dawson,Human Physiology II,4.6,4.65,4.62,4.45,4.65,4.61,4.6
+Human Physiology,324,Kimber,Mattox,Human Physiology II,4.38,4.09,4.31,4.17,4.48,4.45,4.42
+Human Physiology,324,Brian,Nichols,Human Physiology II,4.6,4.6,4.4,4.4,4.4,4.6,4.4
+Human Physiology,325,Robin,Hopkins,Hum Anat & Physiol III,4.53,4.59,4.65,4.62,4.55,4.58,4.58
+Human Physiology,325,Jacqlyn,King,Hum Anat & Physiol III,4.2,4.2,4.4,4.4,4.2,3.8,4.0
+Human Physiology,325,Jennifer,Miner,Hum Anat & Physiol III,3.46,3.27,3.13,3.22,3.96,3.86,3.58
+Human Physiology,325,David,Howell,Hum Anat & Physiol III,4.6,4.6,4.6,4.6,4.6,4.6,4.6
+Human Physiology,325,Jon,Runyeon,Hum Anat & Physiol III,4.67,4.67,4.49,4.61,4.41,4.52,4.69
+Human Physiology,325,Stephen,Ratchford,Hum Anat & Physiol III,4.32,4.29,4.27,4.24,4.27,4.23,4.27
+Human Physiology,333,Anita,Christie,Motor Control,4.57,4.62,4.65,4.63,4.6,4.61,4.58
+Human Physiology,333,On-Yee,Lo,Motor Control,3.71,3.43,3.86,3.43,4.43,4.29,3.71
+Human Physiology,333,Logan,Maynard,Motor Control,3.29,3.43,2.93,3.43,4.07,3.79,3.43
+Human Physiology,333,Jon,Runyeon,Motor Control,3.24,3.75,2.84,3.7,3.92,3.57,3.48
+Human Physiology,333,Teresa,Hawkes,Motor Control,3.64,3.62,3.89,3.73,4.11,3.64,3.53
+Human Physiology,333,Robert,Hermosillo,Motor Control,3.81,3.79,3.75,3.91,3.84,3.75,3.81
+Human Physiology,333,Masahiro,Fujimoto,Motor Control,3.29,3.36,2.86,3.36,3.29,3.21,3.43
+Human Physiology,333,Timothy,Vander Velde,Motor Control,3.12,3.0,2.47,3.12,2.75,2.6,3.34
+Human Physiology,333,Charlene,LaRoux,Motor Control,3.96,4.2,4.16,4.25,4.2,4.16,4.01
+Human Physiology,333,Brittnee,Greenleaf,Motor Control,4.06,4.0,4.0,3.89,4.0,3.89,4.06
+Human Physiology,333,Paul,van Donkelaar,Motor Control,4.12,4.26,4.2,4.23,4.05,3.95,4.12
+Human Physiology,333,Tynan,Weed,Motor Control,4.06,4.06,4.06,4.09,4.09,4.09,4.06
+Human Physiology,333,Carrie,Little,Motor Control,1.85,1.65,1.9,1.83,2.91,1.9,1.92
+Human Physiology,333,Tyler,Rolheiser,Motor Control,4.32,4.52,4.36,4.45,4.6,4.34,4.25
+Human Physiology,337,Brian,Nichols,Clinical Pharmacology,4.4,4.3,3.74,4.17,4.01,4.32,4.57
+Human Physiology,362,Shelley,Linens,Tissue Injury & Repair,4.4,4.2,4.4,4.36,4.62,4.56,4.55
+Human Physiology,362,Grace,Golden,Tissue Injury & Repair,4.69,4.71,4.64,4.6,4.6,4.68,4.69
+Human Physiology,362,Eric,Sorenson,Tissue Injury & Repair,4.26,4.53,4.36,4.46,4.2,4.12,4.36
+Human Physiology,371,Philip,Matern,Physiology of Exercise,4.2,4.05,4.14,4.18,4.39,4.3,4.25
+Human Physiology,371,Dylan,Sieck,Physiology of Exercise,4.36,4.34,4.34,4.34,4.33,4.34,4.33
+Human Physiology,371,John,Halliwill,Physiology of Exercise,4.24,4.24,4.35,4.37,4.18,4.15,4.23
+Human Physiology,371,Kimber,Mattox,Physiology of Exercise,4.38,4.88,4.62,4.88,4.88,4.38,4.5
+Human Physiology,371,Alex,Wolff,Physiology of Exercise,4.31,4.25,4.31,4.31,4.31,4.19,4.31
+Human Physiology,375,Philip,Matern,Metabolism & Nutrition,4.28,4.56,4.41,4.56,4.78,4.53,4.5
+Human Physiology,381,Mike,Hahn,Biomechanics,4.22,4.27,4.26,4.13,4.39,4.29,4.22
+Human Physiology,381,Andy,Karduna,Biomechanics,4.19,4.21,4.23,4.16,4.18,4.26,4.11
+Human Physiology,381,JJ,Hannigan,Biomechanics,4.75,5.0,5.0,5.0,5.0,5.0,4.88
+Human Physiology,381,On-Yee,Lo,Biomechanics,3.27,2.82,2.91,3.46,4.36,3.64,3.09
+Human Physiology,381,Lucas,Ettinger,Biomechanics,4.39,3.98,3.91,3.89,4.14,4.2,4.14
+Human Physiology,381,Masahiro,Fujimoto,Biomechanics,3.68,3.58,3.72,3.58,3.82,3.65,3.58
+Human Physiology,381,Li-Shan,Chou,Biomechanics,3.75,3.74,3.96,3.56,4.11,4.04,3.59
+Human Physiology,381,Jacqlyn,King,Biomechanics,3.43,3.14,3.29,3.0,4.29,2.86,3.29
+Human Physiology,381,Vipul,Lugade,Biomechanics,4.08,4.75,4.33,4.5,4.58,4.58,4.17
+Human Physiology,381,Russell,Erickson,Biomechanics,3.0,3.0,3.0,3.0,3.0,3.0,3.0
+Human Physiology,399,Aaron,Harding,Sp St Clin ECG & Exer,4.0,4.0,4.0,3.8,4.0,4.0,4.4
+Human Physiology,399,Aaron,Harding,Clin ECG & Exercise,4.44,4.56,4.67,4.56,4.44,4.67,4.67
+Human Physiology,399,Philip,Matern,Sp St Metab & Nutritin,4.04,4.04,3.86,4.21,4.57,4.29,4.29
+Human Physiology,399,Jonathon,Miner,Sp St Wild First Resp,4.83,4.83,4.17,4.67,4.58,4.42,4.91
+Human Physiology,399,Sierra,Dawson,Sp St Anat Phy III Lab,4.33,4.33,4.25,4.25,4.25,4.33,4.33
+Human Physiology,399,Sarah,Fuller,Sp St Anat/Phy Lab III,4.5,5.0,4.5,5.0,5.0,5.0,5.0
+Human Physiology,399,Yin-Liang,Lin,Sp St Anat Phy III Lab,2.87,2.55,2.7,2.75,3.12,3.1,2.87
+Human Physiology,399,Jonathon,Miner,Sp St Anat Phy III Lab,4.25,4.25,4.25,4.25,4.25,3.75,4.25
+Human Physiology,399,Aimee,Pascale,Sp St Anat & Phys III,4.12,4.12,4.33,4.25,4.44,4.44,4.25
+Human Physiology,399,Stephen,Ratchford,Sp St Anat Phy III Lab,4.2,4.4,4.3,4.6,4.8,4.6,4.4
+Human Physiology,399,Jon,Runyeon,Sp St Anat & Phys III,4.5,4.78,4.42,4.76,4.81,4.78,4.78
+Human Physiology,399,Sarah,Fuller,Sp St Human Anat Lab I,4.53,4.69,4.64,4.75,4.89,4.69,4.47
+Human Physiology,399,Sierra,Dawson,Sp St Anat & Human Exp,5.0,5.0,4.75,4.83,5.0,4.75,4.92
+Human Physiology,399,Sarah,Fuller,Sp St Hum Anat II Lab,4.71,5.0,4.71,4.43,4.86,4.86,5.0
+Human Physiology,399,Sarah,Fuller,Sp St Human Anat I Lab,4.5,4.7,4.8,4.78,4.9,4.8,4.9
+Human Physiology,406,Eli,Edwards,Sp Pr Human Cadaver,5.0,5.0,5.0,5.0,5.0,4.91,4.91
+Human Physiology,406,Quinn,Peterson,Sp Pr Human Cadaver,4.88,4.85,4.81,4.88,4.88,4.85,4.92
+Human Physiology,406,Jon,Runyeon,Sp Pr Human Cadaver,4.94,4.94,4.89,4.94,4.84,4.84,4.94
+Human Physiology,406,Alia,Yasen,Sp Pr Human Cadaver,5.0,5.0,5.0,5.0,5.0,4.88,5.0
+Human Physiology,407,Sara,Nottingham,Sem Athl Training,4.5,4.5,4.67,4.5,4.33,4.67,4.33
+Human Physiology,408,Emily,Boyer,Wrk Athletic Training,4.65,4.75,4.55,4.71,4.74,4.74,4.56
+Human Physiology,408,Zach,Chiaramonte,Wrk Athletic Training,4.15,4.24,4.05,4.02,4.43,4.32,4.2
+Human Physiology,408,Sam,Drewes,Wrk Athletic Training,4.64,4.64,4.61,4.64,4.64,4.73,4.59
+Human Physiology,408,Eileen,Bennett,Wrk Athletic Training,4.46,4.57,4.57,4.71,4.66,4.71,4.57
+Human Physiology,408,Tyler,Knight,Wrk Athletic Training,4.48,4.6,4.3,4.57,4.53,4.11,4.32
+Human Physiology,408,Kiri,Weeks,Wrk Athletic Training,3.9,4.15,3.74,3.81,4.44,4.42,3.84
+Human Physiology,408,Grace,Golden,Wrk Athletic Training,4.33,4.33,4.11,4.11,4.33,4.33,4.33
+Human Physiology,408,Katherine,Donnelley,Wrk Athletic Training,4.85,4.72,4.46,4.53,4.69,4.54,4.7
+Human Physiology,408,Scott,Breloff,Wrk Anatomy Dissection,4.7,4.53,4.46,4.59,4.53,4.47,4.67
+Human Physiology,408,Tzurei,Chen,Wrk Anatomy Dissection,4.67,4.8,4.6,4.73,4.73,4.73,4.73
+Human Physiology,408,Sierra,Dawson,Wrk Anatomy Dissection,4.67,4.51,4.44,4.3,4.26,4.18,4.44
+Human Physiology,408,Masahiro,Fujimoto,Wrk Anatomy Dissection,4.6,4.0,4.2,4.4,4.6,4.2,4.6
+Human Physiology,408,Grace,Golden,Wrk Therapeutic Tech,4.63,4.55,4.51,4.76,4.64,4.44,4.92
+Human Physiology,408,Maggie,Lanctot,Wrk Therapeutic Tech,4.7,4.5,4.7,4.6,4.6,4.3,4.8
+Human Physiology,408,Kelleigh,ONeill,Wrk Athletic Training,4.07,4.27,4.13,4.27,3.43,4.43,4.17
+Human Physiology,408,James,Becker,Wrk Anatomy Dissection,4.67,4.33,4.5,4.67,4.0,4.17,4.5
+Human Physiology,408,Vipul,Lugade,Wrk Anatomy Dissection,4.6,4.2,4.13,4.45,4.54,4.21,4.75
+Human Physiology,408,Pamela,Mastbergen,Wrk Athletic Training,4.22,4.29,4.04,4.22,4.3,4.24,4.31
+Human Physiology,408,Sierra,Dawson,Wrk Therapeutic Tech,5.0,3.0,5.0,3.0,3.0,5.0,5.0
+Human Physiology,408,Debbie,Proctor,Wrk Anatomy Dissection,4.58,4.08,4.08,4.17,4.17,4.2,4.43
+Human Physiology,408,Jon,Runyeon,Wrk Anatomy Dissection,4.83,4.81,4.55,4.78,4.48,4.42,4.83
+Human Physiology,408,Colin,Wallace,Wrk Therapeutic Tech,5.0,5.0,4.67,5.0,5.0,5.0,5.0
+Human Physiology,408,Corrie,Arnold,Wrk Athletic Training,3.25,4.08,3.75,3.83,4.42,4.25,3.33
+Human Physiology,408,Bernardo,San Juan,Wrk Therapeutic Tech I,4.64,4.73,4.46,4.36,4.46,4.91,4.54
+Human Physiology,408,Robert,Catena,Wrk Anatomy Dissection,4.57,3.86,4.43,4.29,3.86,4.29,4.57
+Human Physiology,408,Jennifer,Miner,Wrk Anatomy Dissection,4.81,4.69,4.56,4.62,4.62,4.38,4.69
+Human Physiology,408,Sara,Nottingham,Wrk Therapeutic Tech,4.06,3.88,4.19,4.06,4.0,3.67,4.12
+Human Physiology,409,Emily,Boyer,Prac Athletic Training,4.61,4.65,4.61,4.63,4.71,4.69,4.63
+Human Physiology,409,Robin,Hopkins,Prac Anat/Phys Grader,5.0,5.0,5.0,5.0,5.0,5.0,5.0
+Human Physiology,409,Robin,Hopkins,Prac Anat/Phys Lab Ast,5.0,5.0,5.0,5.0,5.0,5.0,5.0
+Human Physiology,409,Philip,Matern,Prac Ex Phys Lab Asst,5.0,5.0,5.0,5.0,5.0,5.0,5.0
+Human Physiology,409,Kimber,Mattox,Prac Biostat Lrn Asst,4.86,4.86,4.86,4.86,4.86,4.86,4.86
+Human Physiology,409,Kimber,Mattox,Prac Biostat Grader,5.0,5.0,5.0,5.0,5.0,5.0,5.0
+Human Physiology,409,Jon,Runyeon,Practicum,4.52,4.48,4.49,4.52,4.43,4.44,4.62
+Human Physiology,409,Jon,Runyeon,Prac Anat/Phys Lab Ast,5.0,5.0,5.0,5.0,5.0,5.0,5.0
+Human Physiology,409,Brett,Ely,Prac Phys Grader,4.4,4.4,4.4,4.4,4.4,4.27,4.4
+Human Physiology,409,Robin,Hopkins,Prac Med Term Grader,4.88,4.88,4.88,4.88,4.88,4.88,4.88
+Human Physiology,409,Katie,Kowalski,Prac Anat Grader,4.43,4.52,4.52,4.52,4.52,4.52,4.43
+Human Physiology,409,Katie,Kowalski,Prac Anat Lab Lrn Asst,4.67,4.67,4.67,4.67,4.67,4.67,4.75
+Human Physiology,409,Emily,Larson,Prac Phys Lab Lrn Asst,5.0,5.0,5.0,5.0,5.0,5.0,5.0
+Human Physiology,409,Kimber,Mattox,Prac Phys Lrn Asst,5.0,5.0,5.0,5.0,5.0,5.0,5.0
+Human Physiology,409,Emily,Boyer,Prac Athletic Train,4.67,4.75,4.67,4.58,4.75,4.67,4.67
+Human Physiology,409,Matt,Ely,Prac Phys Grader,4.75,4.75,4.5,4.75,5.0,4.75,4.75
+Human Physiology,409,Kimber,Mattox,Prac Phys Lab Lrn Asst,5.0,5.0,5.0,5.0,5.0,5.0,5.0
+Human Physiology,409,Jon,Runyeon,Prac Anat Lab Lrn Asst,4.82,4.82,4.82,4.82,4.82,4.82,4.82
+Human Physiology,409,Jon,Runyeon,Prac Anat Peer Tutor,4.87,5.0,4.82,4.95,4.85,5.0,4.95
+Human Physiology,409,Alia,Yasen,Prac Anat Lab Lrn Asst,4.8,4.87,4.87,4.87,4.87,4.87,4.87
+Human Physiology,409,Zach,Chiaramonte,Prac Athletic Training,4.08,4.12,4.01,4.11,4.36,4.37,4.16
+Human Physiology,409,Jacob,Kysar,Prac Anat/Phys Lab Ast,4.33,4.5,4.0,4.33,4.5,4.17,4.33
+Human Physiology,409,Dylan,Sieck,Prac Biostat Lrn Asst,4.5,4.5,4.5,4.5,4.5,4.5,4.5
+Human Physiology,409,Teresa,Chen,Prac Anat Grader,4.96,4.96,4.96,4.96,4.96,4.96,4.96
+Human Physiology,409,Sierra,Dawson,Prac Phys Peer Tutor,5.0,5.0,4.67,5.0,5.0,5.0,5.0
+Human Physiology,409,Michael,Francisco,Prac Phys Lab Teach,4.72,4.72,4.72,4.72,4.6,4.72,4.69
+Human Physiology,409,Jacqlyn,King,Prac Phys Grader,5.0,5.0,5.0,5.0,5.0,5.0,5.0
+Human Physiology,409,Jon,Runyeon,Prac Pre-Phys Therapy,4.6,4.6,4.6,4.6,4.6,4.6,5.0
+Human Physiology,409,Alia,Yasen,Prac Anat Lab Teach,4.95,4.98,4.98,4.94,4.95,4.92,4.94
+Human Physiology,409,Zach,Chiaramonte,Prac Athletic Train,4.53,4.4,4.2,4.53,4.6,4.53,4.4
+Human Physiology,409,Jon,Runyeon,Prac Anat Lab Teach,4.77,4.77,4.52,4.55,4.48,4.68,4.74
+Human Physiology,409,Sam,Drewes,Prac Athletic Training,4.73,4.73,4.62,4.67,4.76,4.73,4.67
+Human Physiology,409,JJ,Hannigan,Prac Evid Inf Bio TA,4.45,4.45,4.55,4.55,4.45,4.45,4.45
+Human Physiology,409,Philip,Matern,Prac Ex Phys TA,4.5,4.5,4.5,4.5,4.5,4.5,4.5
+Human Physiology,409,Jon,Runyeon,Prac Sports Nutrition,4.48,4.05,4.0,4.16,4.16,3.98,4.08
+Human Physiology,409,Alia,Yasen,Prac Anat/Phys Lab TA,4.83,4.83,4.83,4.83,5.0,5.0,4.83
+Human Physiology,409,Jacqlyn,King,Prac Anat Lab Teach,4.81,4.83,4.69,4.65,4.77,4.76,4.76
+Human Physiology,409,Josh,Mangum,Prac Phys Grader,4.6,4.6,4.6,4.6,4.6,4.6,4.6
+Human Physiology,409,Kimber,Mattox,Prac Phys Peer Tutor,4.5,4.5,4.5,4.5,4.5,4.5,4.5
+Human Physiology,409,Sam,Drewes,Prac Athletic Train,4.58,4.67,4.67,4.67,4.75,4.67,4.67
+Human Physiology,409,Elizabeth,Gillespie,Prac Evid Inf Bio TA,4.33,4.33,4.0,4.33,4.56,4.44,4.33
+Human Physiology,409,Jacqlyn,King,Prac Anat Lec Grader,4.5,5.0,4.5,5.0,4.5,5.0,4.5
+Human Physiology,409,Jon,Runyeon,Prac Anat Lec Grader,5.0,5.0,5.0,5.0,5.0,5.0,5.0
+Human Physiology,409,Eileen,Bennett,Prac Athletic Training,4.44,4.51,4.44,4.49,4.61,4.54,4.46
+Human Physiology,409,Brett,Ely,Prac Ex Phys TA,4.4,4.4,4.4,4.4,4.4,4.4,4.4
+Human Physiology,409,Jennifer,Miner,Prac Anat/Phys Lab TA,4.17,4.17,4.0,4.17,4.17,3.83,4.17
+Human Physiology,409,Jon,Runyeon,Prac Anat/Phys Lab TA,4.43,4.43,4.14,4.43,4.14,4.29,4.43
+Human Physiology,409,Austin,Hocker,Prac Phys Lab Teach,4.5,4.58,4.58,4.5,4.5,4.5,4.5
+Human Physiology,409,Theresa,Whitfield,Prac Anat Grader,4.8,4.9,4.9,4.9,4.9,4.7,4.8
+Human Physiology,409,Eileen,Bennett,Prac Athletic Train,4.42,4.36,4.33,4.46,4.58,4.5,4.33
+Human Physiology,409,Austin,Hocker,Prac Phys Grader,4.43,4.57,4.57,4.57,4.57,4.29,4.43
+Human Physiology,409,Kimber,Mattox,Prac Med Term Grader,4.2,4.2,4.4,4.2,4.4,4.4,4.2
+Human Physiology,409,Jon,Runyeon,Prac Pre-Physical Ther,4.75,4.75,4.75,4.75,4.75,4.75,5.0
+Human Physiology,409,Vienna,Brunt,Prac Ex Phys TA,4.5,4.83,4.83,4.67,4.83,4.6,4.4
+Human Physiology,409,Jacqlyn,King,Prac Anat/Phys Lab TA,5.0,5.0,5.0,5.0,4.75,5.0,5.0
+Human Physiology,409,Tyler,Knight,Prac Athletic Training,4.28,4.52,4.09,4.55,4.54,4.52,4.28
+Human Physiology,409,Kimber,Mattox,Prac Anat/Phys Grader,5.0,5.0,5.0,5.0,5.0,5.0,5.0
+Human Physiology,409,Jonathon,Miner,Prac Med Term Grader,5.0,5.0,5.0,5.0,5.0,5.0,5.0
+Human Physiology,409,Jonathon,Miner,Prac Med Term Peer Tut,3.0,3.0,3.0,3.0,3.0,3.0,3.0
+Human Physiology,409,Vienna,Brunt,Prac Phys Lab Teach,4.7,4.85,4.79,4.92,4.73,4.85,4.65
+Human Physiology,409,Jonathon,Miner,Prac Med Term TA,4.4,4.4,3.6,4.0,3.4,4.4,4.4
+Human Physiology,409,Tyler,Knight,Prac Athletic Train,3.89,3.78,3.44,3.89,3.78,3.67,3.89
+Human Physiology,409,Richard,Troxel,Prac Pre-Phys Therapy,4.72,4.76,4.76,4.76,4.72,4.76,4.76
+Human Physiology,409,Kiri,Weeks,Prac Athletic Training,4.41,4.32,4.32,4.27,4.5,4.55,4.47
+Human Physiology,409,Chi-Wei,Chou,Prac Anat Grader,4.5,4.4,4.6,4.4,4.6,4.6,4.4
+Human Physiology,409,Grace,Golden,Prac Athletic Training,4.0,4.0,4.25,4.0,4.25,4.25,4.25
+Human Physiology,409,Kimber,Mattox,Prac Phys Grader,4.67,4.67,4.67,4.67,4.67,4.67,4.67
+Human Physiology,409,Hilary,Senesac,Prac Anat Lab Teach,4.88,4.88,4.75,4.88,4.5,4.88,5.0
+Human Physiology,409,Kiri,Weeks,Prac Athletic Train,4.44,4.33,3.62,4.33,4.22,4.44,4.0
+Human Physiology,409,Katherine,Donnelley,Prac Athletic Training,4.62,4.56,3.81,4.56,4.88,4.62,4.62
+Human Physiology,409,Stephen,Ratchford,Prac Anat/Phys Lab TA,4.0,4.0,4.0,4.0,4.0,4.0,4.0
+Human Physiology,409,Vienna,Brunt,Prac Phys Lec Teach,4.75,4.75,4.75,4.75,4.75,4.75,4.75
+Human Physiology,409,Tahisha,Buck,Prac Anat Lec Teach,4.5,4.5,4.5,4.5,4.5,4.5,4.5
+Human Physiology,409,Tzurei,Chen,Prac Anat Lab Teach,4.67,4.67,4.83,4.83,4.83,4.83,4.83
+Human Physiology,409,Sierra,Dawson,Prac Phys Lec Teach,5.0,5.0,5.0,5.0,5.0,5.0,5.0
+Human Physiology,409,Jon,Runyeon,Prac Anat Lec Teach,4.67,4.67,4.67,4.67,4.67,4.67,4.67
+Human Physiology,409,Tzurei,Chen,Prac Anat/Phys Teach,4.85,4.74,4.8,4.74,4.8,4.69,4.74
+Human Physiology,409,Sierra,Dawson,Prac Anat/Phys Teach,4.76,4.83,4.76,4.78,4.8,4.74,4.8
+Human Physiology,409,Katherine,Donnelley,Prac Athletic Train,5.0,5.0,4.83,4.83,5.0,5.0,5.0
+Human Physiology,409,Jon,Runyeon,Prac Anat/Phys Teach,4.73,4.73,4.64,4.73,4.64,4.64,4.64
+Human Physiology,409,Richard,Troxel,Prac Pre-Physical Ther,4.75,4.75,4.65,4.65,4.55,4.55,4.75
+Human Physiology,409,Kelleigh,ONeill,Prac Athletic Training,3.2,2.6,2.0,2.5,2.4,3.0,3.0
+Human Physiology,409,Kelleigh,ONeill,Prac Athletic Train I,3.17,2.33,2.17,2.33,2.0,3.17,2.67
+Human Physiology,409,Pamela,Mastbergen,Prac Athletic Training,4.24,4.36,4.24,4.3,4.48,4.26,4.19
+Human Physiology,409,Jennifer,Miner,Prac Anat Teach Asst,4.82,4.72,4.62,4.75,4.53,4.7,4.72
+Human Physiology,409,Pamela,Mastbergen,Prac Athletic Train I,4.2,4.4,4.4,4.4,4.4,4.4,4.2
+Human Physiology,409,Jennifer,Miner,Prac Anat Teach Assist,4.67,4.67,4.42,4.5,4.58,4.42,4.5
+Human Physiology,409,Corrie,Arnold,Prac Athletic Training,3.83,4.5,4.33,4.5,4.5,4.5,3.83
+Human Physiology,409,Sierra,Dawson,Prac Anat Teach Asst,4.0,4.0,4.0,4.0,4.0,4.0,4.0
+Human Physiology,409,Corrie,Arnold,Prac Athletic Train I,3.75,3.75,3.75,4.25,4.25,4.25,4.0
+Human Physiology,409,Sierra,Dawson,Prac Anat Teach Assist,4.57,4.57,4.57,4.57,4.43,4.57,4.57
+Human Physiology,409,Sara,Nottingham,Prac Athletic Training,4.75,4.75,4.75,4.67,4.75,4.75,4.75
+Human Physiology,410,Ian,Greenhouse,Clinical Neuroscience,4.43,4.57,4.29,4.29,4.64,4.14,4.5
+Human Physiology,410,Adrianne,Huxtable,Neural Development,4.42,4.51,4.42,4.38,4.35,4.14,4.38
+Human Physiology,410,Ashley,Walker,Physiology of Aging,4.31,4.26,4.22,4.17,4.49,4.25,4.19
+Human Physiology,410,Brian,Nichols,Immun & Infect Disease,4.6,4.38,4.21,4.27,4.34,4.28,4.77
+Human Physiology,410,Adrianne,Huxtable,Neonatal Neural Devel,4.04,4.3,3.79,3.83,4.53,4.36,4.23
+Human Physiology,410,Jon,Runyeon,Human Cadaver Dissectn,4.86,4.82,4.73,4.64,4.49,4.69,4.84
+Human Physiology,410,Robin,Hopkins,Clinical Anatomy,4.96,4.92,4.77,4.85,4.88,4.77,4.88
+Human Physiology,410,Philip,Matern,Sci of Athletic Perf,4.82,4.86,4.41,4.68,4.77,4.41,4.68
+Human Physiology,410,Brian,Nichols,Clinical Pharmacology,4.11,4.19,3.94,4.35,3.83,4.1,4.25
+Human Physiology,410,Brian,Nichols,Hum Immune & Infec Dis,4.26,4.11,4.17,4.43,4.02,3.69,4.43
+Human Physiology,410,Brian,Dalton,Physiology of Fatigue,4.19,3.88,3.75,4.0,4.62,4.12,4.19
+Human Physiology,410,Kimber,Mattox,Sci of Athletic Perf,4.53,4.53,4.42,4.66,4.68,4.42,4.47
+Human Physiology,410,Carrie,McCurdy,Physiology of Obesity,3.63,3.68,2.92,3.63,4.24,3.32,4.12
+Human Physiology,410,Brian,Nichols,Pathophysiology,4.4,4.41,4.08,4.27,4.27,4.25,4.53
+Human Physiology,410,Hans,Dreyer,Muscle Cell Metabolism,4.2,4.2,4.2,4.0,4.8,4.2,4.8
+Human Physiology,410,Mike,Hahn,Tech Dev in Human Phys,4.71,4.57,3.86,4.43,4.86,3.86,4.29
+Human Physiology,410,Sean,Roach,Lumbar & Pelvic Funct,4.38,4.5,3.88,4.31,3.94,4.31,4.56
+Human Physiology,410,Jonathon,Miner,Clinical ECG/EKG,4.65,4.65,4.28,4.54,4.26,4.03,4.74
+Human Physiology,410,Jeffrey,Gilbert,Hypertension,4.43,4.4,4.11,4.21,4.49,4.02,4.56
+Human Physiology,410,Aaron,Harding,Clinical Exercise Phys,4.33,4.42,4.5,4.5,4.58,4.25,4.29
+Human Physiology,410,Kazuko,Mumma,Clinical Exercise Phys,4.33,4.22,4.44,4.33,4.33,4.0,4.33
+Human Physiology,410,Melissa,Gergel,Clinical Exercise Phys,5.0,5.0,5.0,5.0,5.0,5.0,5.0
+Human Physiology,410,Vern,Katz,Endocrine & Repro Phys,4.71,4.79,4.36,4.5,4.36,4.43,4.79
+Human Physiology,410,Jennifer,Miner,Exercise Test Prescrip,4.69,4.7,4.53,4.59,4.68,4.69,4.72
+Human Physiology,410,Marjorie,Woollacott,Alternative Medicine,4.59,4.66,4.61,4.55,4.63,4.53,4.68
+Human Physiology,410,Shiu-Ling,Chiu,Adv Tech in Mvmt Sci,4.0,3.92,4.16,3.83,3.92,3.83,3.96
+Human Physiology,410,Carrie,Little,Concept Neuro Rehab,4.25,4.0,4.0,4.5,4.0,3.5,4.25
+Human Physiology,410,Lucas,Bahnmaier,Adv Topics Sports Med,4.4,4.4,4.4,4.4,4.8,4.0,4.4
+Human Physiology,410,James,Becker,ESS Strngth Trg & Cond,4.03,4.2,3.93,4.03,4.27,4.03,4.03
+Human Physiology,410,Melissa,Gergel,Tech in Cardiac Rehab,3.0,3.0,3.0,3.0,3.0,3.0,3.0
+Human Physiology,410,Aaron,Harding,Tech in Cardiac Rehab,4.36,4.18,4.46,4.42,4.19,4.28,4.4
+Human Physiology,410,Andrew,Lovering,High Alt Med & Physio,4.62,4.69,4.31,4.75,4.62,4.25,4.81
+Human Physiology,410,Hans,Dreyer,Muscle Physiology,4.12,4.2,3.52,4.05,4.36,3.8,4.26
+Human Physiology,410,Scott,Breloff,Intro to Ergonomics,4.0,4.0,4.33,4.33,4.67,3.33,4.0
+Human Physiology,410,Brian,Nichols,Hum Imm & Infect Dis,4.8,4.8,4.8,4.8,4.6,4.4,4.8
+Human Physiology,410,Elizabeth,Harding,ESS Strngth Trg & Cond,3.8,3.4,3.6,3.8,3.6,3.6,3.6
+Human Physiology,410,Rick,Robertson,Forensic Biomechanics,4.33,4.17,3.83,4.83,4.83,3.33,4.67
+Human Physiology,410,Michael,Smith,Tech in Cardiac Rehab,4.21,3.96,4.08,4.0,3.71,3.92,4.21
+Human Physiology,410,Marjorie,Woollacott,Alt & Complement Med,3.85,4.15,4.0,3.92,3.92,3.77,4.08
+Human Physiology,410,Charlene,LaRoux,Neurophys Concussion,4.28,4.38,4.28,4.34,4.28,4.28,4.31
+Human Physiology,410,Charlene,LaRoux,Adv Tech in Mvmt Sci,4.6,4.6,4.55,4.61,4.55,4.5,4.56
+Human Physiology,410,Steven,Laurie,Adv Labs in Exer Phys,4.57,4.71,4.57,4.57,4.57,4.23,4.47
+Human Physiology,410,Vipul,Lugade,Adv Tech in Mvmt Sci,4.61,4.56,4.59,4.59,4.59,4.51,4.54
+Human Physiology,410,Sandra,Saavedra,Concept Neuro Rehab,4.58,4.67,4.67,4.67,4.58,4.75,4.58
+Human Physiology,410,Christopher,Minson,Clinical ECG/EKG,4.0,4.0,4.0,4.0,4.0,4.0,4.0
+Human Physiology,410,Brian,Nichols,Pathogenesis of Diseas,4.2,4.2,3.6,4.75,4.2,4.6,4.0
+Human Physiology,410,Andy,Karduna,Injury Biomechanics,4.2,4.4,4.4,4.4,4.2,4.2,4.4
+Human Physiology,410,Jessica,Wilson,Nutrition Res & Appl,4.25,4.15,4.2,4.2,4.5,4.15,4.2
+Human Physiology,410,Paul,van Donkelaar,Neurophys Concussion,4.02,4.04,4.04,4.04,4.04,4.02,4.05
+Human Physiology,410,Marjorie,Woollacott,Alt & Complement Medic,4.38,4.49,4.19,4.05,4.73,4.54,4.3
+Human Physiology,410,Andy,Karduna,Biomech Human Joints,4.5,4.38,4.0,4.25,4.38,4.12,4.38
+Human Physiology,410,Gary,Klug,Tech in Cardiac Rehab,4.13,4.2,4.2,4.27,4.0,4.13,4.27
+Human Physiology,412,Andrew,Lovering,Sleep Physiology,4.45,4.45,4.19,4.38,4.43,4.12,4.59
+Human Physiology,413,Philip,Matern,Mus Stru, Func, & Plas,4.73,4.79,4.55,4.73,4.78,4.57,4.77
+Human Physiology,413,Hans,Dreyer,Mus Stru, Func, & Plas,4.0,4.2,3.8,4.0,4.6,3.75,4.6
+Human Physiology,413,Hans,Dreyer,Muscle Physiology,4.62,4.51,4.23,4.44,4.54,4.34,4.79
+Human Physiology,414,Hans,Dreyer,Muscle Metabolism,4.53,4.53,4.19,4.36,4.66,4.11,4.59
+Human Physiology,417,Jeffrey,Gilbert,Hypertension,3.89,4.07,3.0,3.82,4.21,3.68,3.93
+Human Physiology,418,Vern,Katz,Integrat Endocrinology,4.58,4.68,4.33,4.51,4.46,4.43,4.63
+Human Physiology,418,Jonathon,Miner,Integrat Endocrinology,4.54,4.54,4.09,4.4,4.36,4.09,4.54
+Human Physiology,418,Christopher,Minson,Integrat Endocrinology,4.42,4.43,4.29,4.5,4.22,4.43,4.46
+Human Physiology,419,Marjorie,Woollacott,Alternat & Complem Med,4.39,4.45,4.44,4.3,4.53,4.52,4.43
+Human Physiology,420,Jon,Runyeon,Human Anatomy Dissect,4.78,4.68,4.57,4.54,4.45,4.61,4.86
+Human Physiology,420,Eli,Edwards,Human Cadaver Dissect,4.8,4.73,4.73,4.91,4.64,4.91,4.91
+Human Physiology,420,Jacqlyn,King,Human Cadaver Dissect,4.82,4.72,4.72,4.72,4.7,4.64,4.82
+Human Physiology,420,Quinn,Peterson,Human Cadaver Dissect,4.83,4.73,4.67,4.83,4.73,4.73,4.75
+Human Physiology,420,Jon,Runyeon,Human Cadaver Dissect,4.76,4.64,4.59,4.66,4.6,4.62,4.69
+Human Physiology,420,Alia,Yasen,Human Cadaver Dissect,4.89,4.78,4.67,4.89,4.78,4.67,4.89
+Human Physiology,420,David,Howell,Human Cadaver Dissect,4.81,4.84,4.75,4.73,4.83,4.83,4.85
+Human Physiology,420,Yin-Liang,Lin,Human Cadaver Dissect,4.91,4.76,4.76,4.76,4.76,4.62,4.85
+Human Physiology,420,Scott,Breloff,Human Cadaver Dissect,4.78,4.78,4.78,4.78,4.78,4.78,4.83
+Human Physiology,420,Hilary,Senesac,Human Cadaver Dissect,5.0,4.75,4.75,4.75,4.25,4.25,4.75
+Human Physiology,421,Brian,Nichols,Pathophysiology,4.57,4.56,4.28,4.5,4.12,4.26,4.81
+Human Physiology,421,Brian,Nichols,Pathophysiolgoy,4.55,4.5,4.37,4.63,4.13,4.43,4.83
+Human Physiology,422,Carrie,McCurdy,Physiology of Obesity,3.93,3.81,3.64,3.67,3.96,3.85,4.01
+Human Physiology,433,Jon,Runyeon,Neurophysio of Concuss,4.89,4.93,4.76,4.81,4.77,4.78,4.91
+Human Physiology,433,David,Howell,Neurophysio of Concuss,4.84,4.84,4.66,4.74,4.76,4.66,4.84
+Human Physiology,433,Paul,van Donkelaar,Neurophysio of Concuss,4.35,4.35,4.59,4.56,4.12,4.24,4.35
+Human Physiology,434,Anita,Christie,Movement Disorders,4.76,4.86,4.76,4.74,4.89,4.83,4.78
+Human Physiology,434,Brian,Dalton,Movement Disorders,4.33,4.33,4.17,4.08,4.75,4.04,4.22
+Human Physiology,435,Brian,Dalton,Physiology of Fatigue,4.7,4.8,4.5,4.8,4.7,4.6,4.6
+Human Physiology,441,Aaron,Harding,Clinical Exercise Phys,4.38,4.44,4.29,4.68,4.27,4.35,4.4
+Human Physiology,441,Kazuko,Mumma,Clinical Exercise Phys,4.05,4.05,4.73,4.23,3.55,4.18,4.05
+Human Physiology,442,Jonathon,Miner,Cln Electrocardiograph,4.71,4.78,4.44,4.61,4.67,4.33,4.72
+Human Physiology,443,Brian,Nichols,Clinical Pharmacology,4.58,4.54,4.04,4.58,3.71,4.46,4.62
+Human Physiology,444,Robin,Hopkins,Clinical Anatomy,4.88,4.94,4.96,4.9,4.86,4.92,4.76
+Human Physiology,450,Andy,Karduna,Research Methods,3.86,3.83,3.92,3.83,3.99,3.86,3.89
+Human Physiology,460,Sean,Roach,Lumbar & Pelv Fnc Anat,4.64,4.45,3.92,4.27,4.3,4.06,4.64
+Human Physiology,462,Grace,Golden,Therapeutic Techniques,4.85,4.94,4.77,4.84,4.74,4.76,4.86
+Human Physiology,470,Christopher,Minson,Environ Physiology,4.77,4.77,4.53,4.43,4.8,4.61,4.8
+Human Physiology,470,John,Halliwill,Environ Physiology,4.67,4.71,4.69,4.62,4.67,4.6,4.65
+Human Physiology,471,Richard,Brown,Train in Health & Perf,4.06,4.11,4.17,4.11,4.53,3.94,4.11
+Human Physiology,472,Philip,Matern,Science Athletic Perfm,4.57,4.35,4.04,4.39,4.26,3.91,4.61
+Human Physiology,472,Kara,Beasley,Adv Labs Exer Physiol,4.12,4.38,4.5,4.12,4.5,4.5,4.25
+Human Physiology,473,Andrew,Lovering,High Alt Physiol & Med,4.64,4.75,4.34,4.62,4.72,4.38,4.64
+Human Physiology,485,Li-Shan,Chou,Gait Analysis,4.25,4.4,4.05,4.27,4.29,3.94,4.3
+Human Physiology,486,Li-Shan,Chou,Orthopedic Biomechanic,4.57,4.51,4.46,4.32,4.57,4.16,4.21
+Human Physiology,507,Ann,Zeidman-Karpinski,Sem Lit Access & Eval,3.88,3.38,2.75,3.0,4.88,3.62,4.12
+Human Physiology,508,Scott,Breloff,Wrk Anatomy Dissection,4.74,4.5,4.41,4.59,4.5,4.42,4.7
+Human Physiology,508,Tzurei,Chen,Wrk Anatomy Dissection,4.6,4.8,4.6,4.7,4.7,4.7,4.7
+Human Physiology,508,Sierra,Dawson,Wrk Anatomy Dissection,4.76,4.6,4.5,4.58,4.53,4.43,4.76
+Human Physiology,508,James,Becker,Wrk Anatomy Dissection,4.67,4.33,4.5,4.67,4.0,4.17,4.5
+Human Physiology,508,Vipul,Lugade,Wrk Anatomy Dissection,4.33,3.83,3.83,4.33,4.5,4.0,4.5
+Human Physiology,508,Debbie,Proctor,Wrk Anatomy Dissection,4.58,4.08,4.08,4.17,4.17,4.2,4.43
+Human Physiology,508,Jon,Runyeon,Wrk Anatomy Dissection,4.83,4.81,4.55,4.78,4.48,4.42,4.83
+Human Physiology,510,Jon,Runyeon,Human Cadaver Dissectn,4.86,4.82,4.73,4.64,4.49,4.69,4.84
+Human Physiology,510,Adrianne,Huxtable,Neonatal Neural Devel,4.35,4.47,4.41,4.71,4.41,4.47,4.35
+Human Physiology,510,Brian,Dalton,Physiology of Fatigue,4.19,3.88,3.75,4.0,4.62,4.12,4.19
+Human Physiology,510,Carrie,McCurdy,Physiology of Obesity,3.63,3.68,2.92,3.63,4.24,3.32,4.12
+Human Physiology,510,Hans,Dreyer,Muscle Cell Metabolism,4.2,4.2,4.2,4.0,4.8,4.2,4.8
+Human Physiology,510,Kimber,Mattox,Sci of Athletic Perf,4.61,4.61,4.5,4.83,4.78,4.56,4.61
+Human Physiology,510,Sean,Roach,Lumbar & Pelvic Funct,4.38,4.5,3.88,4.31,3.94,4.31,4.56
+Human Physiology,510,Jeffrey,Gilbert,Hypertension,4.43,4.4,4.11,4.21,4.49,4.02,4.56
+Human Physiology,510,Melissa,Gergel,Clinical Exercise Phys,5.0,5.0,5.0,5.0,5.0,5.0,5.0
+Human Physiology,510,Aaron,Harding,Clinical Exercise Phys,4.33,4.5,4.5,4.5,4.5,4.5,4.17
+Human Physiology,510,Brian,Nichols,Hum Immune & Infec Dis,4.0,3.83,4.17,4.17,4.0,3.17,4.17
+Human Physiology,510,Brian,Nichols,Pathophysiology,4.06,4.24,3.94,4.06,4.0,3.94,4.35
+Human Physiology,510,Aaron,Harding,Tech in Cardiac Rehab,4.42,4.33,4.5,4.5,4.42,4.35,4.48
+Human Physiology,510,Andrew,Lovering,High Alt Med & Physio,4.62,4.69,4.31,4.75,4.62,4.25,4.81
+Human Physiology,510,Hans,Dreyer,Muscle Physiology,4.12,4.2,3.52,4.05,4.36,3.8,4.26
+Human Physiology,510,Jennifer,Miner,Exercise Test Prescrip,4.8,4.8,4.5,4.5,4.5,4.3,4.7
+Human Physiology,510,Marjorie,Woollacott,Alternative Medicine,4.57,4.64,4.5,4.43,4.57,4.54,4.64
+Human Physiology,510,Brian,Nichols,Hum Imm & Infect Dis,4.8,4.8,4.8,4.8,4.6,4.4,4.8
+Human Physiology,510,Rick,Robertson,Forensic Biomechanics,4.33,4.17,3.83,4.83,4.83,3.33,4.67
+Human Physiology,510,Marjorie,Woollacott,Alt & Complement Med,4.11,4.32,4.09,3.99,4.33,4.16,4.19
+Human Physiology,510,Charlene,LaRoux,Adv Tech in Mvmt Sci,4.6,4.6,4.55,4.61,4.55,4.5,4.56
+Human Physiology,510,Steven,Laurie,Adv Labs in Exer Phys,4.57,4.71,4.57,4.57,4.57,4.23,4.47
+Human Physiology,510,Vipul,Lugade,Adv Tech in Mvmt Sci,4.61,4.56,4.59,4.59,4.59,4.51,4.54
+Human Physiology,510,Sandra,Saavedra,Concept Neuro Rehab,4.58,4.67,4.67,4.67,4.58,4.75,4.58
+Human Physiology,510,Christopher,Minson,Clinical ECG/EKG,4.0,4.0,4.0,4.0,4.0,4.0,4.0
+Human Physiology,510,Brian,Nichols,Pathogenesis of Diseas,4.2,4.2,3.6,4.75,4.2,4.6,4.0
+Human Physiology,510,Andy,Karduna,Injury Biomechanics,4.2,4.4,4.4,4.4,4.2,4.2,4.4
+Human Physiology,510,Michael,Smith,Tech in Cardiac Rehab,4.17,4.17,4.17,4.0,3.67,3.83,4.17
+Human Physiology,510,Paul,van Donkelaar,Neurophys Concussion,4.02,4.04,4.04,4.04,4.04,4.02,4.05
+Human Physiology,510,Andy,Karduna,Biomech Human Joints,4.5,4.38,4.0,4.25,4.38,4.12,4.38
+Human Physiology,510,Gary,Klug,Tech in Cardiac Rehab,4.13,4.2,4.2,4.27,4.0,4.13,4.27
+Human Physiology,512,Andrew,Lovering,Sleep Physiology,4.55,4.55,4.3,4.35,4.7,4.35,4.65
+Human Physiology,513,Hans,Dreyer,Mus Stru, Func, & Plas,4.0,4.2,3.8,4.0,4.6,3.75,4.6
+Human Physiology,513,Hans,Dreyer,Muscle Physiology,4.69,4.69,4.46,4.54,4.31,4.46,4.69
+Human Physiology,514,Hans,Dreyer,Muscle Metabolism,4.53,4.53,4.19,4.36,4.66,4.11,4.59
+Human Physiology,517,Jeffrey,Gilbert,Hypertension,3.64,3.71,2.71,3.43,4.0,3.14,3.57
+Human Physiology,520,Jon,Runyeon,Human Anatomy Dissect,4.78,4.68,4.57,4.54,4.45,4.61,4.86
+Human Physiology,520,Eli,Edwards,Human Cadaver Dissect,4.8,4.73,4.73,4.91,4.64,4.91,4.91
+Human Physiology,520,Quinn,Peterson,Human Cadaver Dissect,4.75,4.62,4.5,4.75,4.62,4.62,4.5
+Human Physiology,520,Jon,Runyeon,Human Cadaver Dissect,4.7,4.61,4.52,4.64,4.62,4.6,4.67
+Human Physiology,520,David,Howell,Human Cadaver Dissect,4.85,4.84,4.75,4.68,4.81,4.83,4.85
+Human Physiology,520,Yin-Liang,Lin,Human Cadaver Dissect,5.0,4.8,4.8,4.8,4.8,4.6,4.8
+Human Physiology,522,Carrie,McCurdy,Physiology of Obesity,4.15,4.14,3.64,3.64,3.92,3.93,4.14
+Human Physiology,533,Jon,Runyeon,Neurophysio of Concuss,4.9,4.93,4.73,4.79,4.76,4.79,4.9
+Human Physiology,533,David,Howell,Neurophysio of Concuss,4.84,4.84,4.66,4.74,4.76,4.66,4.84
+Human Physiology,533,Paul,van Donkelaar,Neurophysio of Concuss,4.35,4.35,4.59,4.56,4.12,4.24,4.35
+Human Physiology,534,Anita,Christie,Movement Disorders,4.76,4.83,4.76,4.73,4.93,4.79,4.76
+Human Physiology,535,Brian,Dalton,Physiology of Fatigue,4.7,4.8,4.5,4.8,4.7,4.6,4.6
+Human Physiology,550,Andy,Karduna,Research Methods,3.5,3.44,3.62,3.5,3.75,3.5,3.5
+Human Physiology,550,Andy,Karduna,Reseach Methods,4.22,4.22,4.22,4.17,4.22,4.22,4.28
+Human Physiology,570,John,Halliwill,Environ Physiology,4.67,4.71,4.69,4.62,4.67,4.6,4.65
+Human Physiology,570,Christopher,Minson,Environ Physiology,4.68,4.64,4.59,4.46,4.73,4.68,4.73
+Human Physiology,571,Richard,Brown,Train in Health & Perf,4.06,4.11,4.17,4.11,4.53,3.94,4.11
+Human Physiology,573,Andrew,Lovering,High Alt Physiol & Med,4.75,4.8,4.6,4.7,4.6,4.6,4.75
+Human Physiology,585,Li-Shan,Chou,Gait Analysis,4.25,4.4,4.05,4.27,4.29,3.94,4.3
+Human Physiology,586,Li-Shan,Chou,Orthopedic Biomechanic,4.51,4.52,4.41,4.38,4.52,4.45,4.41
+Human Physiology,606,Andy,Karduna,Sp Pr Labview,4.0,4.0,3.0,4.0,4.0,4.0,4.0
+Human Physiology,607,Grace,Golden,Sem Clin Res Athl Trng,4.7,4.74,4.88,4.81,4.88,4.7,4.81
+Human Physiology,607,Shelley,Linens,Sem Clin Res Athl Trng,4.75,4.75,4.92,4.92,4.92,4.75,4.92
+Human Physiology,607,Kim,Terrell,Sem Admin Clinic Care,5.0,5.0,5.0,5.0,5.0,5.0,5.0
+Human Physiology,607,Grace,Golden,Sem Clinic Techniqe II,4.61,4.67,4.33,4.61,4.78,4.58,4.57
+Human Physiology,607,Kim,Terrell,Sem Clinic Techniqe II,5.0,5.0,4.75,5.0,4.75,4.75,5.0
+Human Physiology,607,Grace,Golden,Sem Ath Trng Lder Dev,4.86,5.0,4.86,4.71,4.86,4.43,4.86
+Human Physiology,607,Shelley,Linens,Sem Ath Trng Lder Dev,4.8,4.4,5.0,4.8,4.6,4.8,4.8
+Human Physiology,607,Adrianne,Huxtable,Sem Human Phys Series,3.54,3.42,3.84,3.63,3.89,3.86,3.56
+Human Physiology,607,Grace,Golden,Sem Clinic Techniqe I,4.71,4.56,4.25,4.5,4.81,4.56,4.56
+Human Physiology,607,Shelley,Linens,Sem Clinic Techniqe I,5.0,5.0,4.75,5.0,5.0,4.75,4.75
+Human Physiology,607,Grace,Golden,Seminar Athl Cur Prof,4.71,4.57,4.86,4.71,4.71,4.29,4.17
+Human Physiology,607,Shelley,Linens,Seminar Athl Cur Prof,4.6,4.4,4.8,4.8,4.5,4.6,4.4
+Human Physiology,607,Sierra,Dawson,Sem Admin Clinic Care,4.75,4.75,4.75,4.75,4.5,4.5,4.5
+Human Physiology,607,Sierra,Dawson,Sem Clin Res Athl Trng,4.6,4.8,4.6,4.6,4.6,4.6,4.6
+Human Physiology,607,Andy,Karduna,Sem Human Phys Series,4.22,4.39,4.36,4.46,4.46,4.39,4.23
+Human Physiology,607,Sierra,Dawson,Sem Ath Trng Leadr Dev,4.33,4.33,4.17,4.17,4.5,4.17,4.5
+Human Physiology,607,Grace,Golden,Sem Ath Trng Leadr Dev,4.5,4.33,4.33,4.17,4.67,4.17,4.0
+Human Physiology,607,Sierra,Dawson,Sem Athl Clin Res Pres,4.56,4.6,4.64,4.6,4.6,4.6,4.6
+Human Physiology,607,Grace,Golden,Sem Athl Clin Res Pres,4.62,4.58,4.55,4.58,4.69,4.64,4.61
+Human Physiology,607,John,Halliwill,Sem Human Phys Series,4.37,4.51,4.47,4.39,4.56,4.5,4.29
+Human Physiology,607,Kim,Terrell,Sem Athl Clin Res Pres,4.62,4.62,4.59,4.62,4.59,4.6,4.66
+Human Physiology,607,Sierra,Dawson,Sem Athletic Cur Prof,4.62,4.75,4.62,4.5,4.62,4.62,4.5
+Human Physiology,607,Grace,Golden,Sem Evid Bas Clin Prac,4.66,4.74,4.68,4.9,4.91,4.61,4.61
+Human Physiology,607,Grace,Golden,Sem Athletic Cur Prof,4.71,4.86,4.71,4.57,4.71,4.71,4.57
+Human Physiology,607,Mike,Hahn,Sem Human Phys Series,4.11,4.14,4.3,4.2,4.28,4.21,4.06
+Human Physiology,607,Kim,Terrell,Sem Admin Skills Clin,4.6,4.6,4.4,4.6,4.5,4.5,4.4
+Human Physiology,607,Sierra,Dawson,Sem AT Leader Dev,4.62,4.75,4.5,4.38,4.75,4.5,4.38
+Human Physiology,607,Grace,Golden,Sem AT Leader Dev,4.62,4.75,4.5,4.62,4.88,4.62,4.5
+Human Physiology,607,Jeffrey,Gilbert,Sem Human Phys Series,3.42,3.31,3.06,3.43,3.45,3.32,3.5
+Human Physiology,607,Grace,Golden,Sem Ath Tr Cli Tech I,4.57,4.62,3.88,4.12,4.75,4.38,4.25
+Human Physiology,607,Sierra,Dawson,Sem Athlet Cur Prof,4.71,4.75,4.75,4.75,4.86,4.75,4.75
+Human Physiology,607,Grace,Golden,Sem Human Phys Series,4.1,4.17,4.25,4.16,4.17,4.24,4.03
+Human Physiology,607,Sierra,Dawson,Sem Ath Tr Cli Tech II,5.0,5.0,4.8,5.0,5.0,5.0,5.0
+Human Physiology,607,Grace,Golden,Sem Ath Tr Cli Tech II,4.71,4.71,4.43,4.71,4.86,4.86,4.71
+Human Physiology,607,Sierra,Dawson,Sem Athlet Leader Dev,4.86,5.0,4.86,4.86,4.86,4.86,4.71
+Human Physiology,607,Li-Shan,Chou,Sem Doctoral Biomech,4.29,4.32,4.29,4.32,4.32,4.29,4.27
+Human Physiology,607,Hans,Dreyer,Sem Human Phys Series,4.06,4.15,4.11,4.02,4.02,3.96,4.16
+Human Physiology,607,Li-Shan,Chou,Sem Biomechanics,4.62,4.62,4.62,4.62,4.56,4.56,4.56
+Human Physiology,607,Sierra,Dawson,Sem Athlet Train Progr,4.45,4.56,4.5,4.47,4.8,4.41,4.4
+Human Physiology,607,Sierra,Dawson,Sem Teach College Sci,4.73,4.85,4.73,4.66,4.84,4.7,4.61
+Human Physiology,607,John,Halliwill,Sem Exercise Physiol,4.47,4.73,4.33,4.67,4.67,4.47,4.47
+Human Physiology,607,Christopher,Minson,Sem Exercise Physiol,4.25,4.43,4.28,4.32,4.3,4.23,4.37
+Human Physiology,607,Li-Shan,Chou,Sem Human Phys Series,4.16,4.23,4.23,4.1,4.08,4.18,4.04
+Human Physiology,607,Sierra,Dawson,Sem Athlet Train Prog,4.83,4.83,4.67,4.67,5.0,4.83,4.83
+Human Physiology,607,Andrew,Lovering,Sem Exercise Physiol,4.0,4.25,4.0,4.0,4.0,3.75,4.25
+Human Physiology,607,Kim,Terrell,Sem Admin Clin Careers,4.67,4.67,4.78,4.56,4.78,4.75,4.56
+Human Physiology,607,Andrew,Lovering,Sem Exercise Phys,4.75,4.75,4.33,4.88,4.46,4.62,4.62
+Human Physiology,607,Paul,van Donkelaar,Sem Motor Control,4.75,4.8,4.68,4.75,4.65,4.68,4.85
+Human Physiology,607,Sierra,Dawson,Seminar Grad Series,4.15,4.21,4.35,4.21,4.53,4.37,3.95
+Human Physiology,607,Sierra,Dawson,Sem AT Program,4.34,4.34,4.41,4.37,4.62,4.32,4.29
+Human Physiology,607,Marjorie,Woollacott,Sem Motor Control,4.75,4.75,4.75,4.75,4.75,4.75,4.75
+Human Physiology,607,Sierra,Dawson,Sem Grad Series,4.3,4.3,4.26,4.3,4.39,4.22,4.26
+Human Physiology,607,John,Halliwill,Sem Exercise Phys,5.0,4.67,5.0,5.0,4.67,5.0,5.0
+Human Physiology,607,Andy,Karduna,Sem Biomechanics,4.33,4.5,4.5,4.5,4.5,4.5,4.5
+Human Physiology,607,Christopher,Minson,Sem Exercise Phys,4.33,4.0,4.33,4.67,4.67,4.33,4.33
+Human Physiology,607,Sierra,Dawson,Sem Graduate Series,4.38,4.48,4.43,4.38,4.38,4.43,4.24
+Human Physiology,607,Sierra,Dawson,Sem Admin Clin Careers,4.09,4.0,3.91,4.27,4.0,4.1,4.09
+Human Physiology,607,Andy,Karduna,Sem Doctoral Biomech,4.5,4.5,4.5,4.5,4.5,4.5,4.5
+Human Physiology,609,Grace,Golden,Prac Athletic Training,4.81,4.8,4.75,4.75,4.84,4.8,4.8
+Human Physiology,609,Sierra,Dawson,Prac Athletic Training,4.59,4.56,4.54,4.54,4.59,4.54,4.57
+Human Physiology,609,Sierra,Dawson,Prac Sports Medicine,4.27,4.4,4.32,4.36,4.38,4.32,4.36
+Human Physiology,610,Shannon,Pomeroy,Hum Biomec Sport Prod,4.12,4.12,4.12,3.88,4.12,4.0,4.38
+Human Physiology,610,Robin,Dorociak,Hum Bio Sport Prod Des,3.0,3.0,3.33,2.67,4.0,4.0,2.33
+Human Physiology,610,Brad,Wilkins,Human Phys Sports Prod,4.59,4.66,4.52,4.58,4.24,4.46,4.63
+Human Physiology,610,Jeffrey,Gilbert,Systems Physiology III,4.75,4.5,4.25,4.5,4.75,4.25,4.75
+Human Physiology,610,Andrew,Lovering,Systems Physiology III,4.6,4.6,4.4,4.4,4.4,4.2,4.6
+Human Physiology,610,Hans,Dreyer,Systems Physiology II,3.2,2.8,2.8,3.5,4.1,2.9,3.2
+Human Physiology,610,Christopher,Minson,Systems Physiology II,4.12,4.62,4.0,4.0,4.25,3.88,4.12
+Human Physiology,610,Li-Shan,Chou,Systems Physiology I,4.1,4.1,3.9,4.2,4.6,3.8,4.2
+Human Physiology,610,Grace,Golden,Therapy Biomotor Abil,5.0,5.0,5.0,5.0,5.0,5.0,5.0
+Human Physiology,610,Grace,Golden,Therap Res Biomot Abil,4.71,4.57,4.29,4.0,4.86,4.0,5.0
+Human Physiology,610,Michael,Baum,Manual Therapy,4.67,4.78,4.22,4.56,4.0,3.89,4.78
+Human Physiology,610,Sierra,Dawson,Manual Therapy,4.86,4.86,4.71,4.71,4.86,4.71,4.8
+Human Physiology,610,Julie,Staub,Manual Therapy,4.33,4.44,4.0,4.11,3.67,3.56,4.56
+Human Physiology,610,Kenneth,Singer,Basic Sci & Clin Decis,4.86,4.86,5.0,4.86,5.0,4.43,4.86
+Human Physiology,611,Sierra,Dawson,Prof Skills I: Eff Tch,4.41,4.64,4.42,4.44,4.68,4.37,4.26
+Human Physiology,612,John,Halliwill,Prof Skl II: Resp Res,4.55,4.83,4.79,4.54,4.65,4.58,4.55
+Human Physiology,613,John,Halliwill,Pro Sk III: Career Dev,4.6,4.84,4.81,4.8,4.68,4.55,4.57
+Human Physiology,621,Damien,Callahan,Systems Physiology I,3.54,3.73,3.36,3.73,4.64,3.82,3.82
+Human Physiology,621,Li-Shan,Chou,Systems Physiology I,3.92,3.9,3.89,4.13,4.46,3.69,3.91
+Human Physiology,621,Brian,Dalton,Systems Physiology I,4.32,4.36,4.45,4.3,4.86,4.12,4.32
+Human Physiology,621,Anita,Christie,Systems Physiology I,4.46,4.66,4.58,4.58,4.72,3.89,4.32
+Human Physiology,622,Hans,Dreyer,Systems Physiology II,3.92,3.79,3.78,4.07,4.2,3.77,4.04
+Human Physiology,622,Carrie,McCurdy,Systems Physiology II,3.74,3.74,3.35,4.01,4.5,4.06,3.78
+Human Physiology,622,Christopher,Minson,Systems Physiology II,4.51,4.62,4.29,4.57,4.59,4.19,4.34
+Human Physiology,623,Andrew,Lovering,Systems Physiology III,4.29,4.56,4.37,4.44,4.33,4.55,4.32
+Human Physiology,623,Christopher,Minson,Systems Physiology III,4.66,4.66,4.39,4.46,4.52,4.44,4.77
+Human Physiology,623,Carrie,McCurdy,Systems Physiology III,4.25,4.25,3.5,3.75,4.5,4.75,4.0
+Human Physiology,623,Jeffrey,Gilbert,Systems Physiology III,3.44,3.67,3.33,3.67,3.89,3.28,3.5
+Human Physiology,631,Brett,Kirby,Hum Perf & Sports Prod,4.67,4.79,4.59,4.71,4.36,4.52,4.71
+Human Physiology,631,Brad,Wilkins,Hum Perf & Sports Prod,4.7,4.67,4.58,4.65,4.58,4.33,4.7
+Human Physiology,633,Paul,van Donkelaar,Systems Neuroscience,4.2,4.2,3.9,4.0,4.3,4.1,4.2
+Human Physiology,633,Marjorie,Woollacott,Systems Neuroscience,4.22,4.56,4.22,4.56,4.44,4.0,4.0
+Human Physiology,660,Grace,Golden,Basic Sci Clinical Dec,4.77,4.93,4.53,4.83,4.83,4.75,4.83
+Human Physiology,660,Kenneth,Singer,Basic Sci Clinical Dec,5.0,5.0,4.89,5.0,5.0,4.82,5.0
+Human Physiology,661,Grace,Golden,Manual Therapy,4.71,4.71,4.88,4.88,4.65,4.51,4.78
+Human Physiology,661,Shelley,Linens,Manual Therapy,4.8,4.8,5.0,5.0,4.8,4.4,4.8
+Human Physiology,661,Sierra,Dawson,Manual Therapy,4.75,4.64,4.74,4.75,4.57,4.54,4.64
+Human Physiology,662,Grace,Golden,Manual Therapy,4.8,4.9,4.7,4.78,4.7,4.58,4.8
+Human Physiology,662,Shelley,Linens,Manual Therapy,5.0,5.0,5.0,5.0,5.0,5.0,5.0
+Human Physiology,662,Sierra,Dawson,Manual Therapy,4.73,4.67,4.4,4.81,4.52,4.16,4.72
+Human Physiology,668,Richard,Troxel,Physiology of Injury,4.85,4.91,4.45,4.65,4.75,4.47,4.88
+Human Physiology,669,Shelley,Linens,The Female Athlete,4.17,4.0,4.33,4.5,4.67,4.5,4.33
+Human Physiology,669,Sierra,Dawson,The Female Athlete,4.73,4.8,4.82,4.63,4.78,4.78,4.9
+Human Physiology,669,Eric,Sorenson,The Female Athlete,4.8,4.9,5.0,4.78,4.88,4.9,4.8
+Human Physiology,670,Andrew,Lovering,Adv Respiratory Phys,4.4,4.8,3.9,4.3,4.6,3.9,4.7
+Human Physiology,671,Grace,Golden,Thera Restor Bio Abil,4.94,5.0,4.89,4.76,4.95,4.78,4.94
+Human Physiology,676,Jeffrey,Gilbert,Human Cardio Control,4.5,4.5,4.0,4.5,4.5,4.5,4.5
+Human Physiology,684,Andy,Karduna,Kinematics of Hum Mvmt,4.75,4.77,4.67,4.63,4.77,4.61,4.8
+Human Physiology,685,Li-Shan,Chou,Kinetics Human Movment,4.58,4.45,4.31,4.29,4.66,4.36,4.61
+Human Physiology,685,Vipul,Lugade,Kinetics Human Movment,4.8,4.8,4.8,4.8,4.8,4.8,4.8
