@@ -1,0 +1,563 @@
+Philosophy,101,Amie,Zimmer,Philosophical Problems,4.33,4.59,4.3,4.56,4.63,4.33,4.33
+Philosophy,101,Kaja Jenssen,Rathe,Philosophical Problems,3.83,3.79,3.79,3.75,4.08,3.5,3.96
+Philosophy,101,Mark,Johnson,Philosophical Problems,0.44,0.45,0.45,0.45,0.41,0.42,27.56
+Philosophy,101,Larry,Busk,Philosophical Problems,4.54,4.71,4.61,4.64,4.54,4.5,4.57
+Philosophy,101,Brock,Baines,Philosophical Problems,4.3,4.48,4.39,4.43,4.48,4.17,4.17
+Philosophy,101,Lauren,Eichler,Philosophical Problems,3.83,4.17,3.96,4.08,4.04,3.71,4.04
+Philosophy,101,Billy,Goehring,Philosophical Problems,4.5,4.65,4.5,4.45,4.45,4.35,4.6
+Philosophy,101,Megan,Burke,Philosophical Problems,4.33,4.56,4.56,4.44,4.63,4.41,4.3
+Philosophy,101,Lucy,Schultz,Philosophical Problems,4.0,4.26,4.26,4.11,4.31,4.04,4.04
+Philosophy,101,Katherine,Logan,Philosophical Problems,4.0,4.25,4.0,4.25,4.75,4.0,4.0
+Philosophy,101,Dana,Rognlie,Philosophical Problems,4.26,4.39,4.3,4.3,4.39,3.87,4.17
+Philosophy,101,Alfred,Frankowski,Philosophical Problems,3.68,3.77,3.73,3.82,4.24,3.64,3.36
+Philosophy,101,George,Fourlas,Philosophical Problems,3.83,3.67,3.67,4.17,4.17,3.67,3.67
+Philosophy,101,Elizabeth,Caldwell,Philosophical Problems,4.19,4.38,4.19,4.31,4.31,4.25,4.25
+Philosophy,101,Aaron,Rodriguez,Philosophical Problems,4.41,4.64,4.36,4.36,4.68,4.59,4.46
+Philosophy,101,Emma,Jones,Philosophical Problems,4.56,4.67,4.44,4.67,4.67,4.56,4.67
+Philosophy,102,Bonnie,Sheehey,Ethics,2.29,2.36,2.36,2.43,2.21,2.14,17.96
+Philosophy,102,Martina,Ferrari,Ethics,2.0,2.15,1.88,1.95,2.27,1.85,17.97
+Philosophy,102,Caroline,Lundquist,Ethics,1.09,1.15,1.14,1.09,1.14,1.07,24.64
+Philosophy,102,Camisha,Russell,Ethics,3.94,4.04,4.2,3.98,4.18,4.16,3.91
+Philosophy,102,Jon,La Rochelle,Ethics,2.25,2.33,2.42,2.33,2.33,2.25,18.5
+Philosophy,102,Colin,Koopman,Ethics,3.6,3.62,3.77,3.75,3.85,3.54,3.48
+Philosophy,102,Paria,Akbar Akhgari,Ethics,3.75,3.75,4.05,3.85,4.05,4.05,3.8
+Philosophy,102,Larry,Busk,Ethics,4.29,4.43,4.36,4.39,4.46,4.39,4.35
+Philosophy,102,Susan,Stocker,Ethics,3.73,3.79,3.76,3.89,3.93,3.79,3.75
+Philosophy,102,Kimberley,Parzuchowski,Ethics,2.0,2.0,1.88,1.88,2.25,1.75,16.39
+Philosophy,102,Gus,Skorburg,Ethics,4.61,4.65,4.65,4.57,4.65,4.43,4.57
+Philosophy,102,Mark,Alfano,Ethics,2.01,2.05,2.04,1.96,1.92,1.93,14.12
+Philosophy,102,Philip,Mayo,Ethics,4.29,4.62,4.17,4.54,3.83,3.83,4.12
+Philosophy,102,Justin,Pack,Ethics,4.25,4.5,3.75,4.5,4.0,4.25,4.25
+Philosophy,102,Megan,Burke,Ethics,4.47,4.53,4.67,4.6,4.67,4.53,4.47
+Philosophy,102,Russell,Duvernoy,Ethics,4.35,4.35,4.54,4.36,4.5,4.46,4.23
+Philosophy,102,Christine,Reynolds,Ethics,3.62,3.31,3.54,3.62,4.38,3.54,3.54
+Philosophy,102,Steven,Brence,Ethics,1.95,1.98,2.02,2.0,1.92,1.95,17.75
+Philosophy,102,Aaron,Rodriguez,Ethics,4.25,4.5,4.25,4.5,3.75,4.25,4.25
+Philosophy,102,Alan,Reynolds,Ethics,4.05,4.42,4.11,4.11,4.42,4.16,3.9
+Philosophy,102,Naomi,Zack,Ethics,0.97,0.94,0.99,0.93,0.87,0.92,21.37
+Philosophy,102,Edgar,Temam,Ethics,4.41,4.44,4.48,4.52,4.56,4.37,4.41
+Philosophy,102,Grant,Silva,Ethics,4.14,4.36,4.27,4.41,4.27,3.77,4.09
+Philosophy,102,Alfred,Frankowski,Ethics,3.91,3.91,3.82,4.0,4.27,3.46,3.54
+Philosophy,102,Elena,Cuffari,Ethics,4.25,4.42,4.58,4.17,4.25,4.58,4.33
+Philosophy,103,Shannon,Hayes,Critical Reasoning,2.33,2.22,2.39,2.28,2.39,2.33,15.26
+Philosophy,103,Lauren,Eichler,Critical Reasoning,3.95,3.9,3.9,4.05,4.32,3.95,4.0
+Philosophy,103,Paul,Showler,Critical Reasoning,4.5,4.5,4.5,4.65,4.7,4.61,4.48
+Philosophy,103,Brock,Baines,Critical Reasoning,4.17,4.09,3.96,4.17,4.0,4.09,4.13
+Philosophy,103,Claire,Pickard,Critical Reasoning,3.06,3.0,3.23,2.94,3.71,3.65,3.35
+Philosophy,103,Kaja Jenssen,Rathe,Critical Reasoning,4.15,4.0,4.15,4.35,4.55,4.15,4.05
+Philosophy,103,Anna,Cook,Critical Reasoning,4.31,4.65,4.62,4.42,4.62,4.62,4.19
+Philosophy,103,Daniela,Vallega-Neu,Critical Reasoning,0.5,0.5,0.53,0.51,0.53,0.49,22.13
+Philosophy,103,David,Baumeister,Critical Reasoning,2.41,2.43,2.39,2.33,2.43,2.43,18.72
+Philosophy,103,Paria,Akbar Akhgari,Critical Reasoning,4.3,4.3,4.48,4.26,4.3,4.26,4.18
+Philosophy,103,Russell,Duvernoy,Critical Reasoning,4.27,4.41,4.23,4.27,4.36,4.36,4.09
+Philosophy,103,Joshua,Kerr,Critical Reasoning,4.5,4.68,4.59,4.54,4.68,4.68,4.46
+Philosophy,103,Amy,Billingsley,Critical Reasoning,4.04,4.35,4.35,4.13,4.39,4.3,3.96
+Philosophy,103,Elizabeth,Caldwell,Critical Reasoning,4.4,4.5,4.55,4.25,4.4,4.1,4.16
+Philosophy,103,Philip,Mayo,Critical Reasoning,3.96,3.91,3.91,3.96,4.13,3.96,4.22
+Philosophy,103,Jonathan,Langseth,Critical Reasoning,4.0,3.9,3.9,3.5,4.3,4.0,3.9
+Philosophy,103,Jose,Mendoza,Critical Reasoning,2.26,2.34,2.29,2.21,2.24,2.29,17.34
+Philosophy,103,Mathew,Foust,Critical Reasoning,2.25,2.41,2.41,2.39,2.43,2.3,17.05
+Philosophy,103,Grant,Silva,Critical Reasoning,3.91,4.09,4.0,4.09,4.17,3.77,3.87
+Philosophy,103,Jonathan,Crouch,Critical Reasoning,4.14,4.43,4.36,4.57,4.36,4.57,4.5
+Philosophy,110,Larry,Busk,Human Nature,4.1,4.1,4.3,4.2,4.1,4.1,4.0
+Philosophy,110,Sarah,McLay,Human Nature,4.0,4.0,3.88,4.0,4.0,3.88,4.0
+Philosophy,110,Kaja Jenssen,Rathe,Human Nature,4.29,4.29,4.14,4.0,4.36,4.07,4.43
+Philosophy,110,Erin,McKenna,Human Nature,1.82,1.85,1.97,1.91,1.94,1.93,15.6
+Philosophy,110,Devin,Fitzpatrick,Human Nature,4.63,4.85,4.59,4.67,4.74,4.41,4.56
+Philosophy,110,Amy,Billingsley,Human Nature,3.71,3.71,3.57,3.71,3.79,3.57,3.36
+Philosophy,110,Lauren,Eichler,Human Nature,3.8,4.0,4.0,3.9,4.0,3.8,3.7
+Philosophy,110,Martina,Ferrari,Human Nature,4.52,4.68,4.44,4.24,4.84,4.28,4.4
+Philosophy,110,Russell,Duvernoy,Human Nature,3.9,3.95,4.16,4.21,4.24,4.05,4.05
+Philosophy,110,Brock,Baines,Human Nature,3.93,4.25,4.11,4.18,4.29,4.18,4.0
+Philosophy,110,Susan,Stocker,Human Nature,3.41,3.08,3.28,3.37,3.5,3.57,3.48
+Philosophy,110,Dana,Rognlie,Human Nature,3.72,3.72,3.61,3.72,3.89,3.33,3.67
+Philosophy,110,Nicolae,Morar,Human Nature,3.98,4.07,4.2,4.24,3.94,3.89,3.88
+Philosophy,110,Celena,Simpson,Human Nature,4.48,4.7,4.7,4.7,4.78,4.48,4.41
+Philosophy,110,Alejandro,Vallega,Human Nature,0.9,0.9,0.91,0.95,0.89,0.84,21.89
+Philosophy,110,David,Baumeister,Human Nature,4.39,4.47,4.32,3.95,4.26,4.32,3.95
+Philosophy,110,Kimberley,Parzuchowski,Human Nature,4.25,4.5,3.75,4.0,4.25,3.75,4.0
+Philosophy,110,Jason,Jordan,Human Nature,4.0,4.71,3.86,4.14,4.0,3.43,4.0
+Philosophy,110,Thomas,Nail,Human Nature,4.46,4.5,4.36,4.27,4.41,4.23,4.18
+Philosophy,110,Brian,Elliott,Human Nature,3.99,4.16,4.04,3.96,3.81,3.94,4.0
+Philosophy,110,Christine,Reynolds,Human Nature,4.83,4.5,4.67,4.5,4.83,5.0,4.5
+Philosophy,110,John,Lysaker,Human Nature,4.09,4.28,4.17,4.3,3.92,3.94,3.93
+Philosophy,110,Grant,Silva,Human Nature,4.18,4.36,4.27,4.54,4.27,4.09,4.1
+Philosophy,120,Steven,Brence,Eth of Enterpr & Exchg,2.2,2.23,2.25,2.27,2.2,2.17,16.3
+Philosophy,120,Anna,Cook,Eth of Enterpr & Exchg,4.64,4.8,4.64,4.72,4.72,4.64,4.56
+Philosophy,120,Gus,Skorburg,Eth of Enterpr & Exchg,4.46,4.54,4.54,4.68,4.43,4.3,4.29
+Philosophy,120,Susan,Stocker,Eth of Enterpr & Exchg,4.05,4.05,4.05,4.1,4.1,3.98,4.13
+Philosophy,120,Joshua,Kerr,Eth of Enterpr & Exchg,4.54,4.73,4.73,4.73,4.68,4.77,4.64
+Philosophy,120,Nicolae,Morar,Eth of Enterpr & Exchg,1.35,1.36,1.4,1.33,1.37,1.35,20.98
+Philosophy,120,Jon,La Rochelle,Eth of Enterpr & Exchg,4.35,4.45,4.45,4.6,4.5,4.35,4.4
+Philosophy,120,David,Baumeister,Eth of Enterpr & Exchg,4.17,4.35,4.39,4.26,4.43,4.3,4.26
+Philosophy,120,Alan,Reynolds,Eth of Enterpr & Exchg,4.42,4.62,4.58,4.58,4.38,4.22,4.3
+Philosophy,120,Teri,Mayfield,Eth of Enterpr & Exchg,4.0,4.67,4.0,4.33,4.33,3.67,4.0
+Philosophy,123,Mary,McLevey,Internet, Soc, & Phil,4.33,4.38,4.19,4.48,4.57,4.38,4.14
+Philosophy,123,Billy,Goehring,Internet, Soc, & Phil,4.0,4.05,4.14,4.14,4.19,4.14,3.76
+Philosophy,123,Bonnie,Sheehey,Internet, Soc, & Phil,4.35,4.5,4.35,4.38,4.58,4.46,4.23
+Philosophy,123,Brock,Baines,Internet, Soc, & Phil,3.95,4.21,4.05,3.95,4.21,4.11,4.0
+Philosophy,123,Amy,Billingsley,Internet, Soc, & Phil,4.5,4.64,4.57,4.5,4.68,4.32,4.46
+Philosophy,123,Colin,Koopman,Internet, Soc, & Phil,1.09,1.11,1.09,1.1,1.06,1.04,21.72
+Philosophy,130,Rebekah,Sinclair,Philosophy & Pop Cultr,4.32,4.68,4.26,4.42,4.63,4.58,4.32
+Philosophy,130,Amie,Zimmer,Philosophy & Pop Cultr,4.56,4.68,4.48,4.32,4.76,4.44,4.36
+Philosophy,130,Steven,Brence,Philosophy & Pop Cultr,1.07,1.09,1.06,0.99,1.04,1.03,22.56
+Philosophy,130,Timothy,Christion Myers,Philosophy & Pop Cultr,1.88,2.12,2.12,2.25,2.0,2.0,16.25
+Philosophy,130,Claire,Pickard,Philosophy & Pop Cultr,4.29,4.24,4.33,4.29,4.38,4.0,4.24
+Philosophy,130,Billy,Goehring,Philosophy & Pop Cultr,4.17,4.38,4.14,4.38,4.38,3.83,4.18
+Philosophy,130,David,Baumeister,Philosophy & Pop Cultr,4.0,4.33,4.0,3.89,4.56,4.67,4.0
+Philosophy,130,Joshua,Kerr,Philosophy & Pop Cultr,4.5,4.54,4.57,4.32,4.46,4.36,4.54
+Philosophy,130,Shannon,Hayes,Philosophy & Pop Cultr,4.42,4.54,4.5,4.42,4.5,4.04,4.29
+Philosophy,130,Jon,La Rochelle,Philosophy & Pop Cultr,4.0,4.4,4.2,4.0,4.2,4.4,4.0
+Philosophy,130,Larry,Busk,Philosophy & Pop Cultr,4.7,4.67,4.6,4.53,4.67,4.53,4.67
+Philosophy,130,Amy,Billingsley,Philosophy & Pop Cultr,4.08,4.24,4.16,4.08,4.56,4.33,3.96
+Philosophy,130,Justin,Pack,Philosophy & Pop Cultr,4.17,4.06,3.89,4.17,4.06,3.33,3.94
+Philosophy,130,Celena,Simpson,Philosophy & Pop Cultr,4.64,4.57,4.43,4.36,4.5,4.29,4.57
+Philosophy,170,Claire,Pickard,Love & Sex,4.6,4.8,4.6,4.6,4.6,4.6,4.75
+Philosophy,170,Bonnie,Mann,Love & Sex,0.35,0.36,0.36,0.36,0.34,0.33,26.37
+Philosophy,170,Shannon,Hayes,Love & Sex,2.35,2.37,2.37,2.26,2.37,2.39,17.24
+Philosophy,170,Maggie,Newton,Love & Sex,2.22,2.16,2.22,2.2,2.22,2.12,17.88
+Philosophy,170,Devin,Fitzpatrick,Love & Sex,4.54,4.58,4.67,4.76,4.61,4.54,4.49
+Philosophy,170,Martina,Ferrari,Love & Sex,4.56,4.63,4.33,4.18,4.63,4.3,4.67
+Philosophy,170,Anna,Cook,Love & Sex,4.5,4.5,4.38,4.62,4.5,4.38,4.38
+Philosophy,170,Larry,Busk,Love & Sex,4.59,4.63,4.5,4.41,4.63,4.44,4.63
+Philosophy,170,Katherine,Logan,Love & Sex,3.89,3.67,4.33,3.89,3.67,3.89,4.22
+Philosophy,170,Teri,Mayfield,Love & Sex,4.4,4.55,3.75,4.4,4.35,4.0,4.6
+Philosophy,170,Megan,Burke,Love & Sex,4.43,4.5,4.46,4.5,4.73,4.41,4.36
+Philosophy,170,Fulden,Ibrahimhakkioglu,Love & Sex,4.38,3.88,4.12,4.12,4.25,4.12,4.12
+Philosophy,170,Kimberley,Parzuchowski,Love & Sex,4.0,4.14,3.81,4.0,4.09,3.67,4.05
+Philosophy,170,Dana,Rognlie,Love & Sex,2.17,2.25,2.25,2.21,2.17,1.96,17.74
+Philosophy,170,Caroline,Lundquist,Love & Sex,4.73,4.77,4.86,4.68,4.5,4.54,4.5
+Philosophy,170,Aaron,Rodriguez,Love & Sex,2.38,2.38,2.44,2.31,2.31,2.31,17.47
+Philosophy,170,Elena,Cuffari,Love & Sex,4.11,4.44,4.33,4.33,4.22,3.89,3.78
+Philosophy,170,Emma,Jones,Love & Sex,3.92,4.08,4.23,4.17,4.15,4.46,3.92
+Philosophy,199,Steven,Brence,Sp St College Connect,0.49,0.49,0.42,0.43,0.49,0.38,22.49
+Philosophy,199,Naomi,Zack,Sp St Black Resistance,4.8,4.8,5.0,4.8,4.8,5.0,4.6
+Philosophy,199,Caroline,Lundquist,Sp St Real Ethics,4.86,4.86,4.71,4.71,4.86,4.57,4.71
+Philosophy,199,Steven,Brence,Sp St Phil/Sci-Fi Film,4.65,4.47,4.29,4.35,4.41,3.82,4.18
+Philosophy,199,Mark,Alfano,Sp St Mem in Phil&Lit,4.4,4.4,4.6,4.6,4.2,4.2,4.8
+Philosophy,199,Veronica,Alfano,Sp St Mem in Phil&Lit,4.67,4.5,4.17,4.67,4.17,3.83,4.67
+Philosophy,199,Colin,Koopman,Sp St College Connect,2.07,2.2,2.0,2.11,2.23,2.13,16.9
+Philosophy,199,John,Lysaker,Sp St College Connect,3.6,3.8,3.67,3.53,4.07,3.73,3.0
+Philosophy,211,Sarah,McLay,Existentialism,4.31,4.5,4.43,4.71,4.57,4.5,4.21
+Philosophy,211,Peter,Warnek,Existentialism,0.51,0.53,0.5,0.46,0.47,0.47,26.37
+Philosophy,211,Elizabeth,Balskus,Existentialism,4.33,4.58,4.5,4.42,4.54,4.33,4.21
+Philosophy,211,Daniela,Vallega-Neu,Existentialism,4.17,3.96,4.04,3.96,4.0,4.22,4.22
+Philosophy,211,Shannon,Hayes,Existentialism,4.46,4.46,4.46,4.18,4.77,4.46,4.46
+Philosophy,211,Naomi,Zack,Existentialism,4.27,4.07,4.3,4.27,4.2,4.27,4.3
+Philosophy,211,David,Baumeister,Existentialism,4.71,4.52,4.67,4.52,4.62,4.52,4.67
+Philosophy,211,Elizabeth,Grosz,Existentialism,4.62,4.62,4.88,4.88,4.88,4.62,4.62
+Philosophy,211,Alan,Reynolds,Existentialism,4.67,4.71,4.6,4.55,4.68,4.5,4.65
+Philosophy,211,Jonathan,Crouch,Existentialism,4.24,4.35,4.28,4.33,4.26,4.01,4.24
+Philosophy,213,Russell,Duvernoy,Asian Philosophy,2.29,2.33,2.31,2.33,2.27,2.27,17.98
+Philosophy,213,Kimberley,Parzuchowski,Asian Philosophy,2.17,2.17,2.17,2.17,2.17,2.17,17.92
+Philosophy,213,Billy,Goehring,Asian Philosophy,2.33,2.38,2.31,2.33,2.36,2.29,16.82
+Philosophy,213,Alan,Reynolds,Asian Philosophy,4.75,4.75,4.88,4.62,4.86,4.62,4.62
+Philosophy,213,Celena,Simpson,Asian Philosophy,2.4,2.4,2.4,2.4,2.4,2.4,18.83
+Philosophy,213,Lucy,Schultz,Asian Philosophy,2.25,2.25,2.25,2.0,2.0,2.0,15.72
+Philosophy,213,Elizabeth,Grosz,Asian Philosophy,3.4,3.8,3.8,3.4,4.0,4.0,3.4
+Philosophy,213,Mathew,Foust,Asian Philosophy,4.75,4.67,4.67,4.58,4.83,4.67,4.67
+Philosophy,213,Mark,Unno,Asian Philosophy,4.39,4.53,4.48,4.53,4.19,4.23,4.26
+Philosophy,213,Amrita,Banerjee,Asian Philosophy,4.57,4.57,4.57,4.57,4.43,4.43,4.43
+Philosophy,216,Anna,Cook,Phil & Cul Diversity,4.48,4.64,4.64,4.64,4.6,4.48,4.4
+Philosophy,216,Larry,Busk,Phil & Cul Diversity,4.54,4.71,4.42,4.58,4.57,4.46,4.54
+Philosophy,216,Naomi,Zack,Phil & Cul Diversity,1.22,1.16,1.15,1.16,1.17,1.21,17.67
+Philosophy,216,Elizabeth,Balskus,Phil & Cul Diversity,4.23,4.38,4.27,4.27,4.38,4.15,4.19
+Philosophy,216,Dana,Rognlie,Phil & Cul Diversity,5.0,5.0,5.0,4.0,4.0,5.0,4.0
+Philosophy,216,Lauren,Eichler,Phil & Cul Diversity,4.11,4.22,4.39,4.39,4.47,4.11,4.12
+Philosophy,216,Scott,Pratt,Phil & Cul Diversity,1.46,1.45,1.45,1.48,1.43,1.42,21.16
+Philosophy,216,Fulden,Ibrahimhakkioglu,Phil & Cul Diversity,4.09,4.22,4.32,4.04,4.36,4.0,4.0
+Philosophy,216,Justin,Pack,Phil & Cul Diversity,4.83,4.67,4.67,4.83,4.5,4.83,4.83
+Philosophy,216,Celena,Simpson,Phil & Cul Diversity,4.44,4.52,4.24,4.24,4.72,4.36,4.32
+Philosophy,216,George,Fourlas,Phil & Cul Diversity,4.39,4.22,4.13,4.26,3.96,3.78,4.3
+Philosophy,216,Jose,Mendoza,Phil & Cul Diversity,4.43,4.86,4.43,4.71,4.71,4.71,4.14
+Philosophy,216,Alfred,Frankowski,Phil & Cul Diversity,4.12,4.25,3.38,4.12,4.75,3.88,3.88
+Philosophy,220,Erin,McKenna,Food Ethics,1.97,2.08,1.97,2.03,2.14,1.89,17.67
+Philosophy,307,Steven,Brence,Social & Politic Phil,0.87,0.88,0.83,0.81,0.82,0.83,23.96
+Philosophy,307,Colin,Koopman,Social & Politic Phil,1.5,1.53,1.51,1.49,1.45,1.37,22.64
+Philosophy,307,Cheyney,Ryan,Social & Politic Phil,2.33,2.38,2.19,2.2,2.1,2.22,18.75
+Philosophy,308,Steven,Brence,Social & Politic Phil,0.62,0.63,0.6,0.6,0.66,0.61,27.87
+Philosophy,308,Cheyney,Ryan,Social & Politic Phil,4.69,4.71,4.15,4.33,4.2,4.06,4.59
+Philosophy,309,Lauren,Eichler,Global Justice,3.62,3.5,4.12,4.0,3.88,3.88,3.88
+Philosophy,309,Martina,Ferrari,Global Justice,4.79,4.79,4.67,4.71,4.75,4.38,4.71
+Philosophy,309,Paria,Akbar Akhgari,Global Justice,4.4,4.4,4.8,4.4,4.6,4.6,4.4
+Philosophy,309,Larry,Busk,Global Justice,4.8,4.8,4.6,4.6,4.6,4.6,4.8
+Philosophy,309,Johanna,Luttrell,Global Justice,5.0,5.0,4.91,4.73,4.82,4.73,4.91
+Philosophy,310,Peter,Warnek,Hist Phil: Anc-Mediev,0.48,0.47,0.46,0.45,0.47,0.45,25.52
+Philosophy,310,Adam,Arola,Hist Phil: Anc-Mediev,4.27,4.46,3.84,3.87,3.78,4.0,4.3
+Philosophy,310,Ted,Toadvine,Hist Phil: Anc-Mediev,4.28,4.66,4.34,4.45,4.05,3.83,4.16
+Philosophy,311,Billy,Goehring,Hist Phil: Modern,4.52,4.7,4.43,4.52,4.61,4.61,4.43
+Philosophy,311,Daniela,Vallega-Neu,Hist Phil: Modern,4.28,4.31,4.53,4.3,4.15,4.21,4.34
+Philosophy,311,Beata,Stawarska,Hist Phil: Modern,0.62,0.64,0.63,0.63,0.61,0.55,25.2
+Philosophy,311,Colin,Koopman,Hist Phil: Modern,2.25,2.33,2.28,2.2,2.19,2.17,17.03
+Philosophy,312,Steven,Brence,Hist of Phil: 19C,4.37,4.29,4.13,3.68,4.47,4.24,4.32
+Philosophy,312,Brock,Baines,Hist of Phil: 19C,4.57,4.57,4.52,4.57,4.62,4.48,4.52
+Philosophy,312,Shannon,Hayes,Hist of Phil: 19C,4.38,4.38,4.25,4.17,4.5,4.29,4.54
+Philosophy,312,Rocio,Zambrana,Hist of Phil: 19C,0.68,0.64,0.7,0.66,0.68,0.6,23.68
+Philosophy,312,Brian,Elliott,Hist of Phil: 19C,4.42,4.5,4.38,4.38,4.23,4.17,4.44
+Philosophy,312,John,Lysaker,Hist of Phil: 19C,2.26,2.35,2.2,2.28,2.16,2.12,17.51
+Philosophy,315,Lauren,Eichler,Intro Feminist Phil,4.7,4.83,4.7,4.57,4.83,4.65,4.74
+Philosophy,315,Rebekah,Sinclair,Intro Feminist Phil,4.54,4.65,4.42,4.5,4.65,4.5,4.62
+Philosophy,315,Elizabeth,Balskus,Intro Feminist Phil,4.67,4.7,4.74,4.67,4.7,4.67,4.63
+Philosophy,315,Sarah,McLay,Intro Feminist Phil,4.25,4.25,4.05,4.35,4.4,4.1,4.15
+Philosophy,315,Martina,Ferrari,Intro Feminist Phil,2.38,2.44,2.38,2.31,2.38,2.25,15.86
+Philosophy,315,Susan,Stocker,Intro Feminist Phil,3.82,3.68,2.91,3.59,4.0,3.36,4.04
+Philosophy,315,Fulden,Ibrahimhakkioglu,Intro Feminist Phil,4.53,4.18,4.35,4.41,4.47,4.12,4.47
+Philosophy,315,Bonnie,Mann,Intro Feminist Phil,0.93,0.97,0.97,0.95,0.85,0.85,27.68
+Philosophy,315,Megan,Burke,Intro Feminist Phil,4.71,4.81,4.67,4.67,4.67,4.57,4.76
+Philosophy,315,Kara,Barnette,Intro Feminist Phil,4.46,4.69,4.23,4.54,4.85,4.38,4.54
+Philosophy,320,Amie,Zimmer,Philosophy of Religion,4.23,4.46,4.0,4.15,4.46,3.92,4.0
+Philosophy,320,Devin,Fitzpatrick,Philosophy of Religion,4.48,4.68,4.4,4.72,4.48,4.36,4.48
+Philosophy,320,Peter,Warnek,Philosophy of Religion,0.97,0.97,0.8,0.9,0.9,0.9,26.74
+Philosophy,320,Jonathan,Crouch,Philosophy of Religion,4.71,4.71,4.29,4.71,4.29,4.43,4.43
+Philosophy,320,Brian,Elliott,Philosophy of Religion,3.82,3.82,3.54,3.36,3.7,3.73,3.91
+Philosophy,320,Michael,Slater,Philosophy of Religion,2.03,2.06,2.11,2.11,1.88,2.03,16.17
+Philosophy,322,Mark,Johnson,Philosophy of the Arts,0.89,0.93,0.94,0.94,0.84,0.9,26.86
+Philosophy,322,Alejandro,Vallega,Philosophy of the Arts,5.0,5.0,4.67,5.0,5.0,5.0,5.0
+Philosophy,322,Carolyn,Culbertson,Philosophy of the Arts,4.5,4.64,4.73,4.54,4.77,4.77,4.46
+Philosophy,322,Johanna,Luttrell,Philosophy of the Arts,4.6,4.6,4.8,4.6,4.6,4.6,4.8
+Philosophy,323,Brock,Baines,Moral Theory,4.35,4.35,4.18,4.47,4.47,4.29,4.47
+Philosophy,323,Larry,Busk,Moral Theory,4.44,4.72,4.52,4.36,4.84,4.44,4.56
+Philosophy,323,Mark,Johnson,Moral Theory,1.94,2.11,1.94,1.94,2.02,1.7,18.5
+Philosophy,323,Katherine,Logan,Moral Theory,4.2,4.33,4.27,4.27,4.27,4.27,4.27
+Philosophy,323,Erin,McKenna,Moral Theory,4.35,4.53,4.29,4.35,4.41,4.24,4.35
+Philosophy,323,Mark,Alfano,Moral Theory,4.29,4.53,4.35,4.35,4.29,3.77,4.29
+Philosophy,323,Daniela,Vallega-Neu,Moral Theory,4.05,4.05,4.16,4.16,4.16,3.84,3.95
+Philosophy,323,Jason,Jordan,Moral Theory,4.58,4.67,3.92,4.33,4.25,4.0,4.58
+Philosophy,323,Colin,Koopman,Moral Theory,4.7,5.0,4.7,4.3,5.0,4.6,4.6
+Philosophy,325,Larry,Busk,Logic, Inquir, Argumen,2.24,2.36,2.33,2.29,2.36,2.31,18.95
+Philosophy,325,Russell,Duvernoy,Logic, Inquir, Argumen,4.32,4.47,4.53,4.53,4.63,4.47,4.42
+Philosophy,325,Brock,Baines,Logic, Inquir, Argumen,4.33,4.24,4.19,4.33,4.48,4.29,4.33
+Philosophy,325,David,Baumeister,Logic, Inquir, Argumen,4.29,4.48,4.33,3.95,4.62,4.52,4.29
+Philosophy,325,Paria,Akbar Akhgari,Logic, Inquir, Argumen,3.8,3.75,4.3,4.15,4.1,4.15,3.95
+Philosophy,325,Anna,Cook,Logic, Inquir, Argumen,4.38,4.56,4.38,4.75,4.69,4.38,4.38
+Philosophy,325,Scott,Pratt,Logic, Inquir, Argumen,0.88,0.9,0.89,0.88,0.89,0.87,24.18
+Philosophy,325,Rocio,Zambrana,Logic, Inquir, Argumen,3.27,3.24,3.33,3.04,3.75,3.57,3.39
+Philosophy,325,Jonathan,Crouch,Logic, Inquir, Argumen,4.3,4.5,4.25,4.4,4.28,4.15,4.4
+Philosophy,330,Naomi,Zack,Philosophy & Disaster,4.25,4.17,4.33,4.08,4.0,4.0,4.08
+Philosophy,331,Joshua,Kerr,Philos in Literature,4.86,4.86,4.71,4.5,4.86,4.71,4.71
+Philosophy,331,Shannon,Hayes,Philos in Literature,4.5,4.5,4.21,4.29,4.43,4.36,4.43
+Philosophy,331,Alejandro,Vallega,Philos in Literature,1.08,1.08,1.04,1.08,1.08,1.04,25.3
+Philosophy,332,Steven,Brence,Philosophy of Film,0.25,0.25,0.25,0.25,0.27,0.24,28.07
+Philosophy,332,Caroline,Lundquist,Philosophy of Film,4.58,5.0,4.58,4.5,4.75,4.67,4.58
+Philosophy,332,Johanna,Luttrell,Philosophy of Film,4.46,4.46,4.46,4.46,4.69,4.62,4.31
+Philosophy,332,Elizabeth,Caldwell,Philosophy of Film,4.25,4.33,4.21,4.25,4.5,4.17,4.0
+Philosophy,332,Jose,Mendoza,Philosophy of Film,4.0,4.27,4.4,4.33,4.57,4.13,4.0
+Philosophy,335,Paria,Akbar Akhgari,Medical Ethics,4.5,4.6,4.7,4.6,4.7,4.6,4.3
+Philosophy,335,Claire,Pickard,Medical Ethics,4.33,4.25,4.17,4.12,4.33,4.17,4.29
+Philosophy,335,Camisha,Russell,Medical Ethics,4.07,3.9,3.97,3.9,4.27,3.9,3.94
+Philosophy,335,Russell,Duvernoy,Medical Ethics,4.21,4.29,4.36,4.36,4.43,4.43,4.14
+Philosophy,335,Gus,Skorburg,Medical Ethics,4.36,4.55,4.48,4.36,4.39,3.94,4.23
+Philosophy,335,Amie,Zimmer,Medical Ethics,4.57,4.57,4.57,4.57,4.74,4.57,4.65
+Philosophy,335,Nicolae,Morar,Medical Ethics,1.49,1.47,1.49,1.46,1.4,1.4,21.87
+Philosophy,335,Megan,Burke,Medical Ethics,4.73,4.83,4.74,4.7,4.61,4.57,4.74
+Philosophy,335,John,Holmes,Medical Ethics,4.46,4.61,4.22,4.54,4.46,4.21,4.39
+Philosophy,339,Naomi,Zack,Intro Phil of Science,1.1,1.13,1.08,1.03,1.08,1.05,19.81
+Philosophy,339,Billy,Goehring,Intro Phil of Science,4.62,4.58,4.21,4.33,4.58,4.42,4.42
+Philosophy,340,Steven,Brence,Environmental Philos,0.53,0.55,0.55,0.54,0.51,0.51,26.16
+Philosophy,340,Kimberley,Parzuchowski,Environmental Philos,4.29,4.33,4.27,4.12,4.38,4.33,4.25
+Philosophy,340,Russell,Duvernoy,Environmental Philos,4.33,4.67,4.5,4.17,4.67,4.67,4.5
+Philosophy,340,David,Baumeister,Environmental Philos,2.28,2.3,2.35,2.28,2.28,2.22,17.72
+Philosophy,340,Justin,Pack,Environmental Philos,4.71,4.57,4.71,4.71,4.29,4.43,4.57
+Philosophy,340,Ted,Toadvine,Environmental Philos,1.75,1.77,1.81,1.82,1.83,1.64,16.13
+Philosophy,340,Timothy,Christion Myers,Environmental Philos,3.77,3.85,4.12,3.96,4.12,3.58,3.81
+Philosophy,340,Lucy,Schultz,Environmental Philos,4.08,4.08,4.15,4.0,4.46,3.69,4.08
+Philosophy,340,Christine,Reynolds,Environmental Philos,4.53,4.47,4.53,4.53,4.67,4.53,4.57
+Philosophy,342,Alejandro,Vallega,Intro Latin Amer Phil,0.75,0.77,0.72,0.74,0.73,0.74,26.59
+Philosophy,342,Megan,Burke,Intro Latin Amer Phil,4.67,4.76,4.67,4.81,4.76,4.52,4.71
+Philosophy,343,Fulden,Ibrahimhakkioglu,Critical Theory,4.27,4.2,4.1,4.1,4.2,4.1,4.1
+Philosophy,343,Rocio,Zambrana,Critical Theory,1.44,1.47,1.36,1.39,1.36,1.39,22.59
+Philosophy,344,Steven,Brence,Intro Philos of Law,1.14,1.13,1.16,1.14,1.22,1.13,21.85
+Philosophy,344,Cheyney,Ryan,Intro Philos of Law,1.21,1.25,1.17,1.09,1.12,1.15,25.14
+Philosophy,345,Alejandro,Vallega,Place in the Cosmos,3.97,4.07,3.59,3.79,3.76,3.62,3.9
+Philosophy,345,Daniela,Vallega-Neu,Place in the Cosmos,0.86,0.86,0.86,0.88,0.83,0.78,22.65
+Philosophy,350,Brock,Baines,Metaphysics,4.0,4.07,3.6,4.2,4.0,3.87,4.36
+Philosophy,350,Susan,Stocker,Metaphysics,5.0,5.0,4.67,5.0,5.0,4.67,5.0
+Philosophy,350,Peter,Warnek,Metaphysics,2.14,2.27,1.68,1.86,2.09,1.9,16.87
+Philosophy,350,Adam,Arola,Metaphysics,4.32,4.68,3.9,4.37,3.84,4.26,4.42
+Philosophy,350,Daniela,Vallega-Neu,Metaphysics,4.11,3.89,4.17,4.0,4.0,3.78,4.11
+Philosophy,350,Steven,Brence,Metaphysics,4.43,4.36,4.07,4.14,4.57,3.93,4.21
+Philosophy,350,Jonathan,Crouch,Metaphysics,4.58,4.63,4.32,4.21,4.32,4.16,4.44
+Philosophy,372,Paul,Bodin,Tch Child Phil Inquiry,2.5,2.5,2.45,2.35,2.4,2.27,18.66
+Philosophy,399,Paul,Bodin,Sp St Tch Mid-Sch Phil,2.38,2.5,2.35,2.38,2.46,2.15,18.95
+Philosophy,399,Dana,Rognlie,Sp St Trauma & Justice,4.71,4.71,4.71,4.71,4.86,4.71,4.57
+Philosophy,399,Susan,Stocker,Sp St Phil of Architec,5.0,4.8,4.6,4.8,5.0,4.6,4.6
+Philosophy,399,David,Baumeister,Sp St Animals & Philos,4.64,4.64,4.73,4.54,4.82,4.82,4.54
+Philosophy,399,Paul,Bodin,Sp St Tch Childrn Phil,1.61,1.56,1.49,1.32,1.61,1.54,24.44
+Philosophy,399,Amy,Billingsley,Sp St Transgender Phil,5.0,5.0,4.89,4.89,5.0,4.78,5.0
+Philosophy,399,Anna,Cook,Sp St Tch Childrn Phil,4.83,4.83,4.5,4.67,4.83,4.75,4.92
+Philosophy,399,Paul,Bodin,Sp St Teach Child Phi,4.79,4.79,4.57,4.43,4.57,4.0,4.93
+Philosophy,399,Daniela,Vallega-Neu,Sp St Truth,4.33,4.33,4.33,4.33,4.67,4.0,3.67
+Philosophy,399,Naomi,Zack,Sp St Phil of Disaster,1.64,1.57,1.64,1.5,1.86,1.64,14.78
+Philosophy,399,Nicolae,Morar,Sp St Medical Ethics,4.06,4.18,4.53,4.06,4.47,4.06,4.24
+Philosophy,399,Paul,Qualtere-Burcher,Sp St Medical Ethics,1.56,1.59,1.42,1.53,1.41,1.42,23.16
+Philosophy,399,Alejandro,Vallega,Sp St Intro Latin Amer,4.69,4.77,4.38,4.54,4.31,3.77,4.77
+Philosophy,399,Daniela,Vallega-Neu,Sp St Place in Cosmos,4.3,4.2,4.1,4.2,4.3,4.3,4.3
+Philosophy,399,Rocio,Zambrana,Sp St Global Justice,4.07,4.13,4.2,3.67,4.33,4.33,4.2
+Philosophy,399,Colin,Koopman,Sp St Global Justice,4.89,5.0,4.78,4.78,4.67,4.67,4.89
+Philosophy,407,David,Meens,Sem Phil of Education,4.54,4.54,3.73,4.54,4.18,3.82,4.6
+Philosophy,407,Scott,Pratt,Sem Advanced Logic,2.32,2.32,2.07,2.11,1.89,2.14,18.61
+Philosophy,407,Beata,Stawarska,Sem Post-Structuralism,4.8,5.0,4.6,4.6,5.0,4.8,4.8
+Philosophy,407,Rocio,Zambrana,Sem Women of Color Fem,4.67,4.67,4.67,4.56,5.0,4.67,4.89
+Philosophy,407,Alejandro,Vallega,Sem Border Philosophy,4.67,4.67,4.33,4.33,4.5,4.5,4.67
+Philosophy,407,Ted,Toadvine,Sem Touching Touch,5.0,5.0,5.0,4.67,5.0,5.0,5.0
+Philosophy,407,Alejandro,Vallega,Sem Decolonial Phil,4.67,4.67,4.67,4.83,4.5,4.33,4.83
+Philosophy,407,Nicolae,Morar,Sem Biopower,4.62,4.5,4.62,4.5,4.75,4.5,4.5
+Philosophy,407,Mark,Johnson,Sem Philosophy of Mind,4.91,4.82,4.64,4.73,4.46,3.64,4.73
+Philosophy,407,Colin,Koopman,Sem Info Politics,4.4,4.6,4.0,4.4,4.2,4.6,4.6
+Philosophy,407,Alejandro,Vallega,Sem Justice & Violence,4.46,4.46,3.82,4.09,4.0,3.54,4.36
+Philosophy,407,Bonnie,Mann,Sem Queer Philosophy,4.46,4.92,4.46,4.38,4.46,4.0,4.62
+Philosophy,407,Scott,Pratt,Sem Adv Symbolic Logic,1.57,1.63,1.6,1.6,1.63,1.63,24.05
+Philosophy,407,Colin,Koopman,Sem Phil of Internet,4.56,4.78,4.0,4.67,4.56,4.22,4.33
+Philosophy,407,Alejandro,Vallega,Sem Decol Lat Thought,5.0,5.0,4.6,4.6,5.0,4.6,5.0
+Philosophy,407,Mark,Johnson,Sem Phil of Cog Sci,4.44,4.6,4.22,4.4,4.6,4.3,4.7
+Philosophy,407,Naomi,Zack,Sem Early Modern Philo,4.6,4.8,4.6,4.6,4.4,4.2,4.8
+Philosophy,407,Naomi,Zack,Sem Analytic Methods,4.57,4.71,4.57,4.43,4.57,4.71,4.43
+Philosophy,407,Jonathan,Crouch,Sem Advanced Logic,4.7,4.6,4.4,4.5,4.7,4.4,4.8
+Philosophy,407,Mark,Johnson,Sem Sources of Self,2.39,2.44,2.39,2.39,2.39,2.28,18.71
+Philosophy,407,John,Lysaker,Sem Sources of Self,2.4,2.4,2.4,2.4,2.5,2.3,18.71
+Philosophy,407,Beata,Stawarska,Sem Philosophy of Mind,4.0,3.6,4.0,3.6,4.2,4.0,3.8
+Philosophy,407,Cheyney,Ryan,Sem Ethics & Politics,5.0,5.0,4.5,4.25,4.25,4.0,5.0
+Philosophy,407,Naomi,Zack,Sem Hist of Philosophy,5.0,5.0,4.8,4.8,4.8,4.8,5.0
+Philosophy,407,Adam,Arola,Sem Indigenous Phil,4.75,4.75,4.44,4.69,4.81,4.69,4.75
+Philosophy,407,John,Lysaker,Sem Latin Amer Phil,4.27,4.47,4.0,4.2,4.21,4.13,4.27
+Philosophy,407,Scott,Pratt,Sem Symbolic Logic,5.0,5.0,4.86,4.86,4.71,4.86,4.86
+Philosophy,410,Nicolae,Morar,Clinical Ethics,4.78,5.0,4.56,4.78,4.67,4.11,4.89
+Philosophy,410,Naomi,Zack,Home & Homelessness,2.38,2.25,2.0,2.19,2.38,2.25,18.92
+Philosophy,410,Colin,Koopman,Information Ethics,4.78,4.78,4.56,4.67,4.67,4.44,4.78
+Philosophy,410,Naomi,Zack,Philosophy & the News,4.11,4.22,4.0,3.56,4.44,4.11,3.78
+Philosophy,410,Dale,Jamieson,Climate Ethics & Law,4.16,4.16,4.0,3.95,4.05,3.79,4.26
+Philosophy,415,Beata,Stawarska,Top Cont Phil Key Prob,4.4,4.4,4.6,4.4,4.8,4.2,4.2
+Philosophy,415,Daniela,Vallega-Neu,Top Lang & Performativ,5.0,5.0,5.0,5.0,5.0,4.5,5.0
+Philosophy,415,Rocio,Zambrana,Cont Phil Crit Theory,3.75,3.25,3.25,3.12,4.25,4.25,4.12
+Philosophy,415,Brian,Elliott,Top Democ/Comm/Citizen,4.0,4.0,3.5,3.75,4.0,2.75,3.5
+Philosophy,420,Colin,Koopman,Top Pragmatism,2.5,2.42,2.42,2.42,2.33,2.42,19.57
+Philosophy,420,Colin,Koopman,Top Pragm & Metaphysic,4.78,4.78,4.67,4.67,4.67,4.56,4.89
+Philosophy,420,Michael,Slater,Top Americn Philosophy,3.33,3.67,4.0,4.0,3.0,3.67,3.33
+Philosophy,421,Peter,Warnek,Top Plato,0.71,0.68,0.66,0.65,0.74,0.64,26.67
+Philosophy,421,Peter,Warnek,Top Aristotle's Ethics,4.62,4.75,3.75,4.25,3.88,3.75,4.5
+Philosophy,421,Peter,Warnek,Top Aristotle,2.06,2.22,1.72,2.0,2.17,1.83,18.22
+Philosophy,421,Daniela,Vallega-Neu,Top The Presocratics,3.89,3.89,3.89,4.0,4.44,3.0,4.11
+Philosophy,421,Adam,Arola,Top Aristotle,4.0,4.35,3.53,3.35,3.29,3.53,3.82
+Philosophy,421,Erin,Cline,Top Kongzi & Mengzi,4.72,4.67,4.5,4.61,4.39,4.61,4.56
+Philosophy,425,Mark,Johnson,Philosophy of Language,1.53,1.6,1.53,1.53,1.57,1.37,23.09
+Philosophy,425,Philip,Mayo,Philosophy of Language,4.7,4.7,4.5,4.6,4.4,4.1,4.8
+Philosophy,433,Naomi,Zack,Top Hume & Berkeley,4.2,4.3,4.0,3.9,4.7,4.5,4.5
+Philosophy,433,Naomi,Zack,Top Descartes & Locke,1.52,1.48,1.48,1.52,1.63,1.52,21.01
+Philosophy,433,Naomi,Zack,Top Hume and Berkeley,2.33,2.5,2.0,2.5,2.5,2.33,18.6
+Philosophy,433,Daniela,Vallega-Neu,Top Spinoza,2.5,2.5,2.42,2.42,2.42,2.33,18.35
+Philosophy,433,Peter,Warnek,Top Kant's 1st Crit,3.89,4.33,3.44,4.22,3.33,3.33,4.11
+Philosophy,433,Annabelle,Dufourcq,Top Descartes,4.67,4.67,5.0,4.0,5.0,4.67,5.0
+Philosophy,433,Daniela,Vallega-Neu,Top Leibniz,3.67,3.83,3.83,3.67,3.83,4.0,3.67
+Philosophy,433,Mark,Johnson,Top Kant,2.28,2.34,2.34,2.31,2.19,2.16,18.94
+Philosophy,433,Cheyney,Ryan,Top Hobbes & Rousseau,4.5,4.5,3.83,3.67,4.67,4.33,4.83
+Philosophy,433,Naomi,Zack,Top Descartes,4.4,4.2,4.2,4.2,4.7,4.4,4.5
+Philosophy,441,Alejandro,Vallega,Top Word & Image,4.6,4.8,4.6,4.6,4.6,4.4,4.8
+Philosophy,443,Erin,McKenna,Top Eco-Feminism,2.21,2.17,2.24,2.14,2.26,2.14,19.15
+Philosophy,443,Bonnie,Mann,Top Sex & Gender,4.8,4.8,4.8,4.8,4.8,4.8,4.8
+Philosophy,443,Beata,Stawarska,Top Fem Philo Language,4.67,4.33,4.67,4.33,4.83,4.67,4.83
+Philosophy,443,Naomi,Zack,Feminist Phil: Topic,4.5,4.33,4.33,4.0,4.17,4.0,4.17
+Philosophy,443,Silvia,Stoller,Top Femin Phil Ethics,4.4,4.4,4.2,4.2,4.6,4.2,4.6
+Philosophy,443,Beata,Stawarska,Top Femnst Philosophy,5.0,4.75,4.5,4.75,4.75,4.5,4.5
+Philosophy,451,Scott,Pratt,Native American Phil,2.47,2.47,2.34,2.31,2.09,2.28,19.44
+Philosophy,452,Camisha,Russell,Philosophy and Race,4.64,4.57,4.57,4.5,4.71,4.36,4.64
+Philosophy,452,Naomi,Zack,Philosophy and Race,2.18,2.18,2.23,2.18,2.1,2.23,18.85
+Philosophy,452,Colin,Koopman,Philosophy and Race,4.5,4.75,4.5,4.5,4.67,4.5,4.33
+Philosophy,453,Rocio,Zambrana,Top Marx,1.51,1.49,1.47,1.42,1.37,1.35,22.64
+Philosophy,453,Daniela,Vallega-Neu,Top Nietzsche,2.14,2.11,1.94,2.19,2.19,1.94,18.58
+Philosophy,453,Rocio,Zambrana,Top Hegel Phen Spirit,4.71,4.57,5.0,4.57,4.71,4.86,4.86
+Philosophy,453,Peter,Warnek,Top Schelling,1.58,1.62,1.38,1.42,1.5,1.42,24.29
+Philosophy,453,Rocio,Zambrana,Top Hegel Spirit Pheno,4.71,4.86,4.5,4.57,4.79,4.71,4.86
+Philosophy,453,Bonnie,Mann,Top Arendt,4.75,4.83,4.83,4.58,4.67,4.5,4.83
+Philosophy,453,Rocio,Zambrana,Top Kant,4.6,4.4,4.6,4.4,4.9,4.8,4.8
+Philosophy,453,Cheyney,Ryan,Top Marx,1.56,1.56,1.45,1.48,1.47,1.49,23.77
+Philosophy,453,Rocio,Zambrana,Top Hegel,4.8,4.4,4.4,4.6,4.8,4.8,4.8
+Philosophy,453,Colin,Koopman,Top James,4.68,4.68,4.47,4.16,4.63,4.58,4.58
+Philosophy,453,Jonathan,Crouch,Top Royce,4.58,4.75,4.58,4.33,4.83,4.75,4.75
+Philosophy,453,Steven,Brence,Top Schopenh & Kierkeg,4.67,4.67,4.42,4.5,4.92,4.58,4.67
+Philosophy,463,Erin,McKenna,Top Plumwood,4.75,4.67,4.42,4.5,4.67,4.33,4.83
+Philosophy,463,Alejandro,Vallega,Top Dussel,1.51,1.56,1.44,1.49,1.46,1.31,22.67
+Philosophy,463,Mark,Johnson,Top Dewey,0.96,0.97,0.91,0.94,0.9,0.88,27.42
+Philosophy,463,Peter,Warnek,Top Arendt,4.42,4.42,3.92,4.25,4.33,3.92,4.58
+Philosophy,463,Mark,Johnson,Top Dewey's Ethics,4.64,4.64,4.36,4.64,4.46,4.36,4.64
+Philosophy,463,Nicolae,Morar,Top Iris Marion Young,4.78,4.89,4.67,4.67,4.78,5.0,4.78
+Philosophy,463,Peter,Warnek,Top Heidegger,5.0,5.0,4.75,4.75,4.0,4.0,5.0
+Philosophy,463,Naomi,Zack,Top Sartre,1.24,1.27,1.27,1.22,1.42,1.27,22.37
+Philosophy,463,Bonnie,Mann,Top Beauvoir,1.21,1.23,1.2,1.21,1.11,1.14,26.08
+Philosophy,463,Erin,McKenna,Top A Locke,4.4,4.4,4.4,4.4,4.2,4.4,4.4
+Philosophy,463,Beata,Stawarska,Top Derrida,2.17,2.11,2.28,2.17,2.22,2.22,17.73
+Philosophy,463,Daniela,Vallega-Neu,Top Bergson,4.67,4.67,4.67,4.33,4.33,4.0,4.33
+Philosophy,463,Erin,McKenna,Top Gilman,5.0,5.0,5.0,4.67,5.0,4.0,5.0
+Philosophy,463,Beata,Stawarska,Top Kristeva,2.44,2.44,2.44,2.44,2.44,2.31,18.01
+Philosophy,463,Daniela,Vallega-Neu,Top Husserl,2.17,2.08,2.17,2.25,2.08,2.0,12.58
+Philosophy,463,Scott,Pratt,Top Peirce,4.44,4.56,4.44,4.38,4.5,4.44,4.56
+Philosophy,463,Beata,Stawarska,Top Irigaray,2.3,2.37,2.3,2.3,2.37,2.27,19.8
+Philosophy,463,Rocio,Zambrana,Top Adorno & Benjamin,4.38,4.38,4.25,4.38,4.44,4.44,4.4
+Philosophy,463,Daniela,Vallega-Neu,Top Gadamer,2.25,2.42,2.17,2.33,2.17,2.08,19.83
+Philosophy,463,Bonnie,Mann,Top Arendt,4.82,4.94,4.59,4.76,4.47,4.24,4.82
+Philosophy,463,Naomi,Zack,Top Lewis and Quine,4.56,4.78,4.78,4.78,4.67,4.56,4.67
+Philosophy,463,Alejandro,Vallega,Top Rodolfo Kusch,4.8,4.89,4.56,4.33,4.6,4.3,4.8
+Philosophy,463,Daniela,Vallega-Neu,Top Heidegger,2.36,2.43,2.14,2.29,2.14,2.14,17.52
+Philosophy,463,Mark,Johnson,Top James Psychology,4.89,5.0,4.72,4.78,4.72,4.39,4.67
+Philosophy,463,Colin,Koopman,Top Foucault & Deleuze,4.75,4.83,4.67,4.58,4.75,4.58,4.83
+Philosophy,463,Scott,Pratt,Top Royce,4.67,4.83,4.67,4.67,4.5,4.17,4.67
+Philosophy,463,Colin,Koopman,Top Rorty,4.77,5.0,4.69,4.77,4.77,4.69,4.85
+Philosophy,463,Alejandro,Vallega,Top Garcia-Marquez,4.4,4.33,4.2,4.0,4.4,3.53,4.53
+Philosophy,463,Colin,Koopman,Top Dewey,4.8,4.67,4.73,4.47,4.8,4.8,4.87
+Philosophy,463,Brian,Elliott,Top Benjamin,4.46,4.46,4.09,4.0,4.46,4.18,4.46
+Philosophy,463,Bonnie,Mann,Top Butler,4.25,4.31,4.25,4.38,4.44,4.12,4.31
+Philosophy,463,Cheyney,Ryan,Top Rawls,4.4,4.4,4.0,4.0,4.0,4.4,4.8
+Philosophy,463,Silvia,Stoller,Top Irigaray,3.78,3.67,3.56,3.5,4.44,3.33,4.22
+Philosophy,463,Mark,Johnson,20C Philos: Top Rorty,4.56,4.67,4.89,4.56,4.44,4.56,4.56
+Philosophy,463,Bonnie,Mann,Top: Wittig/Guillaumin,4.83,5.0,4.83,4.83,4.67,4.83,5.0
+Philosophy,463,Beata,Stawarska,Top Freud,4.33,4.33,4.4,4.53,4.33,4.53,4.47
+Philosophy,471H,Beata,Stawarska,Honors Thesis Workshop,1.67,1.67,1.53,1.47,1.53,1.53,21.5
+Philosophy,507,Scott,Pratt,Sem Advanced Logic,2.32,2.32,2.07,2.11,1.89,2.14,18.61
+Philosophy,507,Rocio,Zambrana,Sem Women of Color Fem,4.67,4.67,4.67,4.56,5.0,4.67,4.89
+Philosophy,507,Alejandro,Vallega,Sem Border Philosophy,4.67,4.67,4.33,4.33,4.5,4.5,4.67
+Philosophy,507,Ted,Toadvine,Sem Touching Touch,5.0,5.0,5.0,4.67,5.0,5.0,5.0
+Philosophy,507,Alejandro,Vallega,Sem Decolonial Phil,4.67,4.67,4.67,4.83,4.5,4.33,4.83
+Philosophy,507,Nicolae,Morar,Sem Biopower,4.62,4.5,4.62,4.5,4.75,4.5,4.5
+Philosophy,507,Colin,Koopman,Sem Info Politics,4.4,4.6,4.0,4.4,4.2,4.6,4.6
+Philosophy,507,Alejandro,Vallega,Sem Justice & Violence,4.46,4.46,3.82,4.09,4.0,3.54,4.36
+Philosophy,507,Bonnie,Mann,Sem Queer Philosophy,4.46,4.92,4.46,4.38,4.46,4.0,4.62
+Philosophy,507,Scott,Pratt,Sem Adv Symbolic Logic,1.57,1.63,1.6,1.6,1.63,1.63,24.05
+Philosophy,507,Alejandro,Vallega,Sem Decol Lat Thought,5.0,5.0,4.6,4.6,5.0,4.6,5.0
+Philosophy,507,Mark,Johnson,Sem Phil of Cog Sci,4.44,4.6,4.22,4.4,4.6,4.3,4.7
+Philosophy,507,Mark,Johnson,Sem Sources of Self,2.39,2.44,2.39,2.39,2.39,2.28,18.71
+Philosophy,507,John,Lysaker,Sem Sources of Self,2.4,2.4,2.4,2.4,2.5,2.3,18.71
+Philosophy,507,John,Lysaker,Sem Latin Amer Phil,4.27,4.47,4.0,4.2,4.21,4.13,4.27
+Philosophy,507,Scott,Pratt,Sem Symbolic Logic,5.0,5.0,4.86,4.86,4.71,4.86,4.86
+Philosophy,510,Naomi,Zack,Home & Homelessness,2.38,2.25,2.0,2.19,2.38,2.25,18.92
+Philosophy,510,Nicolae,Morar,Phil of Biology,4.75,4.75,4.38,4.62,4.75,4.38,4.75
+Philosophy,510,Naomi,Zack,Philosophy & the News,4.11,4.22,4.0,3.56,4.44,4.11,3.78
+Philosophy,510,Dale,Jamieson,Climate Ethics & Law,4.16,4.16,4.0,3.95,4.05,3.79,4.26
+Philosophy,521,Peter,Warnek,Top Plato,0.89,0.84,0.83,0.81,0.92,0.8,24.81
+Philosophy,521,Peter,Warnek,Top Aristotle's Ethics,4.62,4.75,3.75,4.25,3.88,3.75,4.5
+Philosophy,521,Peter,Warnek,Top Aristotle,2.06,2.22,1.72,2.0,2.17,1.83,18.22
+Philosophy,521,Daniela,Vallega-Neu,Top The Presocratics,3.89,3.89,3.89,4.0,4.44,3.0,4.11
+Philosophy,521,Adam,Arola,Top Aristotle,4.0,4.35,3.53,3.35,3.29,3.53,3.82
+Philosophy,521,Erin,Cline,Top Kongzi & Mengzi,4.72,4.67,4.5,4.61,4.39,4.61,4.56
+Philosophy,533,Naomi,Zack,Top Hume & Berkeley,4.2,4.3,4.0,3.9,4.7,4.5,4.5
+Philosophy,533,Naomi,Zack,Top Descartes & Locke,1.52,1.48,1.48,1.52,1.63,1.52,21.01
+Philosophy,533,Naomi,Zack,Top Hume and Berkeley,2.33,2.5,2.0,2.5,2.5,2.33,18.6
+Philosophy,533,Daniela,Vallega-Neu,Top Spinoza,2.5,2.5,2.42,2.42,2.42,2.33,18.35
+Philosophy,533,Peter,Warnek,Top Kant's 1st Crit,3.89,4.33,3.44,4.22,3.33,3.33,4.11
+Philosophy,533,Annabelle,Dufourcq,Top Descartes,4.67,4.67,5.0,4.0,5.0,4.67,5.0
+Philosophy,533,Daniela,Vallega-Neu,Top Leibniz,3.67,3.83,3.83,3.67,3.83,4.0,3.67
+Philosophy,533,Mark,Johnson,Top Kant,2.28,2.34,2.34,2.31,2.19,2.16,18.94
+Philosophy,533,Cheyney,Ryan,Top Hobbes & Rousseau,4.5,4.5,3.83,3.67,4.67,4.33,4.83
+Philosophy,533,Naomi,Zack,Top Descartes,4.4,4.2,4.2,4.2,4.7,4.4,4.5
+Philosophy,551,Scott,Pratt,Native American Phil,2.47,2.47,2.34,2.31,2.09,2.28,19.44
+Philosophy,553,Rocio,Zambrana,Top Marx,1.51,1.49,1.47,1.42,1.37,1.35,22.64
+Philosophy,553,Daniela,Vallega-Neu,Top Nietzsche,2.14,2.11,1.94,2.19,2.19,1.94,18.58
+Philosophy,553,Rocio,Zambrana,Top Hegel Phen Spirit,4.71,4.57,5.0,4.57,4.71,4.86,4.86
+Philosophy,553,Peter,Warnek,Top Schelling,2.38,2.44,2.06,2.12,2.25,2.12,18.94
+Philosophy,553,Rocio,Zambrana,Top Hegel Spirit Pheno,4.71,4.86,4.5,4.57,4.79,4.71,4.86
+Philosophy,553,Bonnie,Mann,Top Arendt,4.75,4.83,4.83,4.58,4.67,4.5,4.83
+Philosophy,553,Rocio,Zambrana,Top Kant,4.6,4.4,4.6,4.4,4.9,4.8,4.8
+Philosophy,553,Cheyney,Ryan,Top Marx,1.56,1.56,1.45,1.48,1.47,1.49,23.77
+Philosophy,553,Rocio,Zambrana,Top Hegel,4.8,4.4,4.4,4.6,4.8,4.8,4.8
+Philosophy,553,Colin,Koopman,Top James,4.68,4.68,4.47,4.16,4.63,4.58,4.58
+Philosophy,553,Jonathan,Crouch,Top Royce,4.58,4.75,4.58,4.33,4.83,4.75,4.75
+Philosophy,553,Steven,Brence,Top Schopenh & Kierkeg,4.67,4.67,4.42,4.5,4.92,4.58,4.67
+Philosophy,563,Erin,McKenna,Top Plumwood,4.75,4.67,4.42,4.5,4.67,4.33,4.83
+Philosophy,563,Alejandro,Vallega,Top Dussel,1.51,1.56,1.44,1.49,1.46,1.31,22.67
+Philosophy,563,Mark,Johnson,Top Dewey,0.96,0.97,0.91,0.94,0.9,0.88,27.42
+Philosophy,563,Peter,Warnek,Top Arendt,4.42,4.42,3.92,4.25,4.33,3.92,4.58
+Philosophy,563,Mark,Johnson,Top Dewey's Ethics,4.64,4.64,4.36,4.64,4.46,4.36,4.64
+Philosophy,563,Nicolae,Morar,Top Iris Marion Young,4.78,4.89,4.67,4.67,4.78,5.0,4.78
+Philosophy,563,Naomi,Zack,Top Sartre,1.24,1.27,1.27,1.22,1.42,1.27,22.37
+Philosophy,563,Bonnie,Mann,Top Beauvoir,1.21,1.23,1.2,1.21,1.11,1.14,26.08
+Philosophy,563,Erin,McKenna,Top A Locke,4.4,4.4,4.4,4.4,4.2,4.4,4.4
+Philosophy,563,Beata,Stawarska,Top Derrida,2.17,2.11,2.28,2.17,2.22,2.22,17.73
+Philosophy,563,Daniela,Vallega-Neu,Top Bergson,4.67,4.67,4.67,4.33,4.33,4.0,4.33
+Philosophy,563,Beata,Stawarska,Top Kristeva,2.44,2.44,2.44,2.44,2.44,2.31,18.01
+Philosophy,563,Scott,Pratt,Top Peirce,4.44,4.56,4.44,4.38,4.5,4.44,4.56
+Philosophy,563,Beata,Stawarska,Top Irigaray,2.3,2.37,2.3,2.3,2.37,2.27,19.8
+Philosophy,563,Rocio,Zambrana,Top Adorno & Benjamin,4.38,4.38,4.25,4.38,4.44,4.44,4.4
+Philosophy,563,Daniela,Vallega-Neu,Top Gadamer,2.25,2.42,2.17,2.33,2.17,2.08,19.83
+Philosophy,563,Bonnie,Mann,Top Arendt,4.82,4.94,4.59,4.76,4.47,4.24,4.82
+Philosophy,563,Naomi,Zack,Top Lewis and Quine,4.56,4.78,4.78,4.78,4.67,4.56,4.67
+Philosophy,563,Alejandro,Vallega,Top Rodolfo Kusch,4.8,4.89,4.56,4.33,4.6,4.3,4.8
+Philosophy,563,Daniela,Vallega-Neu,Top Heidegger,2.36,2.43,2.14,2.29,2.14,2.14,17.52
+Philosophy,563,Mark,Johnson,Top James Psychology,4.89,5.0,4.72,4.78,4.72,4.39,4.67
+Philosophy,563,Colin,Koopman,Top Foucault & Deleuze,4.75,4.83,4.67,4.58,4.75,4.58,4.83
+Philosophy,563,Scott,Pratt,Top Royce,4.67,4.83,4.67,4.67,4.5,4.17,4.67
+Philosophy,563,Colin,Koopman,Top Rorty,4.77,5.0,4.69,4.77,4.77,4.69,4.85
+Philosophy,563,Alejandro,Vallega,Top Garcia-Marquez,4.4,4.33,4.2,4.0,4.4,3.53,4.53
+Philosophy,563,Colin,Koopman,Top Dewey,4.8,4.67,4.73,4.47,4.8,4.8,4.87
+Philosophy,563,Daniela,Vallega-Neu,Top Husserl,2.85,2.69,3.08,2.54,3.85,2.77,3.0
+Philosophy,563,Brian,Elliott,Top Benjamin,4.46,4.46,4.09,4.0,4.46,4.18,4.46
+Philosophy,563,Bonnie,Mann,Top Butler,4.25,4.31,4.25,4.38,4.44,4.12,4.31
+Philosophy,563,Cheyney,Ryan,Top Rawls,4.4,4.4,4.0,4.0,4.0,4.4,4.8
+Philosophy,563,Silvia,Stoller,Top Irigaray,3.78,3.67,3.56,3.5,4.44,3.33,4.22
+Philosophy,563,Mark,Johnson,20C Philos: Top Rorty,4.56,4.67,4.89,4.56,4.44,4.56,4.56
+Philosophy,563,Bonnie,Mann,Top: Wittig/Guillaumin,4.83,5.0,4.83,4.83,4.67,4.83,5.0
+Philosophy,563,Beata,Stawarska,Top Freud,4.33,4.33,4.4,4.53,4.33,4.53,4.47
+Philosophy,607,Daniela,Vallega-Neu,Sem Phil & Teaching,1.5,1.58,1.5,1.5,1.5,1.5,24.14
+Philosophy,607,Camisha,Russell,Sem Race & Bioethics,4.6,4.4,4.4,4.0,4.6,4.6,4.8
+Philosophy,607,Alejandro,Vallega,Sem Time/Spce Non-West,4.4,4.6,4.2,4.6,4.8,4.2,4.4
+Philosophy,607,Naomi,Zack,Sem Pro Analytic Phil,1.86,1.89,1.93,1.86,2.36,2.07,18.03
+Philosophy,607,Erin,McKenna,Sem Pro American,3.69,3.77,4.08,3.85,4.46,4.23,4.08
+Philosophy,607,Nicolae,Morar,Sem Deleuze's Foucault,4.8,4.8,4.6,4.4,4.8,4.6,4.6
+Philosophy,607,Colin,Koopman,Sem Data Genealogy,4.83,4.83,5.0,4.83,4.83,4.83,4.83
+Philosophy,607,Bonnie,Mann,Sem Phil & Teaching,0.75,0.83,0.75,0.83,0.75,0.75,26.4
+Philosophy,607,Beata,Stawarska,Sem Pro Continental,4.27,4.46,4.36,4.27,4.64,4.36,4.18
+Philosophy,607,Daniela,Vallega-Neu,Sem Body and Space,4.57,4.57,4.14,4.43,4.57,4.14,4.71
+Philosophy,607,Naomi,Zack,Sem Hist of Pol Phil,4.27,4.27,4.27,4.18,4.64,4.46,4.18
+Philosophy,607,Bonnie,Mann,Sem Pro Feminism,1.62,1.6,1.62,1.54,1.44,1.44,23.43
+Philosophy,607,Alejandro,Vallega,Sem Kusch,4.33,4.67,4.0,4.0,4.17,3.83,4.33
+Philosophy,607,Alejandro,Vallega,Sem Philos & Poetry,4.67,4.67,4.33,4.33,4.67,4.33,4.67
+Philosophy,607,Colin,Koopman,Sem Genealogy,4.86,5.0,4.71,4.71,4.71,4.57,5.0
+Philosophy,607,Erin,McKenna,Sem Amer Pro-Seminar,2.73,2.82,3.54,3.36,4.73,2.46,3.27
+Philosophy,607,Naomi,Zack,Sem Pro Analytic,3.73,3.91,3.91,3.18,4.54,3.36,4.18
+Philosophy,607,Mark,Alfano,Sem The Emotions,4.75,4.75,4.25,4.75,4.75,5.0,4.5
+Philosophy,607,Scott,Pratt,Sem Phil & Teaching,0.37,0.38,0.37,0.36,0.38,0.37,29.45
+Philosophy,607,Alejandro,Vallega,Sem Indigenous Thought,4.67,4.67,4.67,4.67,4.67,4.67,4.67
+Philosophy,607,Scott,Pratt,Sem Amer Pro-Seminar,4.85,4.92,4.92,4.92,4.85,5.0,4.85
+Philosophy,607,Naomi,Zack,Sem Analytic Pro,4.0,4.25,4.25,4.08,4.75,4.67,4.17
+Philosophy,607,Beata,Stawarska,Sem Pro-sem Continentl,3.73,3.8,4.0,3.89,4.0,4.46,4.09
+Philosophy,607,Ted,Toadvine,Sem Phil & Teaching,1.41,1.44,1.44,1.41,1.44,1.44,21.67
+Philosophy,607,Naomi,Zack,Sem Pro Analyt Methods,3.56,3.44,3.44,3.11,4.78,3.11,3.89
+Philosophy,607,Colin,Koopman,Sem Am Pro,4.54,4.64,4.91,4.36,4.82,4.82,4.73
+Philosophy,607,Beata,Stawarska,Sem Phenomen & Struct,4.4,4.6,4.6,4.4,4.8,4.8,4.4
+Philosophy,607,Mark,Johnson,Sem Self-Knowledge,4.67,4.89,4.67,4.67,4.89,4.56,4.56
+Philosophy,607,Peter,Warnek,Sem Pro Continental,2.88,3.25,3.0,3.0,3.12,3.5,3.0
+Philosophy,607,Bonnie,Mann,Sem Pro Fem Philosophy,4.85,5.0,5.0,5.0,4.92,4.46,4.92
+Philosophy,607,Alejandro,Vallega,Sem Latin America Phil,4.73,4.73,4.36,4.27,4.54,4.09,4.54
+Philosophy,607,Scott,Pratt,Sem Pro American,4.88,5.0,4.88,5.0,4.88,4.88,5.0
+Philosophy,607,Ted,Toadvine,Sem Deleuze,5.0,5.0,4.83,4.67,5.0,4.5,4.83
+Philosophy,610,Bonnie,Mann,Faculty Books,2.33,2.33,2.33,2.33,2.33,2.5,18.08
+Philosophy,614,Erin,McKenna,Issues in Ethics,4.5,4.5,4.5,4.17,4.83,4.83,4.5
+Philosophy,614,Mark,Alfano,Issues in Ethics,5.0,5.0,5.0,5.0,5.0,4.67,5.0
+Philosophy,614,Mark,Johnson,Issues in Ethics,4.8,4.8,4.8,4.6,4.6,4.6,4.8
+Philosophy,615,Ted,Toadvine,Top Merleau-Ponty,4.75,4.75,4.75,4.75,4.75,4.75,4.75
+Philosophy,615,Beata,Stawarska,Top Cont Pro-Seminar,4.3,4.5,4.4,4.3,4.7,4.3,4.3
+Philosophy,615,Daniela,Vallega-Neu,Top Time,4.5,4.5,4.75,4.5,4.75,4.5,5.0
+Philosophy,615,Ted,Toadvine,Top Deleuze Diff/Repet,5.0,5.0,5.0,5.0,4.83,5.0,5.0
+Philosophy,615,Ted,Toadvine,Top Animality,5.0,5.0,5.0,4.6,4.8,4.6,5.0
+Philosophy,615,Rocio,Zambrana,Top Critical Theory,5.0,5.0,5.0,5.0,5.0,5.0,5.0
+Philosophy,615,Brian,Elliott,Top Critical Theory,4.2,4.4,4.4,4.0,4.6,4.2,4.2
+Philosophy,615,Silvia,Stoller,Continental Phil: Top,4.0,4.0,4.33,4.33,5.0,4.0,4.33
+Philosophy,620,Colin,Koopman,Top Pragmatist Soc Sci,5.0,5.0,4.8,4.8,4.6,5.0,5.0
+Philosophy,620,Scott,Pratt,Top Feminism/Pragmatsm,5.0,5.0,4.75,5.0,4.75,4.5,5.0
+Philosophy,620,Scott,Pratt,Top Native Amer Phil,5.0,5.0,5.0,5.0,5.0,5.0,5.0
+Philosophy,620,Colin,Koopman,Top Pluralist Politics,5.0,5.0,5.0,5.0,5.0,5.0,5.0
+Philosophy,620,Colin,Koopman,Amer Philosophy: Topic,5.0,5.0,5.0,5.0,5.0,4.67,5.0
+Philosophy,625,Mark,Johnson,Philosophy of Language,1.2,1.2,1.2,1.15,1.25,1.15,25.42
+Philosophy,641,Colin,Koopman,Top Political Theory,4.14,4.14,4.29,4.0,4.29,4.43,4.14
+Philosophy,641,Naomi,Zack,Top Hist West Pol Phil,4.6,4.6,4.2,4.4,4.8,4.4,4.6
+Philosophy,641,Cheyney,Ryan,Soc & Political Phil,4.67,4.67,4.67,4.0,5.0,4.0,5.0
+Philosophy,643,Bonnie,Mann,Top Feminist Phenomen,2.5,2.5,2.3,2.3,2.4,2.4,16.5
+Philosophy,643,Bonnie,Mann,Top Fem Phenomen & Pol,5.0,5.0,5.0,5.0,4.75,4.75,5.0
+Philosophy,643,Bonnie,Mann,Top Feminist Ethics,5.0,5.0,4.86,4.86,4.86,4.71,5.0
+Philosophy,643,Bonnie,Mann,Top Fem Political Phil,5.0,5.0,5.0,5.0,5.0,5.0,5.0
+Philosophy,643,Naomi,Zack,Feminist Phil: Topic,2.4,2.4,2.2,2.2,2.5,2.4,19.42
+Philosophy,643,Beata,Stawarska,Top Feminist Phenomen,3.67,3.83,3.67,3.83,4.5,3.5,4.0
+Philosophy,645,Nicolae,Morar,Top Human Nature,4.4,4.6,3.8,4.4,4.2,4.4,4.4
+Philosophy,645,Ted,Toadvine,Top Phenomen of Nature,4.44,4.78,4.78,4.67,4.78,4.56,4.89
+Philosophy,645,Ted,Toadvine,Top Concept of Nature,4.5,4.83,4.17,4.83,4.67,4.67,4.83
+Philosophy,657,Naomi,Zack,Phil & Race: Cont Iss,1.2,1.27,1.07,1.07,1.33,1.33,22.33
+Philosophy,657,Naomi,Zack,Philosophy & Race,4.5,4.5,4.5,4.5,4.75,4.5,4.5
+Philosophy,658,Mark,Johnson,Philosophy of Mind,4.33,4.5,4.17,4.33,4.33,4.17,4.67
+Philosophy,670,Peter,Warnek,Issues in Metaphysics,4.75,4.75,4.25,4.0,3.5,3.75,5.0
