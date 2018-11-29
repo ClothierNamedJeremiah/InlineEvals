@@ -2,9 +2,9 @@
 	"manifest_version": 2,
 	"name": "InlineEvals",
 	"short_name": "InlineEvals",
-	"version": "1.0.0",
+	"version": "1.0.1",
 
-	"description": "Gain insight on prior years' course evaluations as your searching for classes.",
+	"description": "Gain insight on prior years' course evaluations as you're searching for classes.",
 	"icons": {"128": "icons/icon128.png"},
 
 	"browser_action": {
