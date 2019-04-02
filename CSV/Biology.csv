@@ -1,5 +1,5 @@
 Biology,100,Santiago,Jaramillo,Brain to Intel Machine,4.53,4.53,4.68,4.58,4.42,4.42,4.47
-Biology,121,Vincent,Lombardi,Intro Human Physiology,4.32,4.39,4.31,4.34,4.32,4.23,4.25
+Biology,121,Vincent,Lombardi,Intro Human Physiology,4.32,4.38,4.31,4.33,4.32,4.23,4.25
 Biology,122,Amy,Connolly,Intro Human Genetics,4.1,4.05,4.12,3.98,4.12,4.07,3.98
 Biology,122,Roo,Vandegrift,Intro Human Genetics,4.34,4.49,4.49,4.46,4.48,4.37,4.24
 Biology,122,Kryn,Stankunas,Intro Human Genetics,3.57,3.4,3.77,3.63,4.03,3.71,3.63
@@ -50,11 +50,11 @@ Biology,199,Lorretta,Manson,Sp St Intr Health Prof,4.2,4.25,4.35,4.28,4.15,4.25,
 Biology,199,Mark,Carrier,Sp St Organismal Biol,4.75,4.5,3.5,4.0,4.0,4.0,4.5
 Biology,199,Arwen,Spicer,Sp St Intr Health Prof,3.92,3.87,3.83,3.96,4.13,3.96,4.17
 Biology,199,Karen,Cooper,Sp St Intro Dentistry,4.0,3.67,4.11,3.89,3.67,3.89,3.89
+Biology,211,Nicola,Barber,Gen Biol I: Cells,3.87,3.68,3.8,3.65,4.22,3.95,4.0
+Biology,211,Cristin,Hulslander,Gen Biol I: Cells,4.04,4.06,4.1,4.14,4.07,4.02,4.04
 Biology,211,Anya,Hopple,Gen Biol I: Cells,4.27,4.36,4.54,4.54,4.46,4.27,4.27
 Biology,211,Jana,Prikryl,Gen Biol I: Cells,4.12,4.14,4.2,4.27,4.16,4.05,4.13
 Biology,211,Peter,Wetherwax,Gen Biol I: Cells,4.22,4.23,4.35,4.37,4.22,4.14,4.22
-Biology,211,Nicola,Barber,Gen Biol I: Cells,4.01,3.87,4.08,3.9,4.21,4.11,4.13
-Biology,211,Cristin,Hulslander,Gen Biol I: Cells,4.04,4.06,4.1,4.15,4.05,4.02,4.04
 Biology,211,John,Postlethwait,Gen Biol I: Cells,3.93,3.76,3.94,4.0,3.94,3.91,3.98
 Biology,211,Lorien,Reynolds,Gen Biol I: Cells,4.29,4.29,4.29,4.41,4.53,4.53,4.65
 Biology,211,Hannah,Wilson,Gen Biol I: Cells,3.95,3.99,3.97,4.05,3.96,3.91,3.99
@@ -64,16 +64,16 @@ Biology,212,Hannah,Bishop,Gen Biol II: Organisms,4.37,4.63,4.33,4.63,4.59,4.33,4
 Biology,212,Mark,Carrier,Gen Biol II: Organisms,3.88,3.69,3.56,3.9,4.37,3.81,4.07
 Biology,212,Hannah,Wilson,Gen Biol II: Organisms,4.43,4.56,4.46,4.5,4.63,4.48,4.45
 Biology,212,Jana,Prikryl,Gen Biol II: Organisms,4.0,4.18,3.79,4.13,4.13,4.13,4.08
+Biology,213,Peter,Wetherwax,Gen Biol III: Populat,4.25,4.35,4.33,4.36,4.23,4.18,4.18
 Biology,213,Tobias,Policha,Gen Biol III: Populat,4.26,4.26,4.24,4.2,4.34,4.24,4.21
 Biology,213,Laurel,Pfeifer-Meister,Gen Biol III: Populat,4.18,4.06,4.22,4.07,4.21,4.07,4.17
-Biology,213,Peter,Wetherwax,Gen Biol III: Populat,4.25,4.35,4.33,4.36,4.24,4.19,4.17
 Biology,213,Rudyard,Borowczak,Gen Biol III: Populat,4.35,4.43,4.35,4.35,4.52,4.26,4.17
 Biology,213,Cristin,Hulslander,Gen Biol III: Populat,4.19,4.21,4.31,4.2,4.18,4.09,4.1
 Biology,213,Gabriel,Yospin,Gen Biol III: Populat,4.02,4.0,4.07,4.02,3.98,3.83,3.99
 Biology,213,Lisa,Turnbull,Gen Biol III: Populat,3.82,3.46,3.82,3.82,4.18,4.0,3.82
 Biology,213,Alan,Dickman,Gen Biol III: Populat,4.12,4.28,4.33,4.27,4.12,4.06,3.95
+Biology,214,Alan,Kelly,Gen Bio IV: Mechanisms,4.05,4.21,4.19,4.38,4.27,3.76,4.02
 Biology,214,Amy,Connolly,Gen Bio IV: Mechanisms,3.76,3.54,3.63,3.86,3.83,3.77,3.92
-Biology,214,Alan,Kelly,Gen Bio IV: Mechanisms,4.01,4.17,4.14,4.35,4.23,3.7,3.98
 Biology,214,Avinash,Singh,Gen Bio IV: Mechanisms,3.5,3.27,3.27,3.23,3.73,3.58,3.59
 Biology,214,Carl,Stiefbold,Gen Bio IV: Mechanisms,3.75,3.7,3.78,3.81,4.17,3.52,3.85
 Biology,214,Alan,Kelly,Gen Biol IV: Bioch/Gen,3.78,3.85,4.02,4.12,4.06,3.53,3.76
@@ -85,8 +85,9 @@ Biology,251,Monte,Westerfield,Found I: Bioch/Cell Ph,3.99,4.09,3.99,4.08,4.02,3.
 Biology,252,Alan,Kelly,Found II: Genet/Molec,4.18,4.29,4.28,4.41,4.16,3.86,4.13
 Biology,253,Ann,Petersen,Found III: Evol/Biodiv,3.2,3.09,2.74,3.17,3.94,3.09,3.29
 Biology,253,Bill,Cresko,Found III: Evol/Biodiv,4.43,4.49,4.41,4.33,4.24,4.22,4.36
+Biology,281H,Jeremy,Anderson,Honors Biology I,4.11,3.81,4.03,3.89,4.32,4.16,4.32
+Biology,281H,Laurel,Pfeifer-Meister,Honors Biology I,4.56,4.6,4.45,4.56,4.69,4.45,4.49
 Biology,281H,Mike,Harms,Honors Biology I,4.33,4.37,4.1,4.43,4.35,4.17,4.38
-Biology,281H,Laurel,Pfeifer-Meister,Honors Biology I,4.55,4.61,4.39,4.52,4.69,4.41,4.45
 Biology,281H,Carl,Stiefbold,Honors Biology I,3.83,3.85,3.72,3.81,3.98,3.51,3.88
 Biology,281H,Karen,Sprague,Honors Biology I,3.58,3.67,3.43,3.78,3.91,3.38,3.67
 Biology,282H,Tory,Herman,Honors Biology II,4.07,4.0,4.11,4.19,4.1,3.95,4.14
@@ -111,7 +112,7 @@ Biology,307,Tobias,Policha,Forest Biology,4.62,4.38,4.23,4.23,4.27,4.38,4.62
 Biology,307,Gabriel,Yospin,Forest Biology,3.73,3.27,3.82,3.77,4.0,3.18,3.68
 Biology,309,Janis,Weeks,Tropical Diseases Afr,4.37,4.32,4.27,4.27,4.27,4.08,4.43
 Biology,309,Janis,Weeks,Diseases of Africa,4.42,4.34,4.29,4.28,4.22,4.18,4.45
-Biology,320,Jana,Prikryl,Molecular Genetics,4.32,4.42,4.2,4.33,4.31,4.14,4.35
+Biology,320,Jana,Prikryl,Molecular Genetics,4.33,4.43,4.2,4.34,4.33,4.14,4.36
 Biology,320,Leslie,Coonrod,Molecular Genetics,4.33,4.38,4.4,4.49,4.43,4.19,4.43
 Biology,320,Tory,Herman,Molecular Genetics,4.14,4.05,4.15,4.27,4.2,4.12,4.25
 Biology,320,Patrick,Ball,Molecular Genetics,4.04,4.5,3.58,3.41,4.76,3.49,4.18
@@ -180,7 +181,7 @@ Biology,331,William,Truce,Microbiology Lab,4.4,3.83,4.2,4.0,4.0,4.2,4.4
 Biology,331,Crystal,Davey,Microbiology Lab,4.0,3.75,3.88,3.75,3.88,4.0,4.12
 Biology,331,Xin,Li,Microbiology Lab,3.6,2.2,3.4,2.2,2.75,2.8,4.0
 Biology,331,Hao,Song,Microbiology Lab,4.5,4.6,4.5,4.6,4.5,4.5,4.67
-Biology,353,Terry,Takahashi,Sensory Physiology,4.38,4.48,4.27,4.46,4.31,4.18,4.44
+Biology,353,Terry,Takahashi,Sensory Physiology,4.38,4.46,4.24,4.43,4.3,4.17,4.45
 Biology,353,Elizabeth,Whitchurch,Sensory Physiology,4.18,4.03,4.06,3.82,4.53,4.24,4.12
 Biology,355,Ann,Petersen,Vertebr Evol & Devel,4.11,4.12,3.63,4.02,4.42,3.87,4.3
 Biology,355,April,DeLaurier,Vertebr Evol & Devel,3.44,3.48,3.62,3.83,4.21,3.36,3.76
@@ -195,14 +196,14 @@ Biology,357,Maya,Watts,Marine Biology,4.32,4.43,4.16,4.43,4.53,4.22,4.49
 Biology,357,Ann,Petersen,Marine Biology,3.76,4.0,3.52,3.89,4.3,4.04,3.79
 Biology,358,Vincent,Lombardi,Inv Medical Physiology,4.54,4.55,4.32,4.47,4.5,4.28,4.47
 Biology,358,Edward,Johnson,Inv Medical Physiology,4.85,4.85,4.77,4.77,4.77,4.69,4.69
-Biology,359,Matt,Streisfeld,Plant Biology,4.25,4.22,4.3,4.25,4.08,4.1,4.26
+Biology,359,Matt,Streisfeld,Plant Biology,4.26,4.25,4.34,4.29,4.13,4.1,4.27
+Biology,360,Nathan,Tublitz,Neurobiology,4.48,4.57,4.25,4.41,4.42,4.27,4.4
 Biology,360,Hannah,Bishop,Neurobiology,4.21,4.18,4.34,4.31,4.27,4.18,4.25
-Biology,360,Nathan,Tublitz,Neurobiology,4.47,4.56,4.24,4.4,4.41,4.27,4.4
 Biology,360,Edward,Johnson,Neurobiology,4.81,4.77,4.81,4.84,4.61,4.78,4.73
+Biology,370,Tobias,Policha,Ecology,4.12,4.29,3.9,4.0,4.39,4.06,4.12
 Biology,370,Bitty,Roy,Ecology,3.88,3.84,3.67,3.83,4.23,3.78,3.98
 Biology,370,Laurel,Pfeifer-Meister,Ecology,4.22,4.28,4.15,4.19,4.51,4.11,4.15
 Biology,370,Anya,Hopple,Ecology,4.33,4.33,4.21,4.15,4.42,4.24,4.3
-Biology,370,Tobias,Policha,Ecology,4.17,4.39,4.0,4.2,4.39,4.11,4.18
 Biology,370,Jesse,McAlpine,Ecology,4.14,4.14,3.76,4.05,4.0,4.05,4.14
 Biology,370,Maya,Goklany,Ecology,3.88,3.76,3.83,3.96,4.17,3.92,3.92
 Biology,370,Matthew,Orr,Ecology,4.32,4.2,4.4,4.49,4.54,4.36,4.28
@@ -221,7 +222,7 @@ Biology,374,Cristin,Hulslander,Conservation Biology,4.12,4.2,4.24,4.18,4.27,4.29
 Biology,375,Gabriel,Yospin,Biological Diversity,3.55,3.65,3.23,3.61,4.22,3.14,3.53
 Biology,375,Jessica,Green,Biological Diversity,3.74,3.91,3.45,3.67,4.0,3.57,3.77
 Biology,375,Keaton,Stagaman,Biological Diversity,3.94,3.88,3.82,3.77,3.88,3.77,3.77
-Biology,380,William,Bradshaw,Evolution,4.11,4.12,3.82,3.63,4.04,3.83,4.11
+Biology,380,William,Bradshaw,Evolution,4.12,4.13,3.85,3.64,4.06,3.84,4.13
 Biology,380,Gabriel,Yospin,Evolution,3.44,3.35,3.33,3.24,3.91,3.22,3.24
 Biology,380,Patrick,Phillips,Evolution,4.36,4.51,4.53,4.53,4.41,4.07,4.33
 Biology,380,David,Anderson,Evolution,4.5,4.57,4.52,4.46,4.51,4.39,4.37
@@ -258,21 +259,22 @@ Biology,399,Cristin,Hulslander,Sp St Conservation Bio,3.7,3.61,3.83,3.78,3.91,3.
 Biology,399,William,Roberts,Sp St Cell Bio Senses,4.25,4.5,4.5,4.5,3.75,4.25,4.5
 Biology,399,Eric,Selker,Sp St Molec Geneti Lab,4.71,4.57,4.0,4.57,4.83,3.86,5.0
 Biology,399,Janis,Weeks,Sp St Diseases Africa,4.74,4.71,4.65,4.63,4.4,4.45,4.76
+Biology,402,Cristin,Hulslander,Superv College Teach,4.67,4.67,4.56,4.56,4.67,4.67,4.44
+Biology,402,Alan,Kelly,Superv College Teach,4.72,4.68,4.68,4.67,4.77,4.73,4.58
 Biology,402,Mark,Carrier,Superv College Teach,4.82,4.78,4.73,4.71,4.88,4.68,4.83
 Biology,402,Peter,Wetherwax,Superv College Teach,4.66,4.71,4.63,4.71,4.74,4.7,4.67
-Biology,402,Cristin,Hulslander,Superv College Teach,4.83,4.83,4.83,4.83,4.83,4.83,4.5
-Biology,402,Alan,Kelly,Superv College Teach,4.63,4.64,4.58,4.62,4.76,4.64,4.51
 Biology,402,Hannah,Wilson,Superv College Teach,4.75,5.0,5.0,5.0,5.0,4.75,4.75
+Biology,407,Richard,Emlet,Sem Marine Biology,4.31,4.29,4.36,4.45,4.37,4.03,4.49
+Biology,407,Nadia,Singh,Sem SCORE,4.6,4.6,4.8,4.8,4.4,4.6,4.6
+Biology,407,Elly,Vandegrift,Sem Teaching Science,4.62,4.72,4.44,4.47,4.62,4.25,4.53
 Biology,407,Cristopher,Niell,Sem Neuroscience,4.76,4.71,4.74,4.71,4.73,4.74,4.78
 Biology,407,Craig,Young,Sem Marine Biology,4.38,4.38,4.69,4.44,4.44,4.31,4.56
 Biology,407,Aaron,Galloway,Sem Marine Biology,4.8,4.6,5.0,4.6,4.6,4.6,5.0
 Biology,407,Maya,Watts,Sem Marine Biology,4.22,4.22,4.14,4.1,4.22,3.95,4.38
 Biology,407,Alan,Shanks,Sem Marine Biology,4.42,4.51,4.41,4.56,4.54,4.45,4.51
-Biology,407,Richard,Emlet,Sem Marine Biology,4.26,4.33,4.33,4.44,4.38,3.95,4.49
 Biology,407,George,Sprague,Sem Genetics,4.5,4.54,4.37,4.47,4.04,4.18,4.52
 Biology,407,George,von Dassow,Sem Marine Biology,4.67,4.67,4.67,4.67,4.67,4.67,4.67
 Biology,407,Mark,Carrier,Sem Teaching Science,4.49,4.38,4.24,4.12,4.45,4.15,4.43
-Biology,407,Elly,Vandegrift,Sem Teaching Science,4.49,4.62,4.26,4.29,4.56,4.13,4.37
 Biology,407,Svetlana,Maslakova,Sem Marine Biology,4.11,3.97,4.21,4.19,4.05,4.08,4.27
 Biology,407,Judith,Eisen,Sem Dev/Gen Zebrafish,5.0,5.0,5.0,5.0,5.0,5.0,5.0
 Biology,407,Bruce,Bowerman,Sem Molecular Biology,4.29,4.3,4.37,4.33,4.3,4.38,4.13
@@ -281,6 +283,8 @@ Biology,407,Jan,Hodder,Sem Marine Biology,4.15,4.28,4.43,4.29,4.37,4.41,4.19
 Biology,407,Janis,Weeks,Sem Neuroscience,4.38,4.38,4.38,4.38,4.38,4.38,4.38
 Biology,407,Nora,Terwilliger,Sem Marine Biology,4.33,4.5,3.33,4.33,4.33,4.0,4.0
 Biology,407,Philip,Washbourne,Sem Dev/Gen Zebrafish,4.0,4.0,4.0,4.0,4.0,4.0,4.0
+Biology,410,Lauren,Hallett,Data Mgmt & Visual,5.0,4.86,4.86,4.86,4.86,4.29,5.0
+Biology,410,Anne,Wood,Tropical Marine Ecolog,4.09,4.27,3.18,4.36,4.36,3.27,4.18
 Biology,410,Elliott,Abe,Matlab for Biologists,4.64,4.46,4.54,4.64,4.46,4.18,4.73
 Biology,410,Yashar,Ahmadian Tehrani,Analysis Neural Data,2.7,3.0,2.3,2.9,4.0,2.9,3.3
 Biology,410,John,Conery,Intro Programming Bio,4.1,4.02,3.87,4.1,4.42,3.96,4.27
@@ -330,19 +334,20 @@ Biology,423,Alice,Barkan,Human Molecular Genet,4.53,4.58,4.62,4.59,4.58,4.32,4.5
 Biology,424,Eric,Selker,Adv Molecular Genetics,4.08,3.94,3.85,4.05,4.29,3.64,4.13
 Biology,426,Alan,Kelly,Genetics of Cancer,4.59,4.72,4.61,4.55,4.69,4.22,4.71
 Biology,426,Hui,Zong,Devel Genetics Cancer,4.94,5.0,5.0,4.82,4.82,4.82,4.71
-Biology,427,Monte,Westerfield,Molec Genetics Hum Dis,4.34,4.47,4.57,4.58,4.54,4.15,4.42
+Biology,427,Monte,Westerfield,Molec Genetics Hum Dis,4.38,4.47,4.6,4.6,4.44,4.18,4.45
 Biology,428,Kryn,Stankunas,Developmental Genetics,4.41,4.5,4.47,4.31,4.72,4.31,4.36
 Biology,428,Annie,Zemper,Developmental Genetics,4.43,4.43,4.57,4.0,4.71,4.86,4.43
 Biology,428,Bethany,Rader,Developmental Genetics,4.0,4.08,3.69,4.15,4.62,4.23,4.0
 Biology,431,Richard,Castenholz,Algae & Photosyn Bact,4.5,4.25,4.38,4.0,3.75,4.25,4.12
 Biology,431,Eric,Johnson,Algae & Photosyn Bact,4.5,3.75,3.5,3.5,3.75,4.25,4.5
+Biology,432,Kaye,Shek,Mycology,4.64,4.71,4.29,4.36,4.86,4.43,4.77
+Biology,432,Jeffrey,Stone,Mycology,4.35,4.17,3.74,4.01,4.49,3.86,4.54
 Biology,432,Hannah,Soukup,Mycology,4.64,4.54,4.36,4.54,4.64,4.36,4.82
-Biology,432,Jeffrey,Stone,Mycology,4.32,4.11,3.69,3.94,4.46,3.83,4.5
 Biology,432,Daniel,Thomas,Mycology,4.41,4.29,3.57,3.97,4.38,3.73,4.52
 Biology,432,Roo,Vandegrift,Mycology,4.35,4.51,3.96,4.47,4.55,3.8,4.51
 Biology,432,Jesse,McAlpine,Mycology,4.09,3.91,3.36,4.0,3.82,3.27,4.46
 Biology,432,Tobias,Policha,Mycology,4.31,4.15,3.77,4.0,4.25,4.08,4.31
-Biology,433,Karen,Guillemin,Bacterial-Host Interac,4.6,4.58,4.52,4.56,4.51,4.39,4.49
+Biology,433,Karen,Guillemin,Bacterial-Host Interac,4.58,4.57,4.54,4.56,4.53,4.36,4.49
 Biology,442,Flora,Chen,Systematic Botany,4.77,4.46,4.54,4.54,4.38,4.46,4.77
 Biology,442,Tobias,Policha,Systematic Botany,4.71,4.74,4.48,4.64,4.68,4.61,4.81
 Biology,442,Sarah,Ward,Systematic Botany,4.92,4.71,4.85,4.85,4.64,4.77,4.86
@@ -368,13 +373,15 @@ Biology,452,Phil,Schapker,Insect Biology,4.67,4.58,4.25,4.58,4.42,4.42,4.67
 Biology,452,Melissa,Scherr,Insect Biology,4.17,3.98,3.91,4.27,4.32,3.53,4.31
 Biology,452,James,Young,Insect Biology,4.65,4.62,4.62,4.69,4.42,4.69,4.77
 Biology,452,Evan,Sugden,Insect Biology,3.82,3.82,2.91,3.36,4.27,3.09,4.27
-Biology,454,Richard,Emlet,Estuarine Biology,4.45,4.36,4.14,4.26,4.58,4.2,4.56
+Biology,454,Richard,Emlet,Estuarine Biology,4.43,4.34,4.15,4.27,4.53,4.13,4.55
 Biology,454,MacKenna,Hainey,Estuarine Biology,4.69,4.77,4.54,4.54,4.85,4.38,4.77
 Biology,454,Leif,Rasmuson,Estuarine Biology,4.67,4.67,4.67,4.67,5.0,4.67,5.0
 Biology,454,Jenna,Valley,Estuarine Biology,4.4,3.4,3.8,3.8,3.4,3.4,4.4
 Biology,455,Doug,Warrick,Marine Birds & Mammals,4.46,4.4,4.0,4.08,4.56,4.24,4.59
 Biology,455,Jan,Hodder,Marine Birds & Mammals,4.62,4.63,4.43,4.67,4.55,4.13,4.59
 Biology,455,Allison,Cramer,Marine Birds & Mammals,5.0,4.33,5.0,4.33,4.33,5.0,4.67
+Biology,457,Aaron,Galloway,Top Marine Conservatn,4.27,4.27,4.22,4.01,4.34,4.06,4.08
+Biology,457,Svetlana,Maslakova,Top Molecul Marine Bio,4.53,4.34,4.34,4.05,4.17,3.59,4.41
 Biology,457,Daryl,Parkyn,Top Biology of Fishes,2.71,2.75,2.34,2.55,3.82,2.41,3.29
 Biology,457,Cynthia,Trowbridge,Top Deep Sea Ecology,3.38,4.12,3.12,4.0,4.25,3.0,3.62
 Biology,457,Craig,Young,Top Deep Sea Ecology,4.13,4.28,3.28,3.84,3.89,3.65,4.14
@@ -382,9 +389,7 @@ Biology,457,Svetlana,Maslakova,Top Compar Embryology,5.0,4.94,4.86,4.69,4.61,4.5
 Biology,457,Jan,Hodder,Top Marine Envir Iss,4.78,4.89,4.76,4.78,4.77,4.53,4.84
 Biology,457,Allison,Evans,Top Biology of Fishes,4.67,4.67,4.33,4.67,4.5,4.33,4.5
 Biology,457,Cynthia,Trowbridge,Top Seaweed Ecology,5.0,5.0,5.0,4.6,4.8,4.6,5.0
-Biology,457,Aaron,Galloway,Top Marine Conservatn,4.07,4.0,4.21,3.79,4.14,3.5,3.93
 Biology,457,Zofia,Knorek,Top Marine Conservatn,4.25,4.42,4.33,4.17,4.67,3.92,4.17
-Biology,457,Svetlana,Maslakova,Top Molecul Marine Bio,4.91,4.82,4.82,4.82,4.64,4.18,4.82
 Biology,457,Kara,Robbins,Top Molecul Marine Bio,4.91,4.91,4.82,4.82,4.82,4.18,4.82
 Biology,457,Ella,Lamont,Top Marine Envir Iss,4.3,4.2,4.2,4.4,4.4,4.0,4.3
 Biology,457,Caitlin,Plowman,Top Deep Sea Ecology,4.4,4.4,4.07,4.33,4.87,4.53,4.4
@@ -407,7 +412,7 @@ Biology,457,Patrick,Baker,Top Adapt Marine Anim,4.58,4.58,4.58,4.58,5.0,4.58,4.4
 Biology,457,Jenna,Kulluson,Top Adapt Marine Anim,4.0,4.0,4.0,4.0,5.0,4.0,4.0
 Biology,457,Kenneth,Hunter,Top Adapt Marine Anim,4.72,4.78,4.25,4.25,4.6,4.22,4.78
 Biology,457,Craig,Young,Top Embryology,4.1,4.1,3.8,4.0,3.9,4.0,4.4
-Biology,458,Alan,Shanks,Biol Oceanography,4.41,4.44,4.1,4.39,4.47,4.18,4.51
+Biology,458,Alan,Shanks,Biol Oceanography,4.38,4.44,4.07,4.37,4.46,4.15,4.48
 Biology,458,Carly,Salant,Biol Oceanography,4.5,4.7,4.3,4.5,4.8,4.3,4.5
 Biology,458,Leif,Rasmuson,Biol Oceanography,4.31,4.17,4.18,4.11,4.35,4.18,4.37
 Biology,458,Marley,Jarvis,Biol Oceanography,5.0,5.0,5.0,5.0,5.0,5.0,5.0
@@ -457,16 +462,17 @@ Biology,489,Bitty,Roy,Evol Bi Infect Disease,4.73,4.77,4.39,4.39,4.68,4.47,4.47
 Biology,489,Patrick,Ball,Evol Bi Infect Disease,4.33,3.67,3.0,3.33,4.67,3.67,4.33
 Biology,493,Eric,Johnson,Genomic Approach/Analy,4.06,3.97,3.64,3.99,4.36,4.03,4.0
 Biology,496,Bill,Cresko,Conservation Genetics,4.36,4.61,4.07,4.14,4.3,4.32,4.43
-Biology,507,Bruce,Bowerman,Sem Molecular Biology,4.49,4.48,4.53,4.51,4.45,4.48,4.47
-Biology,507,Adam,Miller,Sem Life Sci Trainees,4.57,4.49,4.56,4.54,4.47,4.59,4.33
+Biology,507,Bruce,Bowerman,Sem Molecular Biology,4.5,4.49,4.54,4.51,4.45,4.49,4.48
+Biology,507,Richard,Emlet,Sem Marine Biology,4.3,4.19,4.38,4.3,4.16,4.04,4.3
+Biology,507,Adam,Miller,Sem Neuroscience,4.4,4.4,4.4,4.4,4.4,4.4,4.4
+Biology,507,Adam,Miller,Sem Life Sci Trainees,4.59,4.53,4.54,4.58,4.52,4.61,4.41
+Biology,507,Philip,Washbourne,Sem Dev/Gen Zebrafish,4.58,4.58,4.58,4.58,4.58,4.58,4.58
 Biology,507,Cristopher,Niell,Sem Neuroscience,4.66,4.63,4.67,4.68,4.63,4.62,4.68
 Biology,507,Craig,Young,Sem Marine Biology,4.33,4.33,4.75,4.58,4.58,4.42,4.58
 Biology,507,Karen,Guillemin,Sem Dev/Gen Zebrafish,4.27,4.27,3.93,4.2,4.27,4.27,4.27
 Biology,507,Aaron,Galloway,Sem Marine Biology,4.8,4.6,5.0,4.6,4.6,4.6,5.0
 Biology,507,Alan,Shanks,Sem Marine Biology,4.47,4.64,4.5,4.67,4.64,4.56,4.56
 Biology,507,George,Sprague,Sem Genetics,4.43,4.47,4.47,4.46,4.4,4.41,4.45
-Biology,507,Richard,Emlet,Sem Marine Biology,4.2,4.2,4.33,4.2,4.08,3.9,4.2
-Biology,507,Philip,Washbourne,Sem Dev/Gen Zebrafish,4.67,4.67,4.67,4.67,4.67,4.67,4.67
 Biology,507,John,Postlethwait,Sem Dev/Gen Zebrafish,4.6,4.6,4.6,4.6,4.6,2.8,2.8
 Biology,507,Monte,Westerfield,Sem Dev/Gen Zebrafish,4.75,4.75,5.0,5.0,4.75,5.0,4.75
 Biology,507,Judith,Eisen,Sem Dev/Gen Zebrafish,5.0,4.5,5.0,4.5,4.5,4.5,5.0
@@ -479,6 +485,8 @@ Biology,507,Terry,Takahashi,Sem Neuroscience,4.67,4.67,4.67,4.67,4.67,4.67,4.67
 Biology,507,Svetlana,Maslakova,Sem Marine Biology,3.72,3.62,3.94,3.94,3.81,3.83,3.94
 Biology,507,Janis,Weeks,Sem Neuroscience,4.49,4.58,4.63,4.58,4.58,4.58,4.58
 Biology,507,Nora,Terwilliger,Sem Marine Biology,4.33,4.5,3.33,4.33,4.33,4.0,4.0
+Biology,510,Lauren,Hallett,Data Mgmt & Visual,5.0,4.86,4.86,4.86,4.86,4.29,5.0
+Biology,510,Anne,Wood,Tropical Marine Ecolog,4.09,4.27,3.18,4.36,4.36,3.27,4.18
 Biology,510,Yashar,Ahmadian Tehrani,Analysis Neural Data,2.7,3.0,2.3,2.9,4.0,2.9,3.3
 Biology,510,John,Conery,Intro Programming Bio,4.1,4.02,3.87,4.1,4.42,3.96,4.27
 Biology,510,Cristopher,Niell,Matlab for Biologists,4.67,4.73,4.64,4.6,4.61,4.22,4.68
@@ -510,16 +518,16 @@ Biology,523,Alice,Barkan,Human Molecular Genet,4.56,4.61,4.63,4.59,4.59,4.34,4.6
 Biology,524,Eric,Selker,Adv Molecular Genetics,4.08,3.9,3.79,4.05,4.35,3.62,4.14
 Biology,526,Alan,Kelly,Genetics of Cancer,4.49,4.65,4.5,4.52,4.58,4.07,4.68
 Biology,526,Hui,Zong,Devel Genetics Cancer,4.94,5.0,5.0,4.82,4.82,4.82,4.71
-Biology,527,Monte,Westerfield,Molec Genetics Hum Dis,4.34,4.47,4.57,4.58,4.54,4.15,4.42
+Biology,527,Monte,Westerfield,Molec Genetics Hum Dis,4.38,4.47,4.6,4.6,4.44,4.18,4.45
 Biology,528,Kryn,Stankunas,Developmental Genetics,4.41,4.5,4.47,4.31,4.72,4.31,4.36
 Biology,528,Annie,Zemper,Developmental Genetics,4.43,4.43,4.57,4.0,4.71,4.86,4.43
 Biology,528,Bethany,Rader,Developmental Genetics,4.0,4.08,3.69,4.15,4.62,4.23,4.0
 Biology,531,Richard,Castenholz,Algae & Photosyn Bact,4.5,4.25,4.38,4.0,3.75,4.25,4.12
 Biology,531,Eric,Johnson,Algae & Photosyn Bact,4.5,3.75,3.5,3.5,3.75,4.25,4.5
-Biology,532,Jeffrey,Stone,Mycology,4.31,4.09,3.73,3.97,4.5,3.88,4.51
+Biology,532,Jeffrey,Stone,Mycology,4.35,4.17,3.78,4.05,4.53,3.9,4.54
 Biology,532,Jesse,McAlpine,Mycology,4.09,3.91,3.36,4.0,3.82,3.27,4.46
 Biology,532,Tobias,Policha,Mycology,4.31,4.15,3.77,4.0,4.25,4.08,4.31
-Biology,533,Karen,Guillemin,Bacterial-Host Interac,4.63,4.61,4.54,4.58,4.51,4.37,4.55
+Biology,533,Karen,Guillemin,Bacterial-Host Interac,4.62,4.59,4.56,4.58,4.54,4.35,4.54
 Biology,542,Tobias,Policha,Systematic Botany,4.54,4.44,4.27,4.45,4.55,4.45,4.65
 Biology,542,Bitty,Roy,Systematic Botany,4.54,4.42,4.25,4.5,4.63,4.35,4.6
 Biology,542,Barbara,Wilson,Systematic Botany,4.33,4.5,4.33,4.28,4.29,4.22,4.61
@@ -541,9 +549,9 @@ Biology,554,Richard,Emlet,Estuarine Biology,4.48,4.42,4.25,4.34,4.61,4.14,4.6
 Biology,554,MacKenna,Hainey,Estuarine Biology,4.69,4.77,4.54,4.54,4.85,4.38,4.77
 Biology,555,Jan,Hodder,Marine Birds & Mammals,4.68,4.75,4.49,4.75,4.67,4.27,4.68
 Biology,555,Doug,Warrick,Marine Birds & Mammals,4.26,4.21,3.87,3.84,4.3,4.03,4.5
+Biology,557,Aaron,Galloway,Top Marine Conservatn,4.27,4.27,4.22,4.01,4.34,4.06,4.08
 Biology,557,Svetlana,Maslakova,Top Compar Embryology,5.0,4.94,4.86,4.69,4.61,4.58,4.83
 Biology,557,Jan,Hodder,Top Marine Envir Iss,4.77,4.84,4.74,4.76,4.73,4.54,4.82
-Biology,557,Aaron,Galloway,Top Marine Conservatn,4.07,4.0,4.21,3.79,4.14,3.5,3.93
 Biology,557,Zofia,Knorek,Top Marine Conservatn,4.25,4.42,4.33,4.17,4.67,3.92,4.17
 Biology,557,Ella,Lamont,Top Marine Envir Iss,4.3,4.2,4.2,4.4,4.4,4.0,4.3
 Biology,557,Caitlin,Plowman,Top Deep Sea Ecology,4.4,4.4,4.07,4.33,4.87,4.53,4.4
@@ -557,7 +565,7 @@ Biology,557,Patrick,Baker,Top Adapt Marine Anim,4.67,4.67,4.67,4.67,5.0,4.67,4.3
 Biology,557,Daryl,Parkyn,Top Biology of Fishes,2.0,2.0,2.0,2.0,4.0,2.0,3.0
 Biology,557,Craig,Young,Top Embryology,4.1,4.1,3.8,4.0,3.9,4.0,4.4
 Biology,557,Craig,Young,Top Deep Sea Biology,5.0,4.78,4.78,4.89,4.78,4.56,5.0
-Biology,558,Alan,Shanks,Biol Oceanography,4.42,4.45,4.09,4.4,4.5,4.17,4.54
+Biology,558,Alan,Shanks,Biol Oceanography,4.39,4.45,4.06,4.38,4.49,4.13,4.5
 Biology,558,Carly,Salant,Biol Oceanography,4.5,4.7,4.3,4.5,4.8,4.3,4.5
 Biology,558,Leif,Rasmuson,Biol Oceanography,4.33,4.33,4.22,4.22,4.56,4.22,4.44
 Biology,559,Daniel,Gleason,Field Ornithology,4.78,4.65,4.6,4.51,4.46,4.2,4.74
@@ -596,21 +604,25 @@ Biology,589,Bitty,Roy,Evol Bi Infect Disease,5.0,5.0,4.33,4.33,5.0,4.67,4.67
 Biology,593,Eric,Johnson,Genomic Approach/Analy,4.11,4.06,3.63,4.05,4.41,4.1,3.99
 Biology,596,Bill,Cresko,Conservation Genetics,4.36,4.61,4.07,4.14,4.3,4.32,4.43
 Biology,606,Craig,Young,Fld Deep Sea Biology,4.5,4.75,4.5,4.25,3.75,4.25,5.0
-Biology,607,Brendan,Bohannan,Sem Microb Ecol Evol,4.72,4.69,4.61,4.66,4.62,4.7,4.72
+Biology,607,Brendan,Bohannan,Sem Microb Ecol Evol,4.74,4.7,4.63,4.67,4.64,4.71,4.73
+Biology,607,Tory,Herman,Sem Dev Biol Jour Club,4.37,4.59,4.51,4.55,4.62,4.52,4.49
+Biology,607,Patrick,Phillips,Sem Evol Gen Jour Club,5.0,5.0,5.0,5.0,5.0,5.0,5.0
+Biology,607,Kenneth,Prehoda,Sem Dev Biol Jour Club,4.21,4.31,4.44,4.46,4.43,4.31,4.2
+Biology,607,Peter,Ralph,Sem Ecology & Evol,2.75,2.75,2.5,2.75,3.5,3.0,3.0
+Biology,607,Eric,Selker,Sem Genome Function,4.9,5.0,4.8,4.5,4.5,4.5,4.5
+Biology,607,Alan,Shanks,Sem Curr Iss Marine Bi,4.12,4.15,4.03,4.13,4.25,4.25,4.08
+Biology,607,Matt,Smear,Sem Neurophysiology,4.5,4.5,4.5,4.5,4.5,4.5,4.5
+Biology,607,Philip,Washbourne,Sem Dev Neur Jour Club,4.47,4.52,4.63,4.55,4.55,4.5,4.55
+Biology,607,Anne,Wood,Sem Ecology & Evol,4.02,4.03,4.06,4.07,4.14,4.06,4.05
+Biology,607,Anne,Wood,Sem Ecology Jour Club,4.5,4.5,4.5,4.5,4.5,4.5,4.5
 Biology,607,Scott,Bridgham,Sem Ecology Jour Club,4.75,4.87,4.8,4.8,4.7,4.7,4.75
 Biology,607,Aaron,Galloway,Sem Curr Iss Marine Bi,3.79,3.79,3.62,3.62,4.0,4.0,3.71
-Biology,607,Tory,Herman,Sem Dev Biol Jour Club,4.36,4.6,4.54,4.55,4.63,4.53,4.48
 Biology,607,Cristopher,Niell,Sem Neurophysiology,4.81,4.81,4.69,4.78,4.97,4.91,4.94
-Biology,607,Kenneth,Prehoda,Sem Dev Biol Jour Club,4.18,4.29,4.46,4.45,4.44,4.31,4.17
-Biology,607,Eric,Selker,Sem Genome Function,4.89,5.0,4.89,4.44,4.44,4.44,4.44
 Biology,607,Matt,Streisfeld,Sem Evol Gen Jour Club,4.19,4.24,4.19,4.27,4.17,4.24,4.24
-Biology,607,Philip,Washbourne,Sem Dev Neur Jour Club,4.46,4.53,4.67,4.56,4.56,4.5,4.56
 Biology,607,Michael,Wehr,Sem Neuro Jour Club,4.25,4.25,4.25,4.25,4.75,4.5,4.0
 Biology,607,Anne,Wood,Sem Ecology & Evolut,4.06,4.12,3.9,4.19,4.12,4.0,3.94
 Biology,607,Santiago,Jaramillo,Sem Neuro Jour Club,4.67,4.67,4.67,4.67,4.67,4.0,4.33
 Biology,607,Cristopher,Niell,Sem Dev Neur Jour Club,4.79,4.58,4.78,4.71,4.45,4.51,4.78
-Biology,607,Alan,Shanks,Sem Curr Iss Marine Bi,4.09,4.1,3.96,4.11,4.21,4.24,4.06
-Biology,607,Anne,Wood,Sem Ecology & Evol,3.94,3.95,3.98,3.99,4.08,3.99,3.97
 Biology,607,Karen,Guillemin,Sem Microb Ecol Evol,4.46,4.46,4.43,4.44,4.46,4.41,4.46
 Biology,607,Svetlana,Maslakova,Sem Curr Iss Marine Bi,4.39,4.14,4.35,4.32,4.36,4.14,4.29
 Biology,607,Matt,Smear,Sem Neuro Jour Club,4.8,5.0,4.8,4.8,5.0,4.8,4.8
@@ -647,13 +659,16 @@ Biology,607,Patrick,Phillips,Sem Curr Top Ecol Evol,4.58,4.58,4.33,4.58,4.58,4.5
 Biology,607,Anne,Wood,Sem Curr Top Ecol Evol,4.75,4.75,4.75,4.75,4.75,4.5,4.5
 Biology,607,Christopher,Doe,Sem Dev Biol Jour Club,4.83,5.0,4.83,4.83,5.0,5.0,4.83
 Biology,607,George,von Dassow,Sem Curr Iss Marine Bi,4.25,4.5,4.25,4.0,4.5,3.75,4.0
-Biology,610,Amy,Connolly,Ethics Life Science,3.21,3.22,3.43,3.29,3.45,3.58,3.33
+Biology,610,Matt,Barber,Prof Devel Life Sci,4.0,4.67,4.33,4.67,4.33,4.0,4.0
+Biology,610,Amy,Connolly,Ethics Life Science,3.33,3.36,3.63,3.41,3.64,3.74,3.42
+Biology,610,Leslie,Coonrod,Adv Biol Statistics,3.95,3.75,3.85,3.91,4.04,3.68,3.85
+Biology,610,Bill,Cresko,Adv Biol Statistics,4.07,4.36,3.85,3.93,4.05,3.38,4.14
+Biology,610,Clifford,Keller,Adv Cellular Neurosci,4.75,4.75,4.25,4.5,4.75,4.25,4.5
+Biology,610,Stacey,Wagner,Scientific Communicatn,4.62,4.75,4.75,4.75,4.88,4.88,4.62
 Biology,610,Leslie,Coonrod,Genomics Analysis,4.43,4.71,4.0,4.0,4.57,4.29,4.29
 Biology,610,Peter,Ralph,Adv Biol Statistics II,3.92,4.17,3.67,3.67,4.67,3.25,3.75
 Biology,610,Clay,Small,Genomics Analysis,4.67,4.83,4.5,4.5,4.5,4.5,4.5
 Biology,610,Stacey,Wagner,Prof Comm Life Science,4.42,4.48,4.31,4.19,4.7,4.58,4.25
-Biology,610,Leslie,Coonrod,Adv Biol Statistics,4.08,3.83,4.03,4.03,4.11,3.72,4.03
-Biology,610,Bill,Cresko,Adv Biol Statistics,4.19,4.53,4.01,4.1,4.07,3.43,4.27
 Biology,610,Emily,Beck,Adv Biol Statistics,3.5,2.9,3.1,3.3,3.54,2.18,3.8
 Biology,610,Leslie,Coonrod,Genomics Lab,3.09,3.18,2.69,2.75,4.25,3.16,3.71
 Biology,610,Diana,Libuda,Molecular Genetics,3.92,4.17,3.92,4.08,4.5,4.33,4.17
@@ -680,9 +695,10 @@ Biology,610,Rodger,Voelker,Data Acquist & Manipul,3.0,2.5,2.5,2.5,4.0,4.0,3.5
 Biology,610,Patrick,Phillips,Quantitative EE Method,4.4,4.6,4.4,4.2,4.4,4.6,4.4
 Biology,610,Jana,Prikryl,Molecular Genetics,4.58,4.42,4.4,4.39,4.62,4.31,4.47
 Biology,610,Hui,Zong,Molecular Genetics,4.43,4.52,4.39,4.45,4.59,4.09,4.44
+Biology,620,Tory,Herman,Molecular Genetics,4.73,4.46,4.46,4.46,4.91,4.27,4.36
 Biology,620,Diana,Libuda,Molecular Genetics,4.42,4.67,4.33,4.25,4.42,4.33,4.42
 Biology,621,Leslie,Coonrod,Comp Mth Genom Analy,4.84,4.64,4.13,4.53,4.92,3.91,4.91
 Biology,622,Stacey,Wagner,Genomics Techniques,3.83,3.83,3.0,3.33,4.0,2.5,3.67
 Biology,623,Clay,Small,Adv Top Genomic Analy,4.35,4.35,4.22,4.14,4.31,4.27,4.39
-Biology,624,Leslie,Coonrod,Genomics Res Lab,4.33,4.44,3.78,3.78,4.89,4.67,4.33
-Biology,624,Clay,Small,Genomics Res Lab,4.33,4.78,4.0,4.11,4.75,4.62,4.38
+Biology,624,Leslie,Coonrod,Genomics Res Lab,4.42,4.56,4.14,4.22,4.78,4.5,4.42
+Biology,624,Clay,Small,Genomics Res Lab,4.48,4.76,4.31,4.43,4.75,4.62,4.5

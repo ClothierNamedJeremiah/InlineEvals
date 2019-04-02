@@ -1,6 +1,7 @@
-International Studies,101,Galen,Martin,Intro to Intl Issues,4.18,4.2,4.06,4.27,4.12,3.92,4.16
+International Studies,101,Galen,Martin,Intro to Intl Issues,4.18,4.19,4.05,4.26,4.12,3.92,4.17
 International Studies,101,Kathie,Carpenter,Intro to Intl Issues,3.2,3.09,3.06,3.25,3.51,2.93,3.35
 International Studies,101,Angela,Montague,Intro to Intl Issues,3.9,3.83,3.92,3.91,4.03,3.98,3.94
+International Studies,199,Kathie,Carpenter,Sp St College Connect,3.78,3.93,3.71,3.76,4.11,3.82,3.49
 International Studies,199,Patrick,Jones,Sp St Glb Sports & Pol,4.56,4.56,4.44,4.33,4.89,4.11,4.78
 International Studies,199,Angela,Joya,Sp St Globlzatn & Econ,3.1,2.91,3.34,3.21,3.54,3.06,3.24
 International Studies,199,Geoff,Kennedy,Sp St College Connect,4.69,4.56,4.56,4.69,4.5,4.44,4.25
@@ -9,7 +10,6 @@ International Studies,199,Galen,Martin,Sp St College Connect,4.08,4.25,3.89,3.99
 International Studies,199,Stephen,Wooten,Sp St College Connect,4.3,4.43,4.25,4.29,4.67,4.21,4.14
 International Studies,199,Angela,Joya,Sp St Globaliz & Econ,3.36,3.21,3.48,3.6,3.77,3.24,3.44
 International Studies,199,R. Glenn,Mittermann,Sp St UN & Glbl Change,4.11,3.98,4.0,3.88,4.05,4.12,4.29
-International Studies,199,Kathie,Carpenter,Sp St College Connect,3.63,3.82,3.57,3.64,4.06,3.71,3.34
 International Studies,199,R. Glenn,Mittermann,Sp St United Nations,3.17,3.13,3.22,3.08,3.67,2.93,3.24
 International Studies,199,Phillip,McCall,Sp St Global Economy,3.67,3.56,3.11,3.33,3.89,3.67,3.78
 International Studies,199,Phillip,McCall,Sp St Globaliz & Econ,2.92,2.67,2.84,2.73,3.44,3.33,3.25
@@ -27,8 +27,9 @@ International Studies,199,Ivy,Nagler,Sp St Intl Econ & Bus,3.55,3.31,3.52,3.38,3
 International Studies,199,Galen,Martin,Sp St Intl Coop, Confl,4.0,3.98,3.9,3.9,3.79,3.65,4.02
 International Studies,199,Bruce,Blonigen,Sp St Intl Econ & Bus,3.83,3.83,3.96,3.71,4.07,3.83,3.76
 International Studies,199,Derrick,Hindery,Sp St Intl Enviorn Iss,3.89,3.72,4.13,3.88,3.86,3.71,3.85
+International Studies,240,Ian,Campbell,Persp Intl Development,4.22,4.15,4.12,4.11,4.27,3.98,4.25
+International Studies,240,Dennis,Galvan,Persp Intl Development,4.48,4.58,4.2,4.26,4.24,4.06,4.37
 International Studies,240,R. Glenn,Mittermann,Persp Intl Development,3.94,3.82,4.01,3.92,4.02,3.88,3.85
-International Studies,240,Dennis,Galvan,Persp Intl Development,4.5,4.59,4.21,4.28,4.23,4.08,4.37
 International Studies,240,Will,Johnson,Persp Intl Development,4.42,4.42,4.41,4.46,4.35,4.23,4.35
 International Studies,240,Patrick,Jones,Persp Intl Development,4.1,4.43,4.01,4.35,4.76,3.87,4.15
 International Studies,240,Deborah,Sharp,Persp Intl Development,4.58,4.75,4.67,4.75,4.83,4.58,4.67
@@ -43,9 +44,9 @@ International Studies,280,Derrick,Hindery,Global Environ Issues,3.71,3.58,3.79,3
 International Studies,280,Galen,Martin,Global Environ Issues,4.12,4.12,3.84,4.12,4.04,3.99,4.11
 International Studies,280,Evan,Shenkin,Global Environ Issues,4.6,4.6,4.6,4.6,4.8,4.8,4.4
 International Studies,323,Anita,Weiss,Islam & Global Forces,4.42,4.33,4.38,4.25,4.38,4.25,4.5
-International Studies,340,Kristin,Yarris,Global Health & Devel,4.32,4.34,4.37,4.3,4.24,4.22,4.36
+International Studies,340,Kristin,Yarris,Global Health & Devel,4.32,4.35,4.37,4.31,4.22,4.24,4.37
 International Studies,340,Caroline,Dezendorf,Global Health & Devel,4.09,3.97,4.15,4.0,4.09,4.06,4.21
-International Studies,345,Stephen,Wooten,Africa Today: Iss/Conc,4.45,4.51,4.3,4.2,4.37,4.13,4.46
+International Studies,345,Stephen,Wooten,Africa Today: Iss/Conc,4.41,4.49,4.3,4.17,4.37,4.16,4.44
 International Studies,345,Holly,LeMasurier,Africa Today: Iss/Conc,3.97,3.68,3.87,3.74,4.36,4.16,4.23
 International Studies,360,Galen,Martin,Intl Coop and Conflict,4.26,4.35,3.92,4.17,4.2,3.85,4.28
 International Studies,360,Will,Johnson,Intl Coop and Conflict,4.35,4.52,4.46,4.48,4.41,4.15,4.3
@@ -116,7 +117,8 @@ International Studies,407,Anita,Weiss,Sem Indian Soc Film,5.0,5.0,4.5,4.75,4.25,
 International Studies,408,Nick,Macdonald,Wrk Intl Careers,3.84,4.26,3.59,3.91,4.07,3.77,3.84
 International Studies,408,Nick,Macdonald,Wrk Conflict & Devel,4.25,4.36,4.31,4.42,4.23,4.09,4.31
 International Studies,408,Nick,Macdonald,Wrk Career Intl Develp,4.09,4.18,3.73,3.82,4.0,3.73,4.18
-International Studies,410,Galen,Martin,Capstone,3.98,4.11,3.84,4.03,4.03,3.93,3.98
+International Studies,410,Galen,Martin,Capstone,3.9,3.99,3.72,4.02,4.02,3.87,3.99
+International Studies,410,Jo,Weaver,Global Story of Race,4.33,4.78,4.11,4.67,4.67,4.56,4.67
 International Studies,410,Susan,Sygall,Glbl Persp on Disablty,4.18,4.18,3.65,4.24,4.29,3.82,4.24
 International Studies,410,Mary,Wood,Schizo Across Cultures,4.84,4.79,4.67,4.63,4.61,4.37,4.95
 International Studies,410,Kristin,Yarris,Schizo Across Cultures,4.89,4.84,4.68,4.58,4.67,4.42,4.95
@@ -145,7 +147,7 @@ International Studies,423,Angela,Joya,Develop & Muslim World,3.97,3.95,3.97,4.0,
 International Studies,423,Farid,Nabti,Develop & Muslim World,4.38,4.38,3.88,4.38,4.5,4.12,4.62
 International Studies,423,Jean,Campbell,Develop & Muslim World,3.4,3.04,2.96,2.92,4.12,3.79,3.44
 International Studies,423,Joshua,Hendrick,Develop & Muslim World,4.39,4.57,4.39,4.43,4.74,4.35,4.57
-International Studies,424,Nick,Macdonald,UN Interv Globl Crises,4.2,4.23,3.73,4.2,4.4,3.3,4.4
+International Studies,424,Nick,Macdonald,UN Interv Globl Crises,3.95,4.01,3.59,3.92,4.08,3.1,4.06
 International Studies,425,Galen,Martin,Global Food Security,4.49,4.58,4.34,4.38,4.42,4.21,4.6
 International Studies,431,Kathie,Carpenter,Cross-Cultural Commun,3.95,4.1,3.78,3.99,3.88,3.56,3.87
 International Studies,431,Geoff,Kennedy,Cross-Cultural Commun,4.33,4.33,4.33,4.33,4.67,4.67,4.33
@@ -165,12 +167,13 @@ International Studies,445,Teddy,Workneh,Sub-Saharan Africa,4.25,4.38,3.88,3.81,4
 International Studies,445,Ana,Schaller de la Cova,Sub-Saharan Africa,3.47,3.4,3.8,3.33,3.8,3.8,3.53
 International Studies,445,Yvonne,Braun,Sub-Saharan Africa,3.74,3.84,4.0,3.79,4.16,3.63,3.79
 International Studies,445,Stephen,Wooten,Sub-Saharan Africa,4.39,4.48,4.52,4.3,4.48,4.35,4.3
+International Studies,446,Evan,Shenkin,Dev & Soc Chg Lat Amer,3.96,3.87,3.68,3.3,4.48,3.78,4.13
 International Studies,446,Derrick,Hindery,Dev & Soc Chg Lat Amer,4.3,4.29,4.17,3.99,4.37,4.32,4.31
 International Studies,446,Shannon,East,Dev & Soc Chg Lat Amer,4.5,4.53,4.47,4.41,4.65,4.41,4.53
 International Studies,447,Ana,Schaller de la Cova,Comparative Tribalisms,4.06,4.17,4.28,4.25,4.44,4.17,4.25
 International Studies,447,Dennis,Galvan,Comparative Tribalisms,4.7,4.67,4.15,4.19,4.09,3.85,4.6
 International Studies,448,Anita,Weiss,Bollywood's Lens,4.26,4.29,4.61,4.42,4.45,4.15,4.12
-International Studies,463,Kristin,Yarris,Pop Disp & Glbl Health,4.71,4.73,4.62,4.62,4.71,4.62,4.64
+International Studies,463,Kristin,Yarris,Pop Disp & Glbl Health,4.69,4.71,4.62,4.62,4.67,4.61,4.65
 International Studies,465,Kristin,Yarris,Glbl Reproductive Hlth,4.81,4.88,4.77,4.76,4.7,4.7,4.81
 International Studies,507,Evan,Shenkin,Sem Climate Change,4.0,4.17,4.0,4.0,4.0,4.17,4.17
 International Studies,507,Galen,Martin,Sem Haiti Simulation,4.73,4.36,4.18,4.36,4.36,4.36,4.91
@@ -203,6 +206,7 @@ International Studies,507,Anita,Weiss,Sem Indian Soc Film,5.0,5.0,4.5,4.75,4.25,
 International Studies,508,Nick,Macdonald,Wrk Intl Careers,3.84,4.26,3.59,3.91,4.07,3.77,3.84
 International Studies,508,Nick,Macdonald,Wrk Conflict & Devel,4.25,4.36,4.31,4.42,4.23,4.09,4.31
 International Studies,508,Nick,Macdonald,Wrk Career Intl Develp,4.09,4.18,3.73,3.82,4.0,3.73,4.18
+International Studies,510,Jo,Weaver,Global Story of Race,4.33,4.78,4.11,4.67,4.67,4.56,4.67
 International Studies,510,Susan,Sygall,Glbl Persp on Disablty,4.18,4.18,3.65,4.24,4.29,3.82,4.24
 International Studies,510,Mary,Wood,Schizo Across Cultures,4.84,4.79,4.67,4.63,4.61,4.37,4.95
 International Studies,510,Kristin,Yarris,Schizo Across Cultures,4.89,4.84,4.68,4.58,4.67,4.42,4.95
@@ -245,11 +249,12 @@ International Studies,545,Angela,Montague,Sub-Saharan Africa,4.34,4.34,4.0,4.05,
 International Studies,545,Ana,Schaller de la Cova,Sub-Saharan Africa,3.47,3.4,3.8,3.33,3.8,3.8,3.53
 International Studies,545,Yvonne,Braun,Sub-Saharan Africa,3.74,3.84,4.0,3.79,4.16,3.63,3.79
 International Studies,545,Stephen,Wooten,Sub-Saharan Africa,4.39,4.48,4.52,4.3,4.48,4.35,4.3
+International Studies,546,Evan,Shenkin,Dev & Soc Chg Lat Amer,3.96,3.87,3.68,3.3,4.48,3.78,4.13
 International Studies,546,Derrick,Hindery,Dev & Soc Chg Lat Amer,4.3,4.32,4.23,4.01,4.43,4.38,4.28
 International Studies,547,Ana,Schaller de la Cova,Comparative Tribalisms,4.06,4.17,4.28,4.25,4.44,4.17,4.25
 International Studies,547,Dennis,Galvan,Comparative Tribalisms,4.7,4.67,4.15,4.19,4.09,3.85,4.6
 International Studies,548,Anita,Weiss,Bollywood's Lens,4.22,4.27,4.58,4.29,4.51,4.06,4.02
-International Studies,563,Kristin,Yarris,Pop Disp & Glbl Health,4.71,4.73,4.62,4.62,4.71,4.62,4.64
+International Studies,563,Kristin,Yarris,Pop Disp & Glbl Health,4.69,4.71,4.62,4.62,4.67,4.61,4.65
 International Studies,565,Kristin,Yarris,Glbl Reproductive Hlth,4.81,4.88,4.77,4.76,4.7,4.7,4.81
 International Studies,607,Derrick,Hindery,Sem Intl Stu Grad Core,4.6,4.4,3.8,4.2,3.6,3.8,4.2
 International Studies,607,Kathie,Carpenter,Sem Proposal Writing,4.28,4.49,4.19,4.32,4.71,4.47,4.29
@@ -259,6 +264,7 @@ International Studies,607,Anita,Weiss,Sem Intl Stu Grad Core,4.38,4.38,4.5,4.25,
 International Studies,607,Stephen,Wooten,Sem Intl Stu Grad Core,4.49,4.61,4.38,4.25,4.56,4.39,4.46
 International Studies,607,Kathie,Carpenter,Sem Research Colloquia,4.33,4.33,4.0,4.0,4.33,3.67,4.67
 International Studies,640,Anita,Weiss,Gend Analy in Dev Plan,4.5,4.5,4.0,4.0,5.0,4.5,4.5
+International Studies,655,Stephen,Wooten,Intl Grad Core Seminar,4.5,4.75,4.0,4.5,5.0,4.5,5.0
 International Studies,655,Kathie,Carpenter,Intl Grad Core Seminar,4.0,4.14,3.0,4.0,4.29,3.43,3.86
 International Studies,656,Anita,Weiss,Res/Writ in Intl Stu,4.03,4.16,4.15,4.08,4.52,4.36,3.92
 International Studies,656,Kathie,Carpenter,Res/Writ in Intl Stu,3.33,4.44,3.56,3.78,4.44,4.33,3.33

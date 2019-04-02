@@ -1,5 +1,7 @@
+Russian,101,Yelaina,Kripkov,1st Year Russian,4.49,4.5,4.27,4.51,4.28,4.2,4.56
+Russian,101,Kyle,Smith,1st Year Russian,4.83,4.67,4.5,4.83,5.0,4.67,4.5
+Russian,101,Nadia,Vikulina,1st Year Russian,4.6,4.7,4.4,4.9,4.6,4.6,4.7
 Russian,101,Murad,Jalilov,1st Year Russian,3.75,3.25,2.75,3.5,4.33,3.54,4.17
-Russian,101,Yelaina,Kripkov,1st Year Russian,4.51,4.52,4.3,4.49,4.28,4.16,4.55
 Russian,101,Peter,Orte,1st Year Russian,4.23,4.08,3.92,4.0,4.85,4.31,4.38
 Russian,101,Ksenia,Gordeeva,1st Year Russian,4.67,4.78,4.33,4.56,4.67,4.33,4.67
 Russian,101,Svetlana,Osadchuk,1st Year Russian,5.0,5.0,5.0,5.0,5.0,5.0,5.0
@@ -66,8 +68,10 @@ Russian,121,Rick,Moore,Spoken Russian,3.5,3.45,2.97,3.52,4.0,3.85,3.77
 Russian,121,Michael,Butler,Spoken Russian,4.49,4.62,4.47,4.43,4.62,4.57,4.57
 Russian,121,Kyler,James,Spoken Russian,4.68,4.65,4.42,4.57,4.29,4.68,4.6
 Russian,121,Melissa,Cook,Spoken Russian,4.54,4.54,4.54,4.5,4.21,4.58,4.33
-Russian,199,Katya,Hokanson,Sp St College Connect,3.95,4.22,3.93,3.97,4.47,4.12,3.62
+Russian,199,Katya,Hokanson,Sp St College Connect,3.97,4.23,3.96,4.0,4.46,4.15,3.66
 Russian,199,Julia,Nemirovskaya,Sp St Russian Humor,4.21,4.49,3.94,4.19,4.33,3.87,4.27
+Russian,201,Murad,Jalilov,2nd Year Russian,3.75,3.6,3.2,3.6,4.4,3.6,4.0
+Russian,201,Peter,Orte,2nd Year Russian,4.78,4.89,4.44,4.78,5.0,4.78,4.78
 Russian,201,Ksenia,Gordeeva,2nd Year Russian,4.22,4.22,4.33,4.33,4.56,4.0,4.22
 Russian,201,Rachel,Casselman,2nd Year Russian,4.5,4.5,4.5,4.75,4.5,4.5,4.75
 Russian,201,Peter,Ward,2nd Year Russian,4.56,4.67,4.33,4.67,5.0,4.22,4.67
@@ -122,7 +126,7 @@ Russian,203,Elizaveta,Pyanzina,2nd Year Russian,4.92,5.0,4.83,4.92,5.0,4.92,5.0
 Russian,203,Elena,Rodina,2nd Year Russian,4.67,4.89,4.75,4.67,4.89,4.89,4.56
 Russian,203,Polina,Yemelyanova,2nd Year Russian,4.28,4.38,4.31,4.22,4.88,4.06,4.25
 Russian,203,Anastasia,Yurchenko,2nd Year Russian,4.38,4.5,4.38,4.38,4.5,4.5,4.38
-Russian,204,Katya,Hokanson,Intro Russian Literat,4.33,4.4,4.35,4.18,4.47,4.38,4.34
+Russian,204,Katya,Hokanson,Intro Russian Literat,4.34,4.42,4.34,4.2,4.48,4.38,4.35
 Russian,204,Julia,Nemirovskaya,Intro Russian Literat,4.5,4.5,4.4,4.3,4.7,4.0,4.4
 Russian,205,Jenifer,Presto,Intro Russian Literat,4.48,4.5,4.38,4.34,4.47,4.4,4.46
 Russian,206,Julia,Nemirovskaya,Intro Russian Literat,4.4,4.48,4.15,4.26,4.59,4.16,4.52
@@ -132,7 +136,7 @@ Russian,221,Heghine,Hakobyan,Spoken Russian,4.6,4.58,4.01,4.47,4.45,3.98,4.4
 Russian,221,Miriam,Lipton,Spoken Russian,5.0,5.0,4.5,4.5,5.0,4.5,4.5
 Russian,221,Melissa,Cook,Spoken Russian,5.0,5.0,5.0,5.0,4.0,5.0,5.0
 Russian,221,Christian,Miller,Spoken Russian,3.67,4.0,3.5,3.67,4.33,3.5,3.67
-Russian,240,Julia,Nemirovskaya,Russian Culture,4.53,4.51,4.04,4.19,4.55,4.24,4.56
+Russian,240,Julia,Nemirovskaya,Russian Culture,4.56,4.56,4.11,4.24,4.6,4.27,4.59
 Russian,240,Alexander,Kashirin,Russian Culture,4.15,4.15,4.16,4.23,4.03,4.07,4.31
 Russian,240,Alena,Nekrasova,Russian Culture,4.6,4.6,4.6,4.6,5.0,3.8,4.8
 Russian,240,Daria,Smirnova,Russian Culture,4.0,4.0,3.5,3.5,3.5,3.5,3.5
@@ -142,7 +146,7 @@ Russian,316,Anna,Klyueva,3rd Year Russian,3.6,3.2,3.1,3.4,4.1,3.0,3.8
 Russian,317,Yelaina,Kripkov,3rd Year Russian,4.13,4.06,4.14,4.12,3.9,4.02,4.15
 Russian,318,Yelaina,Kripkov,3rd Year Russian,3.97,3.99,3.88,3.88,3.94,4.01,4.02
 Russian,318,Anna,Klyueva,3rd Year Russian,4.5,4.5,4.5,4.5,5.0,4.5,4.5
-Russian,331,Julia,Nemirovskaya,Russian Short Story,4.27,4.0,3.91,3.82,4.18,4.27,4.27
+Russian,331,Julia,Nemirovskaya,Russian Short Story,4.51,4.38,4.08,4.16,4.34,4.26,4.51
 Russian,331,Jenifer,Presto,Russian Short Story,4.24,4.33,4.14,4.08,4.21,4.07,4.13
 Russian,334,Jenifer,Presto,Dostoevsky,4.48,4.49,4.39,4.4,4.53,4.5,4.56
 Russian,334,Julia,Nemirovskaya,Dostoevsky,4.43,4.57,4.71,4.71,4.71,4.57,4.43
@@ -168,6 +172,7 @@ Russian,434,Katya,Hokanson,Top PrisonCamp/Siberia,4.75,4.75,4.75,4.75,4.75,4.75,
 Russian,434,Katya,Hokanson,Top Prison Camp Lit,4.71,4.71,4.75,4.71,4.88,4.88,4.88
 Russian,434,Susanna,Lim,Top Other & Self,4.5,5.0,4.75,4.5,4.75,4.75,5.0
 Russian,434,Katya,Hokanson,Top Russ Empire in Lit,4.5,4.67,4.67,4.5,4.67,4.67,4.5
+Russian,436,Yelaina,Kripkov,Top Russ Poetic Lang,4.38,4.58,4.35,4.43,4.45,4.17,4.35
 Russian,436,Yelaina,Kripkov,Top Adv Russ Grammar,4.25,4.33,4.33,4.33,4.33,4.33,4.33
 Russian,436,Yelaina,Kripkov,Top Russ Through Lit,4.75,4.75,4.5,4.75,4.75,4.75,4.75
 Russian,436,Yelaina,Kripkov,Top Adv Russ Thru Hist,4.88,4.88,4.88,4.88,5.0,4.88,5.0
@@ -175,7 +180,6 @@ Russian,436,Yelaina,Kripkov,Top Adv Russ Poet Lang,5.0,5.0,4.83,5.0,5.0,5.0,5.0
 Russian,436,Yelaina,Kripkov,Top Russian Thru Film,4.75,4.75,4.5,4.75,4.75,4.75,4.75
 Russian,436,Heghine,Hakobyan,Top Adv Russ Thru Lit,4.75,4.75,4.5,4.25,4.5,4.75,4.5
 Russian,436,Yelaina,Kripkov,Top Adv Russ thru Film,4.4,4.4,4.4,4.07,4.65,4.07,4.23
-Russian,436,Yelaina,Kripkov,Top Russ Poetic Lang,4.08,4.38,4.03,4.15,4.17,3.75,4.03
 Russian,436,Yelaina,Kripkov,Top Adv Russ Thru Film,4.35,4.33,4.6,4.6,4.33,4.45,4.55
 Russian,436,Yelaina,Kripkov,Top Adv Russ thru Lit,4.67,4.58,4.5,4.58,4.33,4.42,4.5
 Russian,436,Yelaina,Kripkov,Top Adv Russ thru Hist,4.56,4.62,4.44,4.44,4.25,4.31,4.38
@@ -205,6 +209,7 @@ Russian,534,Katya,Hokanson,Top PrisonCamp/Siberia,4.75,4.75,4.75,4.75,4.75,4.75,
 Russian,534,Katya,Hokanson,Top Prison Camp Lit,4.71,4.71,4.75,4.71,4.88,4.88,4.88
 Russian,534,Susanna,Lim,Top Other & Self,4.5,5.0,4.75,4.5,4.75,4.75,5.0
 Russian,534,Katya,Hokanson,Top Russ Empire in Lit,4.5,4.67,4.67,4.5,4.67,4.67,4.5
+Russian,536,Yelaina,Kripkov,Top Russ Poetic Lang,4.38,4.58,4.35,4.43,4.45,4.17,4.35
 Russian,536,Yelaina,Kripkov,Top Adv Russ Grammar,4.25,4.33,4.33,4.33,4.33,4.33,4.33
 Russian,536,Yelaina,Kripkov,Top Russ Through Lit,4.75,4.75,4.5,4.75,4.75,4.75,4.75
 Russian,536,Yelaina,Kripkov,Top Adv Russ Thru Hist,4.88,4.88,4.88,4.88,5.0,4.88,5.0
@@ -212,7 +217,6 @@ Russian,536,Yelaina,Kripkov,Top Adv Russ Poet Lang,5.0,5.0,4.83,5.0,5.0,5.0,5.0
 Russian,536,Yelaina,Kripkov,Top Russian Thru Film,4.75,4.75,4.5,4.75,4.75,4.75,4.75
 Russian,536,Heghine,Hakobyan,Top Adv Russ Thru Lit,4.75,4.75,4.5,4.25,4.5,4.75,4.5
 Russian,536,Yelaina,Kripkov,Top Adv Russ thru Film,4.4,4.4,4.4,4.07,4.65,4.07,4.23
-Russian,536,Yelaina,Kripkov,Top Russ Poetic Lang,4.08,4.38,4.03,4.15,4.17,3.75,4.03
 Russian,536,Yelaina,Kripkov,Top Adv Russ Thru Film,4.35,4.33,4.6,4.6,4.33,4.45,4.55
 Russian,536,Yelaina,Kripkov,Top Adv Russ thru Lit,4.67,4.58,4.5,4.58,4.33,4.42,4.5
 Russian,536,Yelaina,Kripkov,Top Adv Russ thru Hist,4.56,4.62,4.44,4.44,4.25,4.31,4.38

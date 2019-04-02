@@ -1,3 +1,21 @@
+Honors College,199H,Monique,Balbuena,Sp St Activism Soc Jus,4.4,4.7,4.3,4.6,4.2,4.4,4.5
+Honors College,199H,Dare,Baldwin,Sp St Mass Media,3.0,3.08,2.31,2.62,3.85,3.15,2.46
+Honors College,199H,Louise,Bishop,Sp St Playwriting,4.36,4.36,4.18,4.09,4.18,4.46,4.18
+Honors College,199H,Nicole,Dudukovic,Sp St Harry Potter,4.11,4.22,4.0,4.0,4.22,4.33,3.89
+Honors College,199H,Daphne,Gallagher,Sp St Sports Activism,4.29,4.36,4.5,4.36,4.79,4.5,4.21
+Honors College,199H,Melissa,Graboyes,Sp St Local Activism,4.0,4.5,3.88,4.12,4.5,4.62,4.0
+Honors College,199H,Samantha,Hopkins,Sp St Comic Culture,3.67,3.78,3.89,3.89,4.44,3.89,3.22
+Honors College,199H,Ocean,Howell,Sp St Skateboard Cultr,4.3,4.4,4.2,4.3,4.1,4.5,4.2
+Honors College,199H,Trond,Jacobsen,Sp St Cinema Authority,4.67,4.67,4.58,4.58,4.58,4.5,4.58
+Honors College,199H,Rebecca,Lindner,Sp St AI Affects Soc,4.62,4.69,4.77,4.85,4.85,4.77,4.08
+Honors College,199H,Barbara,Mossberg,Sp St Global Poetry,4.25,4.58,4.08,4.0,4.75,4.58,4.17
+Honors College,199H,Carol,Paty,Sp St Science Fiction,4.22,4.33,4.0,4.11,4.33,4.0,4.22
+Honors College,199H,Roxann,Prazniak,Sp St Milky Way Galaxy,3.62,3.46,3.54,3.85,4.08,3.92,3.54
+Honors College,199H,Elizabeth,Raisanen,Sp St Media Represent,4.64,4.64,4.27,4.18,4.46,4.46,4.46
+Honors College,199H,Elizabeth,Raisanen,Sp St Know Thy Selfie,4.2,4.2,4.3,4.4,4.8,4.6,4.2
+Honors College,199H,Casey,Shoop,Sp St Mass Incarceratn,4.28,4.22,3.8,4.01,4.19,4.19,4.31
+Honors College,199H,Helen,Southworth,Sp St Health,4.58,4.5,4.42,4.5,4.83,4.58,4.25
+Honors College,199H,Timothy,Williams,Sp St Steven King,4.12,4.25,4.12,3.88,4.75,4.38,3.88
 Honors College,199H,Mark,Carey,Sp St Walk in the Park,4.07,3.93,3.43,3.79,4.21,4.07,3.86
 Honors College,199H,Mai-Lin,Cheng,Sp St Activsm Soc Just,4.57,4.43,4.36,4.43,4.79,4.29,4.0
 Honors College,199H,David,Frank,Sp St Star Trek Today,4.07,4.14,4.14,4.14,3.93,3.92,3.64
@@ -10,7 +28,6 @@ Honors College,199H,Rebecca,Lindner,Sp St Bohemian Revoltn,4.0,3.75,3.83,4.0,4.2
 Honors College,199H,Barbara,Mossberg,Sp St Poetry and You,4.33,4.37,4.35,4.25,4.72,4.62,4.0
 Honors College,199H,Roxann,Prazniak,Sp St Resostmc & Media,4.27,4.27,3.91,4.18,4.46,4.0,4.27
 Honors College,199H,Daniel,Rosenberg,Sp St Know Thy Selfie,4.44,4.22,4.56,4.0,4.89,4.56,4.0
-Honors College,199H,Casey,Shoop,Sp St Mass Incarceratn,4.25,4.25,3.5,3.92,4.08,4.08,4.42
 Honors College,199H,Helen,Southworth,Sp St Novel-Writing,3.8,3.87,3.4,3.6,4.33,3.93,3.4
 Honors College,199H,Kelly,Sutherland,Sp St Adventure,4.14,4.36,4.07,4.14,4.14,4.14,4.0
 Honors College,199H,Timothy,Williams,Sp St Ducks at Work,4.07,4.07,3.6,3.93,4.2,4.27,3.87
@@ -137,8 +154,8 @@ Honors College,199H,James,Schombert,Sp St Biodiversity,3.36,3.36,3.5,3.29,3.5,3.
 Honors College,199H,Helen,Southworth,Sp St Outdoor Skills,4.31,4.57,3.85,4.23,4.62,4.38,3.92
 Honors College,199H,Reuben,Zahler,Sp St Making History,4.4,4.8,4.2,4.6,5.0,4.75,4.2
 Honors College,199H,David,Frank,Sp St Judge President,4.27,4.47,4.27,4.27,4.07,4.13,4.53
+Honors College,207H,Gabriel,Yospin,HC Science,4.5,4.54,4.61,4.57,4.21,4.14,4.5
 Honors College,207H,James,Schombert,HC Science,4.46,4.46,4.15,4.51,4.02,3.72,4.55
-Honors College,207H,Gabriel,Yospin,HC Science,4.43,4.43,4.29,4.43,4.14,4.14,4.57
 Honors College,207H,Stephen,Fickas,HC Science,4.6,4.44,4.41,4.48,4.46,4.24,4.52
 Honors College,207H,Kelly,Sutherland,HC Science,4.16,4.32,4.32,4.31,4.31,4.03,4.18
 Honors College,207H,Samantha,Hopkins,HC Science,4.43,4.65,4.3,4.45,4.46,4.01,4.32
@@ -157,6 +174,16 @@ Honors College,209H,Amy,Connolly,HC Science,4.05,4.16,4.26,4.32,4.11,3.42,4.05
 Honors College,209H,James,Schombert,HC Science,4.23,4.4,4.31,4.38,3.75,3.19,4.81
 Honors College,209H,Janis,Weeks,HC Science,4.78,4.56,4.44,4.78,4.44,3.78,4.67
 Honors College,209H,Edward,Davis,HC Science,4.0,4.25,3.75,4.0,4.5,2.75,4.25
+Honors College,221H,Monique,Balbuena,HC Arts & Letters,4.18,4.0,3.09,3.36,3.91,2.73,4.36
+Honors College,221H,Corinne,Bayerl,HC Arts & Letters,4.76,4.73,4.5,4.49,4.54,4.35,4.58
+Honors College,221H,Louise,Bishop,HC Arts & Letters,4.81,5.0,4.62,4.38,4.69,4.31,4.62
+Honors College,221H,Rebecca,Lindner,HC Arts & Letters,4.85,4.92,4.92,4.77,4.23,4.38,4.69
+Honors College,221H,Caroline,Lundquist,HC Arts & Letters,4.88,4.94,4.91,4.97,4.73,4.58,4.91
+Honors College,221H,Barbara,Mossberg,HC Arts & Letters,4.4,4.53,2.93,3.8,4.73,2.93,4.33
+Honors College,221H,Kimberley,Parzuchowski,HC Arts & Letters,4.54,4.64,4.75,4.71,4.46,4.46,4.43
+Honors College,221H,Kristen,Seaman,HC Arts & Letters,4.13,4.33,4.6,4.27,4.73,4.4,3.87
+Honors College,221H,Casey,Shoop,HC Arts & Letters,4.63,4.67,4.45,4.59,4.41,4.08,4.56
+Honors College,221H,Helen,Southworth,HC Arts & Letters,4.46,4.32,4.03,4.12,4.33,3.94,4.28
 Honors College,221H,Corinne,Bayerl,HC Literature,4.6,4.54,4.41,4.47,4.55,4.59,4.38
 Honors College,221H,Louise,Bishop,HC Literature,4.61,4.7,4.45,4.4,4.71,4.19,4.55
 Honors College,221H,Katy,Brundan,HC Literature,4.43,4.48,4.33,4.38,4.49,4.18,4.25
@@ -232,6 +259,12 @@ Honors College,223H,Massimo,Lollini,HC Literature,4.33,4.33,4.25,4.33,4.58,3.67,
 Honors College,223H,Stephanie,Callan,HC Literature,4.08,4.12,4.32,4.11,4.44,4.23,4.14
 Honors College,223H,Cecilia,Rosenow,HC Literature,4.67,4.83,4.6,4.53,4.68,4.46,4.38
 Honors College,223H,Angela,Thompson,HC Literature,4.63,4.72,4.57,4.45,4.57,4.44,4.48
+Honors College,231H,Mark,Carey,HC Social Science,4.46,4.67,4.71,4.43,4.43,4.38,4.47
+Honors College,231H,Daphne,Gallagher,HC Social Science,4.3,4.4,4.3,4.4,4.8,4.3,4.2
+Honors College,231H,Shoshana,Kerewsky,HC Social Science,4.61,4.83,4.56,4.39,4.56,4.44,4.56
+Honors College,231H,Marcela,Mendoza,HC Social Science,4.0,4.0,4.14,3.86,4.57,4.07,4.29
+Honors College,231H,Roxann,Prazniak,HC Social Science,3.86,3.93,3.47,3.85,4.12,3.31,3.98
+Honors College,231H,Irum,Shiekh,HC Social Science,4.48,4.35,4.17,4.26,4.49,4.31,4.57
 Honors College,231H,Mark,Carey,HC History,4.64,4.75,4.55,4.48,4.54,4.37,4.58
 Honors College,231H,Michael,Furtado,HC History,4.34,4.48,4.29,4.43,4.1,4.23,4.37
 Honors College,231H,Emily,Gilkey,HC History,4.62,4.73,4.62,4.63,4.41,4.04,4.64
@@ -301,7 +334,7 @@ Honors College,233H,Victor,Rodriguez,HC History,4.5,4.42,4.12,4.04,4.71,4.38,4.4
 Honors College,233H,Reuben,Zahler,HC History,4.86,4.92,4.68,4.57,4.66,4.47,4.66
 Honors College,233H,Regina,Sullivan,HC History,4.14,3.86,4.43,4.43,4.29,3.86,4.14
 Honors College,233H,Gregory,Thomas,HC History,4.62,4.79,4.73,4.55,4.58,4.45,4.48
-Honors College,399H,Trond,Jacobsen,Sp St Academic Speech,4.25,4.33,3.6,4.32,4.12,3.5,4.33
+Honors College,399H,Trond,Jacobsen,Sp St Academic Speech,4.21,4.25,3.58,4.21,4.24,3.6,4.22
 Honors College,399H,Trond,Jacobsen,Sp St Speech & Debate,4.34,4.58,4.24,4.54,4.59,4.07,4.44
 Honors College,399H,Trond,Jacobsen,Sp St Honors Forensics,3.5,4.0,3.25,4.0,3.75,4.25,3.75
 Honors College,399H,Trond,Jacobsen,Sp St Forensics,4.1,4.4,4.0,4.01,4.07,3.93,4.16
@@ -314,11 +347,11 @@ Honors College,399H,Sarah,Hamid,Sp St Forensics,4.62,4.62,4.0,4.25,4.5,3.88,4.5
 Honors College,399H,Miriam,Rigby,Sp St Research Methods,4.2,4.2,4.4,4.2,4.8,4.2,4.0
 Honors College,399H,Erin,Farris,Sp St Forensics,4.0,4.06,3.72,3.78,4.17,3.72,4.06
 Honors College,407H,Joseph,Fracchia,Sem Historical Writing,4.8,4.8,4.4,4.6,4.8,4.6,4.6
+Honors College,408H,Elizabeth,Raisanen,Wrk Thesis Orientation,3.82,4.1,4.15,3.72,4.2,4.06,3.68
 Honors College,408H,Monique,Balbuena,Wrk Thesis Orientation,3.92,4.01,3.94,4.01,3.95,3.87,3.93
 Honors College,408H,Mark,Carey,Wrk Thesis Orientation,4.49,4.6,4.61,4.47,4.38,4.42,4.32
 Honors College,408H,Daniel,Rosenberg,Wrk Thesis Orientation,4.45,4.52,4.45,4.51,4.46,4.43,4.28
 Honors College,408H,Samantha,Hopkins,Wrk Thesis Orientation,4.32,4.44,4.31,4.4,4.26,4.33,4.38
-Honors College,408H,Elizabeth,Raisanen,Wrk Thesis Orientation,3.97,4.12,4.26,3.68,4.15,4.03,3.82
 Honors College,408H,Melissa,Graboyes,Wrk Humn Subj Research,4.8,4.8,4.8,4.6,4.6,4.4,4.8
 Honors College,408H,Ocean,Howell,Wrk Thesis Orientation,4.38,4.43,4.39,4.59,4.26,4.33,4.4
 Honors College,408H,Helen,Southworth,Wrk Thesis Orientation,4.09,4.23,4.09,4.11,4.02,3.97,3.96
@@ -334,6 +367,8 @@ Honors College,410H,Joseph,Fracchia,Thesis Orientation,4.62,4.38,4.38,4.5,4.38,4
 Honors College,410H,Susanna,Lim,Thesis Orientation,4.14,4.14,4.29,4.14,4.14,4.0,3.86
 Honors College,410H,Monique,Balbuena,Thesis Orientation,3.78,4.11,4.11,4.22,3.89,3.89,4.0
 Honors College,410H,Helen,Southworth,Thesis Orientation,4.18,4.19,4.19,4.18,4.25,4.19,4.05
+Honors College,421H,Barbara,Mossberg,Top Emerson & Einstein,4.84,4.86,4.12,4.51,4.82,4.21,4.76
+Honors College,421H,Casey,Shoop,Top Lives of Animals,4.54,4.61,4.58,4.54,4.92,3.95,4.6
 Honors College,421H,Esther,Hagenlocher,Top Color Autobiograph,4.4,4.4,3.6,4.0,4.0,3.2,4.4
 Honors College,421H,Martin,Klebes,Top Lit & Photography,4.43,4.29,4.43,4.43,4.71,3.71,4.14
 Honors College,421H,Steven,Shankman,Top War and Peace II,5.0,4.4,4.0,4.0,4.8,4.2,4.8
@@ -342,9 +377,7 @@ Honors College,421H,James,Crosswhite,Top Literature & Phil,4.67,4.67,4.67,4.0,4.
 Honors College,421H,Steven,Shankman,Top War & Peace I,5.0,4.76,4.62,4.79,4.76,4.38,5.0
 Honors College,421H,Mai-Lin,Cheng,Top Book Love,4.3,4.5,3.4,4.22,4.4,3.4,4.1
 Honors College,421H,Jeffrey,Librett,Top Modernist Moment,4.0,3.78,4.11,3.67,4.0,3.78,4.11
-Honors College,421H,Barbara,Mossberg,Top Emerson & Einstein,4.87,4.92,4.18,4.64,4.8,4.32,4.85
 Honors College,421H,Elizabeth,Raisanen,Top Digital Humanities,4.43,4.57,5.0,4.43,4.86,4.86,4.43
-Honors College,421H,Casey,Shoop,Top Lives of Animals,4.62,4.75,4.62,4.62,5.0,4.12,4.62
 Honors College,421H,Helen,Southworth,Top Digital Humanities,4.12,4.24,3.94,3.81,4.48,3.97,4.1
 Honors College,421H,Nathalie,Hester,Top Italian Renaissanc,4.5,4.5,4.25,4.5,4.42,4.0,4.58
 Honors College,421H,Steven,Shankman,Top Tolstoy's Resurrec,5.0,5.0,4.6,5.0,4.8,4.6,5.0
@@ -414,17 +447,18 @@ Honors College,421H,Mai-Lin,Cheng,Top Romantic Encounter,3.77,3.62,3.77,3.77,4.3
 Honors College,421H,Suzanne,Clark,Top Evol & the Modern,4.15,4.23,4.0,4.0,4.15,3.46,4.08
 Honors College,421H,Frances,Cogan,Top Utopia & Dystopia,4.75,4.81,4.56,4.56,4.62,4.75,4.81
 Honors College,421H,Steven,Shankman,Top Lit & Ethics,5.0,4.5,4.5,4.4,4.4,4.4,4.9
+Honors College,424H,Monique,Balbuena,Top Screen Holocaust,4.0,4.0,2.91,3.36,4.36,3.27,4.36
+Honors College,424H,Gregory,Bothun,Top Science & Culture,4.12,3.86,3.73,4.01,3.92,3.42,4.09
+Honors College,424H,J. ,Nicols,Top Science & Culture,4.34,4.32,3.87,4.23,4.4,3.61,4.24
+Honors College,424H,Cheyney,Ryan,Top Human Rights Today,4.61,4.6,3.95,4.28,4.14,3.92,4.65
 Honors College,424H,Helen,Southworth,Top Graphic Novel,4.57,4.71,4.29,4.0,4.43,4.14,4.29
 Honors College,424H,Shaul,Cohen,Top Mass Atrocity Prev,4.46,4.46,3.54,4.18,4.09,3.54,4.46
 Honors College,424H,David,Frank,Top Mass Atrocity Prev,4.75,4.5,4.25,4.62,4.5,4.25,4.75
 Honors College,424H,Anita,Chari,Top Politic Autobio,5.0,5.0,5.0,5.0,4.7,4.9,4.9
 Honors College,424H,David,Frank,Top Race Reconciliatn,4.65,4.59,4.25,4.44,4.62,4.25,4.5
 Honors College,424H,Corinne,Bayerl,Top Black Wrtrs/Paris,4.43,4.71,4.57,4.29,4.57,4.57,4.43
-Honors College,424H,Cheyney,Ryan,Top Human Rights Today,4.57,4.55,3.87,4.24,4.01,3.85,4.61
 Honors College,424H,Helen,Southworth,Top Immigrant Fictions,4.31,4.15,3.92,4.0,4.31,4.17,4.08
 Honors College,424H,Mike,Peixoto,Top Holy War of Crusad,4.89,4.89,4.78,4.56,4.89,4.78,5.0
-Honors College,424H,Gregory,Bothun,Top Science & Culture,4.54,4.48,4.05,4.42,4.25,4.0,4.54
-Honors College,424H,J. ,Nicols,Top Science & Culture,4.63,4.54,4.2,4.52,4.54,4.02,4.53
 Honors College,424H,Anita,Chari,Top Politic Autobio II,5.0,5.0,4.6,4.8,4.8,4.6,5.0
 Honors College,424H,Sharon,Luk,Top Mass Incarceration,4.5,4.42,4.33,3.92,4.58,4.33,4.5
 Honors College,424H,Henry,Alley,Top Gay Men in Lit,4.7,4.77,4.56,4.53,4.68,4.59,4.56
@@ -459,15 +493,15 @@ Honors College,424H,Elizabeth,Wheeler,Top Disability Studies,4.82,4.76,4.53,4.59
 Honors College,424H,Henry,Alley,Top Lit By/Abt Gay Men,4.88,4.81,4.75,4.75,4.44,4.31,4.75
 Honors College,424H,Howard,Faught,Top Visual Queerness,4.0,3.8,3.8,4.0,4.0,3.2,4.2
 Honors College,424H,Karen,McPherson,Top Adolescent Eyes,4.14,4.29,4.36,4.14,4.5,3.86,4.14
+Honors College,431H,Shoshana,Kerewsky,Top Children in War,4.5,4.41,4.4,4.28,4.65,4.53,4.43
+Honors College,431H,Jim,Shephard,Top Bold Solutions,4.6,4.38,4.23,4.15,4.85,3.57,4.3
 Honors College,431H,Vera,Keller,Top Experiment,4.71,4.43,4.29,4.14,4.43,4.0,4.86
 Honors College,431H,Daniel,Rosenberg,Top Search,4.71,4.85,4.25,4.46,4.85,3.97,4.81
 Honors College,431H,Joseph,Fracchia,Top Bodies & Artifacts,4.61,4.66,4.14,4.24,4.93,4.25,4.7
 Honors College,431H,Rick,Minor,Top Archaeolgy Preserv,4.38,4.5,4.38,3.88,3.88,4.0,4.38
 Honors College,431H,Glen,Waddell,Top Economics,4.29,4.71,3.71,4.71,4.86,3.43,4.57
 Honors College,431H,Dare,Baldwin,Top Essentialism,4.33,4.11,4.0,4.0,4.22,3.33,4.44
-Honors College,431H,Jim,Shephard,Top Bold Solutions,4.77,4.54,4.46,4.23,4.85,3.85,4.46
 Honors College,431H,William,Whitelaw,Top Pacif NW Economics,3.0,3.0,3.11,2.56,4.67,3.22,3.33
-Honors College,431H,Shoshana,Kerewsky,Top Children in War,4.39,4.28,4.33,4.17,4.61,4.44,4.17
 Honors College,431H,Daniel,Rosenberg,Top Hist Studio & Lab,4.7,4.8,4.1,4.4,4.8,3.9,4.3
 Honors College,431H,Kim,Sheehan,Top Sci Lit & Communic,4.21,4.36,4.21,4.43,4.43,4.29,4.29
 Honors College,431H,Bruce,Winterhalder,HC Charles Darwin,4.83,5.0,4.67,4.5,4.67,4.33,5.0
@@ -568,15 +602,16 @@ Honors College,434H,James,Fox,Top Hist & Art of Book,4.64,4.79,4.38,4.5,4.79,4.1
 Honors College,434H,Susanna,Lim,Top Russian Novel,4.53,4.47,4.41,4.29,4.47,4.35,4.47
 Honors College,434H,Alexander,Mathas,Top Weimar Republ Cult,4.07,4.0,4.0,3.93,3.8,4.07,4.07
 Honors College,434H,Marilyn,Reaves,Top Hist & Art of Book,4.46,4.38,4.31,4.31,4.77,4.0,4.38
+Honors College,441H,Amy,Connolly,Top A Genetic Inquiry,4.04,4.13,4.15,3.95,4.1,4.32,4.23
+Honors College,441H,Michael,Kellman,Top Relative/Quantum,4.01,3.59,3.51,3.76,4.52,3.53,4.24
+Honors College,441H,Carol,Paty,Top Space Exploration,4.4,4.33,3.93,4.07,4.47,3.67,4.4
 Honors College,441H,Christina,Karns,Top Neurosci Drug Poli,4.13,4.33,3.87,4.13,4.0,3.73,4.4
 Honors College,441H,Kelly,Sutherland,Top Bioinspired Design,3.92,3.95,4.06,3.71,4.29,4.0,3.86
-Honors College,441H,Amy,Connolly,Top A Genetic Inquiry,3.9,3.91,4.03,3.77,3.9,4.29,4.16
 Honors College,441H,Shlomo,Libeskind,Top Great Theorems Mth,4.0,4.12,3.53,3.53,4.06,3.53,3.71
 Honors College,441H,Nathan,Tublitz,Top Mysteries of Brain,4.16,4.37,4.12,4.05,4.31,4.09,3.96
 Honors College,441H,Gabriel,Yospin,Top Biology & Politics,4.55,4.51,4.42,4.13,4.52,3.83,4.7
 Honors College,441H,Gregory,Bothun,Top Climate Chg & Data,4.12,4.0,3.62,3.88,3.75,3.5,4.5
 Honors College,441H,Melissa,Graboyes,Top Bio-Med Rsrch OHSU,4.44,4.81,4.38,4.5,4.44,4.06,4.44
-Honors College,441H,Michael,Kellman,Top Relative/Quantum,4.18,3.72,3.64,3.84,4.54,3.62,4.4
 Honors College,441H,James,Schombert,Top Cosmology,4.43,4.45,4.4,4.43,4.26,3.79,4.51
 Honors College,441H,Jennifer,Ablow,Top Attachment Theory,4.08,4.0,3.46,3.62,3.92,3.23,4.08
 Honors College,441H,Samantha,Hopkins,Top Tibetan Plateau,4.02,4.19,3.81,3.93,4.36,3.75,4.17
@@ -640,20 +675,21 @@ Honors College,444H,Ocean,Howell,Top West Coast Urbanis,4.62,4.62,4.5,4.38,4.62,
 Honors College,444H,Jennifer,Bright,Top Obscene Literature,4.31,4.38,4.15,4.31,4.23,4.23,4.31
 Honors College,444H,Cynthia,Tolentino,Top Fictions US Empire,4.09,4.0,4.09,3.91,4.18,3.46,4.18
 Honors College,444H,Shari,Huhndorf,Top Iss in Native Amer,4.31,4.54,4.38,4.31,4.38,3.69,4.38
+Honors College,477H,Melissa,Graboyes,Thesis Prospectus,4.4,4.7,4.55,4.6,4.7,4.3,4.2
+Honors College,477H,Samantha,Hopkins,Thesis Prospectus,4.11,4.31,4.2,4.3,4.32,4.19,4.11
+Honors College,477H,Roxann,Prazniak,Thesis Prospectus,3.61,3.74,3.85,3.93,4.11,3.89,3.69
+Honors College,477H,Helen,Southworth,Thesis Prospectus,3.96,4.08,3.86,4.04,4.23,4.08,3.84
 Honors College,477H,Monique,Balbuena,HC Thesis Prospectus,4.0,4.0,3.6,3.8,4.6,4.6,4.0
 Honors College,477H,Mark,Carey,Thesis Prospectus,4.29,4.47,4.44,4.44,4.36,4.31,4.23
 Honors College,477H,Mai-Lin,Cheng,Thesis Prospectus,3.78,3.76,3.91,3.9,4.14,3.82,3.76
 Honors College,477H,Barbara,Mossberg,Thesis Prospectus,4.63,4.76,4.41,4.63,4.88,4.48,4.55
 Honors College,477H,David,Frank,Thesis Prospectus,4.25,4.38,4.06,4.0,4.42,4.19,4.02
-Honors College,477H,Helen,Southworth,Thesis Prospectus,3.95,4.06,3.82,4.03,4.23,4.06,3.8
 Honors College,477H,Ocean,Howell,Thesis Prospectus,4.15,4.16,4.43,4.25,4.31,4.53,4.2
 Honors College,477H,Monique,Balbuena,Thesis Prospectus,3.61,3.51,3.66,3.79,3.73,3.78,3.56
 Honors College,477H,Terry,Hunt,Thesis Prospectus,3.87,4.02,3.65,4.2,3.65,3.88,3.88
 Honors College,477H,Susanna,Lim,Thesis Prospectus,4.14,4.2,4.37,4.27,4.36,4.16,4.02
-Honors College,477H,Roxann,Prazniak,Thesis Prospectus,3.54,3.69,3.86,3.94,4.13,3.91,3.66
 Honors College,477H,Sander,Goldberg,Thesis Prospectus,3.89,4.33,4.33,4.44,4.62,4.0,3.89
 Honors College,477H,James,Earl,Thesis Prospectus,4.0,4.25,4.25,4.5,4.25,4.5,4.25
-Honors College,477H,Samantha,Hopkins,Thesis Prospectus,4.05,4.24,4.2,4.34,4.47,4.24,4.0
 Honors College,477H,Abigail,Owen,Thesis Prospectus,3.6,3.6,4.0,4.0,3.9,3.5,3.44
 Honors College,477H,Matthew,Sandler,Thesis Prospectus,4.0,4.22,3.78,4.0,4.22,4.0,3.89
 Honors College,477H,Frances,Cogan,Thesis Prospectus,3.19,3.21,3.44,3.56,3.14,3.42,3.38

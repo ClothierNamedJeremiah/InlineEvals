@@ -1,17 +1,17 @@
+PE Aquatics,111,Kacy,Neal,Learn to Swim,4.73,4.7,4.5,4.61,4.46,4.69,4.77
 PE Aquatics,111,Raiko,Green,Learn to Swim,4.9,4.9,4.8,4.8,4.8,4.8,4.9
 PE Aquatics,111,Jackie,Cowan-James,Learn to Swim,4.69,4.7,4.61,4.66,4.58,4.59,4.69
 PE Aquatics,111,Beverly,Bray,Learn to Swim,4.91,4.87,4.85,4.89,4.71,4.88,4.89
-PE Aquatics,111,Kacy,Neal,Learn to Swim,4.75,4.71,4.56,4.7,4.5,4.7,4.8
-PE Aquatics,121,Michie,Kawada,Water Fitness I,4.71,4.72,4.64,4.67,4.48,4.59,4.55
+PE Aquatics,121,Michie,Kawada,Water Fitness I,4.71,4.72,4.65,4.67,4.45,4.57,4.57
 PE Aquatics,121,Tatyana,Belinsky,Water Fitness I,4.3,4.3,4.3,4.3,4.1,4.22,4.3
 PE Aquatics,121,Catherine,Cowsill,Water Fitness I,4.84,4.83,4.51,4.61,4.26,4.49,4.68
 PE Aquatics,121,Susan,Doyle,Aqua Aerobics I,4.48,4.48,4.41,4.51,4.15,4.34,4.31
-PE Aquatics,122,Michie,Kawada,Water Fitness II,4.76,4.77,4.66,4.74,4.49,4.61,4.58
+PE Aquatics,122,Michie,Kawada,Water Fitness II,4.76,4.77,4.66,4.73,4.46,4.59,4.6
 PE Aquatics,122,Catherine,Cowsill,Water Fitness II,4.84,4.83,4.51,4.61,4.26,4.49,4.68
 PE Aquatics,122,Susan,Doyle,Aqua Aerobics II,4.49,4.49,4.42,4.52,4.17,4.35,4.32
-PE Aquatics,199,Leah,Wren,Sp St SUP Yoga,4.83,4.83,4.67,4.67,4.46,4.42,4.73
+PE Aquatics,199,Leah,Wren,Sp St SUP Yoga,4.92,4.92,4.83,4.83,4.48,4.71,4.87
 PE Aquatics,199,Michie,Kawada,Sp St Water Barre,4.67,4.67,4.67,4.67,4.67,4.67,4.67
-PE Aquatics,201,Dan,Cole,Swimming I,4.65,4.7,4.61,4.67,4.48,4.58,4.7
+PE Aquatics,201,Dan,Cole,Swimming I,4.62,4.69,4.59,4.66,4.42,4.57,4.68
 PE Aquatics,201,Mackenzie,Madison,Swimming I,4.49,4.46,4.34,4.46,4.09,4.49,4.46
 PE Aquatics,201,Kacy,Neal,Swimming I,4.36,4.36,4.42,4.51,4.45,4.39,4.51
 PE Aquatics,201,David,Lee,Swimming I,4.67,4.56,4.47,4.58,4.36,4.47,4.72
@@ -20,8 +20,8 @@ PE Aquatics,201,Jackie,Cowan-James,Swimming I,4.67,4.63,4.64,4.68,4.52,4.62,4.63
 PE Aquatics,201,Britta,Wyatt,Swimming I,4.67,4.5,4.58,4.67,4.67,4.58,4.58
 PE Aquatics,201,Jennifer,Butler,Swimming I,5.0,4.67,4.67,4.67,4.67,5.0,5.0
 PE Aquatics,201,Adam,Pritt,Swimming I,4.83,4.83,4.83,4.5,4.33,4.33,4.83
+PE Aquatics,202,Mackenzie,Madison,Swimming II,4.4,4.35,4.2,4.2,4.05,4.28,4.22
 PE Aquatics,202,Dan,Cole,Swimming II,4.66,4.62,4.61,4.75,4.32,4.56,4.52
-PE Aquatics,202,Mackenzie,Madison,Swimming II,4.45,4.45,4.27,4.32,4.08,4.32,4.3
 PE Aquatics,202,David,Lee,Swimming II,4.37,4.49,4.43,4.43,4.18,4.43,4.32
 PE Aquatics,202,Beverly,Bray,Swimming II,4.47,4.5,4.45,4.55,4.41,4.51,4.36
 PE Aquatics,202,Jackie,Cowan-James,Swimming II,4.63,4.57,4.56,4.63,4.51,4.57,4.4
@@ -31,8 +31,8 @@ PE Aquatics,202,Jennifer,Butler,Swimming II,5.0,4.67,4.67,4.67,4.67,5.0,5.0
 PE Aquatics,202,Scott,James,Swimming II,4.42,4.4,4.26,4.69,4.24,4.36,4.2
 PE Aquatics,202,Joshua,Medina,Swimming II,4.88,4.91,4.88,4.94,4.66,4.88,4.78
 PE Aquatics,202,Adam,Pritt,Swimming II,4.59,4.75,4.77,4.66,4.65,4.75,4.62
+PE Aquatics,203,Mackenzie,Madison,Swimming III,4.4,4.35,4.2,4.2,4.05,4.28,4.22
 PE Aquatics,203,Dan,Cole,Swimming III,4.65,4.62,4.59,4.7,4.25,4.56,4.42
-PE Aquatics,203,Mackenzie,Madison,Swimming III,4.45,4.45,4.27,4.32,4.08,4.32,4.3
 PE Aquatics,203,David,Lee,Swimming III,4.37,4.49,4.43,4.43,4.18,4.43,4.32
 PE Aquatics,203,Beverly,Bray,Swimming III,4.49,4.52,4.53,4.59,4.44,4.52,4.41
 PE Aquatics,203,Jackie,Cowan-James,Swimming III,4.53,4.57,4.56,4.63,4.5,4.53,4.29
@@ -53,8 +53,8 @@ PE Aquatics,303,Scott,James,Swim and Run,4.54,4.27,4.27,4.46,4.44,4.4,4.27
 PE Aquatics,320,Jackie,Cowan-James,Swim and Core,4.86,4.8,4.77,4.77,4.77,4.71,4.71
 PE Aquatics,320,Jackie,Lindsay,Swim and Core,4.88,4.79,4.75,4.79,4.79,4.83,4.75
 PE Aquatics,320,Janice,Radcliffe,Swim and Core,4.75,4.88,4.88,4.88,4.75,4.75,4.75
-PE Aquatics,351,Beverly,Bray,Lifeguard Certificate,4.59,4.64,4.48,4.58,4.43,4.57,4.76
-PE Aquatics,351,Jackie,Cowan-James,Lifeguard Certificate,4.51,4.53,4.38,4.47,4.4,4.55,4.58
+PE Aquatics,351,Beverly,Bray,Lifeguard Certificate,4.6,4.65,4.5,4.59,4.41,4.57,4.76
+PE Aquatics,351,Jackie,Cowan-James,Lifeguard Certificate,4.52,4.54,4.4,4.48,4.4,4.55,4.59
 PE Aquatics,351,Kacy,Neal,Lifeguard Certificate,4.73,4.57,4.55,4.43,4.57,4.59,4.69
 PE Aquatics,351,Joshua,Medina,Lifeguard Certificate,4.59,4.75,4.66,4.72,4.61,4.6,4.72
 PE Aquatics,351,Jennifer,Butler,Lifeguard Certificate,4.69,4.76,4.59,4.86,4.69,4.69,4.79

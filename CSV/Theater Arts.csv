@@ -3,8 +3,8 @@ Theater Arts,121,Janet,Rose,Scenery & Light Lab,4.2,4.55,4.05,4.4,3.95,3.95,4.05
 Theater Arts,122,Vicki,Vanecek-Young,Costume Lab,4.44,4.44,4.24,4.64,4.14,4.39,4.56
 Theater Arts,124,Bradley,Branam,Production,2.0,2.0,1.8,1.8,1.8,2.0,2.0
 Theater Arts,124,Janet,Rose,Production,4.13,4.14,3.86,4.02,3.78,3.98,4.22
-Theater Arts,199,Michael Malek ,Najjar,Sp St College Connect,4.22,4.12,3.92,4.05,4.67,4.42,3.88
-Theater Arts,199,Tricia,Rodley,Sp St College Connect,3.72,3.97,4.05,3.82,4.53,3.87,3.54
+Theater Arts,199,Michael Malek ,Najjar,Sp St College Connect,4.29,4.18,3.97,4.13,4.59,4.38,3.98
+Theater Arts,199,Tricia,Rodley,Sp St College Connect,4.15,4.32,4.3,4.15,4.62,4.18,3.89
 Theater Arts,199,John,Schmor,Sp St London Prep,4.54,4.64,4.73,4.64,4.64,4.64,4.64
 Theater Arts,199,John,Schmor,Sp St London Term Prep,4.67,4.75,4.83,4.75,4.75,4.75,4.75
 Theater Arts,199,John,Schmor,Sp St London Term Abrd,4.14,4.38,4.12,4.38,4.5,4.38,4.38
@@ -15,12 +15,12 @@ Theater Arts,199,Jerry,Hooker,Sp St College Connect,4.33,4.67,4.58,4.42,4.58,4.5
 Theater Arts,199,Alexandra,Bonds,Sp St Reinvent Yourslf,4.78,4.58,4.05,4.21,4.25,4.06,4.51
 Theater Arts,199,Sara,Freeman,Sp St Better Than Book,4.39,4.44,4.28,4.39,4.28,3.94,4.22
 Theater Arts,199,John,Watson,Sp St College Connect,3.4,3.87,3.8,3.6,4.6,4.0,3.07
-Theater Arts,210,Jerry,Hooker,Intro to Design,4.67,4.79,4.62,4.59,4.6,4.39,4.59
+Theater Arts,210,Jerry,Hooker,Intro to Design,4.67,4.8,4.61,4.59,4.6,4.39,4.59
 Theater Arts,210,Bradley,Branam,Intro to Design,4.54,4.54,4.46,4.51,4.46,4.49,4.48
 Theater Arts,210,Janet,Rose,Intro to Design,4.38,4.38,4.34,4.38,4.17,4.22,4.34
 Theater Arts,210,Alexandra,Bonds,Intro to Design,4.24,4.38,4.38,4.08,4.34,4.33,4.12
+Theater Arts,211,Bradley,Branam,Theater Production I,4.33,4.31,4.18,4.2,4.5,4.34,4.28
 Theater Arts,211,Janet,Rose,Theater Production I,4.21,4.16,4.17,4.23,4.33,4.14,4.22
-Theater Arts,211,Bradley,Branam,Theater Production I,4.35,4.33,4.18,4.23,4.51,4.36,4.29
 Theater Arts,211,Margot,Glaser,Theater Production I,4.43,4.29,4.29,4.43,4.43,4.43,4.29
 Theater Arts,211,Michael,Walker,Theater Production I,4.73,4.81,4.85,4.77,4.62,4.71,4.65
 Theater Arts,211,Francesca,Geiger,Theater Production I,4.57,4.71,4.57,4.86,4.79,4.64,4.5
@@ -37,12 +37,12 @@ Theater Arts,212,Jerry,Williams,Theater Production II,3.9,3.9,3.5,2.9,3.9,3.2,3.
 Theater Arts,212,Erika,Hauptman,Theater Production II,4.57,4.33,4.27,4.04,4.43,4.33,4.57
 Theater Arts,212,Patric,Kinkade,Theater Production II,4.44,4.67,4.0,4.33,4.33,3.89,4.44
 Theater Arts,212,Annelie,Thurin,Theater Production II,4.3,4.44,4.4,4.3,4.5,4.6,4.5
+Theater Arts,250,Liz,Fairchild,Acting I,4.69,4.77,4.41,4.4,4.2,4.34,4.37
+Theater Arts,250,Ellen,Gillooly-Kress,Acting I,4.83,4.83,4.7,4.79,4.74,4.66,4.75
+Theater Arts,250,Waylon,Lenk,Acting I,4.3,4.19,4.2,4.15,4.4,4.38,4.1
+Theater Arts,250,Olga,Sanchez Saltveit,Acting I,4.66,4.72,4.62,4.5,4.65,4.64,4.78
 Theater Arts,250,Lydia,Borowicz,Acting I,4.68,4.61,4.76,4.5,4.46,4.17,4.52
-Theater Arts,250,Liz,Fairchild,Acting I,4.72,4.9,4.55,4.53,4.37,4.57,4.55
-Theater Arts,250,Waylon,Lenk,Acting I,4.32,4.19,4.16,4.14,4.36,4.33,4.12
-Theater Arts,250,Ellen,Gillooly-Kress,Acting I,4.9,4.9,4.73,4.81,4.78,4.68,4.79
 Theater Arts,250,J,Rogers,Acting I,4.64,4.61,4.56,4.52,4.78,4.55,4.51
-Theater Arts,250,Olga,Sanchez Saltveit,Acting I,4.78,4.81,4.67,4.53,4.66,4.75,4.87
 Theater Arts,250,Tricia,Rodley,Acting I,4.77,4.76,4.65,4.64,4.68,4.65,4.67
 Theater Arts,250,Zeina,Salame,Acting I,4.81,4.88,4.72,4.55,4.75,4.66,4.69
 Theater Arts,250,Lusie,Cuskey,Acting I,4.58,4.69,4.5,4.64,4.45,4.53,4.57
@@ -87,7 +87,7 @@ Theater Arts,252,Michelle,Yeadon,Acting III,4.0,3.83,3.83,3.17,3.83,3.33,4.33
 Theater Arts,252,Robert,Vrtis,Acting III,4.23,4.32,4.09,4.18,4.4,3.54,4.32
 Theater Arts,252,Theresa,Dudeck,Acting III,4.38,4.58,3.83,4.1,4.72,4.57,4.57
 Theater Arts,252,Jennifer,Thomas,Acting III,4.8,4.9,4.5,4.6,4.8,4.5,4.7
-Theater Arts,271,Tricia,Rodley,Intro Theater Arts,3.62,3.97,3.86,3.89,4.28,3.85,3.49
+Theater Arts,271,Tricia,Rodley,Intro Theater Arts,3.71,4.07,3.94,3.95,4.32,3.96,3.56
 Theater Arts,271,Theresa,May,Intro Theater Arts,3.97,4.14,3.83,3.98,4.12,3.9,3.94
 Theater Arts,271,Erica,Milkovich,Intro Theater Arts,3.66,3.79,3.66,3.8,3.82,3.83,3.66
 Theater Arts,271,Rachel,Foran,Intro Theater Arts,4.06,3.94,4.0,4.0,4.06,4.06,4.0
@@ -109,9 +109,9 @@ Theater Arts,324,Janet,Rose,Production,4.66,4.66,4.66,4.64,4.7,4.36,4.44
 Theater Arts,325,Theresa,May,Water by the Spoonful,5.0,4.5,3.5,4.5,4.5,5.0,5.0
 Theater Arts,364,Michael Malek ,Najjar,Play Direction,3.08,3.69,2.46,2.62,4.62,2.38,3.08
 Theater Arts,364,Joseph,Gilg,Play Direction,3.84,4.0,3.79,3.57,4.54,3.88,3.88
+Theater Arts,367,J,Rogers,History of Theater I,3.81,3.71,3.75,3.83,4.27,3.64,4.05
 Theater Arts,367,Lydia,Borowicz,History of Theater I,4.07,3.87,3.93,4.07,4.33,3.93,4.07
 Theater Arts,367,Michael Malek ,Najjar,History of Theater I,4.3,4.43,4.32,4.27,4.5,4.11,4.2
-Theater Arts,367,J,Rogers,History of Theater I,4.38,4.29,4.29,4.25,4.54,4.21,4.58
 Theater Arts,367,Zeina,Salame,History of Theater I,4.24,4.33,4.43,4.48,4.48,4.3,4.29
 Theater Arts,367,Michelle,Yeadon,History of Theater I,4.28,4.22,4.38,4.31,4.16,4.16,4.19
 Theater Arts,367,Christina,Allaback,History of Theater I,3.7,3.25,3.5,3.25,3.75,3.65,3.7
@@ -178,18 +178,19 @@ Theater Arts,413,Alexandra,Bonds,Costume History III,4.74,4.69,4.73,4.66,4.66,4.
 Theater Arts,416,Alexandra,Bonds,Costume Design,4.76,4.78,4.61,4.62,4.78,4.37,4.79
 Theater Arts,417,Jeanette,De Jong,Adv Costume Design,4.8,4.8,4.8,4.8,4.8,4.2,4.4
 Theater Arts,417,Alexandra,Bonds,Adv Costume Design,4.15,4.43,4.27,4.15,4.33,3.84,4.38
-Theater Arts,418,Jeanette,De Jong,Costume Pattern Draft,4.6,4.9,3.9,4.2,5.0,4.5,4.8
+Theater Arts,418,Jeanette,De Jong,Costume Pattern Draft,4.44,4.66,3.95,4.17,4.86,4.46,4.69
 Theater Arts,418,Alexandra,Bonds,Costume Pattern Draft,4.74,4.68,4.64,4.47,4.72,4.44,4.64
 Theater Arts,419,Alexandra,Bonds,Costume Construction,4.9,4.8,4.8,4.9,4.8,4.7,4.8
 Theater Arts,419,Jeanette,De Jong,Costume Construction,4.0,4.67,4.33,4.0,5.0,4.33,4.67
 Theater Arts,420,Tricia,Rodley,Ret & Rev for Actors,4.49,4.8,4.8,4.8,4.87,4.73,4.6
 Theater Arts,420,Joseph,Gilg,Ret & Rev for Actors,4.39,4.39,4.28,4.17,4.37,4.16,4.29
 Theater Arts,441,Jerry,Hooker,Scene Des: Single Set,4.75,4.93,4.56,4.72,4.74,4.4,4.82
+Theater Arts,445,Jerry,Hooker,Top Drawing Rendering,5.0,5.0,4.8,5.0,4.6,5.0,5.0
+Theater Arts,445,Janet,Rose,Top Stage Management,4.13,4.24,4.08,4.14,4.37,3.89,4.29
 Theater Arts,445,Jeanette,De Jong,Top Prof Issues Design,4.46,4.76,4.36,4.21,4.9,4.27,4.49
 Theater Arts,445,Jerry,Hooker,Top Scenic Painting,4.86,4.89,4.68,4.7,4.6,4.45,4.88
 Theater Arts,445,Jeanette,De Jong,Top Costume Crafts,4.5,4.17,4.0,4.5,4.83,4.17,4.5
 Theater Arts,445,Jerry,Hooker,Top Drft/Model Cnstrct,5.0,5.0,5.0,5.0,5.0,5.0,5.0
-Theater Arts,445,Janet,Rose,Top Stage Management,4.15,4.27,4.09,4.15,4.43,3.88,4.33
 Theater Arts,445,Bradley,Branam,Top Sound Design,4.5,4.5,4.27,4.4,4.63,4.43,4.5
 Theater Arts,445,Jerry,Hooker,Top Props,4.83,4.9,4.5,4.63,4.87,4.56,4.84
 Theater Arts,445,Janet,Rose,Top Lighting for Dance,4.17,4.33,4.0,4.33,4.5,4.17,4.83
@@ -247,6 +248,7 @@ Theater Arts,470,Nelson,Barre,Majors Seminar,4.38,5.0,4.62,4.38,4.75,4.62,4.5
 Theater Arts,470,Tricia,Rodley,Majors Seminar,4.13,4.44,4.26,4.23,4.47,4.32,4.1
 Theater Arts,470,La Donna,Forsgren,Majors Seminar,4.27,4.72,4.49,4.45,4.69,4.51,3.99
 Theater Arts,470,Michael Malek ,Najjar,Majors Seminar,4.45,4.69,4.14,4.27,4.63,4.2,4.35
+Theater Arts,471,Tricia,Rodley,Amer. Theatre-Makers,4.33,4.44,4.33,4.33,4.78,4.33,4.44
 Theater Arts,471,Janet,Rose,Top Hist Stage Design,3.54,3.54,3.42,3.77,4.19,3.67,3.85
 Theater Arts,471,Theresa,May,Top Thea& Climate Chng,4.75,4.5,3.5,3.75,4.25,4.0,4.5
 Theater Arts,471,Theresa,May,Top Latina/o Drama Prj,4.5,4.33,3.83,3.83,5.0,3.83,4.67
@@ -261,6 +263,7 @@ Theater Arts,471,Robert,Vrtis,Top Shakespeare Green,4.2,4.0,4.2,4.6,4.6,4.0,4.0
 Theater Arts,471,Brian,Cook,Top Whodunit Det Plays,4.43,4.57,5.0,4.43,4.57,4.43,4.43
 Theater Arts,471,John,Watson,Top The Drama of War,4.85,4.69,4.69,4.69,4.38,4.08,4.69
 Theater Arts,471,Theresa,May,Top Art/Culture/Nature,3.2,3.2,2.4,2.8,3.8,2.6,3.2
+Theater Arts,472,Michael Malek ,Najjar,Israeli-Palest Theatre,4.33,4.33,3.83,4.33,4.83,4.0,4.5
 Theater Arts,472,Theresa,May,Top Natv Thtr/WatrProj,4.5,4.5,3.83,4.17,4.17,4.33,4.5
 Theater Arts,472,Michael Malek ,Najjar,Top Mid Eastern Thtre,4.62,4.62,4.12,4.62,4.88,4.25,4.88
 Theater Arts,472,Theresa,May,Top Theatr-Env Justice,3.93,3.69,2.93,3.29,4.0,3.36,4.0
@@ -281,6 +284,7 @@ Theater Arts,474,La Donna,Forsgren,Top Black Amer Musical,4.71,4.86,4.57,4.57,4.
 Theater Arts,474,Theresa,May,Top Eco Dramaturgy,4.89,4.89,4.44,4.22,4.67,4.11,4.78
 Theater Arts,474,John,Watson,Top Musical Theatre,4.47,4.53,4.24,4.47,4.44,4.35,4.41
 Theater Arts,474,John,Watson,Top Rcnt British Drama,4.3,4.2,4.5,4.5,4.1,4.0,4.3
+Theater Arts,490,Michael Malek ,Najjar,Top Playwriting,4.5,4.67,4.33,4.33,4.83,4.33,4.5
 Theater Arts,490,Michael Malek ,Najjar,Top Play Direction,3.62,3.54,2.97,3.01,4.24,3.12,3.81
 Theater Arts,490,Nelson,Barre,Top Playwriting,4.83,4.71,4.31,4.54,4.88,4.42,4.77
 Theater Arts,490,Nelson,Barre,Top Dramaturgy,4.25,4.25,4.62,4.75,4.88,4.12,4.12
@@ -308,11 +312,12 @@ Theater Arts,513,Alexandra,Bonds,Costume History III,4.68,4.67,4.71,4.63,4.68,4.
 Theater Arts,516,Alexandra,Bonds,Costume Design,4.76,4.78,4.61,4.62,4.78,4.37,4.79
 Theater Arts,517,Jeanette,De Jong,Adv Costume Design,4.8,4.8,4.8,4.8,4.8,4.2,4.4
 Theater Arts,517,Alexandra,Bonds,Adv Costume Design,4.15,4.43,4.27,4.15,4.33,3.84,4.38
-Theater Arts,518,Jeanette,De Jong,Costume Pattern Draft,4.6,4.9,3.9,4.2,5.0,4.5,4.8
+Theater Arts,518,Jeanette,De Jong,Costume Pattern Draft,4.44,4.66,3.95,4.17,4.86,4.46,4.69
 Theater Arts,518,Alexandra,Bonds,Costume Pattern Draft,4.74,4.68,4.64,4.47,4.72,4.44,4.64
 Theater Arts,519,Alexandra,Bonds,Costume Construction,4.8,4.6,4.6,4.8,4.6,4.4,4.6
 Theater Arts,519,Jeanette,De Jong,Costume Construction,4.0,4.67,4.33,4.0,5.0,4.33,4.67
 Theater Arts,541,Jerry,Hooker,Scene Des: Single Set,4.75,4.93,4.56,4.72,4.74,4.4,4.82
+Theater Arts,545,Jerry,Hooker,Top Drawing Rendering,5.0,5.0,4.8,5.0,4.6,5.0,5.0
 Theater Arts,545,Jeanette,De Jong,Top Prof Issues Design,4.71,4.71,4.71,4.43,5.0,4.14,4.57
 Theater Arts,545,Jerry,Hooker,Top Scenic Painting,4.86,4.89,4.63,4.7,4.57,4.42,4.88
 Theater Arts,545,Jeanette,De Jong,Top Costume Crafts,4.5,4.17,4.0,4.5,4.83,4.17,4.5
@@ -359,6 +364,7 @@ Theater Arts,571,Theresa,May,Top Environmental Thea,4.55,4.58,4.39,4.25,4.65,4.4
 Theater Arts,571,Sara,Freeman,Top Contemp Tragedy,4.38,4.62,4.62,4.38,4.5,4.62,4.5
 Theater Arts,571,John,Watson,Top The Drama of War,4.85,4.69,4.69,4.69,4.38,4.08,4.69
 Theater Arts,571,Theresa,May,Top Art/Culture/Nature,3.2,3.2,2.4,2.8,3.8,2.6,3.2
+Theater Arts,572,Michael Malek ,Najjar,Israeli-Palest Theatre,4.33,4.33,3.83,4.33,4.83,4.0,4.5
 Theater Arts,572,Michael Malek ,Najjar,Top Mid Eastern Thtre,4.62,4.62,4.12,4.62,4.88,4.25,4.88
 Theater Arts,572,Theresa,May,Top Theatr-Env Justice,3.93,3.69,2.93,3.29,4.0,3.36,4.0
 Theater Arts,572,Nelson,Barre,Top Contemp Irish Thea,4.56,4.56,4.67,4.89,4.44,4.11,4.78

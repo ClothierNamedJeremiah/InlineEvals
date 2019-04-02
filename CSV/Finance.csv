@@ -1,18 +1,18 @@
-Finance,240,Michael,Wismer,Survey of Real Estate,4.09,3.96,4.09,4.03,3.97,4.15,4.09
+Finance,240,Michael,Wismer,Survey of Real Estate,4.1,3.96,4.11,4.04,3.98,4.16,4.1
 Finance,281,Jenny,Ellis,Personal Finance,3.49,3.35,3.58,3.66,3.89,3.62,3.48
 Finance,281,Bruce,Darling,Personal Finance,4.04,3.99,4.21,3.91,4.08,4.28,4.01
 Finance,283,Ali,Emami,Stock Market & Invest,3.61,3.46,3.44,3.57,3.64,3.58,3.76
-Finance,311,Jenny,Ellis,Ec Found Compet Analy,3.67,3.59,3.93,3.87,3.88,3.94,3.72
+Finance,311,Jenny,Ellis,Ec Found Compet Analy,3.66,3.58,3.92,3.86,3.88,3.94,3.72
 Finance,311,Jon,Moulton,Ec Found Compet Analy,3.92,4.12,3.64,3.56,4.36,4.12,3.72
 Finance,311,Ali,Emami,Ec Found Compet Analy,3.67,3.61,3.41,3.55,3.94,3.81,3.73
 Finance,311,Julian,Atanassov,Ec Found Compet Analy,3.89,3.85,4.12,4.05,4.03,3.99,3.81
 Finance,311H,Edward,Johnson,Ec Found Compet Analy,3.58,3.42,3.83,3.87,3.71,3.62,3.63
 Finance,311H,Julian,Atanassov,Ec Found Compet Analy,3.94,3.97,4.18,3.97,3.99,4.43,3.88
 Finance,311H,George,Racette,Ec Found Compet Analy,3.89,3.6,4.01,4.0,3.88,3.4,3.83
-Finance,316,Deborah,Bauer,Financial Management,4.33,4.39,4.53,4.39,4.29,4.42,4.3
+Finance,316,Deborah,Bauer,Financial Management,4.32,4.38,4.51,4.38,4.28,4.41,4.3
+Finance,316,Barry,Miller,Financial Management,4.19,4.19,4.36,4.27,4.34,4.19,4.2
+Finance,316,Albert,Sheen,Financial Management,4.5,4.63,4.61,4.62,4.45,4.54,4.51
 Finance,316,Xiaoding,Liu,Financial Management,4.23,4.19,4.42,4.27,4.22,4.35,4.23
-Finance,316,Barry,Miller,Financial Management,4.18,4.18,4.35,4.24,4.35,4.21,4.23
-Finance,316,Albert,Sheen,Financial Management,4.49,4.62,4.59,4.6,4.45,4.53,4.49
 Finance,316,Vineet,Bhagwat,Financial Management,4.42,4.55,4.59,4.55,4.48,4.47,4.38
 Finance,316,Stephen,McKeon,Financial Management,4.34,4.47,4.46,4.41,4.34,4.41,4.31
 Finance,316,Neviana,Petkova,Financial Management,3.69,3.59,3.98,3.92,3.81,3.85,3.8
@@ -28,10 +28,10 @@ Finance,316H,Stephen,McKeon,Financial Management,4.58,4.61,4.61,4.71,4.52,4.68,4
 Finance,316H,Vineet,Bhagwat,Financial Management,4.7,4.86,4.82,4.83,4.73,4.74,4.65
 Finance,316H,Neviana,Petkova,Financial Management,3.8,3.46,3.9,3.84,3.8,3.88,3.94
 Finance,316H,Charles,Gaa,Financial Management,3.45,3.16,3.88,3.78,3.86,3.69,3.5
+Finance,380,Deborah,Bauer,Finl Mkts & Investment,4.12,4.14,4.29,4.19,4.21,4.12,4.13
 Finance,380,Yi,Xiao,Finl Mkts & Investment,3.69,3.62,3.79,3.78,4.5,4.0,3.77
 Finance,380,Zhi,Wang,Finl Mkts & Investment,4.38,4.4,4.47,4.53,4.57,4.41,4.33
 Finance,380,Rob,Ready,Finl Mkts & Investment,4.11,4.13,4.1,4.16,4.45,4.3,4.21
-Finance,380,Deborah,Bauer,Finl Mkts & Investment,4.11,4.13,4.3,4.17,4.21,4.14,4.14
 Finance,380,Roberto,Gutierrez,Finl Mkts & Investment,3.86,3.78,3.86,3.96,4.04,3.8,3.84
 Finance,380,Diane,Del Guercio,Finl Mkts & Investment,3.78,3.5,3.94,3.5,4.22,3.88,3.84
 Finance,380,Jon,Moulton,Finl Mkts & Investment,4.1,3.96,4.12,4.03,4.36,3.89,4.12
@@ -39,27 +39,27 @@ Finance,380,Egemen,Genc,Finl Mkts & Investment,3.08,3.0,3.24,3.16,3.68,3.28,3.28
 Finance,380,Chung-Shin,Liu,Finl Mkts & Investment,2.5,2.38,2.88,2.94,3.5,3.15,2.47
 Finance,380,Ekkehart,Boehmer,Finl Mkts & Investment,3.21,3.05,3.65,3.33,3.57,3.62,3.29
 Finance,380,Avinash,Verma,Finl Mkts & Investment,3.29,3.11,3.37,3.48,3.76,3.55,3.4
+Finance,406,Jon,Moulton,Sp Pr Cred Fin Grp I,4.35,4.49,4.46,4.39,4.65,4.33,4.35
 Finance,406,Jon,Moulton,Sp Pr Cred Fin Grp II,4.71,4.74,4.56,4.64,4.81,4.68,4.71
-Finance,406,Jon,Moulton,Sp Pr Cred Fin Grp I,4.5,4.38,4.12,4.38,4.5,4.25,4.5
-Finance,410,John,Chalmers,Impact Investing,4.25,4.38,4.12,4.12,4.75,4.0,4.5
+Finance,410,John,Chalmers,Impact Investing,4.34,4.5,4.16,4.22,4.62,3.97,4.41
 Finance,410,Jan,Schalkwijk,Impact Investing,4.09,3.97,4.25,4.22,4.29,4.02,3.91
 Finance,410,Jon,Moulton,Commercial Banking,3.88,3.87,3.96,3.86,4.49,3.85,3.91
 Finance,410,Frank,Hoell,Commercial Banking,3.5,3.25,3.75,3.25,3.5,2.0,4.25
 Finance,410,Beth,Hjelm,SAC Sem Port Mgt Analy,4.56,4.56,4.56,4.56,4.44,4.67,4.56
 Finance,410,Ben,Salm,SAC Sem Port Mgt Analy,4.71,4.73,4.78,4.75,4.76,4.62,4.74
+Finance,462,Youchang,Wu,Deriv Mkt & Fin Instit,4.11,3.97,4.21,4.13,4.21,4.18,4.16
 Finance,462,Ali,Emami,Deriv Mkt & Fin Instit,3.86,3.69,3.65,3.8,3.94,3.88,3.99
-Finance,462,Youchang,Wu,Deriv Mkt & Fin Instit,4.1,3.93,4.2,4.12,4.22,4.19,4.16
 Finance,462,John,Chalmers,Deriv Mkt & Fin Instit,4.25,4.38,4.11,4.23,4.01,3.94,4.21
 Finance,462,Avinash,Verma,Deriv Mkt & Fin Instit,3.8,3.58,3.66,3.84,3.79,3.7,3.81
-Finance,463,Ali,Emami,International Finance,3.72,3.58,3.41,3.66,3.9,3.7,3.81
+Finance,463,Ali,Emami,International Finance,3.68,3.54,3.37,3.62,3.88,3.66,3.76
 Finance,463,Jon,Moulton,International Finance,4.07,4.09,4.13,4.09,4.31,4.05,4.07
 Finance,463,Diane,Del Guercio,International Finance,4.11,4.09,4.3,4.2,4.22,4.17,4.14
 Finance,463,Sith,Chaisurote,International Finance,3.91,4.03,4.1,4.22,4.06,3.98,3.96
 Finance,463,Avinash,Verma,International Finance,3.39,3.25,3.36,3.46,3.65,3.38,3.22
 Finance,463,Woodrow,Johnson,International Finance,3.97,3.82,4.09,4.09,3.94,3.85,3.88
-Finance,464,Jon,Moulton,Commercial Banking,4.04,3.95,3.93,3.88,4.44,3.95,4.01
+Finance,464,Jon,Moulton,Commercial Banking,4.02,3.93,3.93,3.88,4.45,3.96,3.98
+Finance,473,Jon,Moulton,Fin Analy & Valuation,4.27,4.26,4.29,4.22,4.57,4.25,4.33
 Finance,473,Xiaoding,Liu,Fin Analy & Valuation,4.03,4.07,4.12,4.01,4.13,4.12,3.99
-Finance,473,Jon,Moulton,Fin Analy & Valuation,4.3,4.29,4.31,4.27,4.61,4.28,4.33
 Finance,473,Brandon,Julio,Fin Analy & Valuation,4.4,4.45,4.43,4.45,4.5,4.32,4.35
 Finance,473,Stephen,McKeon,Fin Analy & Valuation,4.45,4.54,4.44,4.53,4.43,4.37,4.41
 Finance,473,Larry,Dann,Fin Analy & Valuation,4.02,3.96,4.09,3.98,4.15,4.12,4.08
@@ -67,19 +67,20 @@ Finance,473,Neviana,Petkova,Fin Analy & Valuation,3.51,3.39,3.61,3.71,3.79,3.49,
 Finance,473,George,Racette,Fin Analy & Valuation,3.84,3.75,3.78,3.86,4.03,3.45,3.88
 Finance,473,Wayne,Mikkelson,Fin Analy & Valuation,3.37,2.9,2.96,3.33,3.33,3.06,3.25
 Finance,473,Avinash,Verma,Fin Analy & Valuation,3.43,3.29,3.21,3.57,3.29,3.5,3.29
-Finance,510,John,Chalmers,Impact Investing,4.07,4.24,3.67,3.9,4.49,3.61,4.25
+Finance,510,John,Chalmers,Impact Investing,4.19,4.37,3.85,4.04,4.49,3.72,4.27
 Finance,510,Jan,Schalkwijk,Impact Investing,4.09,3.97,4.25,4.22,4.29,4.02,3.91
 Finance,510,Jon,Moulton,Commercial Banking,3.9,3.92,4.1,3.95,4.69,3.89,4.02
 Finance,510,Frank,Hoell,Commercial Banking,3.5,3.25,3.75,3.25,3.5,2.0,4.25
 Finance,510,Beth,Hjelm,SAC Sem Port Mgt Analy,4.56,4.56,4.56,4.56,4.44,4.67,4.56
 Finance,510,Ben,Salm,SAC Sem Port Mgt Analy,4.71,4.73,4.78,4.75,4.76,4.62,4.74
+Finance,562,Youchang,Wu,Deriv Mkt & Fin Instit,4.13,3.97,4.22,4.14,4.19,4.21,4.24
 Finance,562,Ali,Emami,Deriv Mkt & Fin Instit,3.52,3.4,3.29,3.51,3.83,3.66,3.81
-Finance,562,Youchang,Wu,Deriv Mkt & Fin Instit,4.11,3.92,4.2,4.12,4.19,4.19,4.22
 Finance,562,John,Chalmers,Deriv Mkt & Fin Instit,4.19,4.23,3.93,4.12,3.95,3.78,4.16
-Finance,564,Jon,Moulton,Commercial Banking,4.02,3.93,3.93,3.89,4.42,3.96,3.98
+Finance,564,Jon,Moulton,Commercial Banking,3.99,3.91,3.93,3.88,4.44,3.97,3.95
+Finance,607,Michele,Henney,Sem Fin Security Analy,4.64,4.76,4.65,4.69,4.91,4.76,4.63
+Finance,607,Kristi,Lodge,Sem Professional Devel,3.41,3.5,3.54,3.82,4.41,3.91,3.64
+Finance,607,Zhi,Wang,Sem Adv Topics Fin Res,4.95,5.0,4.95,4.98,5.0,4.95,4.98
 Finance,607,Deb,Chereck,Sem Professional Devel,4.33,4.33,4.19,4.23,4.53,4.26,4.29
-Finance,607,Michele,Henney,Sem Fin Security Analy,4.66,4.75,4.67,4.72,4.92,4.78,4.65
-Finance,607,Zhi,Wang,Sem Adv Topics Fin Res,4.94,5.0,4.94,4.97,5.0,4.94,4.97
 Finance,607,Youchang,Wu,Sem Curr Res Finance,4.6,4.8,5.0,5.0,4.8,4.8,4.8
 Finance,607,Xiaoding,Liu,Sem Curr Res Finance,4.57,4.71,4.86,4.71,4.86,4.71,4.57
 Finance,607,Brandon,Julio,Sem Curr Res Finance,5.0,5.0,5.0,5.0,5.0,5.0,5.0
@@ -91,12 +92,13 @@ Finance,607,Wayne,Mikkelson,Sem Curr Res Finance,4.33,4.44,4.33,4.67,4.44,4.33,4
 Finance,607,Charles,Gaa,Sem Curr Res Finance,4.12,4.12,3.88,4.5,4.25,4.12,4.25
 Finance,607,Ekkehart,Boehmer,Sem Curr Res Finance,4.29,4.0,4.29,4.0,4.14,3.71,4.43
 Finance,607,Roberto,Gutierrez,Sem Curr Res Finance,4.4,4.4,4.4,4.4,4.4,4.4,4.4
+Finance,608,Michael,Caprai,Sp Top Wealth Mgmt,4.13,4.13,4.07,4.0,4.13,4.0,4.13
 Finance,608,Parke,Blundon,Sp Top Wealth Mgmt,4.13,4.07,3.6,3.87,4.13,3.93,4.13
 Finance,608,Monica,Bray,Sp Top Wealth Mgmt,2.95,3.68,3.0,3.1,4.56,3.32,2.95
 Finance,608,Carl,Burgdorfer,Sp Top Wealth Mgmt,4.53,4.46,4.25,4.22,4.63,4.23,4.54
 Finance,608,David,Chen,Sp St Fin Sust Impact,5.0,4.9,4.4,4.6,3.8,4.3,4.7
+Finance,609,Stephen,McKeon,Prac Emerging Mkt Fund,4.49,4.55,4.42,4.49,4.63,4.5,4.53
 Finance,609,John,Chalmers,Prac Master Sci Finan,3.92,3.83,3.25,3.92,4.17,3.42,3.91
-Finance,609,Stephen,McKeon,Prac Emerging Mkt Fund,4.49,4.56,4.4,4.51,4.64,4.52,4.53
 Finance,609,Zhi,Wang,Prac Emerging Mkt Fund,4.06,4.06,3.5,4.19,4.21,3.69,4.25
 Finance,609,John,Chalmers,Prac Emerging Mkt Fund,4.49,4.23,4.21,4.42,4.35,4.0,4.52
 Finance,609,Jeffrey,DeBoer,Prac Emerging Mkt Fund,4.35,4.16,4.15,4.3,4.19,3.88,4.33
@@ -108,6 +110,7 @@ Finance,610,John,Chalmers,Fixed Income Securit,4.03,4.03,3.77,3.92,4.05,3.83,4.1
 Finance,610,Larry,Dann,Corp Fin & Valuation,4.06,4.08,3.77,3.83,4.29,3.74,4.05
 Finance,610,Michael,Wismer,Real Estate Fin & Inv,2.77,2.73,2.82,2.82,2.95,2.86,2.64
 Finance,610,John,Chalmers,Fin Instru Mkts Instit,3.95,3.88,3.9,3.7,3.88,3.6,3.72
+Finance,612,Albert,Sheen,Fundamentals Finance,4.85,4.94,4.82,4.74,4.65,4.68,4.79
 Finance,612,Stephen,McKeon,Fundamentals Finance,4.77,4.87,4.78,4.78,4.59,4.7,4.67
 Finance,612,Sith,Chaisurote,Fundamentals Finance,3.85,3.73,3.94,3.77,3.91,3.85,3.77
 Finance,612,Wayne,Mikkelson,Fundamentals Finance,3.63,3.42,3.62,3.7,3.64,3.59,3.75
@@ -130,6 +133,6 @@ Finance,673,Julian,Atanassov,Adv Top Corporate Fin,4.42,4.54,4.38,4.23,4.5,4.19,
 Finance,673,Julian,Atanassov,Problems in Finance,4.06,4.1,3.75,3.93,4.25,3.72,4.25
 Finance,673,Wayne,Mikkelson,Problems in Finance,3.9,4.05,3.86,4.0,4.14,3.52,4.05
 Finance,673,Avinash,Verma,Problems in Finance,3.1,3.15,2.69,3.34,3.49,2.4,3.03
-Finance,675,John,Chalmers,Fixed Inc Securities,4.46,4.41,4.24,4.57,4.29,4.25,4.54
-Finance,683,Roberto,Gutierrez,Concepts of Investment,4.26,4.22,4.0,4.19,4.43,3.96,4.15
+Finance,675,John,Chalmers,Fixed Inc Securities,4.41,4.39,4.18,4.5,4.26,4.22,4.47
+Finance,683,Roberto,Gutierrez,Concepts of Investment,4.23,4.18,3.98,4.17,4.42,3.95,4.14
 Finance,683,Diane,Del Guercio,Concepts of Investment,4.28,4.3,4.26,4.29,4.36,4.2,4.13

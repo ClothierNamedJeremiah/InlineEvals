@@ -5,7 +5,7 @@ Art History,199,Akiko,Walley,Sp St College Connect,4.02,4.3,4.21,4.23,4.56,4.22,
 Art History,199,Ashley,Gibson,Sp St Art and Cinema,4.1,4.0,4.0,4.1,3.79,3.91,4.09
 Art History,199,Ben,Brinkley,Sp St Buddhism Thr Art,4.36,4.5,4.29,4.5,4.57,4.0,4.36
 Art History,199,Ben,Brinkley,Sp St Buddhism thr Art,4.13,4.17,3.88,4.14,4.04,3.79,4.08
-Art History,204,Jeffrey,Hurwit,Hist Western Art I,4.49,4.59,4.52,4.61,4.13,4.17,4.44
+Art History,204,Jeffrey,Hurwit,Hist Western Art I,4.48,4.57,4.51,4.6,4.11,4.15,4.42
 Art History,205,James,Harper,Hist Western Art II,4.24,4.26,4.03,4.24,3.95,3.87,4.18
 Art History,205,Carmen,Lord,Hist Western Art II,3.96,3.84,3.58,3.77,3.99,4.08,4.23
 Art History,205,Rebekah,Perry,Hist Western Art II,3.71,3.6,4.03,3.87,3.89,3.76,3.69
@@ -20,10 +20,10 @@ Art History,206,Kate,Mondloch,Hist Western Art III,4.16,3.99,4.18,4.22,4.13,4.18
 Art History,207,Isabella,Nardi,Hist of Indian Art,3.93,3.87,4.07,4.05,3.83,3.9,3.94
 Art History,208,Charles,Lachman,Hist of Chinese Art,4.13,4.14,4.17,4.25,4.12,4.08,4.08
 Art History,208,Ann,Wetherell,Hist of Chinese Art,3.92,3.92,4.0,4.03,3.75,3.8,3.94
-Art History,209,Akiko,Walley,Hist of Japanese Art,3.92,3.95,4.02,4.1,4.15,3.82,3.85
+Art History,209,Akiko,Walley,Hist of Japanese Art,3.98,4.0,4.06,4.15,4.18,3.85,3.9
 Art History,209,Younjung,Oh,Hist of Japanese Art,3.79,3.54,3.86,3.9,3.54,3.88,3.83
 Art History,209,Ann,Wetherell,Hist of Japanese Art,3.65,3.58,3.85,3.87,3.64,3.8,3.82
-Art History,210,Jenny,Lin,Cntmp Asian Art & Arch,4.35,4.47,4.5,4.46,4.42,4.45,4.31
+Art History,210,Jenny,Lin,Cntmp Asian Art & Arch,4.34,4.45,4.48,4.45,4.39,4.42,4.29
 Art History,211,Derek,Burdette,Survey Lat Amer Arts,4.54,4.65,4.58,4.56,4.23,4.33,4.42
 Art History,300,Joyce,Cheng,Crit Appr ARH Study,4.01,3.94,4.4,4.28,4.06,3.63,3.99
 Art History,300,Keith,Eggener,Crit Appr ARH Study,4.38,4.53,4.38,4.44,4.57,4.54,4.36
@@ -32,7 +32,7 @@ Art History,300,James,Harper,Crit Appr ARH Study,4.19,4.22,3.78,3.82,3.89,3.53,4
 Art History,300,Jessica,Maier,Crit Appr ARH Study,4.36,4.36,4.43,4.36,4.5,4.21,4.21
 Art History,300,Lauren,Kilroy,Crit Appr ARH Study,4.74,4.88,4.85,4.74,4.79,4.6,4.83
 Art History,300,Charles,Lachman,Crit Appr ARH Study,3.74,4.07,3.95,3.83,4.17,4.0,3.74
-Art History,314,Maile,Hutterer,Hist of World Arch I,4.38,4.55,4.43,4.49,4.23,4.29,4.4
+Art History,314,Maile,Hutterer,Hist of World Arch I,4.43,4.57,4.48,4.53,4.24,4.28,4.39
 Art History,314,Maile,Hutterer,Hist Western Arch I,4.44,4.58,4.46,4.51,4.21,4.09,4.5
 Art History,314,Rebekah,Perry,Hist Western Arch I,3.9,3.75,4.04,3.93,3.89,3.94,3.98
 Art History,314,Nicola,Camerlenghi,Hist Western Arch I,4.47,4.6,4.51,4.61,4.23,4.27,4.39
@@ -43,7 +43,7 @@ Art History,315,Albert,Narath,Hist Western Arch II,4.47,4.62,4.41,4.5,4.36,4.26,
 Art History,315,Gayle,Goudy,Hist Western Arch II,3.33,2.91,2.92,3.12,3.59,3.7,3.52
 Art History,315,Deborah,Hurtt,Hist Western Arch II,4.12,4.08,4.08,4.17,4.06,4.03,4.18
 Art History,320M,Federica,Francesconi,History of Jewish Art,4.68,4.92,4.72,4.68,4.84,4.88,4.68
-Art History,322,Kristen,Seaman,Art of Ancient Greece,4.09,4.23,4.37,4.28,4.37,4.23,4.05
+Art History,322,Kristen,Seaman,Art of Ancient Greece,4.15,4.22,4.34,4.17,4.4,4.3,4.23
 Art History,322,Jeffrey,Hurwit,Art of Ancient Greece,4.51,4.58,4.36,4.54,4.22,4.13,4.4
 Art History,323,Kristen,Seaman,Art of Ancient Rome,4.12,4.16,4.21,4.23,4.15,4.18,4.02
 Art History,323,Jeffrey,Hurwit,Art of Ancient Rome,4.42,4.55,4.36,4.49,4.17,4.03,4.4
@@ -58,7 +58,7 @@ Art History,342,James,Harper,Southern Baroque Art,4.13,4.27,3.84,3.89,4.11,3.89,
 Art History,342,Lauren,Kilroy,Southern Baroque Art,4.0,4.07,4.1,4.07,4.3,3.94,4.03
 Art History,343,James,Harper,Northern Renaiss Art,4.47,4.36,4.1,4.04,4.25,3.94,4.35
 Art History,344,James,Harper,Northern Baroque Art,4.46,4.51,3.79,4.04,3.58,3.84,4.35
-Art History,348,James,Harper,Rome in Age of Bernini,4.39,4.56,4.16,4.34,4.24,3.96,4.4
+Art History,348,James,Harper,Rome in Age of Bernini,4.33,4.51,4.08,4.29,4.18,3.87,4.34
 Art History,349,Joby,Patterson,History of Prints,3.83,3.57,3.49,3.5,3.44,3.23,3.9
 Art History,350,Akiko,Walley,History of Manga,4.47,4.53,4.56,4.59,4.5,4.47,4.47
 Art History,351,Nina,Amstutz,19th Century Art,3.5,3.5,3.71,3.79,3.86,3.54,3.43
@@ -84,10 +84,11 @@ Art History,381,Esther,Jacobson-Tepfer,Nomadic Art of Eurasia,4.52,4.45,4.41,4.6
 Art History,382,Esther,Jacobson-Tepfer,Art of Silk Route,4.27,4.2,3.8,4.33,3.93,3.33,4.2
 Art History,384,Charles,Lachman,Chinese Art I,4.57,4.46,4.51,4.69,4.18,4.42,4.41
 Art History,386,Charles,Lachman,Chinese Art III,3.64,3.73,3.46,3.91,3.64,2.91,3.46
-Art History,387,Charles,Lachman,Chinese Buddhist Art,4.36,4.36,4.24,4.39,4.4,4.25,4.3
+Art History,387,Charles,Lachman,Chinese Buddhist Art,4.38,4.37,4.29,4.43,4.41,4.28,4.32
 Art History,391,David,Eisler,Art of Pacific Isl I,4.0,4.17,4.0,3.83,4.33,4.33,4.5
 Art History,392,David,Eisler,Art of Pacific Isl II,3.43,3.71,3.86,3.57,3.57,3.86,3.43
 Art History,397,Akiko,Walley,Japanese Buddhist Art,3.95,3.93,3.97,3.97,4.22,3.66,3.99
+Art History,399,Daphne,Gallagher,Sp St W Afr Art/Archtc,4.44,4.56,4.62,4.62,4.38,4.31,4.5
 Art History,399,Nina,Amstutz,Sp St Making Art & Hst,4.27,4.18,4.5,4.5,4.5,4.4,4.6
 Art History,399,Derek,Burdette,Sp St Colonial LA Art,4.65,4.9,4.7,4.75,4.5,4.55,4.6
 Art History,399,Charlene,Liu,Sp St Making Art & Hst,4.09,4.36,4.18,4.36,4.46,4.18,4.36
@@ -137,6 +138,7 @@ Art History,399,Isabella,Nardi,Sp St Indian Painting,4.23,3.85,3.92,4.31,4.0,4.2
 Art History,399,Lealan,Swanson,Sp St African Art,4.06,4.06,3.71,3.82,4.18,3.77,4.18
 Art History,399,Lealan,Swanson,Sp St Afro-Amer Art,4.2,4.4,3.6,4.0,4.6,3.4,4.6
 Art History,399,Mara,Miller,Sp St Women/Arts Japan,2.8,3.1,2.0,2.45,2.68,2.3,3.0
+Art History,407,Jenny,Lin,Sem Cntmp Asn Art/Film,4.82,5.0,4.73,5.0,4.91,4.64,4.82
 Art History,407,Derek,Burdette,Sem Objects of Empire,4.67,4.67,4.67,4.67,4.67,4.33,4.67
 Art History,407,Joyce,Cheng,Sem Art, Work and Play,4.62,4.5,4.25,4.25,4.62,4.12,4.38
 Art History,407,Kristen,Seaman,Sem Grk Sculp Cities,4.33,4.33,4.33,4.33,4.83,4.17,4.33
@@ -183,6 +185,9 @@ Art History,407,Ann,Wetherell,Sem Ming Dynasty Paint,4.6,5.0,4.8,4.6,5.0,4.8,4.6
 Art History,407,Kate,Mondloch,Sem Media/Survl/Spect,4.64,4.5,4.71,4.57,4.64,4.5,4.79
 Art History,407,Leland,Roth,Sem Buildings of Oreg,5.0,5.0,4.6,4.6,5.0,4.2,4.8
 Art History,409,Danielle,Knapp,Prac Explore Art Daura,4.83,5.0,4.67,4.83,4.83,4.5,4.67
+Art History,410,James,Harper,Caravaggio and His Age,5.0,5.0,5.0,4.75,4.75,4.75,5.0
+Art History,410,Ocean,Howell,American Urbanism,4.5,4.75,4.5,4.38,4.5,4.38,4.75
+Art History,410,Emily,Scott,Land & Environ Art,4.83,4.83,4.58,4.58,4.75,4.67,4.75
 Art History,410,Keith,Eggener,20C Architecture,4.4,4.6,4.4,4.65,4.4,4.15,4.4
 Art History,410,Derek,Burdette,Art, Colonial & Decon,4.88,4.94,4.76,4.71,4.75,4.82,4.82
 Art History,410,James,Harper,Ital Renaissance Villa,4.2,4.6,4.4,4.0,4.2,4.2,4.0
@@ -296,6 +301,7 @@ Art History,453,William,Simmons,Top Russ Avant-Garde,4.77,4.77,4.54,4.62,4.62,4.
 Art History,453,William,Simmons,Top Contemp Persp Dada,5.0,4.71,4.71,4.43,4.43,4.43,4.86
 Art History,454,William,Simmons,Modern German Art,4.61,4.7,4.55,4.68,4.67,4.61,4.76
 Art History,455,Kate,Mondloch,Contemporary Art,4.57,4.61,4.61,4.7,4.74,4.52,4.48
+Art History,457,Kate,Mondloch,Top Art and Attention,4.67,4.67,4.67,4.78,4.78,4.56,4.67
 Art History,457,Kate,Mondloch,Top Art After Feminism,3.91,3.64,4.36,4.09,4.36,4.36,4.18
 Art History,457,Jenny,Lin,Top Global Asia,4.73,4.73,4.67,4.6,4.8,4.6,4.67
 Art History,460,Leland,Roth,18C Architecture,4.4,4.37,4.3,4.38,4.26,4.1,4.28
@@ -318,9 +324,11 @@ Art History,477,Schuyler,Warren,Hist Landscape Arch I,4.29,4.43,4.29,4.29,4.43,4
 Art History,477,Erik,Carr,Hist Landscape Arch I,4.22,4.33,4.11,4.22,4.28,3.94,4.17
 Art History,478,Kenneth,Helphand,Hist Landscape Arch II,4.41,4.47,4.24,4.37,4.17,3.69,4.29
 Art History,478,Schuyler,Warren,Hist Landscape Arch II,4.75,4.75,4.75,4.75,4.5,4.0,4.5
+Art History,485,Akiko,Walley,Top Japanese Warriors,4.8,4.8,4.8,4.6,5.0,4.8,4.8
 Art History,488,Akiko,Walley,Japanese Prints,4.5,4.52,4.04,4.23,4.74,3.87,4.61
 Art History,488,Ann,Wetherell,Japanese Prints,4.36,4.36,4.21,4.57,4.43,4.21,4.5
 Art History,490,Mary-Lyon,Dolezal,Islamic Art & Arch,1.88,1.88,2.25,1.88,2.88,2.25,2.5
+Art History,507,Jenny,Lin,Sem Cntmp Asn Art/Film,4.82,5.0,4.73,5.0,4.91,4.64,4.82
 Art History,507,Derek,Burdette,Sem Objects of Empire,4.67,4.67,4.67,4.67,4.67,4.33,4.67
 Art History,507,Joyce,Cheng,Sem Art, Work and Play,4.62,4.5,4.25,4.25,4.62,4.12,4.38
 Art History,507,Kristen,Seaman,Sem Grk Sculp Cities,4.33,4.33,4.33,4.33,4.83,4.17,4.33
@@ -361,6 +369,9 @@ Art History,507,Lauren,Kilroy,Sem Lat Am Portraiture,5.0,5.0,5.0,4.75,5.0,4.75,5
 Art History,507,Ann,Wetherell,Sem Ming Dynasty Paint,4.6,5.0,4.8,4.6,5.0,4.8,4.6
 Art History,507,Kate,Mondloch,Sem Media/Survl/Spect,4.64,4.5,4.71,4.57,4.64,4.5,4.79
 Art History,507,Leland,Roth,Sem Buildings of Oreg,5.0,5.0,4.6,4.6,5.0,4.2,4.8
+Art History,510,James,Harper,Caravaggio and His Age,5.0,5.0,5.0,4.75,4.75,4.75,5.0
+Art History,510,Ocean,Howell,American Urbanism,4.5,4.75,4.5,4.38,4.5,4.38,4.75
+Art History,510,Emily,Scott,Land & Environ Art,4.83,4.83,4.58,4.58,4.75,4.67,4.75
 Art History,510,Keith,Eggener,20C Architecture,4.4,4.6,4.4,4.65,4.4,4.15,4.4
 Art History,510,Derek,Burdette,Art, Colonial & Decon,4.88,4.94,4.76,4.71,4.75,4.82,4.82
 Art History,510,James,Harper,Ital Renaissance Villa,4.2,4.6,4.4,4.0,4.2,4.2,4.0
@@ -458,6 +469,7 @@ Art History,553,William,Simmons,Top Russ Avant-Garde,4.77,4.77,4.54,4.62,4.62,4.
 Art History,553,William,Simmons,Top Contemp Persp Dada,5.0,4.71,4.71,4.43,4.43,4.43,4.86
 Art History,554,William,Simmons,Modern German Art,4.61,4.7,4.55,4.68,4.67,4.61,4.76
 Art History,555,Kate,Mondloch,Contemporary Art,4.57,4.61,4.61,4.7,4.74,4.52,4.48
+Art History,557,Kate,Mondloch,Top Art and Attention,4.67,4.67,4.67,4.78,4.78,4.56,4.67
 Art History,557,Kate,Mondloch,Top Art After Feminism,3.91,3.64,4.36,4.09,4.36,4.36,4.18
 Art History,557,Jenny,Lin,Top Global Asia,4.73,4.73,4.67,4.6,4.8,4.6,4.67
 Art History,560,Leland,Roth,18C Architecture,4.4,4.37,4.3,4.38,4.26,4.1,4.28
@@ -480,6 +492,7 @@ Art History,577,Schuyler,Warren,Hist Landscape Arch I,4.29,4.43,4.29,4.29,4.43,4
 Art History,577,Erik,Carr,Hist Landscape Arch I,4.22,4.33,4.11,4.22,4.28,3.94,4.17
 Art History,578,Kenneth,Helphand,Hist Landscape Arch II,4.41,4.47,4.24,4.37,4.17,3.69,4.29
 Art History,578,Schuyler,Warren,Hist Landscape Arch II,4.75,4.75,4.75,4.75,4.5,4.0,4.5
+Art History,585,Akiko,Walley,Top Japanese Warriors,4.8,4.8,4.8,4.6,5.0,4.8,4.8
 Art History,588,Akiko,Walley,Japanese Prints,4.5,4.52,4.04,4.23,4.74,3.87,4.61
 Art History,588,Ann,Wetherell,Japanese Prints,4.36,4.36,4.21,4.57,4.43,4.21,4.5
 Art History,590,Mary-Lyon,Dolezal,Islamic Art & Arch,1.88,1.88,2.25,1.88,2.88,2.25,2.5
@@ -515,6 +528,7 @@ Art History,609,Jeffrey,Hurwit,Prac Research Methods,4.29,4.17,4.29,4.17,4.17,4.
 Art History,609,Cara,List,Prac Lib Res Methods,2.66,2.7,2.11,2.06,3.31,2.36,2.57
 Art History,610,Charles,Lachman,China Past & Present,4.6,4.8,4.4,4.8,4.8,4.6,4.8
 Art History,610,Andrew,Schulz,Museum & Objects,4.8,4.6,4.4,4.8,4.8,3.8,4.6
+Art History,611,Maile,Hutterer,Grad Studies Art Hist,4.75,4.75,5.0,4.75,5.0,4.75,4.75
 Art History,611,Kristen,Seaman,Grad Studies Art Hist,4.07,3.93,4.0,4.1,4.4,4.22,4.23
 Art History,611,Joyce,Cheng,Grad Studies Art Hist,4.67,4.74,4.59,4.26,4.33,4.15,4.78
 Art History,611,Albert,Narath,Grad Studies Art Hist,4.56,4.67,4.11,4.22,4.78,4.11,4.67

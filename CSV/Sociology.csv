@@ -1,9 +1,9 @@
 Sociology,199,Raoul,Lievanos,Sp St City & Community,4.44,4.56,4.56,4.33,4.67,4.78,4.22
 Sociology,199,Michael,Dreiling,Sp St College Connect,4.03,4.11,3.84,3.77,4.17,4.04,3.76
 Sociology,199,Eleen,Baumann,Sp St Soc of Childhood,2.86,2.75,2.75,2.67,3.27,3.11,2.95
+Sociology,204,C.J.,Pascoe,Intro Sociology,4.35,4.47,4.37,4.4,4.17,4.26,4.25
 Sociology,204,Evan,Shenkin,Intro Sociology,4.09,4.0,4.36,4.18,4.36,4.18,4.09
 Sociology,204,Matthew,Norton,Intro Sociology,4.22,4.28,4.17,4.19,4.25,4.25,4.16
-Sociology,204,C.J.,Pascoe,Intro Sociology,4.31,4.43,4.33,4.36,4.16,4.24,4.21
 Sociology,204,Michelle,Alexander,Intro Sociology,4.29,4.29,4.5,4.21,4.64,4.5,4.07
 Sociology,204,Eileen,Otis,Intro Sociology,3.18,3.02,3.3,3.08,3.35,3.35,3.21
 Sociology,204,Michael,Dreiling,Intro Sociology,4.07,4.06,3.87,3.85,3.95,3.98,4.02
@@ -19,10 +19,10 @@ Sociology,204,Caleb,Southworth,Intro Sociology,2.3,2.18,2.53,2.59,2.68,2.48,2.28
 Sociology,204,Sarah,Cribbs,Intro Sociology,4.4,4.4,4.8,4.8,4.6,4.4,4.6
 Sociology,204,Matthew,Friesen,Intro Sociology,4.33,4.67,4.33,4.33,4.67,4.67,4.67
 Sociology,204,Jocelyn,Hollander,Intro Sociology,3.65,3.65,3.77,3.62,3.62,3.66,3.64
+Sociology,207,Jessica,Vasquez Tokos,Social Inequality,4.05,4.01,4.12,4.04,3.92,4.07,4.0
 Sociology,207,Michelle,Alexander,Social Inequality,4.28,4.28,4.44,4.28,4.5,4.28,4.11
 Sociology,207,Ellen,Scott,Social Inequality,3.92,3.88,3.94,3.85,4.0,3.97,3.85
 Sociology,207,Elaine,Replogle,Social Inequality,3.84,3.76,3.89,3.91,3.93,3.93,3.85
-Sociology,207,Jessica,Vasquez Tokos,Social Inequality,3.98,3.95,4.09,4.0,3.89,4.04,3.96
 Sociology,207,Evan,Shenkin,Social Inequality,4.06,3.83,4.0,4.06,4.06,4.11,3.94
 Sociology,207,Mirranda,Willette,Social Inequality,4.08,4.23,4.23,4.08,4.31,4.0,4.15
 Sociology,207,Tongyu,Wu,Social Inequality,4.22,3.89,4.0,3.89,4.33,3.44,4.11
@@ -36,8 +36,8 @@ Sociology,207,Rob,Molinar,Social Inequality,4.53,4.68,4.14,4.24,4.73,4.42,4.48
 Sociology,207,Andrea,Coukos,Social Inequality,3.86,3.7,3.64,3.63,4.17,3.93,3.79
 Sociology,207,Madhurima,Das,Social Inequality,4.67,4.67,4.67,5.0,4.33,4.0,5.0
 Sociology,207,Eleen,Baumann,Social Inequality,3.92,4.08,3.5,4.0,3.67,4.17,4.08
+Sociology,301,Elaine,Replogle,American Society,4.18,4.22,4.23,4.25,4.26,4.2,4.19
 Sociology,301,Larissa,Petrucci,American Society,3.98,4.19,3.85,3.79,4.45,4.14,4.0
-Sociology,301,Elaine,Replogle,American Society,4.19,4.25,4.25,4.26,4.25,4.21,4.21
 Sociology,301,Kathryn,Norton-Smith,American Society,4.5,4.33,4.33,4.17,4.5,4.5,4.4
 Sociology,301,Jordan,Besek,American Society,4.07,4.07,4.08,4.1,4.17,4.19,4.01
 Sociology,301,Brian,Ott,American Society,4.63,4.68,4.61,4.67,4.5,4.54,4.57
@@ -69,6 +69,7 @@ Sociology,305,Andrea,Coukos,America's Peoples,3.85,3.89,3.85,3.85,4.25,4.11,3.93
 Sociology,305,Wesley,Shirley,America's Peoples,4.75,4.5,4.5,4.5,4.5,4.5,4.75
 Sociology,305,Matthew,Eddy,America's Peoples,4.33,4.27,4.13,4.33,4.2,4.07,4.33
 Sociology,305,Sarah,Cribbs,America's Peoples,4.16,4.27,4.31,4.21,4.21,4.03,4.26
+Sociology,310,Ryan,Light,Social Theory,4.55,4.5,4.4,4.23,4.46,4.46,4.59
 Sociology,310,Diego,Contreras Medrano,Social Theory,4.75,5.0,5.0,4.75,4.75,5.0,5.0
 Sociology,310,Raoul,Lievanos,Social Theory,3.92,3.79,4.24,4.03,4.11,4.23,4.14
 Sociology,310,Matthew,Norton,Social Theory,4.73,4.82,4.7,4.75,4.57,4.64,4.68
@@ -92,10 +93,10 @@ Sociology,310,William,Wishart,Developmt of Sociology,2.73,2.43,2.5,2.82,3.46,2.6
 Sociology,310,Philip,Mancus,Developmt of Sociology,4.15,4.23,4.19,4.19,4.09,4.05,4.18
 Sociology,310,Linda,Fuller,Developmt of Sociology,4.09,4.21,4.2,4.25,4.09,4.04,4.07
 Sociology,310,Charles,Hunt,Developmt of Sociology,4.3,4.29,4.12,4.03,4.13,4.18,4.15
+Sociology,311,Jiannbin,Shiao,Research Methods,3.27,3.16,3.44,3.53,3.8,3.3,3.21
 Sociology,311,Camila,Alvarez,Research Methods,4.24,4.24,4.29,4.29,4.35,4.18,4.18
 Sociology,311,Amy,Miller,Research Methods,4.52,4.55,4.63,4.61,4.69,4.47,4.42
 Sociology,311,Michael,Aguilera,Research Methods,3.67,3.59,3.88,3.83,3.88,3.88,3.67
-Sociology,311,Jiannbin,Shiao,Research Methods,3.15,3.01,3.32,3.42,3.7,3.24,3.07
 Sociology,311,Clare,Evans,Research Methods,4.34,4.58,4.56,4.5,4.56,4.22,4.2
 Sociology,311,Patrick,Greiner,Intro Social Research,4.41,4.59,4.65,4.59,4.65,4.53,4.47
 Sociology,311,Jiannbin,Shiao,Intro Social Research,3.03,2.84,3.28,3.25,3.49,2.89,2.88
@@ -117,6 +118,7 @@ Sociology,311,Shannon,Bell,Intro Social Research,4.58,4.71,4.71,4.71,4.75,4.71,4
 Sociology,311,Elizabeth,Miller,Intro Social Research,4.43,4.64,4.5,4.5,4.64,4.36,4.14
 Sociology,311,Marion,Goldman,Intro Social Research,3.71,3.67,3.75,3.65,3.85,3.9,3.67
 Sociology,311,Mark,Leymon,Intro Social Research,4.31,4.46,4.31,4.46,4.69,4.38,4.23
+Sociology,312,Natasha,Erickson,Statistical Analy Soc,4.21,4.0,4.31,4.03,4.28,4.28,4.07
 Sociology,312,Aaron,Gullickson,Statistical Analy Soc,4.27,4.24,4.35,4.26,4.42,3.9,4.01
 Sociology,312,Caleb,Southworth,Statistical Analy Soc,4.11,4.09,4.11,4.2,4.03,4.17,3.91
 Sociology,312,Patrick,Greiner,Statistical Analy Soc,3.87,4.27,4.07,4.2,4.4,4.2,3.73
@@ -131,6 +133,7 @@ Sociology,312,Elizabeth,Miller,Quantitative Meth Soc,4.65,4.88,4.82,4.82,4.82,4.
 Sociology,312,Mark,Leymon,Quantitative Meth Soc,4.15,4.17,4.28,4.34,4.17,4.13,4.0
 Sociology,312,Timothy,Haney,Quantitative Meth Soc,4.17,4.24,4.31,4.38,4.38,4.38,4.21
 Sociology,312,Eric,Edwards,Quantitative Meth Soc,4.44,4.33,4.33,4.44,3.89,4.67,4.56
+Sociology,313,Jeanine,Cunningham,Soc Iss & Movements,3.81,3.94,3.75,3.92,4.03,3.78,3.75
 Sociology,313,Kari,Norgaard,Soc Iss & Movements,3.67,3.61,3.61,3.65,3.84,3.49,3.65
 Sociology,313,Jeffrey,Ewing,Soc Iss & Movements,4.14,4.05,3.62,3.81,4.05,4.19,4.05
 Sociology,313,Brian,Rosenberg,Soc Iss & Movements,4.22,4.06,4.28,4.19,4.34,4.16,4.23
@@ -142,8 +145,8 @@ Sociology,313,Jeffrey,Gunn,Soc Iss & Movements,4.25,4.5,4.5,4.5,4.75,4.5,4.5
 Sociology,313,Michael,Dreiling,Soc Iss & Movements,4.2,4.31,3.84,4.16,4.06,3.92,4.29
 Sociology,313,Yvonne,Braun,Soc Iss & Movements,4.09,4.09,4.12,4.03,4.24,4.17,4.1
 Sociology,313,Wesley,Shirley,Soc Iss & Movements,3.92,3.88,3.56,3.8,4.09,3.69,3.98
+Sociology,317,Michelle,Alexander,Soc of Mass Media,4.2,4.25,4.3,4.21,4.52,4.19,4.16
 Sociology,317,Ken,Hanson,Soc of Mass Media,4.15,4.21,4.19,4.33,4.26,4.04,4.06
-Sociology,317,Michelle,Alexander,Soc of Mass Media,4.04,4.13,4.2,4.17,4.42,4.07,4.06
 Sociology,317,Jeffrey,Ewing,Soc of Mass Media,3.53,3.35,3.27,3.47,2.94,3.45,3.46
 Sociology,317,David,Dominguez,Soc of Mass Media,4.09,4.03,3.96,4.06,4.23,3.77,4.12
 Sociology,317,Mitchell,Monsour,Soc of Mass Media,3.82,3.66,3.71,3.64,4.03,3.62,3.89
@@ -151,6 +154,7 @@ Sociology,317,Andrea,Coukos,Soc of Mass Media,4.16,4.25,4.14,4.06,4.31,4.04,4.1
 Sociology,317,Charles,Hunt,Soc of Mass Media,4.07,4.07,3.54,3.89,4.0,3.91,4.04
 Sociology,317,Clay,Grantham,Soc of Mass Media,2.42,1.98,2.31,2.29,2.92,2.77,2.47
 Sociology,317,Christina,Ergas,Soc of Mass Media,3.45,3.25,3.37,3.38,3.74,3.55,3.54
+Sociology,328,Ken,Hanson,Self and Society,4.66,4.69,4.64,4.7,4.52,4.51,4.62
 Sociology,328,Brian,Ott,Self and Society,4.18,4.23,4.32,4.27,4.46,4.14,4.14
 Sociology,328,Jill,Harrison,Self and Society,3.96,3.9,4.07,3.96,4.17,4.09,3.92
 Sociology,328,Brian,Ott,Intro Social Psych,4.83,4.83,4.75,4.58,4.83,4.75,4.75
@@ -172,9 +176,9 @@ Sociology,335,C.J.,Pascoe,Interact & Soc Order,4.37,4.4,4.27,4.4,3.76,4.0,4.2
 Sociology,335,Sarah,Cribbs,Interact & Soc Order,4.4,4.57,4.37,4.34,4.49,4.43,4.31
 Sociology,335,Brandon,Olszewski,Interact & Soc Order,4.35,4.46,4.15,4.28,3.84,3.76,4.15
 Sociology,335,Kenneth,Liberman,Interact & Soc Order,4.41,4.41,4.18,4.32,4.35,4.03,4.44
+Sociology,345,Jiannbin,Shiao,Race and Ethnicity,3.87,3.72,3.82,3.78,4.04,3.88,3.89
 Sociology,345,Michael,Aguilera,Race and Ethnicity,3.76,3.73,3.78,3.76,3.65,3.78,3.73
 Sociology,345,Kathryn,Norton-Smith,Race and Ethnicity,4.32,4.02,4.21,4.18,4.36,4.21,4.28
-Sociology,345,Jiannbin,Shiao,Race and Ethnicity,3.77,3.67,3.72,3.73,3.95,3.87,3.82
 Sociology,345,Aaron,Gullickson,Race Class Ethn Groups,3.76,3.72,3.91,3.86,3.65,3.51,3.69
 Sociology,345,Michael,Aguilera,Race Class Ethn Groups,3.67,3.57,3.83,3.72,3.8,3.81,3.69
 Sociology,345,Jiannbin,Shiao,Race Class Ethn Groups,3.77,3.62,3.84,3.55,4.01,3.69,3.72
@@ -183,7 +187,7 @@ Sociology,345,Jessica,Vasquez Tokos,Race Class Ethn Groups,4.06,4.17,4.19,3.87,4
 Sociology,345,Andrea,Coukos,Race Class Ethn Groups,4.21,4.19,4.1,4.0,4.29,4.15,4.35
 Sociology,345,Leslie,Minor,Race Class Ethn Groups,3.88,4.03,3.88,3.5,4.04,3.8,4.02
 Sociology,345,Lynn,Fujiwara,Race Class Ethn Groups,4.14,4.14,4.29,4.14,4.29,4.5,4.5
-Sociology,346,Jill,Harrison,Work & Occupations,3.94,3.92,4.09,4.03,4.12,3.99,3.91
+Sociology,346,Jill,Harrison,Work & Occupations,3.96,3.95,4.11,4.06,4.13,4.03,3.95
 Sociology,346,Eileen,Otis,Work & Occupations,3.56,3.57,3.63,3.58,3.62,3.54,3.59
 Sociology,346,Brian,Ott,Work & Occupations,4.44,4.54,4.63,4.59,4.49,4.56,4.45
 Sociology,346,Charles,Drake,Work & Occupations,4.44,4.46,4.38,4.3,4.2,4.08,4.34
@@ -213,6 +217,7 @@ Sociology,370,Matthew,Clement,Urban Sociology,4.27,4.32,4.47,4.37,4.25,4.43,4.17
 Sociology,380,Matthew,Norton,Intro Dev Contrl Crime,4.56,4.68,4.37,4.46,4.47,4.48,4.54
 Sociology,380,Jeanine,Cunningham,Intro Dev Contrl Crime,4.46,4.52,4.55,4.6,4.47,4.49,4.46
 Sociology,380,Eleen,Baumann,Intro Dev Contrl Crime,3.76,3.63,3.46,3.59,3.84,3.69,3.68
+Sociology,399,Caleb,Southworth,Designing Your Life,4.15,4.25,3.8,4.05,3.95,3.8,4.0
 Sociology,399,Lola,Loustaunau,Sp St Soc of Emotions,4.67,4.67,4.58,4.58,4.5,4.5,4.58
 Sociology,399,Heather,Marek,Sp St Soc Frst Amndmnt,4.27,4.09,4.54,4.27,4.73,4.0,4.4
 Sociology,399,Tony,Silva,Sp St White Hetr Mascl,4.7,4.8,4.7,4.8,4.7,4.8,4.8
@@ -246,11 +251,12 @@ Sociology,404,Bill,Sherman,Internship,3.2,3.5,3.6,3.5,3.5,4.0,3.8
 Sociology,406,C.J.,Pascoe,Superv Field Study,4.75,4.75,4.75,4.75,4.75,4.75,4.75
 Sociology,406,Jiannbin,Shiao,Superv Field Study,4.36,4.3,4.29,4.24,4.32,4.32,4.34
 Sociology,406,Leslie,Hall,Superv Field Study,4.6,4.6,4.6,4.6,4.8,4.6,4.6
+Sociology,407,C.J.,Pascoe,Sem Honors Thesis,4.8,4.8,4.68,4.7,4.65,4.73,4.79
 Sociology,407,Amy,Luebbers,Sem Social Problems,4.3,4.5,4.5,4.4,4.7,4.3,4.3
-Sociology,407,C.J.,Pascoe,Sem Honors Thesis,4.77,4.77,4.69,4.69,4.6,4.72,4.76
 Sociology,407,Jiannbin,Shiao,Sem Honors Thesis,4.22,4.12,4.26,4.15,4.35,4.4,4.41
 Sociology,407,Michael,Aguilera,Sem Honors Thesis,3.83,3.71,3.58,3.58,4.29,3.08,3.75
-Sociology,408,Bill,Sherman,Wrk Careers in Sociolo,4.41,4.46,4.47,4.42,4.6,4.34,4.48
+Sociology,408,Bill,Sherman,Wrk Careers in Sociolo,4.35,4.36,4.34,4.33,4.47,4.21,4.38
+Sociology,410,Caleb,Southworth,Cycling and Society,4.42,4.53,4.37,4.58,4.05,4.11,4.42
 Sociology,410,Allison,Ford,Sociology of Love,4.35,4.35,3.94,4.29,4.41,4.18,4.35
 Sociology,410,Ryan,Light,Sociology of Culture,4.38,4.49,4.27,4.26,4.36,4.29,4.3
 Sociology,410,Caleb,Southworth,Policy Analysis,4.27,4.36,4.36,4.36,3.82,4.0,4.18
@@ -337,6 +343,7 @@ Sociology,412,Robert,O'Brien,Sociol Research Meth,4.69,4.92,4.77,4.92,5.0,4.69,4
 Sociology,412,Aaron,Gullickson,Soc Research Meth,4.0,3.78,4.0,3.89,2.78,3.67,4.33
 Sociology,413,Aaron,Gullickson,Sociol Research Meth,4.16,4.16,4.19,4.19,4.0,3.87,4.2
 Sociology,415,Patricia,Gwartney,Social Demography,3.85,3.63,3.31,3.54,3.91,3.75,3.83
+Sociology,416,Allison,Ford,Climate Change,3.65,3.6,3.6,3.8,4.0,3.15,3.6
 Sociology,416,John,Foster,Top Environmental Soc,4.36,4.33,4.28,4.06,4.07,4.22,4.45
 Sociology,416,Kari,Norgaard,Top Climate Change,4.75,4.82,4.4,4.67,4.69,4.48,4.6
 Sociology,416,Kari,Norgaard,Top Soc Climate Change,4.58,4.62,4.37,4.4,4.47,4.41,4.59
@@ -395,6 +402,7 @@ Sociology,451,Rob,Molinar,Social Stratification,4.54,4.62,4.54,4.54,4.62,4.62,4.
 Sociology,451,Andrea,Coukos,Social Stratification,3.83,3.92,3.71,3.92,4.04,3.96,3.92
 Sociology,451,Sarah,Cribbs,Social Stratification,4.71,4.86,4.64,4.85,4.64,4.64,4.64
 Sociology,451,James,Elliott,Social Stratification,4.64,4.76,4.76,4.64,4.56,4.6,4.64
+Sociology,452,Diego,Contreras Medrano,Gendered Migration,4.13,4.17,4.0,4.04,4.26,3.65,4.13
 Sociology,452,Michael,Aguilera,Top Mexican Migration,3.95,3.87,4.11,3.89,4.18,4.04,4.02
 Sociology,452,Jessica,Vasquez Tokos,Top Migrat Time/Place,4.86,4.86,5.0,4.57,4.86,4.71,4.86
 Sociology,455,Dimitra,Cupo,Top Violence & Bodies,4.19,4.07,4.13,4.12,4.27,4.07,4.24
@@ -408,6 +416,7 @@ Sociology,455,Eleen,Baumann,Top Gend/Wealth/Welfar,4.06,4.26,4.0,4.0,4.42,4.32,4
 Sociology,455,Eileen,Otis,Top Gender-Cntmp China,3.42,3.25,3.42,3.0,3.36,3.0,3.58
 Sociology,456,Jeffrey,Ewing,Feminist Theory,4.59,4.61,4.62,4.59,4.59,4.45,4.49
 Sociology,456,Stacey,Coleman,Feminist Theory,4.36,4.29,4.57,4.36,4.82,4.57,4.5
+Sociology,457,Andrea,Herrera,Sex & Society,4.29,4.26,4.23,4.32,4.29,4.13,4.32
 Sociology,457,Dan,Fielding,Sex & Society,4.11,4.11,4.28,4.11,4.39,4.33,4.28
 Sociology,457,Amy,Miller,Sex & Society,4.0,3.93,3.81,3.77,4.4,3.93,4.07
 Sociology,457,Dimitra,Cupo,Sex & Society,4.28,4.11,3.86,3.85,4.38,3.6,4.25
@@ -428,10 +437,10 @@ Sociology,464,Gregory,McLauchlan,Systems of War & Peace,4.47,4.4,4.35,4.32,4.12,
 Sociology,465,Matthew,Norton,Political Sociology,4.67,4.81,4.41,4.5,4.61,4.58,4.61
 Sociology,465,Charles,Hunt,Political Sociology,4.55,4.61,4.29,4.39,4.52,4.45,4.58
 Sociology,465,Vallon,Burris,Political Sociology,3.69,3.5,3.5,3.0,3.31,3.69,3.94
-Sociology,467,Caleb,Southworth,Economic Sociology,4.53,4.52,4.44,4.52,4.51,4.21,4.41
+Sociology,467,Caleb,Southworth,Economic Sociology,4.48,4.5,4.45,4.52,4.51,4.24,4.38
 Sociology,467,Michael,Aguilera,Economic Sociology,4.02,3.91,4.02,3.8,3.97,3.97,4.02
 Sociology,467,Cade,Jameson,Economic Sociology,3.93,3.73,3.67,3.87,4.4,4.0,3.8
-Sociology,475,John,Foster,Marxist Sociolog Theo,4.37,4.28,4.06,3.93,4.36,4.28,4.34
+Sociology,475,John,Foster,Marxist Sociolog Theo,4.39,4.3,4.08,3.93,4.35,4.29,4.4
 Sociology,475,Hannah,Holleman,Marxist Sociolog Theo,4.75,4.75,4.62,4.5,4.88,4.75,4.69
 Sociology,475,Tung-Yi,Kho,Marxist Sociolog Theo,4.3,4.2,3.6,3.9,4.0,3.6,4.3
 Sociology,480,Brian,Rosenberg,Crime & Social Control,4.64,4.6,4.69,4.67,4.69,4.54,4.68
@@ -446,6 +455,7 @@ Sociology,484,Eleen,Baumann,Dangerous Classes,4.24,4.06,3.82,4.0,4.12,4.0,4.06
 Sociology,484,Mitchell,Monsour,Top Drugs Amer Society,4.65,4.53,4.41,4.47,4.41,4.35,4.82
 Sociology,484,Eleen,Baumann,Top Prisons & Communit,4.32,4.16,4.2,4.08,4.24,4.28,4.36
 Sociology,491,Brandon,Olszewski,Sociology of Education,4.29,4.17,4.41,4.25,4.41,4.35,4.31
+Sociology,510,Caleb,Southworth,Cycling and Society,4.42,4.53,4.37,4.58,4.05,4.11,4.42
 Sociology,510,Caleb,Southworth,Policy Analysis,4.27,4.36,4.36,4.36,3.82,4.0,4.18
 Sociology,510,Ryan,Light,Digital Social Life,4.38,4.38,4.27,4.08,4.46,4.35,4.38
 Sociology,510,Kari,Norgaard,Salmon and Society,4.06,4.06,3.61,3.61,4.17,3.94,3.89
@@ -490,7 +500,7 @@ Sociology,510,Caleb,Southworth,Soc of American Labor,4.33,4.4,4.27,4.6,4.67,3.87
 Sociology,512,Aaron,Gullickson,Sociol Research Meth,4.3,4.27,4.21,4.15,4.12,4.18,4.26
 Sociology,512,Robert,O'Brien,Sociol Research Meth,4.69,4.92,4.77,4.92,5.0,4.69,4.85
 Sociology,512,Aaron,Gullickson,Soc Research Meth,4.0,3.78,4.0,3.89,2.78,3.67,4.33
-Sociology,513,Aaron,Gullickson,Sociol Research Meth,4.17,4.25,4.24,4.21,4.09,3.99,4.14
+Sociology,513,Aaron,Gullickson,Sociol Research Meth,4.21,4.31,4.27,4.25,4.17,4.06,4.18
 Sociology,513,Caleb,Southworth,Sociol Research Meth,3.46,3.54,3.18,3.46,4.18,3.09,3.73
 Sociology,515,Patricia,Gwartney,Social Demography,3.83,3.75,3.26,3.51,3.92,3.77,3.79
 Sociology,516,John,Foster,Top Environmental Soc,4.34,4.36,4.35,4.09,4.06,4.22,4.45
@@ -531,9 +541,9 @@ Sociology,561,Marion,Goldman,Sociology of Religion,4.21,4.35,4.21,4.16,4.14,4.21
 Sociology,564,Gregory,McLauchlan,Systems of War & Peace,4.48,4.38,4.37,4.3,4.15,4.36,4.56
 Sociology,565,Matthew,Norton,Political Sociology,4.67,4.81,4.41,4.5,4.61,4.58,4.61
 Sociology,565,Charles,Hunt,Political Sociology,4.55,4.61,4.29,4.39,4.52,4.45,4.58
-Sociology,567,Caleb,Southworth,Economic Sociology,4.08,4.08,3.85,4.08,4.0,3.77,4.15
+Sociology,567,Caleb,Southworth,Economic Sociology,4.2,4.26,4.17,4.29,4.25,4.04,4.23
 Sociology,567,Michael,Aguilera,Economic Sociology,3.98,3.86,3.89,3.7,3.97,3.98,4.14
-Sociology,575,John,Foster,Marxist Sociolog Theo,4.37,4.28,4.06,3.93,4.36,4.28,4.34
+Sociology,575,John,Foster,Marxist Sociolog Theo,4.39,4.3,4.08,3.93,4.35,4.29,4.4
 Sociology,580,Eleen,Baumann,Crime & Social Control,4.03,3.9,4.0,4.0,4.22,4.12,3.97
 Sociology,584,Matthew,Norton,Top Punishm & Soc Ctrl,4.76,4.86,4.52,4.62,4.66,4.62,4.72
 Sociology,584,Matthew,Norton,Top Punish,4.56,4.64,4.47,4.51,4.64,4.58,4.56
@@ -542,7 +552,7 @@ Sociology,584,Eleen,Baumann,Top Prison & Community,4.12,3.92,3.71,4.0,4.25,4.29,
 Sociology,584,Eleen,Baumann,Top Juvenile Delinq,4.36,4.36,4.0,4.28,4.36,4.24,4.28
 Sociology,584,Eleen,Baumann,Top Prisons & Communit,4.32,4.16,4.2,4.08,4.24,4.28,4.36
 Sociology,591,Brandon,Olszewski,Sociology of Education,4.24,4.12,4.42,4.22,4.37,4.36,4.26
-Sociology,607,Aaron,Gullickson,Sem Intro Grad Soc,4.17,4.54,4.48,4.35,4.83,4.73,4.29
+Sociology,607,Aaron,Gullickson,Sem Intro Grad Soc,4.13,4.53,4.38,4.18,4.87,4.78,4.13
 Sociology,607,Eileen,Otis,Sem Adv ProSeminar,4.33,4.33,4.33,4.5,4.6,4.5,4.33
 Sociology,607,Eileen,Otis,Sem Intro Grad Soc,4.33,4.33,4.0,4.33,4.67,4.33,4.33
 Sociology,607,Richard,York,Sem Intro Grad Soc,4.83,4.75,4.53,4.53,4.84,4.62,4.6
@@ -552,9 +562,10 @@ Sociology,608,Richard,York,Wrk Masters Project,4.33,4.33,4.33,4.33,4.33,4.33,4.3
 Sociology,610,Caleb,Southworth,Topics Soc Sc Data Ana,5.0,5.0,5.0,4.83,4.17,4.33,5.0
 Sociology,610,Vallon,Burris,Class Analysis,4.33,4.67,4.67,4.33,4.67,5.0,4.67
 Sociology,610,Aliya,Saperstein,Writing Workshop,5.0,5.0,4.75,4.75,5.0,5.0,5.0
+Sociology,612,Ryan,Light,Overview Soc Meth,4.54,4.46,4.26,4.4,4.66,4.47,4.45
 Sociology,612,Caleb,Southworth,Overview Soc Meth,3.38,3.79,3.29,3.54,4.29,3.79,3.42
-Sociology,612,Ryan,Light,Overview Soc Meth,4.54,4.5,4.32,4.38,4.7,4.51,4.49
 Sociology,612,Robert,O'Brien,Overview Soc Meth,4.43,4.52,4.37,4.11,5.0,4.4,4.21
+Sociology,613,Jill,Harrison,Top Field Methods II,4.41,4.72,4.56,4.5,4.67,4.4,4.62
 Sociology,613,Jill,Harrison,Top Field Methods I,4.69,4.82,4.51,4.44,4.73,4.38,4.69
 Sociology,613,Ryan,Light,Top Soc Net Analysis,4.43,4.86,4.14,4.29,5.0,4.71,4.71
 Sociology,613,Clare,Evans,Top Multilv Panel Data,5.0,5.0,5.0,5.0,5.0,5.0,5.0
@@ -564,7 +575,6 @@ Sociology,613,Ellen,Scott,Top Field Methods II,4.78,4.89,4.72,4.67,4.67,4.61,4.7
 Sociology,613,Ellen,Scott,Top Field Methods I,4.7,4.74,4.58,4.54,4.74,4.61,4.65
 Sociology,613,Jiannbin,Shiao,Top Mixed Methods,3.67,4.0,4.0,4.0,5.0,4.0,4.0
 Sociology,613,Clare,Evans,Top Multilevel Panel,5.0,5.0,5.0,5.0,5.0,5.0,5.0
-Sociology,613,Jill,Harrison,Top Field Methods II,4.21,4.62,4.42,4.33,4.67,4.42,4.5
 Sociology,613,Ryan,Light,Soc Network Analysis,4.78,4.89,4.67,4.33,5.0,4.67,4.78
 Sociology,613,Matthew,Norton,Top Comp Hist Methods,3.89,4.0,3.78,3.78,4.44,4.0,4.22
 Sociology,613,Caleb,Southworth,Top Adv Regression,4.67,4.83,4.0,4.5,4.6,4.2,4.6
@@ -584,6 +594,7 @@ Sociology,615,Gregory,McLauchlan,Top Urban Theory,4.75,4.5,4.5,4.75,4.5,4.5,4.75
 Sociology,615,Jill,Harrison,Top Micr Interact Theo,4.2,4.4,4.2,4.2,4.8,4.0,4.4
 Sociology,615,Kenneth,Liberman,Top Adorno/Dialectics,5.0,5.0,4.8,4.8,5.0,5.0,5.0
 Sociology,615,Gregory,McLauchlan,Top Soc of Culture,4.4,4.6,4.4,4.4,4.4,4.2,4.4
+Sociology,616,Kari,Norgaard,Race Gender Environmnt,4.67,4.67,4.33,4.5,4.75,4.75,4.83
 Sociology,616,Richard,York,Top Environmental Soc,4.88,4.75,4.88,4.75,4.88,4.12,4.88
 Sociology,616,John,Foster,Envir & Resour: Topic,4.83,5.0,4.83,4.42,4.33,4.54,5.0
 Sociology,616,Kari,Norgaard,Top Race, Gndr, Enviro,4.75,4.62,4.5,4.5,4.25,4.38,4.75
@@ -594,12 +605,12 @@ Sociology,616,John,Foster,Top Environmental Soc,5.0,4.67,5.0,4.33,5.0,4.67,5.0
 Sociology,616,Kari,Norgaard,Top Race, Gender & Env,4.75,4.58,4.67,4.5,4.83,4.67,4.92
 Sociology,616,Richard,York,Top Env & Resource Iss,4.67,4.67,4.33,4.67,4.67,4.33,4.33
 Sociology,616,James,Elliott,Top Disast, Envmt, Soc,5.0,5.0,4.75,4.75,5.0,4.75,4.75
-Sociology,617,John,Foster,Sociological Theo I,4.75,4.58,4.6,4.49,4.16,4.08,4.72
+Sociology,617,John,Foster,Sociological Theo I,4.76,4.59,4.61,4.47,4.19,4.14,4.71
 Sociology,617,Vallon,Burris,Sociological Theo I,4.21,4.22,4.41,3.92,3.92,4.1,4.18
 Sociology,618,Eileen,Otis,Sociological Theo II,4.39,4.39,4.1,4.31,4.31,3.97,4.49
 Sociology,618,Richard,York,Sociological Theo II,4.7,4.76,4.71,4.54,4.76,4.64,4.69
 Sociology,618,John,Foster,Sociological Theo II,4.74,4.64,4.77,4.49,4.2,4.37,4.77
-Sociology,621,Jocelyn,Hollander,Teach in Soc Sciences,4.65,4.94,4.88,4.75,4.81,4.58,4.75
+Sociology,621,Jocelyn,Hollander,Teach in Soc Sciences,4.76,4.96,4.86,4.78,4.88,4.72,4.83
 Sociology,644,Jessica,Vasquez Tokos,Top Race and Ethnicity,4.62,4.75,4.5,4.5,4.88,4.62,4.62
 Sociology,644,Raoul,Lievanos,Top Race, Space, Power,4.75,4.75,4.88,4.62,4.62,4.25,4.75
 Sociology,644,Jessica,Vasquez Tokos,Top Soc of Race,4.75,4.5,4.75,4.62,4.75,4.5,4.75

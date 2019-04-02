@@ -1,7 +1,8 @@
-Italian,101,Lauretta,De Renzo-Huter,1st Year Italian,4.33,4.26,3.96,4.33,4.27,4.06,4.34
-Italian,101,Kenya,Jimenez,1st Year Italian,4.5,4.0,3.92,4.33,4.67,4.75,4.58
+Italian,101,Nadia,Ceccacci,1st Year Italian,3.73,3.44,2.62,3.71,3.88,3.52,3.42
+Italian,101,Lauretta,De Renzo-Huter,1st Year Italian,4.31,4.27,3.93,4.32,4.27,4.05,4.34
+Italian,101,Kenya,Jimenez,1st Year Italian,4.39,3.93,3.53,3.88,4.4,4.38,4.22
+Italian,101,Gerardo,Pisacane,1st Year Italian,4.19,4.03,3.58,4.09,4.24,3.98,4.13
 Italian,101,Harinder Kaur,Khalsa,1st Year Italian,4.46,4.52,4.11,4.51,4.45,4.19,4.44
-Italian,101,Gerardo,Pisacane,1st Year Italian,4.6,4.4,3.93,4.4,4.6,4.4,4.6
 Italian,101,Claudia,Ventura,1st Year Italian,4.34,4.21,3.95,4.32,4.05,3.94,4.39
 Italian,101,Marzieh,Abedin,1st Year Italian,3.82,3.57,3.61,3.79,3.9,3.68,4.17
 Italian,101,Lora,Jury,1st Year Italian,4.45,4.24,4.07,4.24,4.49,4.36,4.45
@@ -101,8 +102,8 @@ Italian,103,Joy,Root,1st Year Italian,4.5,4.54,4.36,4.59,4.59,4.41,4.59
 Italian,104,Harinder Kaur,Khalsa,Intensiv 1st Year Ital,4.62,4.74,4.24,4.57,4.4,4.29,4.64
 Italian,105,Harinder Kaur,Khalsa,Intensiv 1st Year Ital,4.6,4.7,4.11,4.44,4.44,4.22,4.59
 Italian,105,Claudia,Ventura,Intensiv 1st Year Ital,4.25,4.38,4.38,4.5,4.62,4.38,4.38
-Italian,150,Nathalie,Hester,Cul Legacies Italy,4.34,4.38,4.38,4.45,4.33,4.18,4.2
-Italian,150,Kevin,Regan-Maglione,+ Dis,4.35,4.55,4.47,4.48,4.66,4.51,4.34
+Italian,150,Nathalie,Hester,Cul Legacies Italy,4.31,4.34,4.36,4.42,4.26,4.13,4.18
+Italian,150,Kevin,Regan-Maglione,+ Dis,4.42,4.54,4.46,4.51,4.6,4.42,4.31
 Italian,150,Massimo,Lollini,Cul Legacies Italy,4.11,3.97,4.29,4.23,4.12,4.26,4.15
 Italian,150,Tera,Reid-Olds,+ Dis,4.18,4.22,4.15,4.25,4.46,4.27,3.92
 Italian,150,Anna,Giannetti,+ Dis,3.29,3.31,3.68,3.41,3.83,3.62,3.29
@@ -125,8 +126,8 @@ Italian,151,Jamie,Richards,+ Dis,3.83,4.0,4.0,4.0,3.5,3.83,3.0
 Italian,151,Jamie,Richards,Italian Cinema,4.0,4.0,4.11,4.11,3.78,4.11,3.67
 Italian,152,Sergio,Rigoletto,Italian Cinema,4.35,4.3,4.0,4.39,4.09,3.65,4.3
 Italian,152,Sergio,Rigoletto,Des & Resist: Itl Cine,4.5,4.75,4.5,4.67,4.61,4.28,4.47
+Italian,199,Nathalie,Hester,Sp St College Connect,4.0,4.22,4.04,4.04,4.39,4.25,3.76
 Italian,199,Antonella,Antonelli,Sp St Vicenza Arch,4.19,4.18,4.15,4.25,4.35,4.27,4.18
-Italian,199,Nathalie,Hester,Sp St College Connect,3.87,4.11,3.97,3.96,4.33,4.19,3.62
 Italian,199,Antonella,Antonelli,Sp St Siena,4.21,4.31,4.16,4.42,4.31,4.12,4.1
 Italian,199,Massimo,Lollini,Sp St College Connect,3.54,3.73,3.46,3.46,4.27,3.46,3.46
 Italian,199,Lauretta,De Renzo-Huter,Sp St Vicenza Arch,4.25,4.75,4.25,4.75,4.0,4.0,4.5
@@ -144,12 +145,13 @@ Italian,199,Lauretta,De Renzo-Huter,Sp St Rome,3.75,4.25,4.0,4.25,4.0,3.75,3.75
 Italian,199,Lauretta,De Renzo-Huter,Sp St Siena,4.6,4.6,4.4,4.6,4.0,3.8,4.4
 Italian,199,Regina,Psaki,Sp St Perugia,4.0,4.13,3.93,4.13,4.27,4.0,4.0
 Italian,199,Claudia,Ventura,Sp St Perugia,4.07,4.21,3.93,4.0,4.29,4.0,4.07
-Italian,201,Nadia,Ceccacci,2nd Year Italian,3.89,3.75,3.39,3.75,4.13,3.57,3.72
+Italian,201,Elisa,Briante,2nd Year Italian,3.91,4.09,3.09,3.91,4.54,4.0,4.0
+Italian,201,Nadia,Ceccacci,2nd Year Italian,3.81,3.74,3.33,3.69,4.14,3.54,3.7
+Italian,201,Harinder Kaur,Khalsa,2nd Year Italian,4.07,4.16,3.75,4.08,4.15,3.87,3.95
+Italian,201,Claudia,Ventura,2nd Year Italian,4.06,4.06,3.78,4.15,4.21,3.93,3.94
 Italian,201,Peter,Kinzig,2nd Year Italian,4.25,4.3,3.95,4.5,4.3,4.15,4.2
 Italian,201,Riccardo,Sama,2nd Year Italian,3.67,3.75,3.27,3.76,4.34,3.42,3.5
-Italian,201,Claudia,Ventura,2nd Year Italian,4.07,4.02,3.77,4.15,4.17,3.92,3.91
 Italian,201,Cristina,Carnemolla,2nd Year Italian,4.19,4.13,3.81,4.1,4.55,4.21,4.27
-Italian,201,Harinder Kaur,Khalsa,2nd Year Italian,4.06,4.14,3.74,4.08,4.12,3.86,3.94
 Italian,201,Kevin,Regan-Maglione,2nd Year Italian,4.75,4.92,4.75,4.83,4.92,4.83,4.58
 Italian,201,Michele,Agresta,2nd Year Italian,4.4,4.2,3.9,4.1,4.1,4.0,4.0
 Italian,201,Miriam,Muccione,2nd Year Italian,3.86,4.36,3.29,4.36,4.71,4.0,3.93
@@ -216,11 +218,12 @@ Italian,317,Nicolino,Applauso,Surv Mediev/Renaiss,4.0,4.0,3.18,3.0,4.36,3.73,4.2
 Italian,318,Nathalie,Hester,Surv Baroq/Enlight,4.57,4.86,4.29,4.57,4.57,4.29,4.57
 Italian,318,Massimo,Lollini,Surv Baroq/Enlight,4.37,4.44,4.24,4.41,4.42,4.09,4.39
 Italian,318,Lauretta,De Renzo-Huter,Surv Baroq/Enlight,3.42,3.76,2.27,2.99,3.12,3.1,3.3
+Italian,319,Diana,Garvin,Med Ecologies South,3.82,3.82,3.91,3.91,4.36,3.64,3.82
 Italian,319,Massimo,Lollini,Surv 19C & 20C,4.04,4.19,4.5,4.35,4.31,3.83,4.08
 Italian,319,Lauretta,De Renzo-Huter,Surv 19C & 20C,3.98,4.06,3.24,3.84,3.65,3.44,4.0
 Italian,319,Nicoletta,Pazzaglia,Surv 19C & 20C,4.23,4.51,4.15,4.08,4.31,4.13,4.28
 Italian,319,Antonio,Schiavulli,Surv 19C & 20C,4.5,4.5,4.75,4.25,4.75,4.0,4.5
-Italian,320,Harinder Kaur,Khalsa,Intens Grammar Review,4.07,4.14,3.66,4.11,4.37,4.05,4.07
+Italian,320,Harinder Kaur,Khalsa,Intens Grammar Review,4.01,4.09,3.62,4.09,4.27,3.95,4.08
 Italian,320,Antonella,Antonelli,Intens Grammar Review,4.0,4.1,3.65,3.85,4.35,4.0,3.9
 Italian,320,Nadia,Ceccacci,Intens Grammar Review,4.43,4.43,3.71,4.43,4.57,3.86,4.43
 Italian,320,Claudia,Ventura,Intens Grammar Review,4.11,4.18,3.91,4.18,4.19,4.13,4.11

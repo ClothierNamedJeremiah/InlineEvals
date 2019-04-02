@@ -1,10 +1,10 @@
+Geography,141,Mark,Fonstad,Natural Environment,3.74,3.76,3.75,3.91,3.81,3.78,3.69
 Geography,141,Adriana,Uscanga Castillo,Natural Environment,4.08,3.77,4.08,4.0,3.85,4.15,4.0
 Geography,141,Devin,Lea,Natural Environment,3.76,3.68,4.03,3.84,4.02,3.89,3.8
 Geography,141,Aaron,Zettler-Mann,Natural Environment,3.93,4.09,4.09,4.16,4.11,4.03,3.84
 Geography,141,Eric,Sproles,Natural Environment,3.96,3.97,4.05,4.15,3.96,4.09,3.89
 Geography,141,Matthew,Goslin,Natural Environment,3.65,3.59,3.52,3.59,3.97,3.84,3.71
 Geography,141,Dan,Gavin,Natural Environment,3.53,3.31,3.62,3.66,3.68,3.69,3.51
-Geography,141,Mark,Fonstad,Natural Environment,3.81,3.83,3.8,3.94,3.77,3.82,3.76
 Geography,141,Swagata,Goswami,Natural Environment,4.01,4.06,4.21,4.09,3.98,4.1,3.83
 Geography,141,Nick,Kohler,Natural Environment,3.34,3.02,3.46,3.37,3.57,3.63,3.3
 Geography,141,Adriana,Martinez,Natural Environment,3.36,3.15,3.61,3.52,3.57,3.62,3.5
@@ -13,8 +13,8 @@ Geography,141,Erin,Herring,Natural Environment,3.55,3.61,3.78,4.05,4.24,3.75,3.7
 Geography,141,Sarah,Praskievicz,Natural Environment,4.25,4.5,4.5,4.75,4.75,4.75,4.75
 Geography,141,Suzanne,Walther,Natural Environment,4.14,4.19,4.28,4.33,4.04,4.22,4.11
 Geography,141,Megan,Walsh,Natural Environment,3.94,4.25,4.22,4.29,4.21,3.85,3.99
+Geography,142,Shaul,Cohen,Human Geography,3.98,4.05,3.74,3.88,3.91,3.73,3.89
 Geography,142,Olivia,Molden,Human Geography,4.01,4.13,3.96,4.02,4.24,3.92,3.95
-Geography,142,Shaul,Cohen,Human Geography,4.06,4.12,3.77,3.94,3.97,3.81,3.95
 Geography,142,Sanan,Moradi,Human Geography,3.36,3.46,3.73,2.91,4.0,3.18,3.36
 Geography,142,Leslie,McLees,Human Geography,3.8,3.78,3.83,3.76,4.0,3.83,3.7
 Geography,142,Belen,Norona,Human Geography,4.4,3.67,3.67,3.83,3.83,3.67,3.67
@@ -37,15 +37,15 @@ Geography,142,Ronald,Wixman,Human Geography,4.43,4.44,4.09,4.33,3.93,3.95,4.37
 Geography,142,Julie,Wakefield,Human Geography,3.43,3.57,3.71,3.86,4.29,3.43,3.43
 Geography,143,Shangrila,Wynn,Global Envir Change,3.5,3.5,3.75,3.25,4.0,3.25,3.5
 Geography,143,Patrick,Bartlein,Global Envir Change,3.53,3.5,3.93,3.79,3.64,3.86,3.23
+Geography,181,Amy,Lobben,Our Digital Earth,4.02,4.04,3.88,3.93,4.12,3.98,3.92
 Geography,181,Kate,Shields,Our Digital Earth,3.4,4.2,4.0,3.8,4.4,3.8,3.6
 Geography,181,Nick,Kohler,Our Digital Earth,3.58,3.49,3.56,3.55,3.92,3.6,3.56
 Geography,181,Leslie,McLees,Our Digital Earth,3.83,3.97,3.72,3.86,4.28,3.94,3.81
 Geography,181,Dean,Olson,Our Digital Earth,4.29,4.43,4.29,4.29,4.43,4.43,4.21
-Geography,181,Amy,Lobben,Our Digital Earth,4.08,4.17,3.92,3.98,4.17,4.03,3.92
 Geography,181,Christopher,Bone,Our Digital Earth,4.14,4.27,4.07,4.21,4.31,3.98,4.07
 Geography,181,Nicholas,Perdue,Our Digital Earth,4.04,3.86,3.97,3.82,4.03,3.91,3.99
-Geography,199,Shaul,Cohen,Sp St College Connect,4.29,4.41,3.99,4.23,4.37,4.01,4.2
-Geography,199,Leslie,McLees,Sp St College Connect,4.25,4.12,4.0,4.25,4.25,4.12,4.0
+Geography,199,Shaul,Cohen,Sp St College Connect,4.28,4.37,4.0,4.22,4.35,4.01,4.17
+Geography,199,Leslie,McLees,Sp St College Connect,4.22,4.06,4.15,4.22,4.38,4.11,4.0
 Geography,199,Christopher,Bone,Sp St College Connect,3.98,4.19,3.93,4.02,4.37,3.98,3.74
 Geography,199,Hedda Rahel,Schmidtke,Sp St Wrld & Big Data,3.18,3.18,3.46,3.46,3.9,3.82,3.46
 Geography,199,Dan,Gavin,Sp St College Connect,3.94,3.97,3.85,3.86,4.18,4.03,3.6
@@ -86,7 +86,7 @@ Geography,205,Xiaobo,Su,Geog of Pacific Asia,4.16,4.04,4.27,4.32,4.19,4.06,4.15
 Geography,205,Daniel,Buck,Geog of Pacific Asia,3.85,3.74,3.8,3.88,3.79,3.78,3.88
 Geography,205,Demian,Hommel,Geog of Pacific Asia,4.0,5.0,4.0,4.0,5.0,4.0,5.0
 Geography,206,Leslie,McLees,Geography of Oregon,3.0,3.2,3.8,3.4,4.8,4.0,3.4
-Geography,208,Nick,Kohler,Geog US & Canada,3.38,3.19,3.1,3.1,3.78,3.35,3.41
+Geography,208,Nick,Kohler,Geog US & Canada,3.44,3.28,3.23,3.18,3.73,3.45,3.47
 Geography,208,Cristina,Faiver,Geog US & Canada,3.25,3.5,3.5,3.25,2.75,3.0,3.75
 Geography,208,Christine,Carolan,Geog US & Canada,4.46,4.71,4.46,4.58,4.71,4.33,4.33
 Geography,208,Leslie,McLees,Geog US & Canada,3.49,3.43,3.43,3.46,3.77,3.42,3.41
@@ -117,8 +117,8 @@ Geography,321,Aaron,Zettler-Mann,Climatology,3.72,3.63,3.82,3.82,4.07,3.5,3.83
 Geography,321,Andrea,Allan,Climatology,3.69,3.5,3.98,3.76,3.95,3.81,3.64
 Geography,321,Sarah,Praskievicz,Climatology,3.48,3.48,3.48,3.5,3.52,3.48,3.44
 Geography,321,Megan,Walsh,Climatology,4.25,4.19,4.34,4.33,4.38,4.19,4.25
+Geography,322,Johnny,Webb,Geomorphology,4.21,4.34,4.07,4.36,4.28,3.95,4.28
 Geography,322,Patricia,McDowell,Geomorphology,4.09,4.09,4.34,4.2,4.05,4.08,4.04
-Geography,322,Johnny,Webb,Geomorphology,4.16,4.26,3.95,4.24,4.11,3.84,4.24
 Geography,322,Helen,Beeson,Geomorphology,4.5,4.2,4.1,4.4,4.6,4.1,4.4
 Geography,322,Jeffrey,Bandow,Geomorphology,4.46,4.53,4.35,4.45,4.46,4.22,4.37
 Geography,322,Sarah,Praskievicz,Geomorphology,4.11,4.11,4.11,4.11,4.56,4.39,4.17
@@ -128,7 +128,7 @@ Geography,323,Erin,Herring,Biogeography,4.44,4.57,4.6,4.46,4.77,4.62,4.38
 Geography,323,Win,McLaughlin,Biogeography,4.45,4.63,4.4,4.38,4.38,4.38,4.38
 Geography,323,Dan,Gavin,Biogeography,3.77,3.6,3.75,3.77,3.92,3.84,3.76
 Geography,323,Aquila,Flower,Biogeography,4.11,4.22,4.0,4.11,3.89,4.11,4.22
-Geography,341,Shaul,Cohen,Population & Environ,4.09,4.23,3.63,3.94,3.96,3.28,4.02
+Geography,341,Shaul,Cohen,Population & Environ,4.08,4.21,3.62,3.94,3.97,3.27,4.02
 Geography,341,Zackery,Thill,Population & Environ,3.33,3.25,3.67,3.25,3.75,3.58,3.5
 Geography,341,Ashley,Jennings,Population & Environ,4.33,4.44,4.56,4.78,4.78,4.56,4.33
 Geography,341,Innisfree,McKinnon,Population & Environ,3.42,3.29,3.23,3.32,3.99,3.51,3.36
@@ -157,6 +157,7 @@ Geography,361,Erin,Herring,Global Environ Change,3.91,4.04,4.14,4.23,4.5,4.32,3.
 Geography,361,Patrick,Bartlein,Global Environ Change,3.86,3.76,3.96,3.89,4.07,4.22,3.81
 Geography,361,Sarah,Praskievicz,Global Environ Change,3.88,3.5,4.12,3.88,4.14,4.12,4.25
 Geography,361,Megan,Walsh,Global Environ Change,4.33,4.33,4.5,4.67,4.33,4.83,4.33
+Geography,391,Amy,Lobben,Soc Sci Inquiry & Res,3.52,3.75,3.82,3.71,4.08,3.77,3.42
 Geography,391,Dylan,Brady,Soc Sci Inquiry & Res,3.46,3.41,3.27,3.36,4.0,3.32,3.46
 Geography,391,Leigh,Johnson,Soc Sci Inquiry & Res,3.22,3.34,3.2,3.24,3.78,3.41,3.12
 Geography,399,Shaul,Cohen,Sp St Global Carnegie,4.53,4.54,4.29,4.43,4.52,4.31,4.56
@@ -172,12 +173,12 @@ Geography,399,Shaul,Cohen,Sp St Adv GEOG 341,4.27,4.41,3.94,4.09,4.29,4.03,4.02
 Geography,399,Lindsay,Naylor,Sp St Exploration Geog,4.27,4.36,4.54,4.46,4.82,4.82,4.09
 Geography,406,Don,Holtgrieve,Fld Human Geography,4.6,4.35,4.35,4.35,3.95,3.75,4.35
 Geography,407,Ronald,Wixman,Sem Colonialism,3.67,4.0,3.67,3.33,4.0,4.33,4.0
+Geography,410,Xiaobo,Su,Economic Geography,4.09,4.06,4.11,4.27,4.25,4.01,4.18
 Geography,410,Shaul,Cohen,Nat'lism & Ethnicity,5.0,5.0,4.86,5.0,4.43,4.29,4.86
 Geography,410,Shaul,Cohen,Confl Transf N Ireland,4.38,4.4,4.08,4.18,3.95,4.02,4.38
 Geography,410,Katie,Dwyer,Prison Narr PC Reconci,5.0,5.0,4.9,4.8,5.0,4.8,5.0
 Geography,410,Laura,Pulido,Race, Nature & Power,4.53,4.73,4.0,4.27,4.6,4.0,4.47
 Geography,410,Peter,Walker,Oregon Environ Politic,4.29,4.36,3.93,3.79,4.43,4.07,4.5
-Geography,410,Xiaobo,Su,Economic Geography,4.06,4.05,4.03,4.19,4.15,3.8,4.09
 Geography,410,Katie,Dwyer,Prison Nartve Soc Chng,4.9,4.6,4.5,4.8,4.5,4.6,4.8
 Geography,410,Shaul,Cohen,Imagined Communities,5.0,4.57,4.14,4.43,4.57,2.86,4.86
 Geography,410,Mark,Fonstad,Mountain Geography,4.09,4.21,4.19,4.11,4.15,4.07,4.09
@@ -231,7 +232,7 @@ Geography,417,Patrick,Bartlein,Geographic Data Analy,4.0,3.96,4.45,4.28,4.29,4.3
 Geography,418,Mark,Fonstad,Fund Remote Sensing,4.06,4.38,4.31,4.12,4.31,3.88,4.25
 Geography,418,Nick,Kohler,Fund Remote Sensing,3.73,3.64,3.77,3.72,3.96,3.85,3.6
 Geography,418,Benjamin,Metcalfe,Fund Remote Sensing,3.93,4.14,3.93,4.14,4.29,4.21,4.07
-Geography,419,Leslie,McLees,Profess Geographer,4.46,4.48,4.26,4.2,4.59,4.37,4.43
+Geography,419,Leslie,McLees,Profess Geographer,4.5,4.59,4.28,4.4,4.69,4.45,4.49
 Geography,421,Patrick,Bartlein,Top Climate Change,4.33,4.17,4.5,4.67,4.67,4.33,4.5
 Geography,421,Patrick,Bartlein,Top 21C Climate Chg,4.5,4.5,4.5,4.75,4.5,4.5,4.5
 Geography,421,Patrick,Bartlein,Top Paleoclimatology,4.67,4.67,4.67,4.0,4.33,4.0,4.67
@@ -248,12 +249,13 @@ Geography,425,Paul,Blanton,Hydrology & Water Res,4.26,4.39,4.3,4.43,4.46,4.13,4.
 Geography,427,Patricia,McDowell,Fluvial Geomorphology,4.56,4.57,4.38,4.41,4.22,4.27,4.46
 Geography,427,Mark,Fonstad,Fluvial Geomorphology,4.29,4.14,4.43,4.14,4.43,4.29,4.29
 Geography,427,Pollyanna,Lind,Fluvial Geomorphology,4.38,4.38,4.31,4.44,4.5,4.38,4.38
+Geography,430,Dan,Gavin,Long Term Envir Change,4.25,4.25,4.5,4.5,4.5,4.5,4.5
 Geography,430,Dan,Gavin,Long-term Envir Change,4.13,4.09,3.83,4.04,4.31,4.03,4.24
 Geography,430,Aquila,Flower,Long-term Envir Change,4.21,4.14,4.14,4.29,4.14,4.07,4.43
 Geography,430,Megan,Walsh,Long-term Envir Change,4.39,4.61,4.74,4.65,4.65,4.48,4.57
 Geography,432,Patrick,Bartlein,Climat Asp Glob Ch,3.96,3.7,3.99,3.92,4.07,4.19,3.96
 Geography,433,Dan,Gavin,Fire & Natural Disturb,3.99,3.82,3.75,3.91,4.25,3.75,4.14
-Geography,441,Alexander,Murphy,Political Geography,4.64,4.71,4.61,4.55,4.51,4.4,4.61
+Geography,441,Alexander,Murphy,Political Geography,4.65,4.72,4.62,4.58,4.54,4.43,4.63
 Geography,441,Anna,Moore,Political Geography,4.35,4.47,4.18,4.41,4.35,4.35,4.29
 Geography,441,Jessie,Clark,Political Geography,4.69,4.75,4.56,4.44,4.69,4.5,4.75
 Geography,441,Vincent,Artman,Political Geography,4.31,4.15,4.23,4.15,4.23,4.0,4.38
@@ -271,14 +273,14 @@ Geography,445,Douglas,Foster,Cul/Ethn & Nationalism,4.47,4.53,4.18,4.29,4.47,4.1
 Geography,445,Anna,Moore,Cul/Ethn & Nationalism,4.46,4.46,4.36,4.36,4.54,4.27,4.54
 Geography,445,Ronald,Wixman,Cul/Ethn & Nationalism,4.07,4.07,3.4,3.4,3.6,3.33,4.0
 Geography,446,Ronald,Wixman,Geography of Religion,4.68,4.44,3.8,4.24,3.8,3.72,4.68
-Geography,448,Xiaobo,Su,Tourism & Development,4.18,4.23,4.2,4.21,4.33,3.89,4.17
+Geography,448,Xiaobo,Su,Tourism & Development,4.19,4.23,4.17,4.22,4.31,3.85,4.16
 Geography,461,Nick,Kohler,Environment Alteration,3.66,3.58,3.41,3.47,3.85,3.6,3.48
 Geography,462,Matthew,Goslin,Views of the Environ,4.0,3.9,4.1,3.8,4.3,4.0,4.3
 Geography,462,Peter,Walker,Views of the Environ,4.11,3.84,3.84,3.63,4.0,3.63,4.16
 Geography,463,Alexander,Murphy,Geog, Law & Environ,4.58,4.8,4.63,4.61,4.7,4.4,4.57
 Geography,463,Denielle,Perry,Geog, Law & Environ,4.42,4.33,4.33,4.42,4.17,3.75,4.42
 Geography,464,Shaul,Cohen,Forests & Human Exper,4.46,4.69,4.08,4.46,4.38,3.42,4.42
-Geography,465,Leigh,Johnson,Environ & Development,3.65,3.59,3.29,3.12,4.0,3.59,3.94
+Geography,465,Leigh,Johnson,Environ & Development,3.95,4.04,3.94,3.77,4.25,3.92,4.14
 Geography,465,Denielle,Perry,Environ & Development,3.71,3.9,2.81,3.52,3.81,3.19,3.81
 Geography,465,Derrick,Hindery,Environ & Development,3.68,3.51,3.65,3.66,3.81,3.7,3.61
 Geography,465,Meche,Lu,Environ & Development,4.42,4.38,4.27,4.42,4.65,4.42,4.46
@@ -287,7 +289,7 @@ Geography,465,Ingrid,Nelson,Environ & Development,5.0,4.33,4.33,4.33,5.0,3.67,5.
 Geography,465,Peter,Walker,Environ & Development,4.22,4.33,3.78,3.56,4.11,3.67,4.11
 Geography,466,Connie,Johnston,Gender and Environment,4.17,4.18,4.23,4.23,4.54,4.48,4.25
 Geography,466,Ingrid,Nelson,Gender and Environment,4.25,4.33,4.08,3.92,4.0,3.75,4.17
-Geography,467,Katie,Meehan,Internat Water Policy,4.36,4.45,4.35,4.23,3.97,4.14,4.23
+Geography,467,Katie,Meehan,Internat Water Policy,4.41,4.49,4.4,4.33,4.05,4.26,4.31
 Geography,468,Leslie,McLees,Contemp Food Systems,4.17,4.28,3.89,3.78,4.5,4.28,4.39
 Geography,471,Don,Holtgrieve,N Amer Hist Landscapes,4.13,3.98,4.21,4.03,4.18,3.99,4.13
 Geography,472,Nick,Kohler,Adv Geog Info Syst,4.13,3.97,3.9,3.85,4.06,3.84,4.14
@@ -299,6 +301,7 @@ Geography,475,Daniel,Buck,Top China & E Asia,4.78,4.83,4.48,4.38,4.48,4.53,4.94
 Geography,475,Leslie,McLees,Top Africa,4.57,4.71,4.43,4.57,4.71,4.57,4.43
 Geography,475,Xiaobo,Su,Top Geog of China,4.29,4.14,4.14,4.29,4.33,3.14,4.71
 Geography,475,Xiaobo,Su,Top Adv Geog of China,3.86,3.86,4.14,3.83,4.0,3.0,4.14
+Geography,481,David,Richey,GIScience I,4.15,4.15,4.15,4.24,4.24,4.09,4.18
 Geography,481,Devin,Lea,GIScience I,4.0,4.5,4.5,4.25,4.5,4.5,4.5
 Geography,481,Nick,Kohler,GIScience I,3.92,3.79,3.78,3.84,3.97,3.8,3.99
 Geography,481,Hedda Rahel,Schmidtke,GIScience I,2.38,2.23,2.71,2.63,3.02,2.45,2.64
@@ -307,13 +310,14 @@ Geography,481,Jacob,Blair,GIScience I,4.06,4.07,4.24,4.09,4.13,4.13,4.13
 Geography,481,Megen,Brittell,GIScience I,4.2,4.07,4.1,3.93,4.32,4.03,4.17
 Geography,481,Amy,Lobben,GIScience I,3.84,3.89,3.63,3.69,4.16,3.97,4.0
 Geography,481,Nicholas,Perdue,GIScience I,3.78,3.78,3.63,3.81,4.15,3.89,4.15
-Geography,482,Nick,Kohler,GIScience II,3.87,3.73,3.71,3.76,3.93,3.8,3.96
+Geography,482,Nick,Kohler,GIScience II,3.87,3.71,3.67,3.72,3.92,3.81,3.96
 Geography,482,Christopher,Bone,GIScience II,4.2,4.22,4.2,4.28,4.32,3.86,4.3
+Geography,485,Mark,Fonstad,Remote Sensing I,4.18,4.3,4.04,4.05,4.14,4.1,4.25
 Geography,485,Nick,Kohler,Remote Sensing I,3.91,3.82,3.43,3.82,4.19,3.84,4.03
-Geography,485,Mark,Fonstad,Remote Sensing I,3.74,3.91,3.61,3.78,3.83,3.74,3.74
 Geography,485,James,Dietrich,Remote Sensing I,4.15,4.15,4.15,4.38,4.23,4.08,4.04
 Geography,486,Nick,Kohler,Remote Sensing II,4.31,4.21,4.12,4.4,4.58,4.21,4.36
 Geography,486,Mark,Fonstad,Remote Sensing II,4.5,4.75,4.25,4.0,4.25,4.25,4.5
+Geography,490,Joanna,Merson,GIScience: Webmapping,4.46,4.64,4.36,4.46,4.91,4.54,4.36
 Geography,490,Joanna,Merson,Top Web Mapping,4.44,4.67,4.56,4.44,4.78,4.33,4.56
 Geography,490,Hedda Rahel,Schmidtke,Top Citz Sci & Geosnso,5.0,5.0,4.75,4.75,5.0,4.5,5.0
 Geography,490,Patrick,Bartlein,Top GIS Earth Sys Sci,4.67,4.67,4.0,4.17,4.83,4.17,4.5
@@ -401,12 +405,12 @@ Geography,527,Patricia,McDowell,Fluvial Geomorphology,4.49,4.49,4.32,4.33,4.15,4
 Geography,527,Mark,Fonstad,Fluvial Geomorphology,4.29,4.14,4.43,4.14,4.43,4.29,4.29
 Geography,527,Pollyanna,Lind,Fluvial Geomorphology,4.38,4.38,4.31,4.44,4.5,4.38,4.38
 Geography,527,William,Marcus,Fluvial Geomorphology,3.5,3.5,3.5,3.5,3.5,3.5,3.5
-Geography,530,Dan,Gavin,Long-term Envir Change,4.22,4.2,4.0,4.28,4.48,4.15,4.43
+Geography,530,Dan,Gavin,Long-term Envir Change,4.23,4.21,4.1,4.32,4.49,4.22,4.44
 Geography,530,Aquila,Flower,Long-term Envir Change,4.21,4.14,4.14,4.29,4.14,4.07,4.43
 Geography,530,Megan,Walsh,Long-term Envir Change,4.39,4.61,4.74,4.65,4.65,4.48,4.57
 Geography,532,Patrick,Bartlein,Climat Asp Glob Ch,3.96,3.7,3.99,3.92,4.07,4.19,3.96
 Geography,533,Dan,Gavin,Fire & Natural Disturb,3.99,3.82,3.75,3.91,4.25,3.75,4.14
-Geography,541,Alexander,Murphy,Political Geography,4.64,4.71,4.61,4.55,4.51,4.4,4.61
+Geography,541,Alexander,Murphy,Political Geography,4.65,4.72,4.62,4.58,4.54,4.43,4.63
 Geography,541,Anna,Moore,Political Geography,4.35,4.47,4.18,4.41,4.35,4.35,4.29
 Geography,541,Jessie,Clark,Political Geography,4.69,4.75,4.56,4.44,4.69,4.5,4.75
 Geography,542,Xiaobo,Su,Urban Geography,4.13,4.07,4.2,4.27,4.13,3.67,4.2
@@ -426,7 +430,7 @@ Geography,561,Nick,Kohler,Environment Alteration,3.66,3.58,3.41,3.47,3.85,3.6,3.
 Geography,563,Alexander,Murphy,Geog, Law & Environ,4.58,4.8,4.63,4.61,4.7,4.4,4.57
 Geography,563,Denielle,Perry,Geog, Law & Environ,4.42,4.33,4.33,4.42,4.17,3.75,4.42
 Geography,564,Shaul,Cohen,Forests & Human Exper,4.46,4.69,4.08,4.46,4.38,3.42,4.42
-Geography,565,Leigh,Johnson,Environ & Development,3.65,3.59,3.29,3.12,4.0,3.59,3.94
+Geography,565,Leigh,Johnson,Environ & Development,3.95,4.04,3.94,3.77,4.25,3.92,4.14
 Geography,565,Denielle,Perry,Environ & Development,3.71,3.9,2.81,3.52,3.81,3.19,3.81
 Geography,565,Derrick,Hindery,Environ & Development,3.68,3.51,3.65,3.66,3.81,3.7,3.61
 Geography,565,Meche,Lu,Environ & Development,3.85,3.77,3.54,3.85,4.31,3.85,3.92
@@ -434,7 +438,7 @@ Geography,565,Ingrid,Nelson,Environ & Development,5.0,4.33,4.33,4.33,5.0,3.67,5.
 Geography,565,Peter,Walker,Environ & Development,4.22,4.33,3.78,3.56,4.11,3.67,4.11
 Geography,566,Connie,Johnston,Gender and Environment,4.17,4.18,4.23,4.23,4.54,4.48,4.25
 Geography,566,Ingrid,Nelson,Gender and Environment,4.25,4.33,4.08,3.92,4.0,3.75,4.17
-Geography,567,Katie,Meehan,Internat Water Policy,4.36,4.45,4.35,4.23,3.97,4.14,4.23
+Geography,567,Katie,Meehan,Internat Water Policy,4.41,4.49,4.4,4.33,4.05,4.26,4.31
 Geography,568,Leslie,McLees,Contemp Food Systems,4.17,4.28,3.89,3.78,4.5,4.28,4.39
 Geography,571,Don,Holtgrieve,N Amer Hist Landscapes,4.13,3.98,4.21,4.03,4.18,3.99,4.13
 Geography,572,Nick,Kohler,Adv Geog Info Syst,4.13,3.97,3.9,3.85,4.06,3.84,4.14
@@ -443,19 +447,21 @@ Geography,575,Daniel,Buck,Top China's Economy,4.61,4.61,4.44,4.61,4.72,4.56,4.67
 Geography,575,Peter,Walker,Top Adv Geog Africa,4.33,3.67,3.67,3.67,4.0,3.0,4.33
 Geography,575,Daniel,Buck,Top China & E Asia,4.78,4.83,4.48,4.38,4.48,4.53,4.94
 Geography,575,Xiaobo,Su,Top Adv Geog of China,3.86,3.86,4.14,3.83,4.0,3.0,4.14
+Geography,581,David,Richey,GIScience I,4.15,4.15,4.15,4.24,4.24,4.09,4.18
 Geography,581,Nick,Kohler,GIScience I,3.92,3.82,3.8,3.85,4.02,3.82,3.97
 Geography,581,Hedda Rahel,Schmidtke,GIScience I,2.38,2.23,2.71,2.63,3.02,2.45,2.64
 Geography,581,Jacob,Blair,GIScience I,4.06,4.07,4.24,4.09,4.13,4.13,4.13
 Geography,581,Megen,Brittell,GIScience I,4.2,4.07,4.1,3.93,4.32,4.03,4.17
 Geography,581,Amy,Lobben,GIScience I,3.84,3.89,3.63,3.69,4.16,3.97,4.0
 Geography,581,Nicholas,Perdue,GIScience I,3.78,3.78,3.63,3.81,4.15,3.89,4.15
-Geography,582,Nick,Kohler,GIScience II,3.87,3.73,3.71,3.76,3.93,3.8,3.96
+Geography,582,Nick,Kohler,GIScience II,3.87,3.71,3.67,3.72,3.92,3.81,3.96
 Geography,582,Christopher,Bone,GIScience II,4.2,4.22,4.2,4.28,4.32,3.86,4.3
+Geography,585,Mark,Fonstad,Remote Sensing I,4.18,4.3,4.04,4.05,4.14,4.1,4.25
 Geography,585,Nick,Kohler,Remote Sensing I,3.88,3.69,3.38,3.66,4.16,3.71,4.04
-Geography,585,Mark,Fonstad,Remote Sensing I,3.74,3.91,3.61,3.78,3.83,3.74,3.74
 Geography,585,James,Dietrich,Remote Sensing I,4.15,4.15,4.15,4.38,4.23,4.08,4.04
 Geography,586,Nick,Kohler,Remote Sensing II,4.31,4.21,4.12,4.4,4.58,4.21,4.36
 Geography,586,Mark,Fonstad,Remote Sensing II,4.5,4.75,4.25,4.0,4.25,4.25,4.5
+Geography,590,Joanna,Merson,GIScience: Webmapping,4.46,4.64,4.36,4.46,4.91,4.54,4.36
 Geography,590,Joanna,Merson,Top Web Mapping,4.44,4.67,4.56,4.44,4.78,4.33,4.56
 Geography,590,Patrick,Bartlein,Top GIS Earth Sys Sci,4.67,4.67,4.0,4.17,4.83,4.17,4.5
 Geography,590,Nick,Kohler,Top Python Prog GIS,4.04,3.92,4.05,4.03,4.1,3.95,4.14
@@ -472,6 +478,8 @@ Geography,597,Susan,Hardwick,Qualitat Methods Geog,4.73,4.91,4.18,4.54,5.0,4.73,
 Geography,597,Lise,Nelson,Qualitat Methods Geog,3.0,3.17,3.5,2.33,3.33,3.33,2.67
 Geography,602,Leslie,McLees,Superv College Teach,4.0,4.0,4.0,4.0,4.0,4.5,4.0
 Geography,606,Susan,Hardwick,Fld Human Geography,4.5,4.75,4.25,4.5,5.0,3.0,4.5
+Geography,607,Leigh,Johnson,Sem: Vulnerabil & Clim,4.83,5.0,4.67,4.67,4.83,4.83,5.0
+Geography,607,Henry,Luan,GISci Seminar,4.17,4.17,3.83,4.33,4.33,3.83,4.17
 Geography,607,Daniel,Buck,Sem Economic Geog,5.0,5.0,4.5,4.5,5.0,4.5,5.0
 Geography,607,Lucas,Silva,Sem Soil Plant Atmosph,5.0,5.0,4.5,4.75,4.75,4.5,4.75
 Geography,607,Dan,Gavin,Sem Quant Mth Paleoeco,3.6,3.5,3.3,3.5,3.9,3.1,3.7
@@ -521,8 +529,8 @@ Geography,607,Dan,Gavin,Sem Clim Change/Biodiv,4.43,4.5,4.0,4.43,4.29,3.86,4.43
 Geography,607,Derrick,Hindery,Sem Indig Movemnts/Env,4.67,4.67,4.5,4.5,5.0,4.5,4.67
 Geography,607,Susan,Hardwick,Sem Geographic Educ,4.86,5.0,5.0,5.0,4.86,4.86,5.0
 Geography,607,Lise,Nelson,Sem Space Place Power,4.67,4.0,4.0,4.0,4.67,4.33,4.67
+Geography,608,Shaul,Cohen,Workshop,3.76,3.89,3.73,3.84,4.05,3.79,3.7
 Geography,608,Shaul,Cohen,Wrk Thesis Writing,3.77,3.88,3.89,3.88,3.9,3.89,3.72
-Geography,608,Shaul,Cohen,Workshop,3.78,3.95,3.78,3.89,4.15,3.88,3.74
 Geography,608,Peter,Walker,Workshop,4.18,4.67,4.27,4.18,4.78,4.67,4.3
 Geography,608,Peter,Walker,Wrk Thesis Writing,3.81,3.9,3.86,3.84,3.84,3.9,3.72
 Geography,608,Peter,Walker,Wrk Writ Thesis,3.57,3.6,3.71,3.67,3.6,3.5,3.71
@@ -538,9 +546,9 @@ Geography,610,Susan,Hardwick,Prep Teach AP Geog,5.0,5.0,5.0,5.0,5.0,5.0,5.0
 Geography,610,Susan,Hardwick,Prep to Teach AP Geogr,5.0,5.0,5.0,4.0,4.0,5.0,4.0
 Geography,610,Susan,Hardwick,Prep to Teach AP Geog,4.25,4.5,4.5,4.5,4.5,4.5,4.5
 Geography,610,Steve,Holloway,Adv Topics Urban Geog,5.0,5.0,5.0,5.0,5.0,5.0,5.0
+Geography,611,Mark,Fonstad,Theory & Prac Geog I,4.26,4.49,4.3,4.3,4.28,4.3,4.15
+Geography,611,Alexander,Murphy,Theory & Prac Geog I,4.4,4.69,4.62,4.5,4.55,4.45,4.4
 Geography,611,Patrick,Bartlein,Theory & Prac Geog I,4.38,4.62,4.75,4.62,4.75,4.5,4.38
-Geography,611,Alexander,Murphy,Theory & Prac Geog I,4.36,4.59,4.58,4.42,4.56,4.44,4.28
-Geography,611,Mark,Fonstad,Theory & Prac Geog I,4.01,4.24,4.08,4.08,4.05,4.08,3.85
 Geography,611,Xiaobo,Su,Theory & Prac Geog I,3.4,3.6,3.4,3.4,3.8,3.4,3.0
 Geography,612,Patrick,Bartlein,Theory & Prac Geog II,3.89,4.0,4.22,4.11,4.33,4.33,3.78
 Geography,612,Alexander,Murphy,Theory & Prac Geog II,4.15,4.23,4.42,4.23,4.47,4.48,4.08
@@ -555,8 +563,8 @@ Geography,620,William,Marcus,Theory & Practice Geog,4.42,4.87,4.49,4.44,4.59,4.3
 Geography,621,Mark,Fonstad,Curr Trends in Geog,4.25,4.75,4.25,4.25,4.75,3.75,4.5
 Geography,621,Alexander,Murphy,Curr Trends in Geog,4.38,4.57,4.27,4.45,4.72,4.33,4.48
 Geography,621,William,Marcus,Curr Trends in Geog,4.2,4.57,4.43,4.41,4.44,4.22,4.06
-Geography,631,Patricia,McDowell,Progress Physical Geog,4.55,4.74,4.53,4.74,4.73,4.68,4.62
-Geography,631,Dan,Gavin,Progress Physical Geog,4.5,5.0,4.5,4.5,4.5,4.5,4.5
+Geography,631,Dan,Gavin,Progress Physical Geog,4.25,4.5,4.25,4.25,4.25,4.25,4.25
+Geography,631,Patricia,McDowell,Progress Physical Geog,4.5,4.68,4.49,4.68,4.67,4.62,4.57
 Geography,631,Mark,Fonstad,Progress Physical Geog,4.44,4.78,4.44,4.44,4.78,4.78,4.44
 Geography,631,Peter,Walker,Progress Physical Geog,4.0,4.0,4.0,4.0,4.0,4.0,4.0
 Geography,631,William,Marcus,Progress Physical Geog,4.28,4.28,4.28,4.28,4.28,4.06,4.17

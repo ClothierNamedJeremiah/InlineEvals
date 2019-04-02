@@ -1,6 +1,8 @@
 Marketing,199,Jessyca,Lewis,Sp St Entrep New Media,3.53,3.36,3.19,3.29,3.82,3.39,3.5
+Marketing,311,Troy,Campbell,Mktg Management,4.55,4.67,4.33,4.55,4.22,4.08,4.53
+Marketing,311,Noelle,Nelson,Mktg Management,3.84,3.92,3.65,3.76,4.13,3.97,3.75
+Marketing,311,Leah,Schneider,Mktg Management,4.48,4.66,4.62,4.67,4.54,4.39,4.45
 Marketing,311,Eric,Setten,Mktg Management,4.15,4.45,4.15,4.05,4.5,3.85,4.2
-Marketing,311,Leah,Schneider,Mktg Management,4.47,4.64,4.61,4.65,4.53,4.36,4.45
 Marketing,311,Johnny,Chen,Mktg Management,4.38,4.38,4.31,4.54,4.38,4.31,4.15
 Marketing,311,Roger,Rutan,Mktg Management,4.48,4.63,4.62,4.53,4.64,4.45,4.39
 Marketing,311,Jiao,Zhang,Mktg Management,4.12,4.14,4.17,4.23,4.26,4.12,4.13
@@ -16,14 +18,14 @@ Marketing,311,Catherine,Armstrong Soule,Mktg Management,3.72,3.68,3.68,3.61,4.09
 Marketing,311,Leslie,Koppenhafer,Mktg Management,4.31,4.42,4.28,4.28,4.28,4.0,4.36
 Marketing,311,Scott,Owen,Mktg Management,4.04,4.2,4.2,4.12,4.38,4.16,4.08
 Marketing,311,Ian,Parkman,Mktg Management,3.46,3.42,3.25,3.46,2.79,3.33,3.3
-Marketing,311H,Leah,Schneider,Mktg Management,4.28,4.47,4.41,4.5,4.34,3.72,4.25
+Marketing,311H,Leah,Schneider,Mktg Management,4.44,4.62,4.6,4.63,4.51,4.01,4.33
 Marketing,311H,Jiao,Zhang,Mktg Management,3.56,3.67,3.76,3.65,4.06,3.06,3.54
 Marketing,311H,Frank,Veltri,Mktg Management,2.68,2.55,1.71,2.1,3.48,2.0,2.74
 Marketing,311H,Michael,Dore,Mktg Management,4.61,4.77,4.45,4.5,4.74,3.94,4.55
+Marketing,390,Wendy,Paik,Marketing Research,3.65,3.42,3.81,3.65,4.23,3.95,3.79
 Marketing,390,Katie,Mercurio,Marketing Research,4.41,4.59,4.3,4.48,4.63,4.18,4.44
 Marketing,390,Aparna,Sundar,Marketing Research,3.43,3.29,3.6,3.67,3.96,3.39,3.44
 Marketing,390,Conor,Henderson,Marketing Research,4.13,4.08,3.72,3.97,4.52,4.04,4.08
-Marketing,390,Wendy,Paik,Marketing Research,3.38,3.08,3.6,3.4,3.95,3.78,3.54
 Marketing,390,Hong,Yuan,Marketing Research,4.26,4.36,4.41,4.35,4.37,4.3,4.21
 Marketing,390,Brandon,Reich,Marketing Research,4.23,4.24,4.47,4.27,4.42,4.34,4.19
 Marketing,390,Barbara,Tull,Marketing Research,3.6,3.37,3.75,3.43,3.87,3.74,3.61
@@ -43,10 +45,10 @@ Marketing,410,Eric,Setten,Sales Mgt & Pers Sell,3.86,4.05,3.86,3.9,4.24,4.09,3.8
 Marketing,410,Lynn,Kahle,Mktg & Sustainability,3.1,3.3,2.7,2.8,4.1,3.1,3.5
 Marketing,410,Jessyca,Lewis,Social Media Marketing,3.5,3.35,2.84,3.18,3.71,3.29,3.43
 Marketing,410,John,Davis,Sales Mgt & Pers Sell,4.26,4.67,4.27,4.54,4.54,4.17,4.17
+Marketing,420,Leah,Schneider,Mktg Communications,4.56,4.68,4.62,4.66,4.63,4.37,4.47
 Marketing,420,Andrew,Edelblum,Mktg Communications,4.71,4.79,4.71,4.79,4.86,4.86,4.57
 Marketing,420,Linda,Price,Mktg Communications,3.45,3.43,3.27,3.51,3.84,3.1,3.39
 Marketing,420,Sophia,Bennett,Mktg Communications,3.57,3.63,3.97,3.66,4.26,3.63,3.63
-Marketing,420,Leah,Schneider,Mktg Communications,4.56,4.67,4.62,4.66,4.63,4.36,4.47
 Marketing,420,Catherine,Armstrong Soule,Mktg Communications,4.06,4.2,3.94,3.96,4.26,3.29,3.95
 Marketing,420,Leslie,Koppenhafer,Mktg Communications,4.29,4.3,4.35,4.4,4.45,3.97,4.13
 Marketing,420,Jessyca,Lewis,Mktg Communications,3.86,3.71,3.51,3.67,4.27,3.69,3.79
@@ -57,9 +59,10 @@ Marketing,420,Steven,Andrews,Mktg Communications,3.77,3.65,3.75,3.68,4.05,3.51,3
 Marketing,420,Lynn,Kahle,Mktg Communications,4.01,4.03,4.12,3.69,4.28,4.18,3.92
 Marketing,420,Peter,Wright,Mktg Communications,3.72,3.76,3.59,3.72,3.36,3.72,3.55
 Marketing,425,Susan,Golicic,Strat Bus-to-Bus Relat,4.27,4.46,4.27,4.36,4.27,4.46,4.09
+Marketing,435,Troy,Campbell,Consumer Behavior,4.43,4.52,4.24,4.39,4.12,4.08,4.43
+Marketing,435,Noelle,Nelson,Consumer Behavior,4.07,4.5,3.93,4.21,4.36,4.14,3.86
 Marketing,435,Kivalina,Grove,Consumer Behavior,4.1,4.03,4.28,4.14,4.28,3.93,3.97
 Marketing,435,Johnny,Chen,Consumer Behavior,4.55,4.66,4.59,4.72,4.45,4.48,4.48
-Marketing,435,Troy,Campbell,Consumer Behavior,4.41,4.5,4.22,4.38,4.1,4.05,4.4
 Marketing,435,Nathan,Warren,Consumer Behavior,4.06,4.06,3.62,4.06,4.38,3.62,4.12
 Marketing,435,Robert,Madrigal,Consumer Behavior,4.21,4.24,4.18,4.25,4.0,3.97,4.14
 Marketing,435,Mark,Elton,Consumer Behavior,4.1,4.17,4.12,4.18,4.06,4.08,4.06
@@ -77,6 +80,7 @@ Marketing,435,Courtney,Boerstler,Consumer Behavior,4.23,4.17,4.33,4.24,4.44,4.18
 Marketing,435,David,Boush,Consumer Behavior,3.63,3.68,3.86,3.55,3.64,3.68,3.57
 Marketing,435,Scott,Owen,Consumer Behavior,4.21,4.21,4.36,4.29,3.86,4.21,4.0
 Marketing,435,John,Godek,Consumer Behavior,3.97,3.94,4.2,4.06,4.0,4.11,3.86
+Marketing,445,David,Youngentob,Entrepreneurial Mktg,4.15,4.0,3.38,3.54,4.08,4.15,4.31
 Marketing,445,Jeff,Gish,Entrepreneurial Mktg,4.53,4.62,4.75,4.5,4.72,4.62,4.53
 Marketing,445,Derek,Schloss,Entrepreneurial Mktg,4.58,4.63,4.68,4.63,4.57,4.57,4.56
 Marketing,445,Wang Suk,Suh,Entrepreneurial Mktg,3.26,3.26,3.63,3.47,4.47,3.68,3.16
@@ -101,7 +105,7 @@ Marketing,490,Anne,Forrestel,Marketing Strategy,4.67,4.83,4.42,4.67,4.83,4.75,4.
 Marketing,490,Jun,Ye,Marketing Strategy,4.3,4.34,4.41,4.34,4.5,4.27,4.27
 Marketing,490,Jessyca,Lewis,Marketing Strategy,3.87,3.69,3.78,3.56,4.08,3.64,3.73
 Marketing,510,Lynn,Kahle,Mktg & Sustainability,3.1,3.3,2.7,2.8,4.1,3.1,3.5
-Marketing,607,Hong,Yuan,Sem Mktg Proseminar,4.77,4.84,4.8,4.84,4.88,4.82,4.77
+Marketing,607,Hong,Yuan,Sem Mktg Proseminar,4.77,4.83,4.79,4.83,4.87,4.81,4.77
 Marketing,607,Robert,Madrigal,Sem Mktg Proseminar,4.81,4.87,4.71,4.86,4.87,4.81,4.84
 Marketing,607,Lynn,Kahle,Sem Iss Lifestyle Mktg,4.33,4.67,4.0,4.0,5.0,4.67,4.33
 Marketing,610,Katie,Mercurio,Brand Strategy,4.6,4.63,4.62,4.52,4.66,4.52,4.49
@@ -114,16 +118,18 @@ Marketing,610,Matthew,O'Hern,New Product Devel,4.0,4.12,4.0,3.75,4.5,3.88,4.0
 Marketing,610,John,Davis,Brand Strategy,4.37,4.58,4.47,4.32,4.37,4.32,4.26
 Marketing,610,Keven,Malkewitz,New Product Devel,3.46,3.74,4.02,3.62,3.81,3.84,3.44
 Marketing,610,Marie,Mayes,New Product Devel,3.05,3.95,2.81,3.48,4.24,3.24,3.24
+Marketing,612,Jiao,Zhang,Marketing Management,3.06,3.09,2.88,3.15,4.24,3.0,2.91
 Marketing,612,Katie,Mercurio,Marketing Management,4.32,4.33,4.42,4.14,4.53,4.11,4.32
 Marketing,612,Roger,Rutan,Marketing Management,3.26,3.15,3.49,3.21,4.32,3.15,3.15
 Marketing,612,Joan,Giese,Marketing Management,3.77,3.9,3.76,3.88,4.29,3.7,3.73
-Marketing,660,Hong,Yuan,Marketing Research,4.39,4.5,4.54,4.5,4.61,4.38,4.35
+Marketing,660,Hong,Yuan,Marketing Research,4.39,4.5,4.56,4.53,4.61,4.39,4.35
 Marketing,660,Jun,Ye,Marketing Research,3.78,3.74,4.07,3.98,4.17,3.84,3.61
 Marketing,660,Barbara,Tull,Marketing Research,2.0,2.0,2.36,2.27,3.36,2.73,2.36
 Marketing,660,David,Boush,Marketing Research,3.72,3.78,4.0,3.78,4.22,3.89,3.67
+Marketing,665,Doug,Wilson,Marketing Strategy,4.44,4.63,4.69,4.43,4.76,4.59,4.26
 Marketing,665,Merryn,Roberts-Huntley,Marketing Strategy,4.53,4.49,4.64,4.28,4.31,4.33,4.49
-Marketing,665,Doug,Wilson,Marketing Strategy,4.42,4.62,4.67,4.41,4.77,4.59,4.22
 Marketing,665,Joan,Giese,Marketing Strategy,4.0,4.02,3.96,4.0,4.22,3.81,3.93
+Marketing,687,Jiao,Zhang,Theory & Res Mktg Mgmt,5.0,5.0,5.0,5.0,5.0,5.0,5.0
 Marketing,687,Hong,Yuan,Theory & Res Mktg Mgmt,4.86,4.86,4.86,4.86,4.71,4.71,4.86
 Marketing,687,David,Boush,Theory & Res Mktg Mgmt,4.67,4.67,5.0,5.0,4.67,4.33,5.0
 Marketing,687,Lynn,Kahle,Theory & Res Mktg Mgmt,4.75,4.75,4.5,4.5,4.75,4.75,4.75

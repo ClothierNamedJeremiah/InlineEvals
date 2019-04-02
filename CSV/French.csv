@@ -1,7 +1,10 @@
+French,101,Elizabeth,Cogan,1st Year French,3.53,3.41,3.15,3.13,4.1,3.56,3.45
+French,101,Fiona,Connors,1st Year French,4.86,4.93,4.78,4.69,4.71,4.61,4.86
+French,101,Laurie,deGonzalez,1st Year French,4.73,4.82,4.18,4.73,4.73,4.36,4.54
+French,101,Connie,Dickey,1st Year French,4.26,4.39,4.45,4.48,4.4,4.02,4.41
+French,101,Tera,Reid-Olds,1st Year French,4.78,4.89,4.88,5.0,5.0,5.0,4.78
+French,101,Jalin,Weaver,1st Year French,4.0,4.25,3.62,4.25,4.5,4.0,4.25
 French,101,Maryam,Saedi,1st Year French,4.43,4.39,4.43,4.37,4.25,4.11,4.52
-French,101,Elizabeth,Cogan,1st Year French,3.18,3.06,2.77,2.86,3.82,3.29,3.11
-French,101,Fiona,Connors,1st Year French,5.0,5.0,4.7,4.8,5.0,4.8,5.0
-French,101,Connie,Dickey,1st Year French,4.36,4.48,4.48,4.57,4.47,4.06,4.46
 French,101,Nicholas,Hadley,1st Year French,4.64,4.6,4.6,4.53,4.87,4.4,4.47
 French,101,Lingheshwari,Kakkanaiah,1st Year French,3.84,4.02,3.73,4.13,4.61,3.92,4.28
 French,101,Nadege,Lejeune,1st Year French,4.29,4.57,3.93,4.79,4.79,4.14,4.36
@@ -159,6 +162,8 @@ French,103,Stephanni,Bahr,1st Year French,4.14,4.24,4.09,4.2,4.48,4.48,4.24
 French,103,Marya,Lusky,1st Year French,4.5,4.62,4.5,4.5,4.81,4.75,4.25
 French,103,Ana-Maria,M'Enesti,1st Year French,4.33,4.28,4.17,4.06,4.61,4.5,4.18
 French,103,Sylvain,Montalbano,1st Year French,4.0,4.07,3.73,3.93,3.93,3.67,3.87
+French,111,Robin,Okumu,Intens Begin French,4.25,4.42,4.17,4.5,4.58,4.33,4.25
+French,111,Maryam,Saedi,Intens Begin French,4.15,4.23,4.08,4.15,4.15,4.0,4.23
 French,111,Connie,Dickey,Intens Begin French,4.42,4.45,4.48,4.44,4.52,4.12,4.47
 French,111,Nadege,Lejeune,Intens Begin French,4.69,4.81,4.44,4.81,4.75,4.25,4.75
 French,111,Anthony,Tribit,Intens Begin French,4.4,4.43,4.34,4.47,4.54,4.35,4.35
@@ -200,6 +205,7 @@ French,112,Hilary,Fisher,Intens Begin French,4.5,4.64,4.73,4.63,4.66,4.52,4.43
 French,112,Davina,Mattox,Intens Begin French,4.54,4.81,4.74,4.97,4.74,4.67,4.32
 French,112,Jenny,Odintz,Intens Begin French,4.14,4.11,4.7,4.36,4.57,4.63,4.36
 French,112,Virginia,Piper,Intens Begin French,4.58,4.75,5.0,4.83,4.5,4.92,4.5
+French,150,Nathalie,Hester,Cul Legacies France,4.35,4.35,4.35,4.18,4.41,4.24,4.29
 French,150,Elizabeth,Cogan,+ Dis,3.86,3.95,3.52,3.78,4.36,3.78,3.77
 French,150,Karen,McPherson,Cul Legacies France,4.24,4.34,4.34,4.42,4.42,4.08,4.19
 French,150,Cory,Browning,Cul Legacies France,4.07,4.28,3.93,4.14,4.21,3.83,3.93
@@ -232,14 +238,15 @@ French,199,Sandra,Mefoude Obiono,Sp St 2nd-Yr Oral Skls,4.25,4.5,4.0,4.5,4.5,4.2
 French,199,Davina,Mattox,Sp St Converstn Skills,4.23,4.69,4.23,4.46,4.85,4.46,4.23
 French,199,Patrick,Moneyang,Sp St Conversatn Skill,4.36,4.57,4.36,4.41,4.34,4.41,4.37
 French,199,George,Moore,Sp St Surrealism,3.5,3.25,2.75,3.5,3.75,3.75,3.75
-French,201,Laurie,deGonzalez,2nd Year French,4.5,4.71,4.38,4.5,4.56,4.44,4.42
-French,201,Natalie,Brenner,2nd Year French,4.41,4.72,4.35,4.54,4.74,4.43,4.49
-French,201,Sheela,Hadjivassiliou,2nd Year French,4.52,4.67,4.71,4.6,4.67,4.64,4.44
+French,201,Natalie,Brenner,2nd Year French,4.41,4.72,4.32,4.54,4.75,4.43,4.49
+French,201,Laurie,deGonzalez,2nd Year French,4.34,4.55,4.21,4.39,4.63,4.39,4.32
+French,201,Sheela,Hadjivassiliou,2nd Year French,4.5,4.67,4.64,4.62,4.58,4.57,4.44
+French,201,Nadege,Lejeune,2nd Year French,4.27,4.64,4.0,4.36,4.54,4.27,4.27
+French,201,Melanie,Williams,2nd Year French,4.32,4.48,4.43,4.45,4.49,4.31,4.17
+French,201,Kiana,Youssefzadeh,2nd Year French,4.05,4.22,4.0,4.25,4.68,3.83,4.22
 French,201,Miki,Krason,2nd Year French,4.21,4.86,4.21,4.79,4.93,4.29,4.36
 French,201,Laurel,Sturgis O'Coyne,2nd Year French,4.07,4.5,4.21,4.43,4.64,4.64,4.0
-French,201,Kiana,Youssefzadeh,2nd Year French,3.88,4.0,3.56,4.06,4.69,4.0,3.88
 French,201,Alexandra,Slave,2nd Year French,3.95,3.94,4.23,4.06,4.35,4.33,3.89
-French,201,Melanie,Williams,2nd Year French,4.34,4.48,4.46,4.46,4.48,4.32,4.18
 French,201,Cassandra,Chaney,2nd Year French,4.13,4.13,4.13,4.27,4.53,4.4,4.07
 French,201,Ana-Maria,M'Enesti,2nd Year French,4.17,4.32,4.31,4.33,4.58,4.3,4.13
 French,201,Natalie,Rush,2nd Year French,4.46,4.77,4.23,4.38,4.77,4.62,4.31
@@ -364,9 +371,9 @@ French,203,Aria,Dalmolin,2nd Year French,4.52,4.57,4.48,4.62,4.43,4.57,4.38
 French,203,Alexis,Pernsteiner,2nd Year French,4.08,4.5,4.17,4.17,4.42,4.42,4.08
 French,203,Anne,Steinberg,2nd Year French,4.05,4.55,4.15,4.45,4.3,4.3,4.3
 French,203,Catherine,Wiebe,2nd Year French,4.5,4.56,4.44,4.56,4.5,4.25,4.38
+French,301,Geraldine,Poizat-Newcomb,France Contemporaine,4.58,4.77,4.64,4.65,4.52,4.45,4.49
 French,301,Corinne,Bayerl,France Contemporaine,4.36,4.38,4.16,4.17,4.67,4.26,4.35
 French,301,Cory,Browning,France Contemporaine,3.97,4.12,3.86,3.93,4.03,3.59,3.93
-French,301,Geraldine,Poizat-Newcomb,France Contemporaine,4.59,4.8,4.65,4.68,4.54,4.47,4.52
 French,301,Fabienne,Moore,France Contemporaine,4.38,4.53,4.38,4.44,4.41,4.15,4.32
 French,301,Nathalie,Hester,France Contemporaine,4.37,4.41,4.41,4.15,4.34,4.07,4.24
 French,301,Marc,Schachter,France Contemporaine,3.43,3.53,3.15,3.58,4.15,3.49,3.63
@@ -376,8 +383,8 @@ French,301,Melanie,Williams,France Contemporaine,3.93,3.93,4.33,4.13,4.27,3.67,4
 French,301,Davina,Mattox,France Contemporaine,4.64,4.76,4.58,4.61,4.68,4.61,4.44
 French,301,Antoine,Bargel,France Contemporaine,3.69,3.62,4.08,4.0,4.15,4.08,3.77
 French,301,Olivier,Clarinval,France Contemporaine,4.75,4.94,4.5,4.69,4.81,4.62,4.75
+French,302,Andre,Djiffack,Culture et langage,4.48,4.52,4.35,4.17,4.43,4.12,4.51
 French,302,Geraldine,Poizat-Newcomb,Culture et langage,4.64,4.81,4.79,4.7,4.64,4.59,4.65
-French,302,Andre,Djiffack,Culture et langage,4.55,4.55,4.48,4.26,4.48,4.18,4.59
 French,302,Ana-Maria,M'Enesti,Culture et langage,5.0,5.0,5.0,5.0,5.0,5.0,5.0
 French,303,Andre,Djiffack,Identites Francophones,4.1,4.3,4.21,4.07,3.97,3.67,3.99
 French,303,Geraldine,Poizat-Newcomb,Identites Francophones,4.54,4.77,4.68,4.67,4.59,4.48,4.41
@@ -391,7 +398,7 @@ French,307,Charles,Barnett,Oral Skills,4.0,4.12,4.36,4.36,4.49,4.02,3.79
 French,307,Sandra,Mefoude Obiono,Oral Skills,3.52,3.84,3.44,3.62,3.89,3.22,3.53
 French,307,Virginia,Piper,Oral Skills,3.7,3.9,3.6,3.7,4.0,3.5,3.2
 French,307,Ramon,Fonkoue,Oral Skills,4.36,4.51,3.82,4.54,4.39,3.74,3.98
-French,312,Andre,Djiffack,Survey: Francoph Lit,4.52,4.66,4.39,4.22,4.38,4.22,4.45
+French,312,Andre,Djiffack,Survey: Francoph Lit,4.53,4.65,4.44,4.22,4.39,4.24,4.44
 French,312,Karen,McPherson,Survey: Francoph Lit,4.44,4.44,4.56,4.44,4.44,4.22,4.33
 French,317,Geraldine,Poizat-Newcomb,Surv Mediev/Renaiss,4.6,4.78,4.66,4.57,4.65,4.45,4.46
 French,317,Nathalie,Hester,Surv Mediev/Renaiss,4.37,4.5,4.41,4.41,4.48,4.34,4.31
@@ -405,17 +412,17 @@ French,317,Irina,Armianu,Surv Mediev/Renaiss,4.09,4.36,4.64,4.36,4.64,4.36,4.18
 French,317,Barbara,Altmann,Surv Mediev/Renaiss,4.65,4.84,4.69,4.56,4.74,4.55,4.55
 French,318,Alexandre,Albert-Galtier,Surv Baroq/Enlight,4.41,4.61,4.25,4.16,4.24,4.19,4.31
 French,318,Fabienne,Moore,Surv Baroq/Enlight,4.32,4.37,4.29,4.15,4.3,4.21,4.19
+French,319,Karen,McPherson,Surv 19C & 20C,4.21,4.41,4.38,4.47,4.38,4.08,4.32
 French,319,Cory,Browning,Surv 19C & 20C,4.15,4.26,3.8,4.19,4.21,3.96,4.16
 French,319,Nathalie,Hester,Surv 19C & 20C,4.23,4.23,3.77,4.23,4.08,4.0,4.38
 French,319,Andre,Djiffack,Surv 19C & 20C,4.23,4.38,4.29,4.03,4.15,4.11,4.19
 French,319,Evlyn,Gould,Surv 19C & 20C,4.2,4.24,3.79,3.83,4.06,3.96,4.06
-French,319,Karen,McPherson,Surv 19C & 20C,4.23,4.48,4.5,4.5,4.41,4.13,4.31
 French,319,Marc,Schachter,Surv 19C & 20C,3.7,3.6,3.4,3.4,4.3,3.6,3.5
 French,319,Ana-Maria,M'Enesti,Surv 19C & 20C,4.17,4.5,4.25,4.08,4.5,4.33,4.17
 French,319,Patrick,Moneyang,Surv 19C & 20C,4.12,4.12,3.88,4.12,3.75,3.88,3.88
 French,319,Irina,Armianu,Surv 19C & 20C,3.81,3.8,3.75,3.8,4.21,3.68,3.92
 French,319,Elena,Villa,Surv 19C & 20C,3.29,3.17,3.44,2.89,4.11,3.83,3.11
-French,320,Melanie,Williams,Intens Grammar Review,4.47,4.58,4.58,4.59,4.53,4.45,4.49
+French,320,Melanie,Williams,Intens Grammar Review,4.47,4.57,4.57,4.57,4.51,4.44,4.47
 French,320,Connie,Dickey,Intens Grammar Review,4.25,4.75,4.0,4.75,4.75,4.25,4.75
 French,320,Aara,Zweifel,Intens Grammar Review,4.83,5.0,4.83,5.0,4.83,4.83,5.0
 French,320,Charles,Barnett,Intens Grammar Review,4.28,4.48,4.46,4.42,4.54,4.25,4.31
@@ -433,7 +440,7 @@ French,333,Irina,Armianu,French Narrative,4.67,4.67,4.67,4.56,4.44,4.33,4.56
 French,342,Marc,Schachter,Top French Kiss,4.5,4.75,4.25,4.5,4.5,4.25,4.75
 French,342,George,Moore,Top Sartre and Camus,4.22,4.0,3.89,3.33,4.22,3.89,4.44
 French,342,George,Moore,Top Surrealism,4.8,4.8,3.8,4.4,4.2,4.0,4.8
-French,362,Evlyn,Gould,French Film,4.01,4.19,3.56,3.63,4.05,3.62,3.95
+French,362,Evlyn,Gould,French Film,4.05,4.22,3.61,3.68,4.05,3.65,3.97
 French,362,Cory,Browning,French Film,4.0,3.82,2.91,3.64,3.46,3.27,3.82
 French,362,Alexandre,Albert-Galtier,French Film,3.77,4.0,3.79,3.64,4.07,3.79,3.64
 French,362,Stephen,McCormick,French Film,4.47,4.5,4.59,4.29,4.56,4.47,4.53
@@ -469,7 +476,7 @@ French,410,Hilary,Fisher,French for Reading,4.6,4.6,4.7,4.4,4.4,4.8,4.2
 French,416,Geraldine,Poizat-Newcomb,Adv Writing in French,4.68,4.78,4.77,4.66,4.74,4.57,4.52
 French,416,Melanie,Williams,Adv Writing in French,4.14,4.43,4.14,4.14,4.29,3.93,4.0
 French,416,Catherine,Wiebe,Adv Writing in French,3.88,3.88,3.62,3.88,4.0,3.62,3.88
-French,425,Geraldine,Poizat-Newcomb,French-Eng Translation,4.56,4.61,4.68,4.62,4.56,4.3,4.46
+French,425,Geraldine,Poizat-Newcomb,French-Eng Translation,4.57,4.61,4.68,4.63,4.56,4.29,4.47
 French,450,Alexandre,Albert-Galtier,Top Writers & Painters,5.0,4.8,4.8,5.0,5.0,4.6,4.8
 French,450,Alexandre,Albert-Galtier,Top 17C Layfayette,5.0,5.0,5.0,5.0,5.0,5.0,5.0
 French,450,Alexandre,Albert-Galtier,Top Lafayette,4.2,4.2,4.2,3.8,4.0,4.2,4.2
@@ -481,10 +488,10 @@ French,451,Alexandre,Albert-Galtier,Top Writers & Painters,4.52,4.89,4.4,4.4,4.0
 French,451,Alexandre,Albert-Galtier,Top Painters & Writers,4.46,4.69,4.38,4.62,4.31,4.23,4.31
 French,451,Alexandre,Albert-Galtier,Top Racine Seminar,4.56,4.78,4.67,4.22,4.89,4.33,4.78
 French,451,Alexandre,Albert-Galtier,Sem Batailles Theatr,4.62,4.75,4.5,4.88,4.62,4.12,4.62
+French,460,Fabienne,Moore,Top Rousseau & Diderot,4.54,4.61,4.36,4.54,4.54,4.29,4.61
 French,460,Fabienne,Moore,Top Rev & Romanticisms,5.0,5.0,5.0,5.0,5.0,5.0,5.0
 French,460,Fabienne,Moore,Top Nat & Civilization,4.5,4.8,4.5,4.22,4.6,3.9,4.6
 French,460,Fabienne,Moore,Top Revlution&Romance,4.67,4.67,4.67,4.67,3.33,3.67,4.67
-French,460,Fabienne,Moore,Top Rousseau & Diderot,4.57,4.71,4.71,4.57,4.57,4.57,4.71
 French,460,Fabienne,Moore,18C Lit: Being Modern,4.56,4.56,4.33,4.44,4.44,4.22,4.44
 French,480,Cory,Browning,Top Lit Dem Terror,4.82,4.82,4.64,4.64,4.82,4.64,4.91
 French,480,Cory,Browning,Top Art in the Street,4.43,4.57,3.86,4.29,4.71,3.86,4.57
@@ -527,6 +534,7 @@ French,507,Andre,Djiffack,Sem Roman Francophone,3.44,3.67,3.89,4.0,4.11,4.0,3.67
 French,507,Barbara,Altmann,Sem Medieval Fr Lit,4.23,4.62,4.23,4.46,4.77,4.62,4.46
 French,507,Barbara,Altmann,Sem Medievalism,4.54,4.73,4.27,4.27,4.64,4.54,4.27
 French,507,Geraldine,Poizat-Newcomb,Sem Montaigne,4.33,4.5,4.33,4.25,4.58,4.08,4.5
+French,510,Connie,Dickey,Reading Knowledge,3.7,3.9,4.0,4.0,4.4,3.2,4.2
 French,510,Connie,Dickey,Fr for Reading Knowled,3.94,4.25,3.62,4.19,4.56,3.88,4.12
 French,510,Trina,Whitaker,French for Reading Kno,4.5,4.33,4.5,4.5,4.83,4.67,4.17
 French,510,Corinne,Bayerl,French for Reading KNO,4.25,4.75,4.75,4.62,4.88,4.62,4.38
@@ -545,10 +553,10 @@ French,551,Alexandre,Albert-Galtier,Top Painters & Writers,4.46,4.69,4.38,4.62,4
 French,551,Alexandre,Albert-Galtier,Top Moliere,4.83,4.83,4.5,4.5,4.83,4.67,4.83
 French,551,Alexandre,Albert-Galtier,Top Racine Seminar,4.56,4.78,4.67,4.22,4.89,4.33,4.78
 French,551,Alexandre,Albert-Galtier,Sem Batailles Theatr,4.62,4.75,4.5,4.88,4.62,4.12,4.62
+French,560,Fabienne,Moore,Top Rousseau & Diderot,4.54,4.61,4.36,4.54,4.54,4.29,4.61
 French,560,Fabienne,Moore,Top Rev & Romanticisms,5.0,5.0,5.0,5.0,5.0,5.0,5.0
 French,560,Fabienne,Moore,Top Nat & Civilization,4.5,4.8,4.5,4.22,4.6,3.9,4.6
 French,560,Fabienne,Moore,Top Revlution&Romance,4.67,4.67,4.67,4.67,3.33,3.67,4.67
-French,560,Fabienne,Moore,Top Rousseau & Diderot,4.57,4.71,4.71,4.57,4.57,4.57,4.71
 French,560,Fabienne,Moore,18C Lit: Being Modern,4.56,4.56,4.33,4.44,4.44,4.22,4.44
 French,580,Cory,Browning,Top Lit Dem Terror,4.82,4.82,4.64,4.64,4.82,4.64,4.91
 French,580,Cory,Browning,Top Art in the Street,4.43,4.57,3.86,4.29,4.71,3.86,4.57

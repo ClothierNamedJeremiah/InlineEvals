@@ -1,7 +1,7 @@
 AAAP@Historic Preservation.csv
 AAD@Arts & Administration.csv
 ACTG@Accounting.csv
-AEIS@Acad Eng for Intl St.csv
+AEIS@Acad Eng for Intl Stu.csv
 AFR@African Studies.csv
 AIM@Applied Information Management.csv
 ANTH@Anthropology.csv

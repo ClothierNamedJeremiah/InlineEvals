@@ -3,9 +3,9 @@ Computer & Information Science,105,Manujinda,Wathugala,Explorations Computing,4.
 Computer & Information Science,105,Arthur,Farley,Explorations Computing,2.52,2.38,3.19,2.9,3.62,3.05,2.71
 Computer & Information Science,105,John,Conery,Explorations Computing,4.0,4.14,4.26,4.21,4.25,3.97,3.88
 Computer & Information Science,105,Kent,Stevens,Explorations Computing,3.48,3.64,3.0,3.48,4.12,3.54,3.36
+Computer & Information Science,110,Michael,Hennessy,Fluency with Info Tech,4.03,4.02,4.12,3.91,4.22,4.18,4.09
 Computer & Information Science,110,Zhangxiang,Hu,Fluency with Info Tech,4.5,4.4,4.4,4.7,4.6,4.5,4.5
 Computer & Information Science,110,Phil,Colbert,Fluency with Info Tech,4.06,4.03,4.06,3.99,4.19,4.2,4.15
-Computer & Information Science,110,Michael,Hennessy,Fluency with Info Tech,4.0,3.99,4.09,3.87,4.18,4.15,4.05
 Computer & Information Science,110,Max,Skorodinsky,Fluency with Info Tech,4.41,4.41,4.35,4.47,4.12,4.24,4.41
 Computer & Information Science,110,Manujinda,Wathugala,Fluency with Info Tech,3.0,3.0,3.0,3.25,3.25,2.5,3.5
 Computer & Information Science,110,Elizabeth,Fuller,Fluency with Info Tech,3.48,3.07,3.55,3.47,3.7,3.73,3.62
@@ -22,7 +22,7 @@ Computer & Information Science,110,Thaddeus,Konar,Digital Info Process,3.7,3.53,
 Computer & Information Science,110,Michael,Hennessy,Digital Info Process,4.08,4.2,4.18,4.07,4.31,4.25,4.08
 Computer & Information Science,110,Xiangkui,Yao,Digital Info Process,4.2,3.98,4.12,4.03,4.49,4.06,4.27
 Computer & Information Science,110,Joseph,Colton,Digital Info Process,3.9,3.9,4.06,3.81,4.19,4.42,4.1
-Computer & Information Science,111,Michael,Hennessy,Intro Web Programming,4.02,4.02,4.11,4.02,4.13,4.13,4.0
+Computer & Information Science,111,Michael,Hennessy,Intro Web Programming,4.02,4.03,4.12,4.02,4.14,4.14,4.01
 Computer & Information Science,111,Ron,Little,Intro Web Programming,4.23,4.28,4.26,4.27,4.24,4.33,4.37
 Computer & Information Science,111,Max,Skorodinsky,Intro Web Programming,3.54,3.49,3.63,3.44,3.77,3.71,3.6
 Computer & Information Science,111,Phil,Colbert,Intro Web Programming,4.39,4.35,4.51,4.25,4.54,4.58,4.09
@@ -47,6 +47,7 @@ Computer & Information Science,115,Eric,Wills,Multimedia on the Web,4.47,4.53,4.
 Computer & Information Science,115,Joseph,Colton,Multimedia on the Web,3.62,3.81,3.81,3.75,3.93,3.88,3.6
 Computer & Information Science,115,Frederick,Bowen,Multimedia on the Web,3.23,3.07,2.81,3.03,4.0,3.42,3.45
 Computer & Information Science,115,Jane,Ritter,Multimedia on the Web,3.17,3.0,3.0,2.92,3.92,3.33,3.5
+Computer & Information Science,122,Phil,Colbert,Intro Prg & Prob Solv,4.02,3.92,3.93,3.9,4.0,3.83,4.09
 Computer & Information Science,122,Amie,Corso,Intro Prg & Prob Solv,4.25,4.5,4.5,4.5,4.5,4.5,4.17
 Computer & Information Science,122,David,Wilkins,Intro Prg & Prob Solv,4.17,4.16,4.18,4.05,4.42,4.27,4.18
 Computer & Information Science,122,Bijan,Shahir,Intro Prg & Prob Solv,3.5,3.29,3.68,3.38,3.74,3.72,3.57
@@ -70,8 +71,9 @@ Computer & Information Science,170,Christie,Prottsman,Science of Computing,4.75,
 Computer & Information Science,170,Anthony,Hornof,Science of Computing,4.0,3.88,3.5,3.62,4.12,3.75,4.12
 Computer & Information Science,170,Toby,Ehrenkranz,Science of Computing,4.17,4.17,4.17,4.5,5.0,4.67,4.33
 Computer & Information Science,198,Matthew,Sottile,Wrk Science Program,4.5,4.5,4.5,4.5,4.5,4.5,4.0
+Computer & Information Science,199,Michael,Hennessy,Sp St College Connect,4.13,4.31,4.13,4.18,4.34,4.22,3.95
+Computer & Information Science,199,David,Wilkins,Intro Data Science,4.22,4.39,4.11,4.33,4.72,4.33,4.28
 Computer & Information Science,199,David,Wilkins,Sp St Intro Data Sci,5.0,4.78,4.89,4.78,4.78,5.0,4.89
-Computer & Information Science,199,Michael,Hennessy,Sp St College Connect,4.0,4.18,4.0,4.02,4.22,4.12,3.79
 Computer & Information Science,199,Kelli,Matthews,Sp St Managing Soc Med,5.0,5.0,4.33,4.67,4.67,4.67,4.67
 Computer & Information Science,199,Eugene,Luks,Sp St Make/Break Codes,3.74,3.5,3.43,3.54,4.02,3.4,3.8
 Computer & Information Science,199,John,Conery,Sp St College Connect,3.37,3.75,3.29,3.48,4.05,3.62,3.21
@@ -85,7 +87,7 @@ Computer & Information Science,199,Eugene,Luks,Sp St Make Break Codes,4.17,4.07,
 Computer & Information Science,199,John,Conery,Sp St Script Compu Sci,4.1,4.2,4.1,4.2,4.4,4.0,3.9
 Computer & Information Science,199,Michael,Hennessy,Sp St Cloud Apps,4.0,3.67,3.0,3.0,4.0,3.0,3.33
 Computer & Information Science,199,Michael,Hennessy,Sp St Web Apps/Mashups,4.0,3.5,3.0,3.5,4.0,3.0,3.5
-Computer & Information Science,210,Kathleen,Freeman Hennessy,Computer Science I,3.98,3.94,4.02,3.91,4.24,3.99,4.02
+Computer & Information Science,210,Kathleen,Freeman Hennessy,Computer Science I,3.97,3.92,3.99,3.88,4.25,4.01,3.97
 Computer & Information Science,210,Joe,Sventek,Computer Science I,3.81,3.69,4.07,3.93,4.01,3.83,3.86
 Computer & Information Science,210,Michal,Young,Computer Science I,4.04,4.07,4.06,3.97,4.33,3.93,4.06
 Computer & Information Science,210,David,Atkins,Computer Science I,4.14,4.1,4.26,4.14,4.25,4.17,4.15
@@ -94,20 +96,21 @@ Computer & Information Science,211,John,Conery,Computer Science II,4.19,4.14,4.1
 Computer & Information Science,211,Anthony,Hornof,Computer Science II,2.89,2.5,2.73,2.25,2.84,2.75,3.16
 Computer & Information Science,211,Kent,Stevens,Computer Science II,4.2,4.12,3.95,3.89,4.36,3.99,4.28
 Computer & Information Science,211,Daniel,Lowd,Computer Science II,4.05,4.15,4.01,3.82,4.19,3.88,4.11
+Computer & Information Science,212,Hank,Childs,Computer Science III,4.33,4.42,4.16,3.95,4.61,4.37,4.49
 Computer & Information Science,212,Lei,Jiao,Computer Science III,3.17,2.96,3.51,3.26,3.67,3.61,3.46
 Computer & Information Science,212,Eric,Wills,Computer Science III,4.41,4.43,4.38,4.25,4.47,4.39,4.34
 Computer & Information Science,212,John,Conery,Computer Science III,4.28,4.22,4.06,4.33,4.33,4.0,4.11
 Computer & Information Science,212,Stephen,Fickas,Computer Science III,3.87,3.87,3.57,3.8,4.19,3.78,3.77
 Computer & Information Science,212,Dejing,Dou,Computer Science III,3.5,3.15,3.74,3.45,3.69,3.4,3.7
 Computer & Information Science,212,Arthur,Farley,Computer Science III,3.22,2.78,3.17,2.89,3.0,3.11,3.17
+Computer & Information Science,313,Christopher,Wilson,Interm Data Structures,3.85,3.65,3.59,3.73,4.09,3.84,3.98
 Computer & Information Science,313,Joe,Sventek,Interm Data Structures,3.91,3.79,4.21,3.94,4.25,4.02,4.11
 Computer & Information Science,313,Andrzej,Proskurowski,Interm Data Structures,3.31,3.0,3.07,3.31,3.69,3.08,3.49
 Computer & Information Science,313,Xiaodi,Wu,Interm Data Structures,3.8,3.56,4.05,3.95,3.99,3.73,3.9
 Computer & Information Science,313,Daniel,Lowd,Interm Data Structures,3.72,3.66,3.25,3.5,4.1,3.5,3.88
-Computer & Information Science,313,Christopher,Wilson,Interm Data Structures,3.92,3.75,3.62,3.83,4.12,3.84,4.03
 Computer & Information Science,313,Jiri,Fiala,Interm Data Structures,3.77,3.73,3.92,3.96,3.73,3.81,3.96
 Computer & Information Science,313,Christopher,Wilson,Intro Data Structures,4.19,4.19,3.86,4.24,3.9,3.95,4.33
-Computer & Information Science,314,Eric,Wills,Computer Organization,4.3,4.39,4.34,4.27,4.43,4.37,4.31
+Computer & Information Science,314,Eric,Wills,Computer Organization,4.31,4.4,4.34,4.28,4.43,4.38,4.32
 Computer & Information Science,314,Michel,Kinsy,Computer Organization,4.24,4.25,4.1,4.2,4.14,4.0,4.31
 Computer & Information Science,314,Virginia,Lo,Computer Organization,4.29,4.27,4.14,4.07,4.52,4.17,4.28
 Computer & Information Science,314,Reza,Rejaie,Computer Organization,4.25,4.21,4.23,4.29,4.17,3.92,4.25
@@ -115,7 +118,7 @@ Computer & Information Science,315,Christopher,Wilson,Intermed Algorithms,3.81,3
 Computer & Information Science,315,Andrzej,Proskurowski,Intermed Algorithms,2.93,2.87,3.0,2.97,3.67,3.17,3.0
 Computer & Information Science,315,Christopher,Wilson,Intro to Algorithms,4.4,4.47,4.21,4.15,4.43,4.14,4.4
 Computer & Information Science,315,Andrzej,Proskurowski,Intro to Algorithms,3.35,3.14,3.31,3.11,3.86,3.03,3.38
-Computer & Information Science,322,Ram,Durairajan,Intro Software Engin,3.38,3.43,3.48,3.38,3.62,2.95,3.86
+Computer & Information Science,322,Ram,Durairajan,Intro Software Engin,3.63,3.71,3.62,3.75,3.88,3.36,3.97
 Computer & Information Science,322,Michal,Young,Intro Software Engin,4.29,4.38,3.93,4.18,4.48,3.82,4.45
 Computer & Information Science,322,Daniel,Ellsworth,Intro Software Engin,3.88,4.08,3.24,3.72,4.76,3.96,4.48
 Computer & Information Science,323,Paul,Elliott,Data Struc Lab,4.35,4.61,4.48,4.43,4.57,4.48,4.48
@@ -143,14 +146,16 @@ Computer & Information Science,399,Paul,Elliott,Sp St Programming Chlg,4.22,4.22
 Computer & Information Science,399,John,Conery,Sp St Scientific Prog,4.29,4.29,4.14,4.14,4.57,4.43,4.14
 Computer & Information Science,399,Stephen,Fickas,Sp St Comptatnl Thnkng,4.6,4.6,4.5,4.4,4.6,4.3,4.6
 Computer & Information Science,399,Stephen,Fickas,Sp St Program w/ Ruby,3.4,3.4,2.6,3.2,4.2,2.8,3.2
+Computer & Information Science,407,Thanh,Nguyen,Sem Research Colloq,4.2,4.2,4.2,4.0,4.2,4.2,4.0
+Computer & Information Science,407,Thien,Nguyen,Sem Research Colloq,4.2,4.2,4.2,4.0,4.2,4.2,4.0
+Computer & Information Science,407,Eric,Wills,Sem Career/Internships,4.56,4.61,4.55,4.57,4.56,4.58,4.48
+Computer & Information Science,407,Christopher,Wilson,Sem Prog Competition,4.15,4.15,4.03,4.02,4.37,4.45,4.16
 Computer & Information Science,407,Ram,Durairajan,Sem Research Colloq,3.88,3.75,3.88,3.88,3.88,3.88,3.88
 Computer & Information Science,407,Kent,Stevens,Sem Fake Information,4.43,4.43,4.43,4.29,4.71,4.43,4.43
-Computer & Information Science,407,Eric,Wills,Sem Career/Internships,4.55,4.6,4.56,4.58,4.56,4.56,4.45
 Computer & Information Science,407,Christopher,Wilson,Sem Prog Challenges,4.16,4.19,4.06,4.03,4.22,4.25,4.06
 Computer & Information Science,407,Kent,Stevens,Sem Augmented Reality,4.13,4.06,3.35,3.9,4.21,3.74,4.06
 Computer & Information Science,407,Lei,Jiao,Sem Research Colloq,3.9,3.9,3.4,3.9,3.9,3.9,3.9
 Computer & Information Science,407,Kent,Stevens,Sem Data Sci Notebooks,4.8,4.8,4.2,4.6,4.4,4.4,4.4
-Computer & Information Science,407,Christopher,Wilson,Sem Prog Competition,4.08,4.08,3.94,3.98,4.31,4.46,4.1
 Computer & Information Science,407,Xiaodi,Wu,Sem Research Colloq,4.16,4.2,4.16,4.14,4.2,4.13,4.1
 Computer & Information Science,407,Joe,Sventek,Sem Event Process Sys,4.75,5.0,5.0,5.0,4.0,4.25,4.75
 Computer & Information Science,407,Michel,Kinsy,Sem Research Colloq,4.66,4.62,4.55,4.58,4.62,4.56,4.64
@@ -173,6 +178,7 @@ Computer & Information Science,407,Michal,Young,Sem Program Analysis,4.6,4.6,4.4
 Computer & Information Science,407,John,Conery,Sem Cloud Computing,3.67,4.0,3.33,3.67,4.0,4.67,3.67
 Computer & Information Science,407,Arthur,Farley,Sem Explore Robotics,4.4,4.2,3.8,3.8,4.4,4.0,4.4
 Computer & Information Science,407,Matthew,Sottile,Sem Functional Prog,4.4,4.5,4.2,4.4,4.5,4.4,4.3
+Computer & Information Science,410,Lei,Jiao,Optimization Topics,3.67,3.67,4.0,3.67,4.33,4.0,3.83
 Computer & Information Science,410,Paul,Downen,Adv Functional Prog,4.43,4.86,4.57,4.43,4.86,4.29,4.14
 Computer & Information Science,410,Kent,Stevens,3D Graphics and Vision,4.54,4.46,4.23,4.23,4.54,4.15,4.69
 Computer & Information Science,410,Hank,Childs,Intro to Sci Vis,4.78,4.82,4.82,4.91,4.85,4.7,4.67
@@ -209,8 +215,8 @@ Computer & Information Science,410,Yannis,Smaragdakis,Obj Oriented Lng & Sys,4.8
 Computer & Information Science,410,Eric,Wills,Game Development,4.54,4.46,4.18,4.18,4.82,4.64,4.54
 Computer & Information Science,413,Andrzej,Proskurowski,Adv Data Structures,3.93,3.71,3.61,3.75,3.9,3.45,4.16
 Computer & Information Science,413,Daniel,Lowd,Adv Data Structures,4.44,4.49,4.21,4.39,4.34,4.4,4.6
+Computer & Information Science,415,Allen,Malony,Operating Systems,3.24,3.09,3.54,3.45,3.54,3.23,3.57
 Computer & Information Science,415,Joe,Sventek,Operating Systems,4.23,4.21,4.35,4.35,4.28,4.25,4.29
-Computer & Information Science,415,Allen,Malony,Operating Systems,3.17,2.94,3.56,3.37,3.28,3.0,3.62
 Computer & Information Science,415,Kevin,Butler,Operating Systems,3.72,3.76,3.73,4.0,3.54,3.71,3.91
 Computer & Information Science,415,Reza,Rejaie,Operating Systems,4.02,4.15,4.21,4.15,4.0,4.04,3.98
 Computer & Information Science,415,Juan,Flores,Operating Systems,3.44,3.31,3.5,3.56,3.75,3.38,3.56
@@ -220,42 +226,43 @@ Computer & Information Science,420,Christopher,Wilson,Automata Theory,4.43,4.43,
 Computer & Information Science,420,Heidi,Dixon,Automata Theory,4.34,4.37,4.08,4.18,4.28,4.28,4.26
 Computer & Information Science,420,David,Atkins,Automata Theory,4.25,4.38,4.5,4.12,4.61,4.42,4.12
 Computer & Information Science,420,Eugene,Luks,Automata Theory,4.54,4.54,4.29,4.29,4.34,4.1,4.28
+Computer & Information Science,422,Joe,Sventek,Software Method I,4.3,4.35,4.26,4.35,4.48,4.52,4.39
 Computer & Information Science,422,Anthony,Hornof,Software Method I,3.56,3.62,3.54,3.45,3.88,3.37,3.98
 Computer & Information Science,422,Stuart,Faulk,Software Method I,3.9,3.9,3.93,3.89,4.23,3.84,3.95
 Computer & Information Science,422,Michal,Young,Software Method I,4.08,4.11,3.86,3.87,4.43,3.85,3.97
 Computer & Information Science,423,Stuart,Faulk,Software Method II,3.59,3.92,3.29,3.68,4.32,3.27,3.81
 Computer & Information Science,423,Michal,Young,Software Method II,3.88,4.03,3.59,3.84,4.49,3.26,3.86
 Computer & Information Science,423,Yannis,Smaragdakis,Software Method II,4.75,4.25,4.0,4.25,5.0,4.25,4.5
-Computer & Information Science,425,Zena,Ariola,Princ of Program Lang,3.81,3.85,3.82,3.95,3.85,3.69,3.85
+Computer & Information Science,425,Zena,Ariola,Princ of Program Lang,3.72,3.78,3.76,3.89,3.79,3.63,3.78
 Computer & Information Science,425,David,Atkins,Princ of Program Lang,4.2,4.32,4.4,4.27,4.4,4.3,4.11
 Computer & Information Science,427,Zena,Ariola,Intro to Logic,4.31,4.33,4.24,4.43,4.34,4.16,4.31
 Computer & Information Science,429,Michel,Kinsy,Computer Architecture,4.42,4.55,4.52,4.45,4.47,4.41,4.58
 Computer & Information Science,429,Eric,Wills,Computer Architecture,4.55,4.61,4.67,4.49,4.67,4.74,4.55
 Computer & Information Science,431,Allen,Malony,Intro Parallel Comput,3.71,3.88,3.29,3.88,3.65,3.29,4.18
 Computer & Information Science,431,Boyana,Norris,Intro Parallel Comput,4.06,4.29,4.0,4.18,4.35,4.29,4.24
+Computer & Information Science,432,Jun,Li,Intro to Networks,3.67,3.69,3.85,3.81,3.91,3.58,3.87
 Computer & Information Science,432,Reza,Rejaie,Intro to Networks,4.32,4.35,4.27,4.32,4.13,4.15,4.23
-Computer & Information Science,432,Jun,Li,Intro to Networks,3.64,3.67,3.81,3.75,3.9,3.57,3.82
 Computer & Information Science,433,Jun,Li,Comp & Netwrk Security,3.72,3.7,3.84,3.9,3.85,3.58,3.73
 Computer & Information Science,433,Kevin,Butler,Comp & Netwrk Security,4.43,4.47,4.39,4.48,4.53,4.02,4.5
 Computer & Information Science,441,Hank,Childs,Intro Comput Graphics,4.74,4.73,4.53,4.57,4.82,4.67,4.71
 Computer & Information Science,441,Kent,Stevens,Intro Comput Graphics,3.99,4.09,3.61,3.47,4.44,3.64,4.23
 Computer & Information Science,441,Eric,Wills,Intro Comput Graphics,4.32,4.32,4.32,4.41,4.46,4.5,4.36
-Computer & Information Science,443,Anthony,Hornof,User Interfaces,3.84,3.93,3.96,3.79,3.78,3.4,3.93
+Computer & Information Science,443,Anthony,Hornof,User Interfaces,3.85,3.96,3.96,3.87,3.81,3.4,3.97
 Computer & Information Science,443,Sarah,Douglas,User Interfaces,3.87,3.88,4.04,3.86,4.28,3.93,3.91
 Computer & Information Science,445,Anthony,Hornof,Modeling & Simulation,3.44,3.56,3.44,3.33,4.0,3.22,3.67
 Computer & Information Science,445,Jun,Li,Modeling & Simulation,3.64,3.77,3.78,4.03,3.83,3.61,3.72
 Computer & Information Science,445,Juan,Flores,Modeling & Simulation,3.21,3.26,3.47,3.79,4.32,3.1,3.37
 Computer & Information Science,445,Sarah,Douglas,Modeling & Simulation,4.39,4.43,4.46,4.11,4.23,4.22,4.46
-Computer & Information Science,451,Christopher,Wilson,Data-Base Processing,4.18,4.08,3.94,4.02,4.43,4.33,4.22
+Computer & Information Science,451,Christopher,Wilson,Data-Base Processing,4.21,4.11,3.98,4.05,4.46,4.36,4.24
 Computer & Information Science,452,Dejing,Dou,Database Issues,4.34,4.42,4.38,4.41,4.34,4.38,4.39
 Computer & Information Science,452,Christopher,Wilson,Database Issues,4.32,4.22,3.82,4.22,4.12,4.14,3.88
 Computer & Information Science,453,Dejing,Dou,Data Mining,4.23,4.12,4.33,4.33,4.42,4.27,4.25
 Computer & Information Science,453,Juan,Flores,Data Mining,4.0,4.1,4.0,4.3,4.2,3.8,4.1
 Computer & Information Science,454,John,Conery,Bioinformatics,3.98,4.12,3.85,3.99,4.38,3.67,4.09
 Computer & Information Science,455,John,Conery,Computational Science,4.16,3.9,3.82,3.81,3.92,3.75,4.24
-Computer & Information Science,461,Michal,Young,Intro to Compilers,4.4,4.46,4.06,4.39,4.8,4.05,4.52
+Computer & Information Science,461,Michal,Young,Intro to Compilers,4.37,4.46,4.07,4.4,4.73,4.02,4.48
 Computer & Information Science,461,David,Atkins,Intro to Compilers,4.2,4.1,4.5,4.15,4.65,4.5,4.25
-Computer & Information Science,471,Dejing,Dou,Intro Artificial Intel,4.06,3.88,4.25,4.17,4.44,3.97,4.18
+Computer & Information Science,471,Dejing,Dou,Intro Artificial Intel,3.95,3.76,4.13,4.07,4.36,3.83,4.08
 Computer & Information Science,471,Daniel,Lowd,Intro Artificial Intel,4.48,4.54,4.35,4.43,4.29,4.12,4.55
 Computer & Information Science,471,Arthur,Farley,Intro Artificial Intel,3.91,3.97,4.01,3.91,3.99,3.87,3.95
 Computer & Information Science,472,Daniel,Lowd,Machine Learning,4.27,4.31,4.1,4.22,4.27,3.93,4.31
@@ -263,6 +270,9 @@ Computer & Information Science,472,Dejing,Dou,Machine Learning,3.88,3.88,4.22,4.
 Computer & Information Science,473,Daniel,Lowd,Probabilistic Methd AI,4.15,4.34,4.08,4.24,4.24,4.33,4.2
 Computer & Information Science,490,Arthur,Farley,Computer Ethics,4.14,4.2,4.27,4.08,4.2,3.9,4.16
 Computer & Information Science,490,Sarah,Douglas,Computer Ethics,3.89,4.0,4.11,3.56,3.78,3.78,3.65
+Computer & Information Science,507,Hank,Childs,Sem Unix C/C++,4.5,4.67,4.33,4.67,4.67,4.33,4.5
+Computer & Information Science,507,Thanh,Nguyen,Sem Research Colloq,4.2,4.2,4.2,4.0,4.2,4.2,4.0
+Computer & Information Science,507,Thien,Nguyen,Sem Research Colloq,4.2,4.2,4.2,4.0,4.2,4.2,4.0
 Computer & Information Science,507,Ram,Durairajan,Sem Research Colloq,3.99,4.01,3.96,4.08,4.05,3.99,4.02
 Computer & Information Science,507,Kent,Stevens,Sem Fake Information,4.43,4.43,4.43,4.29,4.71,4.43,4.43
 Computer & Information Science,507,Eric,Wills,Sem Career/Internships,4.56,4.62,4.56,4.53,4.6,4.56,4.44
@@ -294,6 +304,7 @@ Computer & Information Science,507,Dejing,Dou,Sem Res Colloquium,4.5,4.5,4.5,4.5
 Computer & Information Science,507,John,Conery,Sem Cloud Computing,3.67,4.0,3.33,3.67,4.0,4.67,3.67
 Computer & Information Science,507,Arthur,Farley,Sem Explore Robotics,4.4,4.2,3.8,3.8,4.4,4.0,4.4
 Computer & Information Science,507,Matthew,Sottile,Sem Functional Prog,4.4,4.5,4.2,4.4,4.5,4.4,4.3
+Computer & Information Science,510,Lei,Jiao,Optimization Topics,3.67,3.67,4.0,3.67,4.33,4.0,3.83
 Computer & Information Science,510,Paul,Downen,Adv Functional Prog,4.43,4.86,4.57,4.43,4.86,4.29,4.14
 Computer & Information Science,510,Hank,Childs,Intro to Sci Vis,4.78,4.82,4.82,4.91,4.85,4.7,4.67
 Computer & Information Science,510,Kent,Stevens,Intro Surface Vis,3.78,3.83,3.28,3.67,4.59,3.17,3.78
@@ -344,29 +355,29 @@ Computer & Information Science,529,Michel,Kinsy,Computer Architecture,4.42,4.55,
 Computer & Information Science,529,Eric,Wills,Computer Architecture,4.55,4.61,4.67,4.49,4.67,4.74,4.55
 Computer & Information Science,531,Allen,Malony,Intro Parallel Comput,3.71,3.88,3.29,3.88,3.65,3.29,4.18
 Computer & Information Science,531,Boyana,Norris,Intro Parallel Comput,4.06,4.29,4.0,4.18,4.35,4.29,4.24
+Computer & Information Science,532,Jun,Li,Intro to Networks,3.67,3.69,3.85,3.81,3.91,3.58,3.87
 Computer & Information Science,532,Reza,Rejaie,Intro to Networks,4.32,4.35,4.27,4.32,4.13,4.15,4.23
-Computer & Information Science,532,Jun,Li,Intro to Networks,3.64,3.67,3.81,3.75,3.9,3.57,3.82
 Computer & Information Science,533,Jun,Li,Comp & Netwrk Security,3.72,3.7,3.84,3.9,3.85,3.58,3.73
 Computer & Information Science,533,Kevin,Butler,Comp & Netwrk Security,4.43,4.47,4.39,4.48,4.53,4.02,4.5
 Computer & Information Science,541,Hank,Childs,Intro Comput Graphics,4.74,4.73,4.53,4.57,4.82,4.67,4.71
 Computer & Information Science,541,Kent,Stevens,Intro Comput Graphics,3.99,4.09,3.61,3.47,4.44,3.64,4.23
 Computer & Information Science,541,Eric,Wills,Intro Comput Graphics,4.32,4.32,4.32,4.41,4.46,4.5,4.36
-Computer & Information Science,543,Anthony,Hornof,User Interfaces,3.84,3.93,3.96,3.79,3.78,3.4,3.93
+Computer & Information Science,543,Anthony,Hornof,User Interfaces,3.85,3.96,3.96,3.87,3.81,3.4,3.97
 Computer & Information Science,543,Sarah,Douglas,User Interfaces,3.87,3.88,4.04,3.86,4.28,3.93,3.91
 Computer & Information Science,545,Anthony,Hornof,Modeling & Simulation,3.44,3.56,3.44,3.33,4.0,3.22,3.67
 Computer & Information Science,545,Jun,Li,Modeling & Simulation,3.64,3.77,3.78,4.03,3.83,3.61,3.72
 Computer & Information Science,545,Juan,Flores,Modeling & Simulation,3.21,3.26,3.47,3.79,4.32,3.1,3.37
 Computer & Information Science,545,Sarah,Douglas,Modeling & Simulation,4.39,4.43,4.46,4.11,4.23,4.22,4.46
-Computer & Information Science,551,Christopher,Wilson,Data-Base Processing,4.18,4.08,3.94,4.02,4.43,4.33,4.22
+Computer & Information Science,551,Christopher,Wilson,Data-Base Processing,4.21,4.11,3.98,4.05,4.46,4.36,4.24
 Computer & Information Science,552,Dejing,Dou,Database Issues,4.34,4.42,4.38,4.41,4.34,4.38,4.39
 Computer & Information Science,552,Christopher,Wilson,Database Issues,4.32,4.22,3.82,4.22,4.12,4.14,3.88
 Computer & Information Science,553,Dejing,Dou,Data Mining,4.23,4.12,4.33,4.33,4.42,4.27,4.25
 Computer & Information Science,553,Juan,Flores,Data Mining,4.0,4.1,4.0,4.3,4.2,3.8,4.1
 Computer & Information Science,554,John,Conery,Bioinformatics,4.12,4.3,4.16,4.28,4.38,3.84,4.21
 Computer & Information Science,555,John,Conery,Computational Science,4.16,3.9,3.82,3.81,3.92,3.75,4.24
-Computer & Information Science,561,Michal,Young,Intro to Compilers,4.4,4.46,4.06,4.39,4.8,4.05,4.52
+Computer & Information Science,561,Michal,Young,Intro to Compilers,4.37,4.46,4.07,4.4,4.73,4.02,4.48
 Computer & Information Science,561,David,Atkins,Intro to Compilers,4.2,4.1,4.5,4.15,4.65,4.5,4.25
-Computer & Information Science,571,Dejing,Dou,Intro Artificial Intel,4.06,3.88,4.25,4.17,4.44,3.97,4.18
+Computer & Information Science,571,Dejing,Dou,Intro Artificial Intel,3.95,3.76,4.13,4.07,4.36,3.83,4.08
 Computer & Information Science,571,Daniel,Lowd,Intro Artificial Intel,4.48,4.54,4.35,4.43,4.29,4.12,4.55
 Computer & Information Science,571,Arthur,Farley,Intro Artificial Intel,3.91,3.97,4.01,3.91,3.99,3.87,3.95
 Computer & Information Science,572,Daniel,Lowd,Machine Learning,4.27,4.31,4.1,4.22,4.27,3.93,4.31
@@ -374,6 +385,8 @@ Computer & Information Science,572,Dejing,Dou,Machine Learning,3.88,3.88,4.22,4.
 Computer & Information Science,573,Daniel,Lowd,Probabilistic Methd AI,4.15,4.34,4.08,4.24,4.24,4.33,4.2
 Computer & Information Science,590,Arthur,Farley,Computer Ethics,4.14,4.2,4.27,4.08,4.2,3.9,4.16
 Computer & Information Science,590,Sarah,Douglas,Computer Ethics,3.89,4.0,4.11,3.56,3.78,3.78,3.65
+Computer & Information Science,607,Zena,Ariola,Sem Foun Prog Lang,4.0,5.0,4.0,5.0,4.0,4.0,5.0
+Computer & Information Science,607,Boyana,Norris,Sem Num  Methods,3.29,3.86,3.43,4.0,4.29,3.71,3.57
 Computer & Information Science,607,Dejing,Dou,Sem Big Learning,4.67,4.67,4.67,4.67,4.67,4.67,4.67
 Computer & Information Science,607,Allen,Malony,Sem Parallel Systems,4.0,4.0,3.86,4.0,4.14,4.0,4.29
 Computer & Information Science,607,Daniel,Lowd,Sem Representation Lrn,4.0,4.0,3.33,3.33,4.33,3.67,3.67
@@ -456,7 +469,7 @@ Computer & Information Science,621,Christopher,Wilson,Algorithms & Complex,4.1,4
 Computer & Information Science,621,Andrzej,Proskurowski,Algorithms & Complex,3.74,3.54,3.55,3.65,3.86,3.24,3.85
 Computer & Information Science,621,Heidi,Dixon,Algorithms & Complex,4.67,4.67,4.17,4.5,4.5,4.67,4.83
 Computer & Information Science,622,Christopher,Wilson,Theo Foundation: Topic,4.25,4.0,3.25,4.25,4.25,3.75,4.25
-Computer & Information Science,624,Boyana,Norris,Structure Program Lang,4.27,4.15,4.37,4.34,4.64,4.47,4.2
+Computer & Information Science,624,Boyana,Norris,Structure Program Lang,4.19,4.14,4.29,4.25,4.6,4.31,4.15
 Computer & Information Science,624,Zena,Ariola,Structure Program Lang,3.92,4.08,3.92,4.11,4.03,3.74,3.85
 Computer & Information Science,630,Reza,Rejaie,Distributed Systems,3.71,3.95,3.74,4.02,3.96,3.53,3.79
 Computer & Information Science,630,Jun,Li,Distributed Systems,3.2,3.33,3.2,3.47,3.87,3.4,3.4

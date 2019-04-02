@@ -1,4 +1,5 @@
-Latin,101,Cristina,Calhoon,First-Year Latin,4.69,4.69,4.62,4.77,4.54,4.23,4.54
+Latin,101,Cristina,Calhoon,First-Year Latin,4.68,4.6,4.56,4.63,4.52,4.53,4.52
+Latin,101,Ben,Sammons,First-Year Latin,4.11,4.44,4.11,3.89,4.67,4.0,4.56
 Latin,101,Benjamin,Davis,First-Year Latin,4.21,4.29,4.5,4.07,4.57,4.57,4.36
 Latin,101,Cristina,Calhoon,Basic Latin,4.55,4.62,4.41,4.52,4.51,4.46,4.56
 Latin,101,Garrett,McComas,Basic Latin,4.2,4.07,4.27,4.27,4.47,4.53,4.33
@@ -37,6 +38,7 @@ Latin,103,Cristina,Calhoon,Basic Latin,4.49,4.58,4.39,4.44,4.55,4.49,4.54
 Latin,103,Chenoa,Harris,Basic Latin,4.0,4.0,4.0,4.0,4.0,4.0,4.0
 Latin,103,Desiree,Gerner,Basic Latin,5.0,5.0,4.5,4.5,5.0,5.0,5.0
 Latin,103,James,Dechert,Basic Latin,4.5,4.67,4.67,4.33,4.5,4.33,4.67
+Latin,301,David,Chamberlain,Top Caesar,4.25,4.75,4.25,4.25,4.25,4.12,4.12
 Latin,301,Kevin,Dicus,Top Caesar,4.44,4.56,4.44,4.56,4.5,4.22,4.56
 Latin,301,Mary,Jaeger,Top Caesar,4.71,4.83,4.63,4.74,4.64,4.61,4.66
 Latin,301,Sander,Goldberg,Top Caesar,4.5,4.36,4.29,4.5,4.07,4.21,4.57
@@ -56,6 +58,7 @@ Latin,303,Christopher,Eckerman,Top Catullus,4.4,4.5,4.3,4.4,4.56,4.4,4.4
 Latin,303,Cristina,Calhoon,Top Cicero,4.4,4.67,4.33,4.44,4.67,4.67,4.67
 Latin,303,David,Chamberlain,Top Cicero,4.47,4.67,4.44,4.4,4.53,4.37,4.27
 Latin,303,Mary,Jaeger,Top Cicero,4.33,4.67,4.5,4.5,4.5,4.67,4.33
+Latin,411,Cristina,Calhoon,Top Ovid Fasti,4.67,4.67,3.67,4.67,4.33,4.33,4.67
 Latin,411,Christopher,Eckerman,Top Lucretius,4.63,4.63,4.67,4.63,4.65,4.65,4.7
 Latin,411,Mary,Jaeger,Top Vergil Georgics,4.71,4.86,4.71,4.71,4.86,4.71,4.57
 Latin,411,Cristina,Calhoon,Top Cicero Somnium Sci,4.5,4.5,4.5,4.5,4.5,4.5,4.5
@@ -77,6 +80,7 @@ Latin,411,P,Bowditch,Top Horace & Vergil,4.0,4.5,4.5,4.5,4.5,4.0,4.25
 Latin,411,P,Bowditch,Top Augustan Poetry,5.0,5.0,5.0,4.8,4.8,5.0,5.0
 Latin,411,David,Chamberlain,Top Roman Comedy,4.0,4.0,4.2,4.0,4.0,4.2,4.2
 Latin,411,Malcolm,Wilson,Top Cicero Tusc Disp,4.0,4.25,4.0,4.25,3.75,3.75,4.75
+Latin,511,Cristina,Calhoon,Top Ovid Fasti,4.67,4.67,3.67,4.67,4.33,4.33,4.67
 Latin,511,Christopher,Eckerman,Top Lucretius,4.63,4.63,4.67,4.63,4.65,4.65,4.7
 Latin,511,Mary,Jaeger,Top Vergil Georgics,4.71,4.86,4.71,4.71,4.86,4.71,4.57
 Latin,511,Cristina,Calhoon,Top Cicero Somnium Sci,4.5,4.5,4.5,4.5,4.5,4.5,4.5

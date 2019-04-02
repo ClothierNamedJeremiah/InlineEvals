@@ -1,3 +1,4 @@
+Management,321,Kate,Zipay,Manag Organizations,4.47,4.62,4.38,4.31,4.59,4.09,4.41
 Management,321,Sang,Lee,Manag Organizations,4.53,4.6,4.46,4.44,4.56,4.45,4.44
 Management,321,Reut,Livne-Tarandach,Manag Organizations,4.34,4.43,4.35,4.29,4.38,4.17,4.3
 Management,321,Tina,Starr,Manag Organizations,4.1,4.18,4.05,4.12,4.27,3.97,4.04
@@ -18,6 +19,7 @@ Management,321,Matthew,Metzger,Manag Organizations,4.03,4.05,4.27,4.05,4.24,4.34
 Management,321H,Tina,Starr,Manag Organizations,3.55,3.66,3.4,3.33,4.01,3.25,3.41
 Management,321H,Reut,Livne-Tarandach,Manag Organizations,4.16,4.26,4.32,4.1,4.58,3.97,4.32
 Management,321H,James,Terborg,Manag Organizations,4.15,4.29,4.08,3.96,4.19,3.79,4.01
+Management,335,Peter,Younkin,Launching New Ventures,4.53,4.7,4.38,4.6,4.23,3.6,4.42
 Management,335,Mohamed,Awad,Launching New Ventures,4.62,4.92,4.62,4.85,4.85,4.77,4.77
 Management,335,Ralph,Heidl,Launching New Ventures,4.48,4.48,4.48,4.42,4.51,4.38,4.38
 Management,335,Katherine,Harmon,Launching New Ventures,3.42,3.25,3.36,3.45,3.96,3.28,3.52
@@ -43,14 +45,15 @@ Management,410,Shelley,Villalobos Soto,Greening Sports Events,3.71,3.86,2.86,3.2
 Management,410,Izabel,Loinaz,Greening Sports Events,3.52,3.79,2.85,3.3,3.61,3.15,3.58
 Management,410,Laura,Strohm,Strategic Environ Mgmt,4.44,4.49,4.31,4.39,4.6,4.15,4.48
 Management,410,Chuck,Kalnbach,Org Devel & Change Mgt,4.55,4.76,4.58,4.63,4.57,4.43,4.52
+Management,415,Maria,Kraimer,Human Resources Mgmt,4.3,4.37,4.44,4.35,4.43,4.26,4.3
 Management,415,Joy,Fowler,Human Resources Mgmt,4.0,4.27,4.0,4.33,4.4,4.0,4.27
 Management,415,Tina,Starr,Human Resources Mgmt,4.3,4.15,4.22,4.2,4.27,4.19,4.25
-Management,415,Maria,Kraimer,Human Resources Mgmt,4.39,4.43,4.61,4.43,4.57,4.48,4.39
 Management,415,Steve,Mayer,Human Resources Mgmt,4.66,4.67,4.6,4.5,4.55,4.54,4.65
 Management,415,Neil,Chinn,Human Resources Mgmt,4.18,4.22,3.85,4.18,4.33,3.96,4.22
 Management,415,Shelly,Walter,Human Resources Mgmt,3.88,3.83,4.11,3.82,4.02,3.91,3.93
 Management,415,James,Terborg,Human Resources Mgmt,3.81,4.02,4.11,3.89,4.13,4.12,3.73
 Management,416,Chuck,Kalnbach,Org Dev & Change Mgmt,4.59,4.65,4.54,4.57,4.46,4.16,4.55
+Management,417,Aaron,McDonald,Negotiation Strategies,4.82,4.9,4.78,4.88,4.96,4.79,4.83
 Management,417,Tom,Durant,Negotiation Strategies,4.56,4.63,4.55,4.5,4.68,4.45,4.53
 Management,417,David,Wagner,Negotiation Strategies,4.65,4.6,4.45,4.63,4.34,4.24,4.65
 Management,417,Taryn,Stanko,Negotiation Strategies,4.6,4.6,4.48,4.43,4.41,4.31,4.59
@@ -58,6 +61,7 @@ Management,417,Ronald,Severson,Negotiation Strategies,4.61,4.52,3.91,4.5,4.43,3.
 Management,417,Andrew,Earle,Negotiation Strategies,4.42,4.57,4.5,4.5,4.49,4.2,4.33
 Management,417,Matthew,Metzger,Negotiation Strategies,4.5,4.78,4.44,4.66,4.62,4.5,4.34
 Management,417,Alan,Krause,Negotiation Strategies,4.47,4.28,4.47,4.33,4.41,4.2,4.43
+Management,420,Jeffrey,Stolle,Manag in Global Econ,4.59,4.86,4.64,4.68,4.59,4.59,4.46
 Management,420,Tom,Durant,Manag in Global Econ,4.4,4.54,4.54,4.42,4.61,4.42,4.32
 Management,420,Michael,Russo,Manag in Global Econ,4.15,4.25,4.33,4.27,4.31,4.08,4.1
 Management,420,Steve,Andersen,Manag in Global Econ,4.14,4.32,4.46,4.32,4.27,4.18,4.09
@@ -71,8 +75,10 @@ Management,455,Richard,Sloan,Bus Plan Entrepreneurs,4.07,3.99,3.37,3.64,4.61,3.7
 Management,510,Ralph,Heidl,Tech & Innovation Mgmt,4.43,4.51,4.5,4.38,4.64,4.42,4.37
 Management,510,Beth,Hjelm,Business of Food,4.68,4.56,4.68,4.56,4.8,4.52,4.52
 Management,510,Izabel,Loinaz,Greening Sports Events,3.52,3.79,2.85,3.3,3.61,3.15,3.58
-Management,607,Ryan,Cabinte,Sem Sustain Bus Prac,4.77,4.81,4.92,4.65,4.81,4.73,4.54
-Management,607,Nathan,Lillegard,Sem Innov/Entrepreneur,3.8,3.89,3.65,3.81,4.24,3.87,3.71
+Management,607,Ryan,Cabinte,Sem Sustain Bus Prac,4.72,4.79,4.9,4.62,4.82,4.72,4.51
+Management,607,Nathan,Lillegard,Sem Innov/Entrepreneur,3.8,3.9,3.68,3.83,4.24,3.86,3.71
+Management,607,Scott,Seibert,Sem Org Behaviour,4.67,4.83,4.83,4.83,4.5,4.67,4.67
+Management,607,David,Wagner,Sem Org Behaviour,4.5,4.33,4.33,4.5,4.83,4.67,4.5
 Management,607,Alan,Meyer,Sem Live Academic Life,4.56,4.78,4.76,4.69,4.82,4.75,4.5
 Management,607,Izabel,Loinaz,Sem Sustain Bus Prac,3.47,3.7,3.51,3.46,3.75,3.86,3.34
 Management,607,Lauren,Lanahan,Sem Appl Econometrics,5.0,5.0,4.67,5.0,5.0,4.67,5.0
@@ -126,7 +132,7 @@ Management,610,Jennifer,Howard-Grenville,Sustainable Business,4.4,4.6,4.8,4.6,4.
 Management,610,Thomas,Osdoba,Energy & Ecosystem Fin,4.25,4.12,3.88,4.25,4.0,4.38,4.38
 Management,610,Kathryn,Aten,Tech & Innovation Mgmt,4.0,4.0,4.0,4.22,4.44,3.78,4.0
 Management,610,Donald,Upson,Venture Launch,4.25,3.75,3.5,4.25,4.0,3.75,4.25
-Management,612,Scott,Seibert,Managing Indiv & Organ,3.24,3.34,3.21,3.4,3.92,3.18,3.42
+Management,612,Scott,Seibert,Managing Indiv & Organ,3.47,3.52,3.73,3.7,4.01,3.41,3.48
 Management,612,Reut,Livne-Tarandach,Managing Indiv & Organ,3.93,4.11,4.09,3.8,4.73,3.62,3.86
 Management,612,Jennifer,Howard-Grenville,Managing Indiv & Organ,4.3,4.35,4.46,4.35,4.43,4.02,4.14
 Management,612,James,Terborg,Managing Indiv & Organ,3.48,3.24,3.68,3.21,3.92,2.96,3.38
@@ -138,6 +144,7 @@ Management,614,Arvids,Ziedonis,Strategic Management,4.26,4.22,4.26,4.04,4.3,4.17
 Management,615,Chuck,Kalnbach,Leadership,4.3,4.31,4.51,4.33,4.6,4.05,4.23
 Management,615,Michael,Crooke,Leadership,4.75,4.75,4.5,4.42,4.36,4.21,4.65
 Management,615,Richard,Mowday,Leadership,4.23,4.38,4.6,4.37,4.39,4.22,4.14
+Management,620,Carlos,Martinez Gemmell,Manag Global Business,4.44,4.32,3.84,3.84,4.2,3.6,4.4
 Management,620,Tom,Durant,Manag Global Business,4.21,4.23,4.46,4.29,4.63,4.46,4.23
 Management,620,Damian,Vaughn,Manag Global Business,3.53,3.54,3.34,3.11,3.98,3.5,3.3
 Management,620,Kees,de Kluyver,Manag Global Business,4.11,4.11,4.22,4.11,4.33,4.33,4.0
@@ -147,8 +154,8 @@ Management,623,David,Wagner,Negotiation,4.64,4.56,4.51,4.49,4.45,4.1,4.62
 Management,623,Taryn,Stanko,Negotiation,4.18,4.21,4.29,3.95,4.29,3.88,4.22
 Management,623,Donald,Douglas,Negotiation,4.09,4.09,3.41,3.77,3.65,2.68,4.09
 Management,623,Ronald,Severson,Negotiation,3.73,3.83,3.85,3.48,4.31,3.54,3.76
-Management,625,Nathan,Lillegard,New Venture Planning,4.02,4.03,3.77,3.93,4.34,3.7,4.0
-Management,625,Allan,Cochrane,New Venture Planning,4.19,4.06,3.84,4.03,4.25,3.9,4.26
+Management,625,Allan,Cochrane,New Venture Planning,4.0,3.94,3.7,3.88,4.12,3.74,4.08
+Management,625,Nathan,Lillegard,New Venture Planning,4.02,4.04,3.81,3.95,4.34,3.74,3.98
 Management,625,Christopher,Cunning,New Venture Planning,4.3,4.6,3.3,4.1,4.8,3.6,4.5
 Management,625,Donald,Upson,New Venture Planning,3.87,3.4,3.24,3.36,4.3,3.16,4.12
 Management,625,Andrew,Earle,New Venture Planning,4.56,4.67,4.33,4.56,4.89,4.22,4.56
@@ -157,11 +164,11 @@ Management,635,Andrew,Nelson,Opportunity Recognit,4.57,4.68,4.67,4.54,4.56,4.39,
 Management,640,Beth,Hjelm,Sustainable Bus Devel,3.58,3.68,3.84,3.58,4.74,4.63,3.63
 Management,640,Michael,Russo,Sustainable Bus Devel,4.06,4.18,4.35,4.18,4.29,4.18,4.0
 Management,640,Michael,Russo,Sustainable Bus Mgmt,4.0,4.17,4.25,4.33,4.58,4.0,4.0
-Management,641,Joshua,Skov,Industrial Ecology,3.92,4.1,3.69,3.82,4.13,3.2,3.99
+Management,641,Joshua,Skov,Industrial Ecology,4.04,4.23,3.85,3.85,4.26,3.42,4.1
 Management,641,Izabel,Loinaz,Industrial Ecology,3.5,3.4,3.14,3.33,4.14,3.5,3.6
 Management,641,Laura,Strohm,Industrial Ecology,4.25,4.75,4.3,4.55,4.55,4.15,4.45
 Management,670,Alan,Meyer,Research Meth Organiz,4.57,4.62,4.59,4.59,4.9,4.53,4.57
-Management,690,David,Wagner,Management Proseminar,4.75,4.85,4.79,4.91,4.91,4.85,4.75
+Management,690,David,Wagner,Management Proseminar,4.76,4.85,4.79,4.9,4.89,4.85,4.75
 Management,690,Michael,Russo,Management Proseminar,4.29,4.29,4.29,4.57,4.14,4.43,4.29
 Management,690,Andrew,Nelson,Management Proseminar,4.62,4.88,4.75,4.81,4.69,4.94,4.69
 Management,690,Anne,Parmigiani,Management Proseminar,4.75,4.88,4.88,4.88,4.88,4.88,4.88

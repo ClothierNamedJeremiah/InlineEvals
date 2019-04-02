@@ -1,3 +1,4 @@
+History,101,Linni,Mazurek,Western Civilization,3.91,4.16,4.12,4.23,4.16,3.95,3.81
 History,101,Cary,Barber,Western Civilization,3.55,3.69,3.52,4.05,3.96,3.43,3.52
 History,101,Michael,Furtado,Western Civilization,4.5,4.61,4.59,4.67,4.2,4.35,4.5
 History,101,Stephanie,Budin,Western Civilization,3.74,3.78,3.47,3.95,3.79,3.61,3.92
@@ -9,6 +10,7 @@ History,103,George,Sheridan,Western Civilization,4.18,4.29,4.27,4.24,4.09,4.2,4.
 History,103,Alexander,Kashirin,Western Civilization,3.81,3.57,3.88,3.84,3.95,3.94,3.88
 History,103,Paul,Wanke,Western Civilization,4.21,4.33,4.23,4.22,4.12,4.14,4.24
 History,103,Alan,Kimball,Western Civilization,3.04,2.72,2.76,2.83,3.23,3.05,3.15
+History,104,Andrew,Goble,World History,3.8,3.58,3.69,3.41,3.86,3.95,3.64
 History,104,Cary,Barber,World History,3.79,3.78,3.91,4.08,3.7,3.8,3.83
 History,104,Lisa,Wolverton,World History,3.94,3.99,4.23,4.23,3.56,3.8,3.93
 History,104,Michael,Furtado,World History,4.36,4.48,4.36,4.51,4.11,4.23,4.31
@@ -25,7 +27,7 @@ History,120,Sean,Anthony,Islamic Civilization,3.58,3.49,3.44,3.86,3.73,3.4,3.53
 History,121,Emily,Gilkey,Women in World History,4.22,4.09,4.2,4.29,4.07,4.1,4.25
 History,121,April,Haynes,Women in World History,4.06,4.07,4.12,4.37,4.09,3.94,4.15
 History,186,Arafaat,Valiani,Cultures of India,3.92,3.86,3.8,3.73,3.94,3.77,3.94
-History,190,Andrew,Goble,East Asia Civilization,4.59,4.5,4.41,4.32,4.38,4.51,4.47
+History,190,Andrew,Goble,East Asia Civilization,4.54,4.46,4.39,4.28,4.29,4.54,4.44
 History,190,Ina,Asim,Found E Asian Civiliz,3.62,3.62,3.38,3.31,3.85,3.69,3.77
 History,190,Andrew,Goble,Found E Asian Civiliz,4.15,4.16,4.21,4.09,4.13,4.23,4.18
 History,191,Ina,Asim,China Past & Present,4.27,4.13,4.13,4.13,4.17,4.13,4.3
@@ -34,8 +36,9 @@ History,191,Anna,Belogurova,China Past & Present,3.69,3.69,3.77,3.62,4.08,3.85,3
 History,191,Ernst,Schwintzer,China Past & Present,3.78,3.63,3.96,3.87,3.85,3.89,4.0
 History,191,Yun,Xia,China Past & Present,3.8,4.2,4.6,4.6,4.4,4.4,4.2
 History,192,Jeff,Hanes,Japan Past & Present,4.35,4.44,4.27,4.23,4.18,4.09,4.39
-History,199,Kevin,Hatfield,Sp St College Connect,4.23,4.43,4.21,4.17,4.53,4.3,3.92
-History,199,Jennifer,O'Neal,Sp St College Connect,4.31,4.48,4.42,4.37,4.46,4.51,4.11
+History,199,Kevin,Hatfield,Sp St College Connect,4.31,4.48,4.27,4.25,4.58,4.37,4.03
+History,199,Vera,Keller,Sp St History of Tech,4.33,4.5,4.5,4.67,4.5,4.67,4.33
+History,199,Jennifer,O'Neal,Sp St College Connect,4.43,4.57,4.52,4.44,4.55,4.59,4.26
 History,199,Matthias,Vogel,Sp St College Connect,4.11,4.26,3.72,3.95,4.32,3.81,3.61
 History,199,Nathalie,Hester,Sp St College Connect,4.07,4.14,4.0,4.07,4.5,4.29,3.86
 History,199,Kathryn,Boodry,Sp St Hist of Money,4.23,4.23,3.85,4.0,4.23,3.85,4.08
@@ -64,7 +67,7 @@ History,199,Carlos,Aguirre,Sp St Soccer & Society,4.24,4.29,4.47,4.47,4.47,4.06,
 History,199,Kevin,Hatfield,Sp St Past Wild West,4.92,5.0,4.83,4.75,4.83,4.83,4.75
 History,199,Carlos,Aguirre,Sp St Soccer Society,4.0,4.31,4.23,4.38,4.38,3.77,4.15
 History,199,Lisa,Wolverton,Sp St College Connect,3.21,3.29,3.43,3.5,3.38,3.36,3.29
-History,201,Brett,Rushforth,Inventing America,4.44,4.55,4.44,4.5,4.25,4.26,4.4
+History,201,Brett,Rushforth,Inventing America,4.46,4.6,4.47,4.54,4.26,4.29,4.42
 History,201,Kathryn,Boodry,United States,3.81,3.51,3.52,3.7,3.82,3.92,3.79
 History,201,Matthew,Dennis,United States,3.89,3.88,4.05,3.87,3.85,3.88,3.89
 History,201,Mark,Spence,United States,3.73,3.65,3.73,3.75,3.73,3.73,3.73
@@ -83,13 +86,17 @@ History,203,Ellen,Herman,United States,3.81,3.78,3.87,3.92,3.8,3.59,3.69
 History,203,Jack,Maddex,United States,3.51,3.33,3.29,3.09,3.79,3.81,3.67
 History,203,Camille,Walsh,United States,4.33,4.83,4.17,4.33,4.83,4.33,4.83
 History,205,Stephanie,Budin,Ancient Sports,2.96,2.83,3.04,3.4,3.06,2.49,3.32
+History,211,Rick,Colby,Reacting to the Past,4.6,4.5,4.6,4.5,4.9,4.6,4.5
+History,211,Kevin,Hatfield,Reacting to the Past,4.8,4.9,4.7,4.8,4.7,4.6,4.5
+History,211,Jennifer,O'Neal,Reacting to the Past,4.8,4.8,4.7,4.8,4.7,4.5,4.5
+History,211,Jeffrey,Ostler,Reacting to the Past,4.62,4.62,4.5,4.62,4.62,4.25,4.62
+History,215,Hannah,Cutting-Jones,Food in World History,4.1,4.2,3.77,3.95,4.06,3.88,4.13
 History,215,Hillary,Maxson,Food in World History,4.43,4.5,4.53,4.5,4.47,4.3,4.43
-History,215,Hannah,Cutting-Jones,Food in World History,4.0,4.18,3.56,3.88,3.82,3.76,4.1
 History,215,Julie,Hessler,Food in World History,3.59,3.65,3.62,3.61,3.89,3.44,3.57
 History,221,Emily,Gilkey,Sex in History,3.97,4.12,3.93,4.17,4.09,3.55,3.98
 History,239,Cary,Barber,Classic/Mediev Warfare,4.54,4.66,4.3,4.71,4.55,4.43,4.59
 History,239,Michael,Furtado,Classic/Mediev Warfare,4.5,4.66,4.43,4.59,4.07,3.89,4.59
-History,240,Alexander,Dracobly,War in the Mod World I,4.22,4.29,4.23,4.23,4.23,4.17,4.16
+History,240,Alexander,Dracobly,War in the Mod World I,4.21,4.27,4.22,4.22,4.23,4.17,4.16
 History,240,Jose,Angeles,War in the Mod World I,4.19,4.34,4.28,4.45,3.98,3.9,4.16
 History,240,Tristan,Grunow,War in the Mod World I,4.05,3.98,4.0,4.0,4.0,3.98,4.07
 History,240,Christopher,McQuilkin,War in the Mod World I,4.0,3.98,3.95,4.0,3.9,3.98,4.0
@@ -121,7 +128,7 @@ History,298,Michael,Furtado,Medieval Knighthood,4.59,4.69,4.12,4.47,4.16,4.07,4.
 History,298,Nathanael,Andrade,Ancient Sports,3.63,3.58,3.93,3.72,4.02,3.72,3.67
 History,298,Claudia,Holguin,Latinos in America,4.74,4.68,4.63,4.42,4.47,4.53,4.79
 History,298,Julie,Weise,Latinos in America,4.74,4.79,4.63,4.63,4.63,4.58,4.78
-History,301,Ian,McNeely,Modern Europe,4.38,4.39,4.52,4.42,4.43,4.2,4.34
+History,301,Ian,McNeely,Modern Europe,4.43,4.48,4.54,4.54,4.48,4.21,4.39
 History,301,David,Luebke,Modern Europe,4.17,4.31,4.27,4.34,4.21,4.06,4.16
 History,301,Roman,Alexander,Modern Europe,3.9,3.77,3.87,3.79,3.72,3.87,3.9
 History,301,Regan,Watjus,Modern Europe,3.87,3.73,3.88,3.8,3.75,3.85,3.9
@@ -133,6 +140,7 @@ History,302,Alexander,Dracobly,Modern Europe,4.11,4.14,4.12,4.15,4.22,4.07,4.07
 History,303,John,McCole,Modern Europe,4.28,4.36,4.33,4.38,4.25,4.08,4.25
 History,303,Julie,Hessler,Modern Europe,3.95,3.88,3.81,3.59,3.98,3.94,3.95
 History,307,Patricia,O'Neill,Study of History,4.71,4.72,4.72,4.59,4.8,4.81,4.58
+History,308,Annelise,Heinz,Women In US History,3.81,3.9,3.96,3.65,4.38,4.1,3.85
 History,308,Jamie,Bufalino,Hist of Women in US I,4.14,4.29,4.28,4.28,4.19,3.93,4.09
 History,308,April,Haynes,Hist of Women in US I,3.98,3.98,3.84,4.14,4.11,3.53,3.96
 History,308,Adam,Turner,Hist of Women in US I,4.46,4.42,4.42,4.33,4.25,4.25,4.33
@@ -170,11 +178,11 @@ History,336,Emily,Gilkey,France,4.64,4.64,4.5,4.75,4.54,4.46,4.71
 History,337,George,Sheridan,France,4.46,4.5,4.39,4.38,4.31,4.33,4.49
 History,337,Emily,Gilkey,France,4.33,4.33,4.33,4.33,4.67,4.17,4.0
 History,340,Alexander,Dracobly,US Military History,4.32,4.33,4.28,4.36,4.44,4.36,4.35
-History,342,John,McCole,Top Modern Germany,4.44,4.48,4.35,4.38,4.54,4.27,4.43
+History,342,John,McCole,Top Modern Germany,4.5,4.53,4.44,4.46,4.54,4.23,4.52
 History,342,John,McCole,Top German History III,4.42,4.42,4.26,4.42,4.37,4.32,4.61
 History,342,Emily,Gilkey,Top Modern Germany III,4.56,4.44,4.38,4.44,4.38,4.44,4.44
 History,342,David,Luebke,Top Modern Germany III,4.62,4.73,4.62,4.42,4.5,4.42,4.69
-History,345,Alan,Kimball,Early Russia,3.65,3.49,3.51,3.15,4.12,3.33,3.76
+History,345,Alan,Kimball,Early Russia,3.54,3.38,3.39,3.03,4.06,3.22,3.68
 History,346,Ryan,Jones,Imperial Russia,4.61,4.71,4.47,4.5,4.36,4.36,4.56
 History,346,Alan,Kimball,Imperial Russia,4.36,4.3,4.36,4.04,4.46,4.02,4.4
 History,346,Alexander,Kashirin,Imperial Russia,4.12,4.12,4.35,4.29,4.24,4.18,4.29
@@ -182,7 +190,7 @@ History,347,Rebecca,Hastings,USSR & Contemp Russia,4.67,4.67,4.67,4.5,4.67,4.67,
 History,347,Julie,Hessler,USSR & Contemp Russia,4.29,4.3,4.03,4.03,4.28,4.03,4.31
 History,347,Alexander,Kashirin,USSR & Contemp Russia,4.38,4.33,4.41,4.49,4.19,4.1,4.54
 History,347,Paul,Wanke,USSR & Contemp Russia,4.56,4.78,4.44,4.67,4.11,4.22,4.67
-History,350,Jeffrey,Ostler,American Radicalism,4.29,4.25,4.08,4.17,4.5,4.08,4.29
+History,350,Jeffrey,Ostler,American Radicalism,4.24,4.31,4.1,4.23,4.43,4.0,4.25
 History,350,Daniel,Pope,American Radicalism,4.02,4.03,4.14,4.0,4.23,3.92,3.92
 History,351,John,Bedan,American Radicalism,4.47,4.38,4.32,4.26,4.5,4.29,4.5
 History,351,Daniel,Pope,American Radicalism,4.01,4.03,4.13,4.0,4.12,3.96,3.95
@@ -203,9 +211,10 @@ History,361,J. ,Nicols,Early Modern Science,4.4,4.52,4.06,4.42,4.3,3.83,4.41
 History,363,Arafaat,Valiani,American Business Hist,3.52,3.56,3.65,3.49,3.8,3.55,3.55
 History,363,Daniel,Pope,American Business Hist,4.07,4.07,4.25,4.14,4.22,4.16,4.04
 History,363,Keith,Reed,American Business Hist,4.12,4.16,4.2,4.2,4.04,4.16,4.16
+History,378,Steve,Leone,Amer Envir Hst to 1890,4.59,4.73,4.73,4.54,4.68,4.68,4.59
 History,378,Marsha,Weisiger,Amer Envir Hst to 1890,4.24,4.0,3.94,4.29,4.18,4.41,4.35
 History,379,Marsha,Weisiger,Am Env Hist, 1890-Pres,4.1,4.2,4.15,4.1,4.2,4.1,4.1
-History,380,Robert,Haskett,Latin America,4.01,4.03,4.09,4.01,4.24,3.95,3.97
+History,380,Robert,Haskett,Latin America,4.03,4.03,4.09,4.02,4.25,3.96,3.99
 History,380,Josh,Fitzgerald,Latin America,4.17,4.13,4.13,4.15,4.3,4.02,4.15
 History,380,Reuben,Zahler,Latin America,4.36,4.54,4.23,4.23,4.31,4.13,4.29
 History,380,John,Bedan,Latin America,3.98,3.98,4.02,4.05,3.98,3.9,3.95
@@ -218,6 +227,7 @@ History,382,Carlos,Aguirre,Latin America,4.5,4.56,4.53,4.48,4.29,4.34,4.49
 History,382,Feather,Crawford,Latin America,4.5,4.5,4.5,4.5,4.5,4.5,4.5
 History,382,Luis,Ruiz,Latin America,4.75,4.92,4.75,4.67,4.64,4.42,4.83
 History,382,Mark,Spence,Latin America,3.56,3.76,3.35,3.82,4.01,3.3,3.73
+History,383,Carlos,Aguirre,Soccer & Soci Latin Am,4.68,4.54,4.54,4.5,4.54,4.54,4.68
 History,385,Arafaat,Valiani,Top South Asia, India,4.67,4.56,4.33,4.33,4.78,4.56,4.78
 History,386,Arafaat,Valiani,India,4.23,4.24,4.06,3.89,4.35,4.34,4.25
 History,386,Randall,McGowen,India,4.46,4.63,4.55,4.52,4.31,4.06,4.56
@@ -229,6 +239,8 @@ History,388,Lucas,Burke,Vietnam & the US,4.0,4.04,4.04,4.0,4.09,4.09,4.09
 History,388,Mi,Zhao,Vietnam & the US,4.15,4.1,4.15,4.05,4.15,4.15,4.15
 History,396,Andrew,Goble,Samurai in Film,4.19,4.18,4.18,4.2,4.21,3.96,4.18
 History,396,Breann,Goosmann,Samurai in Film,4.04,3.95,4.08,4.18,4.34,4.04,3.88
+History,399,Lindsay Frederick,Braun,Sp St Ancient Africa,3.9,3.9,4.0,3.9,4.4,3.9,3.9
+History,399,Bryna,Goodman,Sp St Gender in China,4.29,4.29,4.14,4.14,4.43,4.0,4.43
 History,399,Brett,Rushforth,Sp St American Slavery,4.44,4.56,4.33,4.44,4.56,4.11,4.44
 History,399,Ryan,Jones,Sp St Pacific History,4.62,4.62,4.5,4.5,4.5,4.25,4.25
 History,399,Brett,Rushforth,Sp St Historians Craft,4.25,4.5,3.75,4.0,4.5,4.0,4.0
@@ -279,6 +291,8 @@ History,399,Paul,Wanke,Sp St US and WWII,4.5,4.75,4.12,4.38,4.5,4.25,4.75
 History,399,Randall,McGowen,Sp St UK Film Post 45,4.19,4.33,4.29,4.33,4.19,3.52,4.14
 History,400M,Ina,Asim,Chinese Cities,4.4,4.2,4.4,4.2,4.4,4.0,4.6
 History,400M,Luke,Habberstad,Chinese Cities,4.4,4.4,4.2,4.0,4.2,4.0,4.6
+History,407,Steven,Beda,Sem 20th c US,4.67,4.89,4.78,4.56,5.0,4.67,4.67
+History,407,Allison,Madar,Sem Early America,4.33,4.33,4.67,4.67,4.33,4.33,4.33
 History,407,Cary,Barber,Sem Roman Travel/Trade,5.0,5.0,4.8,4.8,5.0,4.8,5.0
 History,407,Robert,Haskett,Sem Mesoamer Conquests,4.88,4.84,4.88,4.88,4.94,4.9,4.88
 History,407,Ian,McNeely,Sem University in Hist,4.25,4.25,4.0,4.0,4.5,4.25,4.25
@@ -512,16 +526,18 @@ History,415,Jamie,Bufalino,Top Women & Globaliztn,4.08,4.42,4.17,4.17,4.5,4.42,4
 History,415,Anna,Belogurova,Top Asia/Globalization,3.21,2.79,3.29,2.93,3.86,3.36,3.64
 History,415,Alan,Kimball,Top Russian & American,4.67,4.67,4.33,4.33,4.67,4.67,4.67
 History,415,Masato,Hasegawa,Top China & The World,3.89,3.89,4.0,3.67,4.56,3.78,3.89
+History,416,Annelise,Heinz,Top US Women & Home,4.67,4.67,4.89,4.56,4.67,4.67,4.56
 History,416,Quinn,Akina,Top US Sex Scandals,4.78,4.56,4.78,4.89,4.89,4.78,4.89
 History,416,Stephanie,Budin,Top Women in Antiquity,3.88,4.25,3.75,4.12,3.75,2.62,4.0
 History,417,Lindsay Frederick,Braun,Top Apartheid S Africa,4.26,4.25,4.39,4.22,4.44,4.34,4.51
 History,417,Lindsay Frederick,Braun,Soc/Cul Mod Afr: Topic,4.22,4.44,4.56,4.44,4.44,4.33,4.33
-History,419,Lindsay Frederick,Braun,Top Colonial S Africa,4.58,4.65,4.45,4.44,4.71,4.56,4.57
+History,419,Lindsay Frederick,Braun,Top Colonial S Africa,4.54,4.56,4.4,4.4,4.73,4.53,4.54
 History,419,Melissa,Graboyes,Top East Africa,4.58,4.42,4.5,4.58,4.5,4.25,4.42
 History,419,Melissa,Graboyes,Top East African Hist,4.54,4.91,4.46,4.46,4.6,4.18,4.82
 History,419,Lindsay Frederick,Braun,Top South Africa,4.32,4.32,4.32,4.21,4.95,4.53,4.37
 History,420,George,Sheridan,The Idea of Europe,4.6,4.55,4.51,4.57,4.5,4.41,4.56
 History,421,Ian,McNeely,Organiz Knowledge,4.29,4.29,4.14,4.07,4.23,3.86,4.21
+History,425,George,Sheridan,Top Europ Econ to 1914,4.33,4.44,4.22,4.28,4.22,4.06,4.28
 History,425,George,Sheridan,Top Econ of Mod Europe,4.33,4.33,4.33,4.17,4.25,4.17,4.46
 History,425,George,Sheridan,Top Econ Hist of Europ,4.17,4.25,4.25,4.33,4.25,4.0,4.25
 History,425,George,Sheridan,Top Economy Mod Eur II,4.6,4.6,4.4,4.0,4.8,4.4,4.6
@@ -529,8 +545,8 @@ History,425,George,Sheridan,Top Euro Econ to 1914,4.25,4.37,4.08,4.11,4.2,4.22,4
 History,425,George,Sheridan,Top Europe Econ 20C,4.5,4.36,4.21,4.07,4.29,4.43,4.29
 History,426,Ian,McNeely,Cul Hist Enlightenment,4.54,4.73,4.73,4.68,4.59,4.5,4.36
 History,426,Patricia,O'Neill,Cul Hist Enlightenment,4.75,4.86,4.84,4.77,4.84,4.82,4.68
+History,427,John,McCole,Top Europe Ideas & Soc,4.56,4.55,4.59,4.54,4.55,4.54,4.56
 History,427,John,McCole,Top German Intellect H,4.89,4.96,4.79,4.86,4.93,4.93,4.82
-History,427,John,McCole,Top Europe Ideas & Soc,4.75,4.64,4.75,4.62,4.65,4.67,4.71
 History,427,John,McCole,Top German Intell Hist,4.59,4.53,4.41,4.59,4.59,4.24,4.47
 History,427,Ian,McNeely,Top Science 19C Europe,4.7,4.78,4.56,4.59,4.5,4.24,4.56
 History,428,Alexander,Dracobly,Top World War I,4.62,4.63,4.56,4.53,4.68,4.62,4.66
@@ -567,6 +583,7 @@ History,446,Julie,Hessler,Top Soviet Culture,4.28,4.22,4.06,3.88,4.06,4.11,4.11
 History,446,Julie,Hessler,Top Soviet Union/WWII,4.5,4.3,4.2,4.15,4.45,4.55,4.55
 History,449,Julie,Weise,Race & Ethn Am West,4.89,5.0,4.78,4.72,4.61,4.67,4.83
 History,449,Kevin,Hatfield,Race & Ethn Am West,4.75,4.91,4.79,4.8,4.79,4.61,4.72
+History,450,Alexander,Dracobly,The Iraq War,4.78,4.72,4.44,4.5,4.72,4.5,4.94
 History,450,Alexander,Dracobly,The Iraq War, 2003-11,4.85,4.84,4.72,4.66,4.77,4.7,4.86
 History,451,John,Bedan,Top The Cold War,4.75,4.5,4.75,4.75,4.75,4.75,4.75
 History,451,Glenn,May,Top The Cold War,4.61,4.63,4.39,4.43,4.54,4.45,4.69
@@ -578,7 +595,7 @@ History,455,Brett,Rushforth,Colonial American Hist,4.47,4.8,4.4,4.4,4.27,4.07,4.
 History,455,Kathryn,Boodry,Colonial American Hist,4.35,4.41,4.18,4.29,4.75,4.65,4.29
 History,455,Matthew,Dennis,Colonial American Hist,4.5,4.53,4.6,4.5,4.65,4.5,4.65
 History,455,David,Del Mar,Colonial American Hist,3.83,4.0,4.17,3.83,4.33,4.17,4.0
-History,456,Allison,Madar,Revolutionary America,4.83,4.75,4.67,4.92,4.83,4.0,4.83
+History,456,Allison,Madar,Revolutionary America,4.77,4.83,4.68,4.81,4.67,4.15,4.82
 History,456,Sean,Munger,Revolutionary America,4.59,4.59,4.65,4.71,4.59,4.53,4.65
 History,456,Matthew,Dennis,Revolutionary America,4.58,4.6,4.66,4.54,4.5,4.44,4.57
 History,457,James,Mohr,Top Reconstruction,4.8,4.77,4.8,4.77,4.63,4.4,4.77
@@ -616,8 +633,8 @@ History,466,Jeffrey,Ostler,American West,4.4,4.51,4.46,4.51,4.39,4.33,4.31
 History,467,Marsha,Weisiger,American West,4.43,4.45,4.41,4.4,4.49,4.37,4.52
 History,467,Mark,Spence,American West,3.73,3.82,3.54,3.73,3.82,2.46,3.46
 History,467,Peggy,Pascoe,American West,4.16,4.26,4.53,4.53,3.79,4.42,4.21
+History,468,Steven,Beda,Pacific Northwest,4.76,4.87,4.73,4.79,4.84,4.67,4.83
 History,468,Marc,Carpenter,Pacific Northwest,4.17,4.5,4.33,4.33,4.67,4.17,4.33
-History,468,Steven,Beda,Pacific Northwest,4.73,4.85,4.7,4.78,4.85,4.66,4.82
 History,468,Kevin,Hatfield,Pacific Northwest,4.5,4.5,4.5,4.75,4.75,4.75,4.5
 History,468,Jeffrey,Ostler,Pacific Northwest,4.0,4.0,3.92,4.0,4.08,4.0,4.0
 History,468,David,Del Mar,Pacific Northwest,3.88,3.83,3.96,3.79,3.96,4.17,3.92
@@ -630,6 +647,7 @@ History,469,Jeffrey,Ostler,Top Native Nations/US,4.4,4.55,4.4,4.45,4.45,4.2,4.4
 History,469,Mark,Spence,Amer Indian Hst: Topic,4.0,4.2,3.9,3.8,3.9,3.2,4.1
 History,469,Jeffrey,Ostler,Top Plains Indians,4.23,4.55,4.25,4.19,4.09,3.66,4.31
 History,469,David,Del Mar,Top Indians & Gender,3.47,3.67,3.4,3.4,3.93,3.67,3.67
+History,473,Steve,Leone,Top US Cities & Envir,4.33,4.5,4.25,4.33,4.58,4.25,4.5
 History,473,Hayley,Brazier,Top National Parks,4.37,4.42,4.42,4.42,4.47,4.21,4.26
 History,473,Hayley,Brazier,Top US Environment,5.0,5.0,5.0,4.8,4.8,4.2,4.8
 History,473,Matthew,Dennis,Top Oregon Environment,4.5,4.75,4.42,3.83,4.58,4.33,4.58
@@ -647,7 +665,7 @@ History,473,Kevin,Hatfield,Top Environment & West,4.46,4.46,4.46,4.62,4.46,4.15,
 History,480,Robert,Haskett,Mexico,4.33,4.38,4.38,4.38,4.52,4.27,4.43
 History,482,Robert,Haskett,Aztecs and Incas,4.94,4.94,4.88,4.88,5.0,4.82,4.88
 History,482,Robert,Haskett,Latin Amer Indian Peop,4.63,4.65,4.61,4.47,4.8,4.47,4.59
-History,483,Robert,Haskett,Top New World Pirates,4.65,4.6,4.7,4.63,4.75,4.7,4.68
+History,483,Robert,Haskett,Top New World Pirates,4.61,4.55,4.6,4.5,4.69,4.62,4.61
 History,483,Reuben,Zahler,Top Sex & Honor Lat Am,5.0,5.0,4.67,4.67,5.0,5.0,5.0
 History,483,Reuben,Zahler,Top Lat Am Catholicism,5.0,5.0,5.0,5.0,5.0,4.75,5.0
 History,483,Carlos,Aguirre,Top Revolutions Lat Am,4.82,4.88,4.82,4.82,4.59,4.65,4.88
@@ -660,8 +678,8 @@ History,483,Reuben,Zahler,Top Religion Lat Amer,4.75,4.75,4.25,4.75,4.25,4.0,4.7
 History,483,Carlos,Aguirre,Top Latin Amer Revolut,4.59,4.56,4.48,4.44,4.31,4.22,4.56
 History,483,Carlos,Aguirre,Top Rvolution/Lat Amer,4.52,4.63,4.7,4.48,4.35,4.15,4.59
 History,484,Glenn,May,Philippines,4.51,4.57,4.42,4.38,4.46,4.39,4.56
+History,487,Ina,Asim,Top Song & Yuan Dynast,4.46,4.35,4.19,3.95,4.45,4.25,4.47
 History,487,Ina,Asim,Top Ming & Qing China,4.34,4.31,4.11,3.87,4.38,4.36,4.45
-History,487,Ina,Asim,Top Song & Yuan Dynast,4.36,4.32,4.06,3.75,4.34,4.19,4.36
 History,487,Ina,Asim,Top Song & Yuan China,3.96,3.79,3.79,3.36,4.13,3.87,4.06
 History,487,Anna,Belogurova,Top China After 1949,4.58,4.58,4.42,4.5,4.5,4.5,4.5
 History,487,Anna,Belogurova,Top Republican China,4.17,4.33,4.5,4.33,4.33,4.17,4.5
@@ -669,8 +687,8 @@ History,487,Masato,Hasegawa,Top China Since 1949,4.6,4.6,4.6,4.4,4.8,4.4,4.4
 History,487,Ina,Asim,Top Ming & Qing Dynast,3.9,4.05,3.67,3.76,4.14,4.0,4.24
 History,487,Patricia,O'Neill,China: Song and Yuan,4.75,4.79,4.83,4.79,4.88,4.75,4.79
 History,487,Bryna,Goodman,Top Republican China,4.18,4.32,4.23,4.18,4.46,4.19,4.23
+History,490,Jeff,Hanes,Top Modern Japan,4.7,4.87,4.59,4.48,4.68,4.47,4.8
 History,490,Andrew,Goble,Top Shogun's Japan,4.42,4.38,4.3,4.03,4.35,4.13,4.42
-History,490,Jeff,Hanes,Top Modern Japan,4.58,4.74,4.37,4.32,4.63,4.58,4.68
 History,490,Hillary,Maxson,Top Modern Japan,4.5,4.5,4.62,4.88,4.5,4.12,4.62
 History,490,Jeff,Hanes,Top Shogun's Japan,4.44,4.56,4.33,4.17,4.28,4.39,4.67
 History,490,Jeff,Hanes,Top Modern Japan III,4.65,4.65,4.25,4.05,4.55,4.6,4.75
@@ -684,6 +702,7 @@ History,498,Andrew,Goble,Top Medieval Japan,4.52,4.57,4.45,4.19,4.53,4.43,4.57
 History,498,Andrew,Goble,Top Warring Age Japan,4.38,4.38,4.31,4.16,4.31,4.38,4.31
 History,500M,Ina,Asim,Chinese Cities,4.4,4.2,4.4,4.2,4.4,4.0,4.6
 History,500M,Luke,Habberstad,Chinese Cities,4.4,4.4,4.2,4.0,4.2,4.0,4.6
+History,507,Steven,Beda,Sem 20th c US,4.67,4.89,4.78,4.56,5.0,4.67,4.67
 History,507,Ian,McNeely,Sem University in Hist,4.25,4.25,4.0,4.0,4.5,4.25,4.25
 History,507,Arafaat,Valiani,Sem Social Movements,4.0,4.17,3.83,3.67,4.0,3.67,4.0
 History,507,Matthew,Dennis,Sem Monuments & Memory,4.78,5.0,4.78,4.89,4.89,4.78,4.78
@@ -823,16 +842,19 @@ History,515,Daniel,Pope,Top World Depression,3.88,4.0,4.0,3.75,4.5,4.12,4.0
 History,515,Alan,Kimball,Top Energy & World Pol,4.0,4.17,3.83,3.17,4.67,4.17,4.5
 History,515,Julie,Weise,Top Global Migrations,4.79,4.86,4.82,4.68,4.61,4.64,4.75
 History,515,Anna,Belogurova,Top Asia/Globalization,3.21,2.79,3.29,2.93,3.86,3.36,3.64
+History,516,Annelise,Heinz,Top US Women & Home,4.67,4.67,4.89,4.56,4.67,4.67,4.56
 History,516,Stephanie,Budin,Top Women in Antiquity,3.88,4.25,3.75,4.12,3.75,2.62,4.0
 History,517,Lindsay Frederick,Braun,Top Apartheid S Africa,4.17,4.33,4.67,4.33,4.5,4.33,4.67
+History,519,Lindsay Frederick,Braun,Top Colonial S Africa,4.4,4.2,4.2,4.2,4.8,4.4,4.4
 History,520,George,Sheridan,The Idea of Europe,4.4,4.29,4.31,4.39,4.39,4.16,4.37
 History,521,Ian,McNeely,Organiz Knowledge,4.29,4.29,4.14,4.07,4.23,3.86,4.21
+History,525,George,Sheridan,Top Europ Econ to 1914,4.33,4.44,4.22,4.28,4.22,4.06,4.28
 History,525,George,Sheridan,Top Economy Mod Eur II,4.6,4.6,4.4,4.0,4.8,4.4,4.6
 History,525,George,Sheridan,Top Euro Econ to 1914,4.25,4.37,4.08,4.11,4.2,4.22,4.34
 History,525,George,Sheridan,Top Europe Econ 20C,4.5,4.36,4.21,4.07,4.29,4.43,4.29
 History,526,Ian,McNeely,Cul Hist Enlightenment,4.54,4.73,4.73,4.68,4.59,4.5,4.36
+History,527,John,McCole,Top Europe Ideas & Soc,4.34,4.39,4.39,4.31,4.47,4.39,4.34
 History,527,John,McCole,Top German Intellect H,5.0,5.0,4.71,4.86,5.0,5.0,4.86
-History,527,John,McCole,Top Europe Ideas & Soc,4.5,4.42,4.5,4.25,4.58,4.5,4.42
 History,527,John,McCole,Top German Intell Hist,4.59,4.53,4.41,4.59,4.59,4.24,4.47
 History,527,Ian,McNeely,Top Science 19C Europe,4.7,4.78,4.56,4.59,4.5,4.24,4.56
 History,528,Alexander,Dracobly,Top World War I,4.62,4.63,4.56,4.53,4.68,4.62,4.66
@@ -892,13 +914,14 @@ History,566,Patricia,Moore,American West,4.35,4.29,4.24,4.12,4.18,4.18,4.41
 History,566,Jeffrey,Ostler,American West,4.4,4.51,4.46,4.51,4.39,4.33,4.31
 History,567,Marsha,Weisiger,American West,4.17,4.23,4.24,4.17,4.4,4.18,4.28
 History,567,Peggy,Pascoe,American West,4.16,4.26,4.53,4.53,3.79,4.42,4.21
-History,568,Steven,Beda,Pacific Northwest,4.74,4.85,4.74,4.75,4.81,4.64,4.8
+History,568,Steven,Beda,Pacific Northwest,4.79,4.88,4.77,4.78,4.81,4.66,4.82
 History,568,Kevin,Hatfield,Pacific Northwest,4.5,4.5,4.5,4.75,4.75,4.75,4.5
 History,568,Jeffrey,Ostler,Pacific Northwest,4.0,4.0,3.92,4.0,4.08,4.0,4.0
 History,569,Jeffrey,Ostler,Top Native Nations, US,4.5,4.5,4.38,4.25,4.62,4.12,4.5
 History,569,Jeffrey,Ostler,Top Black Elk Speaks,4.57,4.71,4.58,4.42,4.79,4.6,4.66
 History,569,Jeffrey,Ostler,Top Native Nations/US,4.4,4.55,4.4,4.45,4.45,4.2,4.4
 History,569,Jeffrey,Ostler,Top Plains Indians,4.23,4.55,4.25,4.19,4.09,3.66,4.31
+History,573,Steve,Leone,Top US Cities & Envir,4.33,4.5,4.25,4.33,4.58,4.25,4.5
 History,573,Matthew,Dennis,Top US Environmtl Hist,4.25,4.29,4.24,4.05,4.43,3.95,4.29
 History,573,Marsha,Weisiger,Top 20C Amer Env Hist,4.3,4.3,3.92,3.96,4.42,4.08,4.21
 History,573,Marsha,Weisiger,Amer Envir Hist: Topic,4.22,4.28,4.0,4.0,4.44,4.11,4.44
@@ -906,21 +929,21 @@ History,573,Marsha,Weisiger,Top Amer Env Hist 20C,4.29,4.29,4.29,4.24,4.29,4.29,
 History,573,Mark,Spence,Top Environ & the West,4.37,4.37,4.21,4.32,4.33,3.74,4.33
 History,580,Robert,Haskett,Mexico,4.25,4.33,4.29,4.37,4.43,4.22,4.38
 History,582,Robert,Haskett,Latin Amer Indian Peop,4.63,4.65,4.61,4.47,4.8,4.47,4.59
+History,583,Robert,Haskett,Top New World Pirates,4.63,4.53,4.57,4.48,4.63,4.6,4.61
 History,583,Reuben,Zahler,Top Sex & Honor Lat Am,5.0,5.0,4.67,4.67,5.0,5.0,5.0
-History,583,Robert,Haskett,Top New World Pirates,4.7,4.59,4.7,4.67,4.7,4.7,4.71
 History,583,Robert,Haskett,Top Spiritual Conquest,4.56,4.67,4.54,4.54,4.8,4.61,4.67
 History,583,Carlos,Aguirre,Top Lat/Am Revolutions,4.41,4.59,4.47,4.35,4.53,4.29,4.59
 History,583,Carlos,Aguirre,Top Latin Amer Revolut,4.59,4.56,4.48,4.44,4.31,4.22,4.56
 History,583,Carlos,Aguirre,Top Rvolution/Lat Amer,4.52,4.63,4.7,4.48,4.35,4.15,4.59
 History,584,Glenn,May,Philippines,4.53,4.61,4.46,4.32,4.48,4.41,4.65
+History,587,Ina,Asim,Top Song & Yuan Dynast,4.46,4.35,4.19,3.95,4.45,4.25,4.47
 History,587,Ina,Asim,Top Ming & Qing China,4.34,4.31,4.11,3.87,4.38,4.36,4.45
-History,587,Ina,Asim,Top Song & Yuan Dynast,4.36,4.32,4.06,3.75,4.34,4.19,4.36
 History,587,Ina,Asim,Top Song & Yuan China,4.07,3.88,3.98,3.5,4.3,3.93,4.15
 History,587,Anna,Belogurova,Top China After 1949,4.58,4.58,4.42,4.5,4.5,4.5,4.5
 History,587,Ina,Asim,Top Ming &Qing Dynasty,3.9,4.05,3.67,3.76,4.14,4.0,4.24
 History,587,Bryna,Goodman,Top Republican China,4.18,4.32,4.23,4.18,4.46,4.19,4.23
+History,590,Jeff,Hanes,Top Modern Japan,4.7,4.87,4.59,4.48,4.68,4.47,4.8
 History,590,Andrew,Goble,Top Shogun's Japan,4.42,4.38,4.3,4.03,4.35,4.13,4.42
-History,590,Jeff,Hanes,Top Modern Japan,4.58,4.74,4.37,4.32,4.63,4.58,4.68
 History,590,Jeff,Hanes,Top Shogun's Japan,4.44,4.56,4.33,4.17,4.28,4.39,4.67
 History,590,Jeff,Hanes,Top Modern Japan III,4.65,4.65,4.25,4.05,4.55,4.6,4.75
 History,591,Andrew,Goble,Medic & Soc Premod Jpn,4.48,4.52,4.43,4.2,4.27,4.31,4.59
@@ -930,6 +953,7 @@ History,597,Bryna,Goodman,Top Mod Gender China,4.35,4.47,4.35,4.23,4.46,4.26,4.3
 History,598,Andrew,Goble,Top Medieval Japan,4.51,4.57,4.46,4.15,4.53,4.42,4.57
 History,598,Andrew,Goble,Top Warring Age Japan,4.0,4.0,4.0,4.0,4.0,4.0,4.0
 History,598,Andrew,Goble,Top Medievel Japan,4.57,4.61,4.43,4.43,4.52,4.48,4.57
+History,607,Marsha,Weisiger,Sem Craft of Writing,4.33,4.0,4.0,4.0,4.67,4.33,5.0
 History,607,George,Sheridan,Sem Open Research,4.33,4.67,4.0,3.33,5.0,4.0,4.5
 History,607,Carlos,Aguirre,Res-Open,4.86,5.0,4.86,5.0,4.86,4.71,5.0
 History,607,George,Sheridan,Sem Writing History,4.57,4.79,4.64,4.5,4.86,4.33,4.5
@@ -964,7 +988,7 @@ History,608,Ian,McNeely,Coll World History,4.17,4.0,3.5,4.17,4.67,2.5,4.33
 History,608,Brian,Ladd,Coll City Streets,4.5,4.5,4.5,4.25,4.75,4.5,4.5
 History,608,David,Luebke,Coll Monarchy Europe,5.0,5.0,5.0,5.0,5.0,5.0,5.0
 History,608,Glenn,May,Coll Readings US Hist,3.6,3.6,3.0,3.6,4.8,3.2,4.0
-History,612,Marsha,Weisiger,Historical Meth & Writ,4.5,4.5,4.5,4.5,4.67,4.5,4.5
+History,612,Marsha,Weisiger,Historical Meth & Writ,4.75,4.75,4.5,4.5,4.83,4.5,4.75
 History,612,Julie,Hessler,Historical Meth & Writ,4.05,4.4,4.39,4.42,4.49,3.78,4.12
 History,612,Julie,Hessler,Historical Mthd & Writ,4.4,4.9,4.6,4.7,5.0,4.3,4.5
 History,612,Carlos,Aguirre,Historical Meth & Writ,4.75,4.88,4.88,4.62,4.38,4.12,4.75

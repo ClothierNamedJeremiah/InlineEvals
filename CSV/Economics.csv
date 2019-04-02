@@ -1,20 +1,20 @@
-Economics,101,Mike,Urbancic,Contemp Econ Issues,4.05,4.19,4.18,4.05,4.3,4.16,3.94
+Economics,101,Mike,Urbancic,Contemp Econ Issues,4.09,4.23,4.23,4.1,4.32,4.19,3.96
 Economics,101,Nicholas,Sly,Contemp Econ Issues,3.91,4.04,4.01,4.19,3.87,3.85,3.88
 Economics,101,Ryan,Herzog,Contemp Econ Issues,4.22,4.36,4.39,4.37,4.22,4.4,4.2
-Economics,199,Mike,Urbancic,Sp St College Connect,4.41,4.56,4.2,4.29,4.62,4.38,3.95
+Economics,199,Mike,Urbancic,Sp St College Connect,4.49,4.65,4.29,4.38,4.68,4.46,4.06
 Economics,199,Laura,Leete,Sp St Intro Empirical,4.5,4.33,4.33,4.33,4.33,4.33,4.5
 Economics,199,Neil,Bania,Sp St Macroeconomics,5.0,5.0,4.0,4.5,4.5,4.5,4.5
 Economics,199,Laura,Leete,Sp St Microeconomics,4.25,4.25,4.75,4.67,4.75,4.5,4.0
 Economics,199,Cathleen,Leue,Sp St College Connect,3.96,4.1,3.65,3.87,4.23,3.96,3.65
+Economics,201,Stephen,Haynes,Intro Econ Analy Micro,4.06,4.04,4.33,4.05,4.11,4.26,4.03
+Economics,201,Drew,McNichols,Intro Econ Analy Micro,3.7,3.51,3.72,3.73,3.9,3.94,3.78
+Economics,201,Simon,Minard,Intro Econ Analy Micro,4.43,4.52,4.53,4.54,4.44,4.42,4.37
+Economics,201,Glen,Waddell,Intro Econ Analy Micro,3.83,3.83,3.88,3.95,3.74,3.88,3.75
 Economics,201,Sacha,Gelfer,Intro Econ Analy Micro,4.44,4.44,4.44,4.44,4.44,4.78,4.44
-Economics,201,Stephen,Haynes,Intro Econ Analy Micro,4.06,4.04,4.32,4.05,4.11,4.25,4.03
 Economics,201,Kyle,Wilson,Intro Econ Analy Micro,4.12,4.25,4.38,4.25,4.38,4.38,4.12
 Economics,201,Keaton,Miller,Intro Econ Analy Micro,3.97,3.98,4.18,4.15,4.1,4.14,3.87
 Economics,201,Maxwell,Mindock,Intro Econ Analy Micro,3.45,3.35,3.72,3.86,4.04,3.82,3.5
-Economics,201,Drew,McNichols,Intro Econ Analy Micro,3.68,3.44,3.64,3.64,3.79,3.89,3.8
-Economics,201,Simon,Minard,Intro Econ Analy Micro,4.42,4.48,4.51,4.53,4.44,4.38,4.37
 Economics,201,William,Harbaugh,Intro Econ Analy Micro,3.86,3.82,3.47,3.74,3.87,3.77,3.9
-Economics,201,Glen,Waddell,Intro Econ Analy Micro,3.81,3.82,3.87,3.93,3.73,3.87,3.74
 Economics,201,Erica,Birk,Intro Econ Analy Micro,3.64,3.63,3.88,3.9,3.71,3.82,3.65
 Economics,201,Will,Wheeler,Intro Econ Analy Micro,4.13,4.07,4.27,4.13,4.0,4.13,3.93
 Economics,201,Amani,Rashid,Intro Econ Analy Micro,3.97,4.07,4.14,4.16,4.3,4.1,3.96
@@ -42,8 +42,9 @@ Economics,201,Cordon,Newhart,Intro Econ Analy Micro,3.33,3.16,3.51,3.41,3.67,3.6
 Economics,201,Mark,Ryan,Intro Econ Analy Micro,3.97,4.07,4.13,3.97,4.0,4.11,3.91
 Economics,201,Timothy,Oltman,Intro Econ Analy Micro,3.95,3.94,3.89,3.94,4.28,4.0,3.94
 Economics,201,Silke,Friedrich,Intro Econ Analy Micro,3.42,3.05,3.59,3.48,3.65,3.6,3.27
-Economics,202,Stephen,Haynes,Intro Econ Analy Macro,4.13,4.11,4.37,4.13,4.18,4.31,4.07
-Economics,202,Thomas,Stockwell,Intro Econ Analy Macro,4.33,4.17,4.0,4.67,4.67,4.5,4.33
+Economics,202,Stephen,Haynes,Intro Econ Analy Macro,4.13,4.1,4.36,4.13,4.18,4.3,4.07
+Economics,202,Thomas,Stockwell,Intro Econ Analy Macro,4.24,4.21,4.13,4.47,4.52,4.42,4.24
+Economics,202,Nick,Wood,Intro Econ Analy Macro,3.77,3.74,3.77,3.78,4.08,3.89,3.83
 Economics,202,Melissa,Wilson,Intro Econ Analy Macro,4.0,3.86,4.14,4.14,4.0,4.29,4.29
 Economics,202,Erin,Hunt,Intro Econ Analy Macro,3.95,3.92,4.0,3.98,4.16,4.08,3.94
 Economics,202,Ayesha,Khalid,Intro Econ Analy Macro,3.45,3.32,3.8,3.72,3.77,3.85,3.62
@@ -54,7 +55,6 @@ Economics,202,Adam,Vester,Intro Econ Analy Macro,4.11,4.11,4.22,4.33,4.33,4.0,4.
 Economics,202,Jeremy,Piger,Intro Econ Analy Macro,4.03,4.06,4.18,4.09,4.11,4.2,3.99
 Economics,202,Timothy,Duy,Intro Econ Analy Macro,4.05,4.04,4.18,4.15,4.08,4.17,4.0
 Economics,202,Sacha,Gelfer,Intro Econ Analy Macro,4.19,4.21,4.31,4.34,4.28,4.33,4.19
-Economics,202,Nick,Wood,Intro Econ Analy Macro,3.57,3.57,3.5,3.71,4.0,3.71,3.71
 Economics,202,Chad,Fulton,Intro Econ Analy Macro,3.75,3.69,3.9,3.83,3.99,3.98,3.76
 Economics,202,Tyler,Schipper,Intro Econ Analy Macro,4.11,4.17,4.17,4.18,4.31,4.28,3.95
 Economics,202,Charles,Higgins,Intro Econ Analy Macro,4.16,4.18,4.3,4.21,4.3,4.3,4.11
@@ -71,14 +71,16 @@ Economics,202,Peter,Williams,Intro Econ Analy Macro,3.68,3.79,3.71,3.64,3.68,3.8
 Economics,202,Anna-Maria,Aksan,Intro Econ Analy Macro,2.82,2.56,3.2,3.0,3.51,3.34,2.95
 Economics,202,Ryan,Herzog,Intro Econ Analy Macro,4.0,4.1,4.21,4.14,3.98,4.18,3.95
 Economics,202,Mark,Ryan,Intro Econ Analy Macro,4.06,4.28,4.22,4.28,4.28,4.17,4.17
+Economics,311,Alfredo,Burlando,Interm Microec Theory,3.88,3.83,3.91,4.05,3.96,3.94,3.87
+Economics,311,Jonathan,Davis,Interm Microec Theory,4.17,4.23,4.26,4.36,4.55,4.32,4.16
+Economics,311,Mike,Kuhn,Interm Microec Theory,4.17,4.21,4.24,4.33,4.34,4.3,4.14
+Economics,311,Anne,van den Nouweland,Interm Microec Theory,3.37,3.13,3.58,3.62,3.33,3.27,3.3
 Economics,311,Nathan,Biemiller,Interm Microec Theory,4.09,4.09,4.22,4.18,4.3,4.27,4.12
 Economics,311,David,Brimmer,Interm Microec Theory,3.7,3.5,3.5,3.5,3.6,3.7,3.5
-Economics,311,Mike,Kuhn,Interm Microec Theory,4.12,4.16,4.2,4.3,4.32,4.25,4.09
 Economics,311,Drew,McNichols,Interm Microec Theory,3.44,3.33,3.59,3.67,3.97,3.73,3.57
 Economics,311,Kyle,Wilson,Interm Microec Theory,3.8,3.77,4.11,4.07,4.04,3.95,3.88
 Economics,311,Curtis,Dlouhy,Interm Microec Theory,3.62,3.45,3.43,3.93,4.43,3.73,3.73
 Economics,311,Ayesha,Khalid,Interm Microec Theory,3.65,3.56,3.74,3.96,3.8,3.67,3.61
-Economics,311,Alfredo,Burlando,Interm Microec Theory,3.87,3.83,3.92,4.04,3.96,3.93,3.85
 Economics,311,Michael,Jerman,Interm Microec Theory,4.25,4.32,4.37,4.45,4.41,4.37,4.18
 Economics,311,Amani,Rashid,Interm Microec Theory,4.52,4.57,4.59,4.62,4.63,4.6,4.52
 Economics,311,Nate,Adams,Interm Microec Theory,4.25,4.27,4.37,4.39,4.33,4.27,4.18
@@ -96,7 +98,6 @@ Economics,311,Joe,Wyer,Interm Microec Theory,4.18,4.16,4.22,4.24,4.22,4.22,4.24
 Economics,311,Jonathan,Thompson,Interm Microec Theory,3.7,3.55,3.64,3.88,4.15,3.91,3.79
 Economics,311,Nicholas,Sly,Interm Microec Theory,4.17,4.29,3.89,4.31,3.82,3.96,4.15
 Economics,311,Alexander,Monte Calvo,Interm Microec Theory,4.13,4.21,4.18,4.32,4.3,4.17,4.15
-Economics,311,Anne,van den Nouweland,Interm Microec Theory,3.26,3.04,3.52,3.48,3.21,3.21,3.25
 Economics,311,Matthew,Wilson,Interm Microec Theory,2.62,2.46,2.56,2.87,3.18,2.74,2.74
 Economics,311,Daniel,Mahoney,Interm Microec Theory,3.64,3.58,3.64,3.87,3.86,3.45,3.58
 Economics,311,Matthew,Taylor,Interm Microec Theory,4.0,3.98,4.0,4.06,4.02,4.04,3.94
@@ -108,14 +109,14 @@ Economics,311,Peter,Williams,Interm Microec Theory,4.11,4.05,4.12,4.33,4.23,4.01
 Economics,311,Silke,Friedrich,Interm Microec Theory,3.14,2.8,3.24,3.28,3.58,3.25,3.05
 Economics,311,Peter,Stiffler,Interm Microec Theory,3.08,2.83,3.05,3.12,3.73,3.14,3.03
 Economics,311,Kelii,Haraguchi,Interm Microec Theory,4.06,4.2,4.07,4.13,4.18,4.02,4.0
-Economics,313,Chandler,Lester,Interm Macroec Theory,4.17,4.0,3.83,4.17,4.33,4.33,3.83
-Economics,313,Mark,Thoma,Interm Macroec Theory,4.0,3.99,4.11,4.06,3.99,4.11,3.97
+Economics,313,George,Evans,Interm Macroec Theory,3.81,3.72,3.98,3.85,3.95,3.99,3.89
+Economics,313,Chandler,Lester,Interm Macroec Theory,4.08,3.98,4.02,4.15,4.39,4.32,3.97
+Economics,313,Anna,Miromanova,Interm Macroec Theory,4.57,4.62,4.67,4.69,4.71,4.63,4.57
+Economics,313,Mark,Thoma,Interm Macroec Theory,4.02,4.01,4.12,4.07,3.99,4.11,3.98
 Economics,313,Kendall,Houghton,Interm Macroec Theory,4.5,4.62,4.55,4.48,4.49,4.5,4.42
 Economics,313,Tristan,Nighswander,Interm Macroec Theory,4.6,4.71,4.59,4.65,4.62,4.6,4.58
 Economics,313,Will,Wheeler,Interm Macroec Theory,4.08,4.18,4.16,4.22,4.3,4.13,4.24
 Economics,313,David,Evans,Interm Macroec Theory,3.6,3.5,3.62,3.74,3.95,3.87,3.56
-Economics,313,Anna,Miromanova,Interm Macroec Theory,4.14,4.25,4.35,4.39,4.43,4.26,4.29
-Economics,313,George,Evans,Interm Macroec Theory,3.82,3.72,3.99,3.82,3.94,3.98,3.87
 Economics,313,Nick,Wood,Interm Macroec Theory,4.1,3.9,4.05,4.1,4.3,4.25,4.1
 Economics,313,Ben,Brennan,Interm Macroec Theory,3.67,3.48,3.79,3.79,4.19,4.03,3.72
 Economics,313,Nigel,McClung,Interm Macroec Theory,4.36,4.34,4.37,4.48,4.44,4.5,4.28
@@ -143,10 +144,10 @@ Economics,313,Andrea,Giusto,Interm Macroec Theory,4.14,4.29,4.19,4.2,3.97,3.99,4
 Economics,313,Sean,Severe,Interm Macroec Theory,3.64,3.57,3.83,3.83,3.84,3.61,3.68
 Economics,313,Chang Yong,Kim,Interm Macroec Theory,3.73,3.72,4.03,3.96,4.0,3.82,3.67
 Economics,313,Laura,Steiger,Interm Macroec Theory,3.82,3.97,4.21,4.12,4.24,3.91,3.88
+Economics,320,Tobias,Sytsma,Intro to Econometrics,4.5,4.4,4.35,4.45,4.5,4.5,4.45
+Economics,320,Mark,Thoma,Intro to Econometrics,3.92,3.95,4.06,3.99,3.95,4.04,3.87
 Economics,320,Simon,Minard,Intro to Econometrics,4.46,4.6,4.48,4.52,4.59,4.65,4.45
-Economics,320,Tobias,Sytsma,Intro to Econometrics,4.56,4.44,4.33,4.44,4.56,4.56,4.44
 Economics,320,Jeremy,Piger,Intro to Econometrics,4.38,4.49,4.48,4.48,4.41,4.41,4.36
-Economics,320,Mark,Thoma,Intro to Econometrics,3.92,3.95,4.06,3.99,3.98,4.03,3.86
 Economics,320,Nate,Adams,Intro to Econometrics,4.39,4.33,4.34,4.47,4.35,4.32,4.31
 Economics,320,Tristan,Nighswander,Intro to Econometrics,4.67,4.72,4.67,4.61,4.67,4.67,4.72
 Economics,320,Rosie,Mueller,Intro to Econometrics,4.31,4.33,4.32,4.28,4.41,4.44,4.36
@@ -157,16 +158,18 @@ Economics,320,Colin,Corbett,Intro to Econometrics,3.15,2.9,3.27,3.24,3.61,3.48,3
 Economics,320,Benjamin,Fitch-Fleischmann,Intro to Econometrics,4.13,4.25,4.18,4.38,4.38,4.13,4.23
 Economics,320,Harold,Cuffe,Intro to Econometrics,3.6,3.5,3.71,3.64,3.66,3.56,3.58
 Economics,320,Logan,Lee,Intro to Econometrics,4.08,4.04,4.16,4.25,4.42,4.21,4.12
+Economics,327,Zachary,Kiefer,Intro to Game Theory,3.92,3.75,3.79,3.94,4.17,3.96,3.79
 Economics,327,Mike,Urbancic,Intro to Game Theory,4.43,4.46,4.41,4.31,4.5,4.35,4.28
 Economics,327,Christopher,Ellis,Intro to Game Theory,3.84,3.84,3.82,3.85,3.88,3.73,3.75
 Economics,327,Matthew,Wilson,Intro to Game Theory,2.32,2.12,3.03,2.68,3.35,2.67,2.65
 Economics,327,Alexander,Monte Calvo,Intro to Game Theory,4.37,4.41,4.24,4.35,4.22,4.15,4.21
+Economics,330,Christian,Imboden,Urban & Region Ec Prob,4.06,3.91,4.0,3.99,4.2,4.17,4.14
 Economics,330,Mike,Urbancic,Urban & Region Ec Prob,4.18,4.3,4.33,4.23,4.37,4.3,4.15
-Economics,330,Christian,Imboden,Urban & Region Ec Prob,3.7,3.46,3.64,3.65,3.81,3.76,3.7
 Economics,330,Gulcan,Cil,Urban & Region Ec Prob,3.55,3.33,3.76,3.62,4.1,3.9,3.53
 Economics,330,Lance,Kaufman,Urban & Region Ec Prob,3.32,3.19,2.97,3.33,3.52,2.93,3.35
 Economics,330,Isaac,Swensen,Urban & Region Ec Prob,3.9,3.8,3.93,4.02,4.15,3.89,3.86
 Economics,330,Silke,Friedrich,Urban & Region Ec Prob,3.51,3.19,3.73,3.69,3.72,3.62,3.63
+Economics,333,Ryan,Walch,Resour & Envir Ec Iss,4.0,4.03,4.06,4.0,4.31,4.19,4.03
 Economics,333,Rosie,Mueller,Resour & Envir Ec Iss,4.04,4.02,4.09,4.07,4.18,4.11,3.98
 Economics,333,Will,Wheeler,Resour & Envir Ec Iss,4.33,4.5,4.33,4.33,4.5,4.33,4.5
 Economics,333,Kyle,Wilson,Resour & Envir Ec Iss,4.08,3.98,4.16,4.11,4.14,4.21,4.0
@@ -179,6 +182,7 @@ Economics,333,Matthew,Taylor,Resour & Envir Ec Iss,4.2,4.32,4.28,4.24,4.24,4.13,
 Economics,333,Eric,Duquette,Resour & Envir Ec Iss,3.78,3.82,3.72,3.96,4.54,3.77,3.94
 Economics,333,Toni,Sipic,Resour & Envir Ec Iss,3.56,3.54,3.52,3.67,3.7,3.46,3.59
 Economics,333,Erica,Johnson,Resour & Envir Ec Iss,3.69,3.79,3.93,3.87,4.2,4.03,3.56
+Economics,340,Maxwell,Mindock,Iss Public Economics,4.09,4.09,4.18,4.36,4.64,4.0,4.09
 Economics,340,Brett,Garcia,Iss Public Economics,4.14,4.0,4.43,4.43,4.86,4.71,4.14
 Economics,340,Ben,Brennan,Iss Public Economics,4.06,4.22,4.19,4.41,4.59,4.5,4.06
 Economics,340,Nathan,Biemiller,Iss Public Economics,4.25,4.21,4.29,4.32,4.28,4.16,4.18
@@ -191,6 +195,7 @@ Economics,340,Christopher,Ellis,Iss Public Economics,4.0,4.25,4.21,4.25,4.18,4.0
 Economics,340,Lance,Kaufman,Iss Public Economics,3.24,3.0,2.96,3.18,3.76,3.33,3.17
 Economics,340,Thomas,Groll,Iss Public Economics,4.03,4.14,4.15,4.2,4.4,3.97,3.96
 Economics,340,Beilei,Cai,Iss Public Economics,3.44,3.25,3.8,3.52,3.76,3.79,3.39
+Economics,350,Nathan,Biemiller,Labor Market Issues,4.32,4.46,4.5,4.52,4.44,4.4,4.3
 Economics,350,Kyle,Raze,Labor Market Issues,4.25,4.25,4.17,4.33,4.58,4.0,4.33
 Economics,350,Amani,Rashid,Labor Market Issues,4.54,4.59,4.56,4.6,4.59,4.56,4.54
 Economics,350,Christian,Imboden,Labor Market Issues,4.04,4.01,4.12,4.14,4.17,4.1,3.99
@@ -207,8 +212,8 @@ Economics,350,Hui-Hsuan,Tang,Labor Market Issues,4.03,3.99,4.21,4.13,4.14,4.04,3
 Economics,350,Edward,Muller,Labor Market Issues,3.13,3.02,3.16,3.16,3.73,3.36,3.11
 Economics,350,Matthew,Taylor,Labor Market Issues,4.31,4.42,4.39,4.47,4.29,4.23,4.17
 Economics,350,Peter,Stiffler,Labor Market Issues,4.16,4.28,4.22,4.12,4.53,4.29,4.14
+Economics,360,Curtis,Dlouhy,Iss Industrial Organiz,4.16,3.84,4.16,4.12,4.55,4.17,4.17
 Economics,360,Ryan,Walch,Iss Industrial Organiz,4.02,4.0,4.14,4.19,4.24,4.09,4.1
-Economics,360,Curtis,Dlouhy,Iss Industrial Organiz,4.07,3.58,4.1,4.03,4.53,4.15,4.12
 Economics,360,Taylor,McKenzie,Iss Industrial Organiz,4.18,4.21,4.18,4.28,4.32,4.26,4.15
 Economics,360,Joe,Wyer,Iss Industrial Organiz,4.2,4.19,4.2,4.2,4.24,4.22,4.16
 Economics,360,Thomas,Bryan,Iss Industrial Organiz,3.96,3.98,3.98,4.0,4.11,4.09,3.98
@@ -218,9 +223,9 @@ Economics,360,Thomas,Groll,Iss Industrial Organiz,4.29,4.37,4.34,4.45,4.56,4.38,
 Economics,360,Toni,Sipic,Iss Industrial Organiz,3.78,3.73,3.76,3.82,3.7,3.68,3.73
 Economics,360,David,Wozniak,Iss Industrial Organiz,3.74,3.56,3.42,3.47,3.93,3.81,3.57
 Economics,360,Chang Yong,Kim,Iss Industrial Organiz,4.56,4.67,4.67,4.67,4.56,4.44,4.67
+Economics,370,Hoa,Duong,Money & Banking,3.87,3.73,4.11,4.07,4.19,4.1,3.77
 Economics,370,Xiang,Li,Money & Banking,3.81,3.44,3.62,3.75,4.25,3.75,3.62
 Economics,370,Nick,Wood,Money & Banking,3.05,2.96,3.43,3.33,3.78,3.55,3.17
-Economics,370,Hoa,Duong,Money & Banking,3.73,3.55,4.07,4.02,4.13,4.07,3.64
 Economics,370,Brian,Dombeck,Money & Banking,3.93,4.06,4.04,3.94,4.11,3.84,3.94
 Economics,370,Ben,Brennan,Money & Banking,3.6,3.39,3.72,3.61,3.92,3.96,3.73
 Economics,370,Adam,Check,Money & Banking,4.08,4.03,4.22,4.16,4.34,4.18,4.1
@@ -243,8 +248,8 @@ Economics,380,Jeffrey,Allen,Intl Econ Issues,4.1,3.98,4.02,4.12,4.23,4.12,4.06
 Economics,380,Donghyun,Lee,Intl Econ Issues,4.05,3.98,4.23,4.04,4.15,4.2,4.01
 Economics,380,Chang Yong,Kim,Intl Econ Issues,3.88,3.78,4.13,3.87,3.9,4.07,3.9
 Economics,380,Matthew,Cole,Intl Econ Issues,3.88,3.75,3.75,3.81,4.19,3.88,3.88
+Economics,390,Kyle,Wilson,Prob/Iss Dev Economies,4.1,4.15,4.28,4.31,4.21,4.26,4.18
 Economics,390,Tobias,Sytsma,Prob/Iss Dev Economies,4.5,4.54,4.62,4.59,4.53,4.58,4.44
-Economics,390,Kyle,Wilson,Prob/Iss Dev Economies,4.05,4.14,4.09,4.19,4.14,4.09,4.09
 Economics,390,Paulomi,Bhattacharyya,Prob/Iss Dev Economies,3.79,3.72,4.08,3.9,4.03,3.95,3.89
 Economics,390,Taylor,McKenzie,Prob/Iss Dev Economies,4.0,3.93,4.08,4.08,4.25,4.33,4.05
 Economics,390,Jonathan,Thompson,Prob/Iss Dev Economies,4.22,4.21,4.26,4.18,4.3,4.25,4.27
@@ -265,8 +270,9 @@ Economics,399,Anca,Cristea,Sp St Econ of Globaliz,4.0,4.06,4.06,4.03,4.08,4.0,3.
 Economics,399,Timothy,Duy,Sp St Asia & Wall St,4.75,4.62,4.62,4.6,4.5,4.12,4.69
 Economics,404,Bill,Sherman,Internship,4.67,4.67,4.67,4.67,4.67,4.67,4.67
 Economics,404,Timothy,Duy,Internship,4.25,4.33,4.46,4.25,4.17,4.46,4.46
-Economics,407,Bill,Sherman,Sem Careers in Econ,4.51,4.51,4.46,4.42,4.62,4.45,4.5
+Economics,407,Bill,Sherman,Sem Careers in Econ,4.51,4.52,4.47,4.41,4.61,4.44,4.5
 Economics,408,Timothy,Duy,Wrk Peer Advising,4.27,4.25,4.29,4.3,4.31,4.3,4.27
+Economics,410,William,Whitelaw,Econ Prob PNW,4.09,3.91,3.46,3.91,4.64,3.64,3.73
 Economics,410,Ben,Hansen,Econ Crime,4.37,4.47,4.29,4.3,4.33,4.39,4.33
 Economics,410,Christopher,Ellis,Political Economy,3.77,3.87,3.85,3.88,4.04,3.56,3.79
 Economics,410,David,Evans,Computational Econ,4.14,4.0,3.93,4.14,4.47,4.31,4.37
@@ -282,7 +288,7 @@ Economics,410,Wesley,Wilson,Transportation Econ,4.31,4.51,3.97,4.34,4.8,4.23,4.3
 Economics,410,Jason,Lindo,Economics of Gender,4.06,4.11,4.04,4.1,4.1,3.86,3.94
 Economics,410,Van,Kolpin,Economics and Law,3.57,3.41,3.36,3.29,4.16,3.89,3.48
 Economics,410,Timothy,Duy,Economic Forecasting,4.67,4.29,3.61,4.28,4.25,4.05,4.75
-Economics,411,Jiabin,Wu,Adv Micro Theory,4.43,4.43,4.57,4.71,4.57,4.43,4.43
+Economics,411,Jiabin,Wu,Adv Micro Theory,4.33,4.33,4.48,4.55,4.48,4.33,4.33
 Economics,411,Anne,van den Nouweland,Adv Micro Theory,4.18,4.18,4.21,4.44,3.78,3.8,4.24
 Economics,411,Peter,Lambert,Adv Micro Theory,3.63,3.35,3.95,3.65,4.09,3.81,3.9
 Economics,413,Bruce,McGough,Adv Macro Theory,4.09,4.1,3.99,4.16,4.01,3.87,4.09
@@ -301,9 +307,9 @@ Economics,420,Wesley,Wilson,Intro Econometrics,3.92,4.02,3.91,4.03,4.27,3.9,3.94
 Economics,420,Toni,Sipic,Intro Econometrics,4.26,4.42,4.29,4.43,4.69,4.38,4.36
 Economics,420,Eric,Gaus,Intro Econometrics,3.54,3.54,3.54,3.54,4.09,3.73,3.64
 Economics,420,Edward,Muller,Intro Econometrics,3.71,3.69,3.51,3.77,4.26,4.03,3.77
+Economics,421,Will,Wheeler,Intro Econometrics,4.21,4.22,4.33,4.35,4.36,4.25,4.21
 Economics,421,Mark,Thoma,Intro Econometrics,3.98,3.88,4.01,4.01,3.92,4.03,3.99
 Economics,421,Caroline,Weber,Intro Econometrics,4.05,4.06,4.19,4.15,4.17,4.14,4.09
-Economics,421,Will,Wheeler,Intro Econometrics,4.3,4.3,4.37,4.38,4.46,4.35,4.37
 Economics,421,Wesley,Wilson,Intro Econometrics,4.2,4.25,4.17,4.16,4.44,4.19,4.15
 Economics,421,Gulcan,Cil,Intro Econometrics,3.85,3.88,3.9,4.03,4.07,3.94,3.9
 Economics,421,Jean,Falconer,Intro Econometrics,4.36,4.36,4.36,4.36,4.36,4.36,4.36
@@ -322,16 +328,17 @@ Economics,421,Eric,Gaus,Intro Econometrics,4.09,4.12,4.23,4.25,4.49,4.17,3.92
 Economics,421,Anna-Maria,Aksan,Intro Econometrics,3.9,4.0,4.4,4.3,4.3,4.0,3.9
 Economics,421,Nino,Sitchinava,Intro Econometrics,4.5,4.56,4.56,4.53,4.42,4.42,4.42
 Economics,422,Timothy,Duy,Economic Forecasting,4.42,4.31,4.09,4.37,4.41,3.99,4.49
-Economics,423,Van,Kolpin,Econometrics,4.19,4.13,4.02,3.86,4.79,4.74,4.21
+Economics,423,Van,Kolpin,Econometrics,4.17,4.1,3.98,3.8,4.79,4.75,4.23
 Economics,423,Peter,Lambert,Econometrics,3.67,3.37,4.05,3.39,4.22,4.14,3.74
 Economics,424,George,Evans,Econometrics,4.44,4.53,4.71,4.53,4.24,4.31,4.39
 Economics,425,Trudy,Cameron,Econometrics,3.94,3.86,4.04,3.83,4.48,4.16,3.85
+Economics,427,Anne,van den Nouweland,Games & Decisions,3.78,3.64,3.95,3.94,3.63,3.51,3.77
 Economics,427,Zachary,Kiefer,Games & Decisions,4.04,3.68,3.96,4.18,4.27,3.96,4.04
 Economics,427,Jiabin,Wu,Games & Decisions,4.09,4.04,4.22,4.22,4.23,4.03,4.06
-Economics,427,Anne,van den Nouweland,Games & Decisions,3.69,3.53,3.85,3.84,3.52,3.38,3.7
 Economics,427,Adam,Vester,Games & Decisions,4.14,4.05,4.0,3.86,4.48,4.29,3.9
 Economics,427,Van,Kolpin,Games & Decisions,3.18,3.15,3.0,3.24,4.03,3.56,3.15
 Economics,428,William,Harbaugh,Behav & Exper Econ,3.87,3.89,3.17,3.75,3.84,3.47,3.88
+Economics,430,Mark,Colas,Urban & Regional Econ,4.28,4.3,4.3,4.39,4.35,4.28,4.14
 Economics,430,William,Whitelaw,Urban & Regional Econ,4.52,4.41,4.25,4.21,4.67,4.18,4.46
 Economics,432,William,Whitelaw,Economy Pacific NW,4.31,4.31,3.92,4.0,4.64,3.9,4.24
 Economics,433,Sally,Hays,Resource & Environ Ec,4.2,4.4,4.4,4.4,4.4,4.4,4.0
@@ -339,22 +346,22 @@ Economics,433,Trudy,Cameron,Resource & Environ Ec,3.74,3.68,3.75,3.69,3.76,3.81,
 Economics,434,Grant,McDermott,Environmental Econ,3.85,3.86,3.61,3.83,3.97,3.77,3.88
 Economics,434,Gulcan,Cil,Environmental Econ,4.17,4.25,4.54,4.42,4.54,4.5,4.33
 Economics,434,Ralph,Mastromonaco,Environmental Econ,3.84,3.78,3.82,3.92,4.11,3.77,3.82
+Economics,435,Trudy,Cameron,Natural Resource Econ,3.78,3.66,3.57,3.7,4.0,3.72,3.88
 Economics,435,Amna,Javed,Natural Resource Econ,3.65,3.73,3.73,3.77,3.97,3.62,3.73
-Economics,435,Trudy,Cameron,Natural Resource Econ,3.88,3.65,3.7,3.73,3.98,3.76,3.95
 Economics,435,Rosie,Mueller,Natural Resource Econ,4.23,4.07,4.25,4.18,4.21,4.33,4.11
-Economics,440,Christopher,Ellis,Public Economics,3.95,3.96,3.97,4.0,4.02,3.88,3.9
+Economics,440,Christopher,Ellis,Public Economics,3.94,3.96,3.96,4.0,4.01,3.86,3.9
 Economics,441,Christian,Imboden,Public Econ: Taxation,4.08,4.12,4.08,4.23,4.31,4.19,4.23
 Economics,441,Caroline,Weber,Public Econ: Taxation,4.29,4.3,4.34,4.46,4.26,4.22,4.26
 Economics,443,Ben,Hansen,Health Economics,4.4,4.46,4.27,4.39,4.34,4.37,4.32
 Economics,443,Melanie,Fox,Health Economics,3.7,3.69,3.65,3.81,3.61,3.8,3.81
 Economics,443,Robin,McKnight,Health Economics,4.18,4.14,4.41,4.32,4.13,4.27,4.12
-Economics,448,Christopher,Ellis,Political Economy,4.15,4.15,4.0,4.11,4.22,3.78,4.11
+Economics,448,Christopher,Ellis,Political Economy,4.11,4.11,3.93,4.16,4.11,3.82,4.09
+Economics,450,Glen,Waddell,Labor Economics,4.13,4.18,4.09,4.21,4.02,3.96,4.07
 Economics,450,Nate,Adams,Labor Economics,4.34,4.34,4.39,4.43,4.38,4.39,4.33
-Economics,450,Glen,Waddell,Labor Economics,4.12,4.19,4.1,4.21,4.0,3.95,4.07
 Economics,450,Eric,Dodge,Labor Economics,4.22,4.28,4.31,4.29,4.14,4.28,4.17
 Economics,450,Erica,Birk,Labor Economics,4.15,4.21,4.15,4.21,4.17,4.13,4.19
 Economics,450,Bryce,Ward,Labor Economics,4.17,4.09,3.65,4.04,3.83,3.91,3.96
-Economics,451,Mike,Kuhn,Issues Labor Economics,4.09,4.13,4.18,4.22,4.28,4.17,4.04
+Economics,451,Mike,Kuhn,Issues Labor Economics,4.12,4.14,4.19,4.2,4.29,4.19,4.07
 Economics,451,Mike,Urbancic,Issues Labor Economics,3.92,3.88,3.88,3.87,4.03,3.95,3.85
 Economics,451,Jason,Lindo,Issues Labor Economics,4.01,4.11,4.07,4.11,4.07,3.9,3.94
 Economics,460,Curtis,Dlouhy,Theor Industrial Org,3.62,3.75,3.75,3.75,4.0,3.5,3.44
@@ -380,17 +387,17 @@ Economics,470,James,Haag,Monetary Policy,3.7,3.76,3.66,3.7,3.57,3.67,3.76
 Economics,470,John,Kandrac,Monetary Policy,4.29,4.32,4.28,4.32,4.33,4.12,4.18
 Economics,470,Ryan,Herzog,Monetary Policy,4.26,4.36,4.29,4.42,4.35,4.16,4.34
 Economics,470,Andrea,Giusto,Monetary Policy,4.07,4.18,4.18,4.13,4.23,4.07,4.11
-Economics,471,Timothy,Duy,Monetary Theory,4.46,4.52,4.35,4.5,4.5,4.33,4.49
+Economics,471,Timothy,Duy,Monetary Theory,4.42,4.4,4.23,4.39,4.32,4.27,4.37
 Economics,471,Jo Anna,Gray,Monetary Theory,3.89,3.9,4.05,3.88,4.15,4.07,3.9
 Economics,471,Laura,Steiger,Monetary Theory,3.56,3.52,3.24,3.58,4.12,3.76,3.68
+Economics,480,Shankha,Chakraborty,International Finance,4.11,4.09,4.16,4.2,4.1,4.1,4.1
 Economics,480,Nigel,McClung,International Finance,4.35,4.3,4.23,4.3,4.3,4.34,4.28
-Economics,480,Shankha,Chakraborty,International Finance,4.09,4.07,4.14,4.19,4.09,4.07,4.08
 Economics,480,Brian,Dombeck,International Finance,3.6,3.53,3.45,3.66,3.6,3.32,3.47
 Economics,480,Chang Yong,Kim,International Finance,3.96,3.86,4.15,4.11,4.24,4.13,3.84
 Economics,480,Andrea,Giusto,International Finance,4.36,4.31,4.5,4.39,4.36,4.17,4.22
 Economics,480,Nicolas,Magud,International Finance,3.71,3.67,3.9,3.8,3.82,3.88,3.59
+Economics,481,Woan Foong,Wong,International Trade,3.55,3.46,3.7,3.75,3.75,3.73,3.5
 Economics,481,Anna,Miromanova,International Trade,4.56,4.62,4.62,4.56,4.56,4.64,4.49
-Economics,481,Woan Foong,Wong,International Trade,3.57,3.45,3.71,3.75,3.69,3.67,3.48
 Economics,481,Anca,Cristea,International Trade,4.24,4.26,4.34,4.35,4.28,4.29,4.24
 Economics,481,Kasaundra,Tomlin,International Trade,4.0,3.72,3.83,3.86,4.21,3.93,3.86
 Economics,481,Nicholas,Sly,International Trade,3.47,3.65,3.1,3.63,3.36,3.09,3.56
@@ -401,7 +408,7 @@ Economics,482,Anca,Cristea,Econ of Globalization,4.13,4.17,4.14,4.17,4.2,4.09,4.
 Economics,484,Felix,Friedt,Multinational Corp,3.93,3.97,3.9,3.97,4.0,4.07,3.93
 Economics,484,Chong Uk,Kim,Multinational Corp,4.49,4.51,4.51,4.63,4.54,4.46,4.51
 Economics,484,Bruce,Blonigen,Multinational Corp,4.22,4.38,4.24,4.16,4.42,4.1,4.22
-Economics,490,Alfredo,Burlando,Econ Growth & Develop,3.96,3.99,3.96,4.0,3.99,3.95,3.91
+Economics,490,Alfredo,Burlando,Econ Growth & Develop,3.95,3.99,3.95,4.0,4.0,3.94,3.93
 Economics,490,Tyler,Schipper,Econ Growth & Develop,4.38,4.48,4.43,4.37,4.48,4.47,4.34
 Economics,490,Shankha,Chakraborty,Econ Growth & Develop,3.93,4.01,4.0,4.12,3.94,3.8,3.7
 Economics,490,Laura,Steiger,Econ Growth & Develop,3.47,3.61,3.54,3.64,3.77,3.57,3.55
@@ -413,6 +420,7 @@ Economics,491,Melanie,Fox,Iss Econ Growth & Dev,4.21,4.29,4.07,4.29,4.07,4.21,4.
 Economics,493,Stephen,Stageberg,Evolution Econ Ideas,4.41,4.51,4.55,4.46,4.29,4.19,4.33
 Economics,493,Timothy,Duy,Evolution Econ Ideas,4.37,4.42,4.27,4.48,4.18,4.17,4.35
 Economics,493,Mark,Thoma,Evolution Econ Ideas,4.2,4.35,4.37,4.36,4.2,4.07,4.3
+Economics,510,William,Whitelaw,Econ Prob PNW,4.09,3.91,3.46,3.91,4.64,3.64,3.73
 Economics,510,Ben,Hansen,Econ Crime,4.32,4.41,4.16,4.21,4.16,4.36,4.29
 Economics,510,Christopher,Ellis,Political Economy,3.7,3.87,3.77,3.85,3.99,3.44,3.71
 Economics,510,Anca,Cristea,Econ of Globalization,4.04,4.04,4.07,4.1,4.21,4.09,4.04
@@ -427,7 +435,7 @@ Economics,510,Jason,Lindo,Economics of Gender,4.06,4.11,4.04,4.1,4.1,3.86,3.94
 Economics,510,Wesley,Wilson,Transportation Econ,3.97,4.41,3.9,4.34,4.69,4.21,3.93
 Economics,510,Van,Kolpin,Economics and Law,3.57,3.41,3.36,3.29,4.16,3.89,3.48
 Economics,510,Timothy,Duy,Economic Forecasting,4.67,4.29,3.61,4.28,4.25,4.05,4.75
-Economics,511,Jiabin,Wu,Adv Micro Theory,4.43,4.43,4.57,4.71,4.57,4.43,4.43
+Economics,511,Jiabin,Wu,Adv Micro Theory,4.33,4.33,4.48,4.55,4.48,4.33,4.33
 Economics,511,Anne,van den Nouweland,Adv Micro Theory,4.15,4.1,4.16,4.41,3.64,3.71,4.22
 Economics,511,Peter,Lambert,Adv Micro Theory,3.63,3.35,3.95,3.65,4.09,3.81,3.9
 Economics,513,Bruce,McGough,Adv Macro Theory,4.09,4.1,3.99,4.16,4.01,3.87,4.09
@@ -441,27 +449,29 @@ Economics,521,Donghyun,Lee,Intro Econometrics,3.92,3.88,4.0,4.23,4.19,4.15,3.77
 Economics,521,David,Wozniak,Intro Econometrics,3.44,3.35,3.13,3.52,4.09,3.65,3.39
 Economics,521,Anna-Maria,Aksan,Intro Econometrics,3.9,4.0,4.4,4.3,4.3,4.0,3.9
 Economics,522,Timothy,Duy,Economic Forecasting,4.34,4.28,3.98,4.3,4.36,4.04,4.43
-Economics,523,Van,Kolpin,Econometrics,4.19,4.13,4.02,3.86,4.79,4.74,4.21
+Economics,523,Van,Kolpin,Econometrics,4.17,4.1,3.98,3.8,4.79,4.75,4.23
 Economics,523,Peter,Lambert,Econometrics,3.67,3.37,4.05,3.39,4.22,4.14,3.74
 Economics,524,George,Evans,Econometrics,4.44,4.53,4.71,4.53,4.24,4.31,4.39
 Economics,525,Trudy,Cameron,Econometrics,3.97,3.89,4.06,3.86,4.5,4.17,3.89
+Economics,527,Anne,van den Nouweland,Games & Decisions,3.78,3.64,3.95,3.94,3.63,3.51,3.77
 Economics,527,Jiabin,Wu,Games & Decisions,4.1,4.04,4.26,4.24,4.23,4.01,4.02
-Economics,527,Anne,van den Nouweland,Games & Decisions,3.69,3.53,3.85,3.84,3.52,3.38,3.7
 Economics,527,Van,Kolpin,Games & Decisions,3.18,3.15,3.0,3.24,4.03,3.56,3.15
 Economics,528,William,Harbaugh,Behav & Exper Econ,3.95,4.0,3.23,3.87,3.86,3.44,3.93
+Economics,530,Mark,Colas,Urban & Regional Econ,4.28,4.3,4.3,4.39,4.35,4.28,4.14
 Economics,530,William,Whitelaw,Urban & Regional Econ,4.44,4.31,4.15,4.11,4.59,4.04,4.4
 Economics,532,William,Whitelaw,Economy Pacific NW,4.25,4.22,3.9,3.85,4.53,3.87,4.16
 Economics,533,Sally,Hays,Resource & Environ Ec,4.2,4.4,4.4,4.4,4.4,4.4,4.0
 Economics,533,Trudy,Cameron,Resource & Environ Ec,3.82,3.75,3.89,3.72,3.88,3.87,3.79
 Economics,534,Gulcan,Cil,Environmental Econ,4.17,4.25,4.54,4.42,4.54,4.5,4.33
 Economics,534,Ralph,Mastromonaco,Environmental Econ,3.84,3.78,3.82,3.92,4.11,3.77,3.82
-Economics,535,Trudy,Cameron,Natural Resource Econ,4.2,3.9,4.1,3.9,4.1,3.9,4.2
-Economics,540,Christopher,Ellis,Public Economics,4.03,4.05,4.08,4.05,4.09,3.93,3.93
+Economics,535,Trudy,Cameron,Natural Resource Econ,3.9,3.79,3.71,3.77,4.07,3.77,3.96
+Economics,540,Christopher,Ellis,Public Economics,3.99,4.03,4.05,4.03,4.05,3.88,3.92
 Economics,541,Caroline,Weber,Public Econ: Taxation,4.3,4.27,4.33,4.43,4.22,4.14,4.25
 Economics,543,Ben,Hansen,Health Economics,4.34,4.39,4.18,4.33,4.32,4.3,4.27
 Economics,543,Melanie,Fox,Health Economics,3.68,3.61,3.62,3.79,3.43,3.78,3.76
+Economics,548,Christopher,Ellis,Political Economy,4.07,4.07,3.86,4.21,4.0,3.86,4.07
+Economics,550,Glen,Waddell,Labor Economics,4.13,4.17,4.11,4.2,3.99,3.94,4.08
 Economics,550,Eric,Dodge,Labor Economics,4.24,4.28,4.33,4.29,4.14,4.32,4.17
-Economics,550,Glen,Waddell,Labor Economics,4.11,4.18,4.13,4.19,3.97,3.93,4.09
 Economics,551,Mike,Kuhn,Issues Labor Economics,4.12,4.15,4.21,4.25,4.33,4.2,4.11
 Economics,551,Jason,Lindo,Issues Labor Economics,4.01,4.13,4.12,4.15,4.11,3.94,3.94
 Economics,560,Wesley,Wilson,Theor Industrial Org,4.38,4.49,4.36,4.37,4.68,4.36,4.34
@@ -487,17 +497,23 @@ Economics,581,Matthew,Cole,International Trade,3.83,3.72,3.89,3.86,3.97,4.0,3.78
 Economics,582,Anca,Cristea,Econ of Globalization,4.13,4.17,4.14,4.17,4.2,4.09,4.05
 Economics,584,Felix,Friedt,Multinational Corp,3.93,3.97,3.9,3.97,4.0,4.07,3.93
 Economics,584,Chong Uk,Kim,Multinational Corp,4.49,4.51,4.51,4.63,4.54,4.46,4.51
+Economics,590,Alfredo,Burlando,Econ Growth & Develop,3.92,3.97,3.92,4.02,3.99,3.89,3.9
 Economics,590,Tyler,Schipper,Econ Growth & Develop,4.38,4.48,4.43,4.37,4.48,4.47,4.34
-Economics,590,Alfredo,Burlando,Econ Growth & Develop,3.93,3.96,3.93,4.02,3.98,3.88,3.87
 Economics,590,Shankha,Chakraborty,Econ Growth & Develop,3.93,4.01,4.0,4.12,3.94,3.8,3.7
 Economics,591,Shankha,Chakraborty,Iss Econ Growth & Dev,4.11,4.09,4.25,4.16,4.14,4.05,3.98
 Economics,591,Melanie,Fox,Iss Econ Growth & Dev,4.21,4.29,4.07,4.29,4.07,4.21,4.14
 Economics,593,Timothy,Duy,Evolution Econ Ideas,4.29,4.38,3.9,4.24,4.29,3.86,4.33
 Economics,593,Mark,Thoma,Evolution Econ Ideas,4.2,4.35,4.37,4.36,4.2,4.07,4.3
-Economics,602,Bruce,McGough,Superv College Teach,4.28,4.28,4.26,4.28,4.3,4.27,4.22
+Economics,602,Bruce,McGough,Superv College Teach,4.35,4.36,4.32,4.36,4.39,4.36,4.31
 Economics,602,Van,Kolpin,Superv College Teach,4.48,4.48,4.48,4.47,4.48,4.48,4.47
 Economics,602,Bruce,Blonigen,Superv College Teach,4.29,4.28,4.25,4.25,4.28,4.28,4.3
 Economics,602,Larry,Singell,Superv College Teach,4.92,4.92,4.92,4.92,4.92,4.92,4.92
+Economics,607,Shankha,Chakraborty,Sem Core Macro,4.8,4.9,4.8,4.9,4.7,4.7,4.8
+Economics,607,Mark,Colas,Sem Urban Econ,4.46,4.69,4.62,4.69,4.92,4.54,4.46
+Economics,607,George,Evans,Sem Macro Field,4.83,4.83,4.67,4.67,4.83,4.67,4.83
+Economics,607,Van,Kolpin,Sem Game Theory,4.8,4.8,4.7,4.7,5.0,4.9,4.7
+Economics,607,Jeremy,Piger,Sem Time Series Econ,4.68,4.75,4.83,4.81,4.76,4.76,4.64
+Economics,607,Jiabin,Wu,Sem Core Micro,4.37,4.43,4.68,4.52,4.59,4.47,4.53
 Economics,607,Alfredo,Burlando,Sem Development,4.36,4.43,3.93,4.36,4.68,3.61,4.11
 Economics,607,Van,Kolpin,Sem Core Micro,4.31,4.26,4.13,4.15,4.7,4.5,4.42
 Economics,607,Grant,McDermott,Sem Environmental,3.5,3.42,2.0,2.42,3.92,2.0,4.0
@@ -513,10 +529,8 @@ Economics,607,Anne,van den Nouweland,Sem Game Theory,4.47,4.5,4.36,4.4,4.33,3.98
 Economics,607,Glen,Waddell,Sem Labor,4.38,4.54,3.76,3.68,4.42,3.44,4.36
 Economics,607,Shankha,Chakraborty,Sem Macro,4.29,4.57,4.5,4.5,4.71,4.5,4.21
 Economics,607,Keaton,Miller,Sem in Industrial Org,3.78,3.82,3.99,3.82,3.81,3.92,4.18
-Economics,607,Jeremy,Piger,Sem Time Series Econ,4.66,4.72,4.82,4.8,4.74,4.73,4.64
 Economics,607,Mark,Thoma,Sem Core Macro,4.38,4.32,4.01,4.51,4.06,4.19,4.54
 Economics,607,Woan Foong,Wong,Sem International,3.14,3.0,3.14,3.71,2.57,2.29,3.29
-Economics,607,Jiabin,Wu,Sem Core Micro,4.35,4.4,4.65,4.53,4.58,4.41,4.48
 Economics,607,David,Evans,Sem Core Macro,3.97,3.94,3.41,4.0,4.34,3.88,4.22
 Economics,607,Mike,Kuhn,Sem Applied Behav Econ,4.5,4.6,4.4,4.4,4.5,4.3,4.5
 Economics,607,Caroline,Weber,Sem Taxation,4.23,4.33,4.25,4.02,4.67,4.07,4.4

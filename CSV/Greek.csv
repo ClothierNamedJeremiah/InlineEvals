@@ -1,3 +1,4 @@
+Greek,101,Christopher,Eckerman,First-Year Greek,4.6,4.4,4.4,4.4,4.4,4.6,4.2
 Greek,101,P,Bowditch,First-Year Greek,4.5,4.33,4.67,4.5,4.67,4.17,4.67
 Greek,101,Malcolm,Wilson,Basic Greek,4.54,4.67,4.54,4.7,4.57,4.46,4.42
 Greek,101,Christopher,Eckerman,Basic Greek,4.62,4.73,4.55,4.63,4.6,4.49,4.72
@@ -16,6 +17,7 @@ Greek,103,Denton,Walthall,Basic Greek,4.6,4.6,4.6,4.4,4.6,4.2,4.6
 Greek,103,Christopher,Eckerman,Basic Greek,4.41,4.28,4.36,4.42,4.73,4.34,4.48
 Greek,103,Malcolm,Wilson,Basic Greek,4.58,4.58,4.17,4.58,4.35,4.17,4.67
 Greek,103,Han,Tran,Basic Greek,4.75,4.75,4.75,4.75,4.5,4.75,5.0
+Greek,301,Malcolm,Wilson,Top Plato,4.67,4.83,4.67,4.54,4.67,4.08,4.54
 Greek,301,Christopher,Eckerman,Top Longus,4.5,4.5,4.5,4.5,4.5,4.5,4.5
 Greek,301,Mary,Jaeger,Top Lysias,4.75,4.75,4.75,4.75,5.0,4.75,4.75
 Greek,301,David,Chamberlain,Top Xenophon,4.17,4.33,3.83,4.0,3.83,3.67,4.0
@@ -23,7 +25,6 @@ Greek,301,P,Bowditch,Top Longus,4.67,5.0,4.33,4.33,5.0,5.0,4.33
 Greek,301,Christopher,Eckerman,Top Lucian,4.75,5.0,4.75,4.5,5.0,4.5,4.75
 Greek,301,David,Chamberlain,Top Lysias,4.03,4.03,4.03,4.03,3.77,3.6,3.87
 Greek,301,Christopher,Eckerman,Top Xenophon,3.83,3.8,4.2,4.2,4.2,4.2,4.4
-Greek,301,Malcolm,Wilson,Top Plato,5.0,5.0,5.0,4.75,5.0,4.5,4.75
 Greek,302,Malcolm,Wilson,Top Euripides Cyclops,4.33,4.33,4.33,4.33,4.33,4.33,4.33
 Greek,302,Christopher,Eckerman,Top Euripides,4.65,5.0,4.9,4.9,4.5,4.75,4.65
 Greek,302,Malcolm,Wilson,Top Lysias,4.8,4.8,4.8,4.4,5.0,4.4,4.8
@@ -35,6 +36,7 @@ Greek,303,P,Bowditch,Top Homer,4.66,4.73,4.52,4.59,4.66,4.59,4.66
 Greek,303,Noah,Kaye,Top Homer,3.0,2.0,3.33,2.83,3.17,2.83,2.83
 Greek,303,Malcolm,Wilson,Top Homer,4.5,5.0,4.0,5.0,5.0,4.5,4.5
 Greek,303,Wilson,Shearin,Top Homer,4.5,4.5,4.5,4.0,3.75,5.0,4.5
+Greek,411,David,Chamberlain,Top Herodotus,3.83,3.83,4.0,3.67,4.17,4.17,4.0
 Greek,411,P,Bowditch,Top Plato's Symposium,4.67,4.83,4.5,4.67,4.83,4.83,4.67
 Greek,411,Malcolm,Wilson,Top Thucydides,4.5,5.0,4.5,5.0,5.0,4.5,4.5
 Greek,411,David,Chamberlain,Top Herodotus Book 3,5.0,5.0,4.75,4.5,4.75,4.5,4.75
@@ -43,13 +45,13 @@ Greek,411,Malcolm,Wilson,Top Plutarch Selection,5.0,5.0,5.0,5.0,5.0,5.0,5.0
 Greek,411,Christopher,Eckerman,Top Theokritos,4.67,4.0,3.67,3.67,4.67,4.33,4.33
 Greek,411,David,Chamberlain,Top Thucydides,4.67,5.0,4.33,5.0,5.0,3.67,4.67
 Greek,411,P,Bowditch,Top Lucian,5.0,5.0,5.0,5.0,5.0,5.0,5.0
-Greek,411,David,Chamberlain,Top Herodotus,3.67,3.67,4.0,3.33,4.33,4.33,4.0
 Greek,411,Christopher,Eckerman,Top Pindar's Odes,5.0,5.0,4.5,4.5,5.0,5.0,5.0
 Greek,411,P,Bowditch,Top Greek Novel,4.67,5.0,4.5,4.17,4.83,4.67,4.33
 Greek,411,P,Bowditch,Top Plato,Symposium,4.75,4.75,4.75,4.5,4.75,4.75,5.0
 Greek,411,Christopher,Eckerman,Top Grk Lyric Poetry,4.5,4.5,4.75,4.5,5.0,4.25,4.5
 Greek,411,Mary,Jaeger,Top Herodotus,4.67,4.67,4.67,4.67,4.67,4.33,4.67
 Greek,411,Mary,Jaeger,Top Plutarch,4.25,4.25,4.25,4.5,4.25,4.25,4.5
+Greek,511,David,Chamberlain,Top Herodotus,3.83,3.83,4.0,3.67,4.17,4.17,4.0
 Greek,511,P,Bowditch,Top Plato's Symposium,4.67,4.83,4.5,4.67,4.83,4.83,4.67
 Greek,511,Malcolm,Wilson,Top Thucydides,4.5,5.0,4.5,5.0,5.0,4.5,4.5
 Greek,511,David,Chamberlain,Top Herodotus Book 3,5.0,5.0,4.75,4.5,4.75,4.5,4.75
@@ -59,7 +61,6 @@ Greek,511,Christopher,Eckerman,Top Theokritos,4.67,4.0,3.67,3.67,4.67,4.33,4.33
 Greek,511,David,Chamberlain,Top Thucydides,4.67,5.0,4.33,5.0,5.0,3.67,4.67
 Greek,511,P,Bowditch,Top Lucian,5.0,5.0,5.0,5.0,5.0,5.0,5.0
 Greek,511,Malcolm,Wilson,Top Plato Phaedo,5.0,4.0,3.0,4.0,4.0,4.0,5.0
-Greek,511,David,Chamberlain,Top Herodotus,3.67,3.67,4.0,3.33,4.33,4.33,4.0
 Greek,511,Christopher,Eckerman,Top Pindar's Odes,5.0,5.0,4.5,4.5,5.0,5.0,5.0
 Greek,511,P,Bowditch,Top Greek Novel,4.67,5.0,4.5,4.17,4.83,4.67,4.33
 Greek,511,P,Bowditch,Top Plato,Symposium,4.75,4.75,4.75,4.5,4.75,4.75,5.0

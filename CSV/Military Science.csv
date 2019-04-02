@@ -1,11 +1,12 @@
-Military Science,121,Jason,Hughes,Military Science I,4.77,4.84,4.82,4.77,4.69,4.76,4.66
-Military Science,121,Conrad,Vasquez,Military Science I,4.7,4.75,4.41,4.61,4.75,4.62,4.65
+Military Science,121,Jason,Hughes,Military Science I,4.6,4.64,4.63,4.6,4.57,4.6,4.55
+Military Science,121,Darren,McMahon,Military Science I,4.38,4.36,4.4,4.4,4.38,4.42,4.35
+Military Science,121,Jim,Miller,Military Science I,4.52,4.52,4.52,4.52,4.52,4.52,4.52
+Military Science,121,Conrad,Vasquez,Military Science I,4.68,4.76,4.46,4.66,4.72,4.66,4.64
 Military Science,121,Christopher,Sandoval,Military Science I,4.77,4.71,4.5,4.68,4.77,4.65,4.7
 Military Science,121,Doug,Bryant,Military Science I,4.74,4.91,4.82,4.56,4.61,4.86,4.7
 Military Science,121,Luke,Eagan,Military Science I,4.59,4.64,4.61,4.67,4.52,4.57,4.56
 Military Science,121,Brandon,Eliason,Military Science I,4.48,4.53,4.51,4.59,4.4,4.64,4.53
 Military Science,121,Timothy,Heisler,Military Science I,4.47,4.51,4.48,4.49,4.46,4.5,4.47
-Military Science,121,Darren,McMahon,Military Science I,4.38,4.36,4.41,4.41,4.39,4.43,4.34
 Military Science,121,Wayne,Clyne,Military Science I,4.4,4.4,4.45,4.44,4.33,4.39,4.35
 Military Science,121,Bruce,Paiva,Military Science I,4.51,4.48,4.5,4.51,4.41,4.52,4.41
 Military Science,121,Lisa,Rankins Goodwin,Military Science I,4.25,4.27,4.25,4.23,4.23,4.25,4.17
@@ -35,14 +36,16 @@ Military Science,123,Wayne,Clyne,Military Science I,4.38,4.43,4.4,4.44,4.41,4.42
 Military Science,123,Thomas,Malone,Military Science I,4.37,4.43,4.35,4.38,4.42,4.4,4.34
 Military Science,123,Lisa,Rankins Goodwin,Military Science I,4.2,4.25,4.11,4.2,4.27,4.28,4.2
 Military Science,123,Matthew,Kelley,Military Science I,4.42,4.59,4.52,4.59,4.55,4.49,4.4
+Military Science,131,Julius,Carmichael,Physical Training,4.6,4.6,4.6,4.6,4.6,4.6,4.6
+Military Science,131,Darren,McMahon,Physical Training,4.76,4.76,4.74,4.75,4.76,4.76,4.75
+Military Science,131,Jim,Miller,Physical Training,4.73,4.74,4.71,4.73,4.74,4.74,4.7
+Military Science,131,Forrest,Neumann,Physical Training,4.6,4.6,4.6,4.6,4.6,4.6,4.6
+Military Science,131,Christopher,Sandoval,Physical Training,4.49,4.51,4.54,4.39,4.54,4.44,4.37
+Military Science,131,Conrad,Vasquez,Physical Training,4.63,4.63,4.66,4.66,4.66,4.66,4.61
 Military Science,131,Jason,Hughes,Physical Training,4.66,4.65,4.58,4.64,4.67,4.65,4.64
-Military Science,131,Christopher,Sandoval,Physical Training,4.48,4.52,4.57,4.38,4.57,4.38,4.33
-Military Science,131,Conrad,Vasquez,Physical Training,4.6,4.6,4.6,4.53,4.6,4.53,4.6
 Military Science,131,Luke,Eagan,Physical Training,4.61,4.59,4.59,4.61,4.59,4.66,4.55
 Military Science,131,Doug,Bryant,Physical Training,4.94,4.88,4.88,4.88,4.88,4.88,4.94
 Military Science,131,Lance,Englet,Physical Training,4.71,4.67,4.69,4.71,4.68,4.71,4.71
-Military Science,131,Darren,McMahon,Physical Training,4.77,4.77,4.75,4.76,4.77,4.77,4.76
-Military Science,131,Jim,Miller,Physical Training,4.74,4.75,4.72,4.73,4.75,4.75,4.71
 Military Science,131,Brandon,Eliason,Physical Training,4.59,4.59,4.58,4.56,4.58,4.59,4.49
 Military Science,131,Michael,Rosenberger,Physical Training,4.62,4.65,4.64,4.64,4.61,4.65,4.66
 Military Science,131,Timothy,Heisler,Physical Training,4.68,4.68,4.67,4.68,4.64,4.68,4.68
@@ -55,21 +58,24 @@ Military Science,131,Thomas,Malone,Physical Training,4.79,4.79,4.75,4.81,4.83,4.
 Military Science,131,Donald,Rummer,Physical Training,4.73,4.73,4.68,4.72,4.84,4.69,4.68
 Military Science,131,Matthew,Kelley,Physical Training,4.74,4.74,4.74,4.74,4.82,4.74,4.65
 Military Science,131,William,Fox,Physical Training,4.5,4.5,4.5,4.5,4.5,4.5,4.5
+Military Science,141,Jim,Miller,Ranger Challenge,4.72,4.62,4.62,4.62,4.64,4.67,4.72
+Military Science,141,Christopher,Sandoval,Ranger Challenge,4.8,4.8,4.9,4.9,4.9,4.9,4.9
 Military Science,141,Jason,Hughes,Ranger Challenge,4.59,4.55,4.53,4.47,4.63,4.54,4.6
 Military Science,141,Luke,Eagan,Ranger Challenge,4.51,4.52,4.35,4.51,4.57,4.54,4.51
 Military Science,141,Michael,Rosenberger,Ranger Challenge,4.76,4.76,4.68,4.72,4.85,4.81,4.76
 Military Science,141,Bruce,Paiva,Ranger Challenge,4.66,4.4,4.48,4.55,4.47,4.39,4.44
 Military Science,141,Todd,Galindo,Ranger Challenge,4.9,4.9,4.63,4.73,4.48,4.72,4.9
-Military Science,141,Jim,Miller,Ranger Challenge,4.67,4.53,4.53,4.53,4.56,4.6,4.67
 Military Science,141,Thomas,Malone,Ranger Challenge,4.83,4.83,4.67,4.67,4.67,4.67,4.83
 Military Science,141,Matthew,Kelley,Ranger Challenge,4.57,4.71,4.29,4.43,4.57,4.57,4.57
-Military Science,191,Forrest,Neumann,Leadership Lab,4.7,4.68,4.61,4.7,4.7,4.64,4.71
-Military Science,191,Christopher,Sandoval,Leadership Lab,4.58,4.61,4.56,4.63,4.66,4.52,4.64
-Military Science,191,Jim,Miller,Leadership Lab,4.63,4.66,4.59,4.64,4.66,4.64,4.63
+Military Science,191,Jason,Hughes,Leadership Lab,4.46,4.46,4.46,4.46,4.46,4.46,4.46
+Military Science,191,Darren,McMahon,Leadership Lab,4.6,4.62,4.56,4.59,4.61,4.59,4.6
+Military Science,191,Jim,Miller,Leadership Lab,4.63,4.65,4.58,4.63,4.65,4.63,4.62
+Military Science,191,Forrest,Neumann,Leadership Lab,4.63,4.62,4.57,4.63,4.63,4.6,4.64
+Military Science,191,Christopher,Sandoval,Leadership Lab,4.57,4.59,4.55,4.59,4.64,4.53,4.61
+Military Science,191,Conrad,Vasquez,Leadership Lab,4.67,4.73,4.67,4.67,4.67,4.67,4.67
 Military Science,191,Luke,Eagan,Leadership Lab,4.85,4.85,4.83,4.85,4.85,4.83,4.85
 Military Science,191,Brandon,Eliason,Leadership Lab,4.82,4.83,4.83,4.83,4.83,4.83,4.83
 Military Science,191,Lance,Englet,Leadership Lab,4.59,4.58,4.5,4.54,4.56,4.55,4.53
-Military Science,191,Darren,McMahon,Leadership Lab,4.61,4.62,4.57,4.6,4.62,4.6,4.6
 Military Science,191,Michael,Rosenberger,Leadership Lab,4.6,4.6,4.58,4.59,4.62,4.6,4.58
 Military Science,191,Timothy,Heisler,Leadership Lab,4.58,4.59,4.55,4.56,4.61,4.57,4.56
 Military Science,191,Bruce,Paiva,Leadership Lab,4.64,4.62,4.61,4.65,4.65,4.65,4.63
@@ -80,10 +86,11 @@ Military Science,191,Lisa,Rankins Goodwin,Leadership Lab,4.57,4.55,4.51,4.55,4.5
 Military Science,191,Thomas,Malone,Leadership Lab,4.59,4.57,4.49,4.57,4.57,4.56,4.59
 Military Science,191,Donald,Rummer,Leadership Lab,4.57,4.6,4.54,4.6,4.58,4.51,4.57
 Military Science,191,Matthew,Kelley,Leadership Lab,4.53,4.53,4.57,4.57,4.59,4.53,4.63
+Military Science,221,Darren,McMahon,Military Science II,4.58,4.6,4.58,4.59,4.56,4.58,4.58
+Military Science,221,Jim,Miller,Military Science II,4.74,4.78,4.74,4.76,4.77,4.77,4.69
+Military Science,221,Christopher,Sandoval,Military Science II,4.22,4.33,4.28,4.33,4.22,4.33,4.17
 Military Science,221,Forrest,Neumann,Military Science II,4.46,4.42,4.54,4.54,4.58,4.46,4.33
 Military Science,221,Jason,Hughes,Military Science II,4.83,4.89,4.72,4.56,4.72,4.72,4.61
-Military Science,221,Jim,Miller,Military Science II,4.76,4.8,4.76,4.78,4.79,4.8,4.7
-Military Science,221,Darren,McMahon,Military Science II,4.57,4.6,4.58,4.59,4.56,4.58,4.58
 Military Science,222,Forrest,Neumann,Military Science II,4.23,4.4,4.31,4.31,4.44,4.4,4.35
 Military Science,222,Jason,Hughes,Military Science II,4.62,4.62,4.62,4.53,4.53,4.45,4.35
 Military Science,222,Jim,Miller,Military Science II,4.73,4.79,4.78,4.78,4.79,4.72,4.69
@@ -92,10 +99,12 @@ Military Science,223,Forrest,Neumann,Military Science II,4.67,4.79,4.55,4.62,4.7
 Military Science,223,Jason,Hughes,Military Science II,4.82,4.86,4.82,4.82,4.86,4.82,4.82
 Military Science,223,Jim,Miller,Military Science II,4.73,4.77,4.76,4.75,4.79,4.79,4.7
 Military Science,223,Darren,McMahon,Military Science II,4.64,4.59,4.63,4.61,4.59,4.57,4.62
+Military Science,321,Darren,McMahon,Military Science III,4.75,4.75,4.75,4.75,4.75,4.75,4.75
+Military Science,321,Jim,Miller,Military Science III,4.75,4.75,4.75,4.75,4.75,4.75,4.75
+Military Science,321,Forrest,Neumann,Military Science III,4.71,4.71,4.62,4.71,4.83,4.83,4.71
 Military Science,321,Christopher,Sandoval,Military Science III,4.83,4.83,4.75,4.75,4.75,4.75,4.83
 Military Science,321,Doug,Bryant,Military Science III,4.35,4.38,4.29,4.38,4.58,4.42,4.15
 Military Science,321,Luke,Eagan,Military Science III,4.7,4.7,4.7,4.6,4.7,4.7,4.7
-Military Science,321,Darren,McMahon,Military Science III,4.75,4.75,4.75,4.75,4.75,4.75,4.75
 Military Science,321,Michael,Rosenberger,Military Science III,4.94,5.0,4.94,4.89,4.94,4.92,4.94
 Military Science,321,Todd,Galindo,Military Science III,4.89,4.89,4.83,4.83,4.72,4.83,4.89
 Military Science,321,Donald,Rummer,Military Science III,4.4,4.4,4.4,4.4,4.45,4.4,4.4
@@ -114,12 +123,13 @@ Military Science,323,Lance,Englet,Military Science III,4.79,4.75,4.75,4.75,4.79,
 Military Science,323,Michael,Rosenberger,Military Science III,4.88,4.88,4.85,4.78,4.9,4.85,4.88
 Military Science,323,Todd,Galindo,Military Science III,4.5,4.83,4.0,3.83,5.0,3.83,4.67
 Military Science,323,Donald,Rummer,Military Science III,4.8,4.8,4.73,4.73,4.8,4.73,3.8
-Military Science,331,Christopher,Sandoval,Physical Training,4.18,4.18,4.1,4.18,4.27,4.1,4.18
-Military Science,331,Jason,Hughes,Physical Training,4.68,4.72,4.7,4.69,4.72,4.73,4.68
+Military Science,331,Jason,Hughes,Physical Training,4.51,4.55,4.53,4.52,4.55,4.56,4.51
+Military Science,331,Darren,McMahon,Physical Training,4.65,4.65,4.65,4.65,4.65,4.65,4.65
+Military Science,331,Jim,Miller,Physical Training,4.72,4.69,4.71,4.68,4.69,4.72,4.72
+Military Science,331,Christopher,Sandoval,Physical Training,4.12,4.12,4.07,4.12,4.18,4.07,4.12
+Military Science,331,Conrad,Vasquez,Physical Training,4.0,4.0,4.0,4.33,4.33,4.33,4.33
 Military Science,331,Luke,Eagan,Physical Training,4.91,4.88,4.86,4.84,4.88,4.91,4.88
 Military Science,331,Lance,Englet,Physical Training,4.85,4.85,4.83,4.74,4.88,4.88,4.81
-Military Science,331,Darren,McMahon,Physical Training,4.8,4.8,4.8,4.8,4.8,4.8,4.8
-Military Science,331,Jim,Miller,Physical Training,4.88,4.85,4.86,4.83,4.85,4.88,4.88
 Military Science,331,Michael,Rosenberger,Physical Training,4.87,4.87,4.85,4.81,4.93,4.91,4.83
 Military Science,331,Brandon,Eliason,Physical Training,5.0,5.0,5.0,5.0,5.0,5.0,5.0
 Military Science,331,Timothy,Heisler,Physical Training,5.0,5.0,5.0,5.0,5.0,5.0,5.0
@@ -132,7 +142,8 @@ Military Science,331,Donald,Rummer,Physical Training,3.93,3.93,3.93,3.98,3.97,3.
 Military Science,331,Matthew,Kelley,Physical Training,5.0,5.0,5.0,5.0,5.0,5.0,5.0
 Military Science,331,William,Fox,Physical Training,3.5,3.5,3.5,3.5,3.5,3.5,3.5
 Military Science,410,Doug,Bryant,Military History,5.0,4.86,5.0,5.0,4.43,4.71,5.0
-Military Science,421,Sharel,Pond,Military Science IV,4.78,4.87,4.87,4.87,4.87,4.87,4.78
+Military Science,421,Julius,Carmichael,Military Science IV,5.0,5.0,5.0,5.0,5.0,5.0,5.0
+Military Science,421,Sharel,Pond,Military Science IV,4.73,4.89,4.89,4.79,4.79,4.69,4.73
 Military Science,421,Brandon,Eliason,Military Science IV,5.0,5.0,5.0,5.0,5.0,5.0,5.0
 Military Science,421,Lance,Englet,Military Science IV,4.47,4.49,4.3,4.1,4.67,4.6,4.44
 Military Science,421,Thomas,Lingle,Military Science IV,4.53,4.53,4.7,4.7,4.77,4.2,4.53

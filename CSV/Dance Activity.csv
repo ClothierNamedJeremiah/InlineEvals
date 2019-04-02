@@ -1,4 +1,5 @@
-Dance Activity,170,Rita,Honka,Modern I,4.79,4.83,4.46,4.79,4.39,4.38,4.54
+Dance Activity,170,Sarah,Ebert,Modern I,5.0,5.0,4.84,4.89,4.84,4.79,4.84
+Dance Activity,170,Rita,Honka,Modern I,4.71,4.8,4.46,4.77,4.2,4.34,4.57
 Dance Activity,170,Lila,Reid,Modern I,4.56,4.63,4.35,4.49,4.46,4.52,4.37
 Dance Activity,170,Hannah,Andersen,Modern I,4.79,4.85,4.64,4.76,4.49,4.58,4.6
 Dance Activity,170,Lindsey,Salfran,Modern I,4.58,4.76,4.71,4.69,4.58,4.53,4.36
@@ -31,6 +32,7 @@ Dance Activity,171,Taylor,Theis,Contact Improvisation,5.0,5.0,4.5,5.0,4.5,4.5,5.
 Dance Activity,171,Faith,Morrison,Contact Improvisation,4.33,4.33,4.33,4.33,4.33,4.33,4.0
 Dance Activity,171,Jeanet,Caballero Segura,Contact Improvisation,4.35,4.54,4.25,4.33,4.16,4.39,4.43
 Dance Activity,171,Melanie,Meenan,Contact Improvisation,4.36,4.27,4.0,4.18,4.27,4.18,4.46
+Dance Activity,172,Walter,Kennedy,Ballet I,4.43,4.43,4.0,4.43,4.29,4.0,4.43
 Dance Activity,172,Lila,Reid,Ballet I,4.39,4.37,4.0,4.25,3.98,4.23,4.33
 Dance Activity,172,Darion,Smith,Ballet I,4.51,4.51,4.39,4.52,4.29,4.29,4.43
 Dance Activity,172,Hannah,Andersen,Ballet I,4.65,4.72,4.56,4.7,4.53,4.48,4.53
@@ -96,15 +98,15 @@ Dance Activity,184,Devon,Polynone,Ballroom I,4.64,4.59,4.56,4.65,4.45,4.59,4.66
 Dance Activity,184,Laura,Katzman,Ballroom I,4.4,4.41,4.29,4.4,4.11,4.28,4.48
 Dance Activity,184,Valerie,Ifill,Ballroom I,4.62,4.69,4.56,4.62,4.22,4.56,4.53
 Dance Activity,184,Caroline,Goodnight,Ballroom I,4.58,4.62,4.58,4.71,4.5,4.58,4.62
-Dance Activity,185,Habib,Iddrisu,African Dance,4.91,4.93,4.73,4.83,4.66,4.75,4.84
-Dance Activity,185,Rita,Honka,African Dance,4.79,4.78,4.63,4.75,4.39,4.56,4.71
+Dance Activity,185,Rita,Honka,African Dance,4.8,4.79,4.64,4.76,4.41,4.58,4.72
+Dance Activity,185,Habib,Iddrisu,African Dance,4.91,4.93,4.72,4.82,4.65,4.74,4.85
 Dance Activity,185,Laura,Black,African Dance,4.73,4.76,4.56,4.71,4.39,4.58,4.73
 Dance Activity,185,Erinn,Ernst,African Dance,4.77,4.81,4.71,4.65,4.58,4.68,4.74
 Dance Activity,185,Liana,Conyers,African Dance,4.63,4.71,4.48,4.65,4.26,4.38,4.63
 Dance Activity,185,Ann,Moffett,African Dance,4.86,4.88,4.76,4.78,4.68,4.66,4.77
 Dance Activity,185,Valerie,Ifill,African Dance,4.88,4.82,4.76,4.71,4.41,4.59,4.71
+Dance Activity,199,Lindsey,Salfran,Sp St Hip Hop I,4.82,4.86,4.68,4.73,4.64,4.82,4.73
 Dance Activity,199,Lila,Reid,Sp St Hip Hop I,4.07,4.22,4.1,4.3,4.13,4.22,4.04
-Dance Activity,199,Lindsey,Salfran,Sp St Hip Hop I,4.82,4.85,4.72,4.73,4.67,4.83,4.74
 Dance Activity,199,Brad,Garner,Sp St Cond for Dancers,4.83,5.0,5.0,5.0,5.0,5.0,4.67
 Dance Activity,199,Shannon,Mockli,Sp St Hip Hop I,4.67,4.33,4.33,4.33,4.33,4.33,4.67
 Dance Activity,199,Florabelle,Moses,Sp St Salsa I,4.63,4.68,4.56,4.6,4.29,4.44,4.61
@@ -150,11 +152,11 @@ Dance Activity,199,Andrew,Dugas,Sp St Tango I,4.61,4.78,4.52,4.57,4.22,4.39,4.74
 Dance Activity,199,Christopher,Gorney,Sp St Breakdance,4.86,4.86,4.69,4.54,4.37,4.58,4.74
 Dance Activity,199,Valerie,Ifill,Sp St Hip Hop I,4.88,4.88,4.76,4.76,4.71,4.76,4.88
 Dance Activity,199,Elizabeth,Wartluft,Sp St Tango I,4.0,4.0,3.8,3.93,3.67,3.93,4.13
+Dance Activity,270,Sarah,Ebert,Modern II,4.95,4.97,4.89,4.9,4.79,4.83,4.93
+Dance Activity,270,Rita,Honka,Modern II,4.66,4.72,4.65,4.71,4.34,4.37,4.72
 Dance Activity,270,Darion,Smith,Modern II,4.4,4.24,4.42,4.26,4.39,4.61,3.95
 Dance Activity,270,Walter,Kennedy,Modern II,4.66,4.7,4.56,4.55,4.64,4.46,4.57
-Dance Activity,270,Sarah,Ebert,Modern II,4.94,4.96,4.9,4.9,4.78,4.84,4.94
 Dance Activity,270,Shannon,Mockli,Modern II,4.96,4.92,4.81,4.85,4.79,4.7,4.85
-Dance Activity,270,Rita,Honka,Modern II,4.66,4.72,4.66,4.71,4.37,4.38,4.72
 Dance Activity,270,Brad,Garner,Modern II,4.68,4.7,4.66,4.72,4.27,4.36,4.64
 Dance Activity,270,Hannah,Andersen,Modern II,4.94,4.94,4.74,4.8,4.8,4.74,4.84
 Dance Activity,270,Bryant,Henderson,Modern II,4.6,4.7,4.2,4.5,4.4,4.5,4.33
@@ -169,6 +171,7 @@ Dance Activity,270,Marcie,Mamura,Modern II,4.64,4.85,4.55,4.74,4.6,4.46,4.48
 Dance Activity,270,Ann,Moffett,Modern II,4.8,4.86,4.69,4.73,4.67,4.64,4.6
 Dance Activity,270,Valerie,Ifill,Modern II,4.7,4.75,4.7,4.56,4.53,4.61,4.55
 Dance Activity,270,Gina,Bolles,Modern II,5.0,5.0,4.79,4.93,4.86,4.86,4.86
+Dance Activity,271,Steven,Chatfield,Dance Improvisation,4.65,4.62,4.54,4.65,4.38,4.5,4.68
 Dance Activity,271,Christian,Cherry,Dance Improvisation,4.8,4.8,4.4,4.8,5.0,4.6,5.0
 Dance Activity,271,Bryant,Henderson,Dance Improvisation,4.9,4.9,4.83,4.83,4.73,4.8,4.9
 Dance Activity,271,Hannah,Andersen,Dance Improvisation,4.95,4.9,4.85,4.9,4.8,4.7,4.9
@@ -179,12 +182,12 @@ Dance Activity,271,Shannon,Mockli,Dance Improvisation,4.76,4.81,4.65,4.65,4.66,4
 Dance Activity,271,Rachel,Winchester,Dance Improvisation,4.25,4.5,4.12,4.12,4.0,4.38,4.0
 Dance Activity,271,Molly,Johnston,Dance Improvisation,4.86,4.86,4.71,4.71,4.71,4.43,5.0
 Dance Activity,271,Ayumi,Hori,Dance Improvisation,4.33,4.5,4.44,4.5,4.44,4.39,4.33
-Dance Activity,271,Steven,Chatfield,Dance Improvisation,4.59,4.54,4.48,4.58,4.27,4.52,4.66
 Dance Activity,271,Melanie,Meenan,Dance Improvisation,4.75,4.8,4.4,4.8,4.6,4.6,4.8
 Dance Activity,271,Cynthia,Garner,Dance Improvisation,4.57,4.43,4.29,4.57,4.43,4.43,4.43
 Dance Activity,271,Liana,Conyers,Dance Improvisation,4.86,4.93,4.79,4.86,4.79,4.71,4.86
 Dance Activity,271,Valerie,Ifill,Dance Improvisation,4.72,4.89,4.56,4.83,4.72,4.33,4.72
 Dance Activity,271,Caroline,Goodnight,Dance Improvisation,4.54,4.64,4.27,4.46,4.46,4.0,4.54
+Dance Activity,272,Walter,Kennedy,Ballet II,4.73,4.82,4.46,4.54,4.46,4.27,4.54
 Dance Activity,272,Darion,Smith,Ballet II,4.37,4.38,4.16,4.15,4.16,4.22,4.26
 Dance Activity,272,Bryant,Henderson,Ballet II,4.63,4.67,4.55,4.51,4.65,4.55,4.45
 Dance Activity,272,Sarah,Ebert,Ballet II,4.75,4.82,4.82,4.82,4.79,4.75,4.75
@@ -235,9 +238,9 @@ Dance Activity,370,Rita,Honka,Modern III,4.56,4.71,4.57,4.6,4.37,4.08,4.59
 Dance Activity,370,Brad,Garner,Modern III,4.83,4.83,4.84,4.75,4.44,4.57,4.93
 Dance Activity,370,Sarah,Ebert,Modern III,4.82,5.0,4.82,4.82,4.36,4.54,4.82
 Dance Activity,370,Jean,Nelson,Modern III,4.35,4.37,4.41,4.29,4.38,4.44,4.31
+Dance Activity,372,Florabelle,Moses,Ballet III,4.75,4.81,4.7,4.78,4.57,4.53,4.63
 Dance Activity,372,Brad,Garner,Ballet III,4.48,4.57,4.31,4.39,4.35,4.3,4.4
 Dance Activity,372,Shannon,Mockli,Ballet III,4.61,4.64,4.53,4.51,4.41,4.46,4.44
-Dance Activity,372,Florabelle,Moses,Ballet III,4.77,4.84,4.71,4.77,4.5,4.49,4.62
 Dance Activity,372,Walter,Kennedy,Ballet III,4.5,4.47,4.29,4.3,4.37,4.23,4.34
 Dance Activity,372,Darion,Smith,Ballet III,4.6,5.0,5.0,4.8,4.6,4.6,4.8
 Dance Activity,372,Bryant,Henderson,Ballet III,4.61,4.66,4.35,4.73,4.59,4.61,4.48

@@ -1,4 +1,4 @@
-Product Design,101,Wonhee,Arndt,Intro Product Design,3.67,3.49,3.6,3.49,3.54,3.55,3.64
+Product Design,101,Wonhee,Arndt,Intro Product Design,3.68,3.6,3.69,3.59,3.67,3.76,3.62
 Product Design,101,Tom,Bonamici,Intro Product Design,3.58,3.75,3.6,3.7,3.44,3.32,3.54
 Product Design,101,Beth,Esponnette,Intro Product Design,3.75,3.87,3.83,3.81,3.95,3.94,3.86
 Product Design,101,Ruth,Fore,Intro Product Design,4.03,4.04,3.54,3.66,4.21,4.16,4.06
@@ -14,7 +14,7 @@ Product Design,199,Trygve,Faste,Sp St Begin Desig Draw,4.53,4.47,4.5,4.47,4.4,4.
 Product Design,199,Sara,Huston,Sp St Intro Prod Des,3.4,3.11,3.11,3.2,3.29,2.77,3.23
 Product Design,199,Wilson,Smith,Sp St Intro Prod Des,3.81,4.12,3.59,3.91,3.45,3.31,3.84
 Product Design,199,Kiersten,Muenchinger,Sp St Design Sketching,4.33,4.67,4.33,4.67,4.33,4.0,4.67
-Product Design,223,Trygve,Faste,Beginning Design Draw,4.67,4.59,4.67,4.57,4.35,4.63,4.77
+Product Design,223,Trygve,Faste,Beginning Design Draw,4.7,4.62,4.66,4.57,4.35,4.64,4.79
 Product Design,223,Jim,Arnold,Beginning Design Draw,4.52,4.37,4.45,4.24,4.24,4.35,4.43
 Product Design,223,Erdem,Selek,Beginning Design Draw,4.72,4.66,4.5,4.63,4.47,4.47,4.88
 Product Design,223,Henry,Salvatori,Beginning Design Draw,4.14,3.93,4.15,3.9,4.02,4.28,4.4
@@ -44,9 +44,10 @@ Product Design,350,Jim,Arnold,Objects and Impacts,3.8,3.95,4.08,3.73,4.33,4.3,3.
 Product Design,350,Beth,Esponnette,Objects and Impacts,3.93,4.02,4.11,4.11,4.34,4.25,3.99
 Product Design,350,Kiersten,Muenchinger,Objects and Impacts,4.38,4.51,4.44,4.49,4.44,4.39,4.43
 Product Design,360,John,Arndt,Object Culture,4.6,4.58,4.49,4.38,4.26,4.02,4.51
-Product Design,370,Hale,Selek,Design Process,3.97,4.03,4.02,3.99,3.93,3.9,3.93
+Product Design,370,Hale,Selek,Design Process,4.05,4.08,4.11,4.06,4.04,3.94,4.02
 Product Design,370,Trygve,Faste,Design Process,4.1,4.14,4.32,4.17,4.31,4.11,3.99
 Product Design,370,John,Arndt,Design Process,3.96,4.01,3.8,3.99,4.17,3.73,3.93
+Product Design,399,Erdem,Selek,Sp St Comp Asst Des,4.42,4.54,4.42,4.6,4.12,4.42,4.72
 Product Design,399,Hale,Selek,Sp St Intro Dsgn Stdio,4.17,4.41,3.9,3.83,4.37,4.27,4.1
 Product Design,399,Jim,Arnold,Sp St Comp Des Rhino,4.57,4.5,4.71,4.21,4.64,4.43,4.5
 Product Design,399,Erdem,Selek,Sp St Comp Des Rhino,4.42,4.42,4.33,4.5,4.67,4.25,4.42
@@ -60,9 +61,12 @@ Product Design,406,Trygve,Faste,Special Problems,4.78,5.0,4.67,4.56,4.67,4.33,4.
 Product Design,408,Christian,Freissler,Wrk Oregon Manifest,4.0,4.5,3.75,4.0,4.5,4.25,4.25
 Product Design,408,John,Arndt,Wrk Furniture Project,4.0,4.0,2.0,3.0,4.0,2.0,4.0
 Product Design,408,Wonhee,Arndt,Wrk Exper Material Lab,4.5,4.5,4.5,4.5,4.5,4.5,4.5
+Product Design,410,Ruth,Fore,Solidworks,4.0,4.0,3.0,4.0,4.0,4.0,4.0
+Product Design,410,Kiersten,Muenchinger,Research Methods,1.5,1.5,1.0,1.5,3.5,1.0,1.5
+Product Design,410,Susan,Sokolowski,Soft Goods Theory,4.72,4.79,4.75,4.72,4.92,4.82,4.81
+Product Design,410,Alex,Xu,3-D Comp-Aided Design,3.29,3.43,3.43,3.57,4.43,3.0,3.71
 Product Design,410,Timothy,Ploeger,Design Portfolio Prep,4.26,4.39,3.99,4.19,4.49,4.03,4.49
 Product Design,410,Ruth,Fore,3-D Comp-Aided Design,2.0,4.0,2.0,2.0,2.0,1.0,2.0
-Product Design,410,Susan,Sokolowski,Soft Goods Theory,4.78,4.83,4.78,4.74,5.0,4.87,4.83
 Product Design,410,Ruth,Fore,Design with Solidworks,4.56,4.67,4.06,4.44,4.56,4.44,4.61
 Product Design,410,Susan,Sokolowski,Personal Thermoregulat,4.4,4.5,4.3,4.5,4.2,4.2,4.4
 Product Design,410,Nate,Demarest,Thesis Research,4.25,4.75,4.5,4.25,4.25,4.75,4.5
@@ -104,15 +108,15 @@ Product Design,410,Sara,Huston,Production Tools,4.4,4.0,3.7,3.9,4.22,4.1,4.3
 Product Design,410,Jennifer,Wall,Rhino 3D Modeling,4.25,3.88,3.12,3.75,4.38,3.62,3.88
 Product Design,410,Dawn,Nafus,Design Research,3.0,3.14,2.57,2.86,3.86,2.86,3.14
 Product Design,410,Christian,Freissler,Adv Rhino Software,4.25,4.25,4.25,4.25,3.75,3.75,4.5
-Product Design,430,Ruth,Fore,Comp-Assist Des & Prod,4.16,4.27,4.16,4.04,4.4,4.34,4.13
+Product Design,430,Ruth,Fore,Comp-Assist Des & Prod,4.14,4.23,4.23,4.07,4.28,4.35,4.14
 Product Design,430,Jim,Arnold,Comp-Assist Des & Prod,4.51,4.51,4.42,4.32,4.4,4.41,4.73
 Product Design,430,Beth,Esponnette,Comp-Assist Des & Prod,4.6,4.6,4.42,4.49,4.71,4.36,4.6
 Product Design,430,Jason,Germany,Comp Assist Des & Prod,4.74,4.7,4.69,4.71,4.5,4.39,4.85
 Product Design,440,John,Arndt,Adv Designers' Tools,4.53,4.5,4.17,4.07,4.33,4.12,4.62
-Product Design,483,Wonhee,Arndt,Senior Studio I,4.17,4.12,3.76,3.91,4.12,3.82,4.12
+Product Design,483,Wonhee,Arndt,Senior Studio I,3.91,3.88,3.57,3.67,4.01,3.61,3.88
+Product Design,483,Tom,Bonamici,Senior Studio I,4.7,4.59,4.21,4.41,4.62,3.99,4.46
+Product Design,483,Hale,Selek,Senior Studio I,4.1,3.98,3.68,3.7,4.13,3.71,4.06
 Product Design,483,Erdem,Selek,Senior Studio I,4.58,4.71,4.46,4.5,4.68,4.53,4.57
-Product Design,483,Hale,Selek,Senior Studio I,4.14,4.03,3.85,3.71,4.06,3.56,4.07
-Product Design,483,Tom,Bonamici,Senior Studio I,4.86,4.64,4.14,4.36,4.79,4.07,4.64
 Product Design,483,Trygve,Faste,Senior Studio I,4.5,4.5,4.0,4.0,4.5,4.5,4.5
 Product Design,483,Jim,Arnold,Senior Studio I,4.3,4.7,4.4,4.3,4.4,4.2,4.2
 Product Design,483,Jason,Germany,Senior Studio I,4.44,4.56,4.67,4.22,4.67,4.11,4.11
@@ -159,6 +163,7 @@ Product Design,485,Avik,Maitra,Senior Studio III,4.36,4.54,4.27,4.27,4.27,4.0,4.
 Product Design,485,John,Arndt,Corporate Studio,3.79,3.63,3.3,3.17,4.02,3.26,3.79
 Product Design,485,Wonhee,Arndt,Corporate Studio,3.92,4.0,3.67,3.78,4.31,3.58,3.81
 Product Design,485,Jason,Germany,Corporate Studio,4.29,4.25,4.62,4.25,4.38,4.5,4.12
+Product Design,486,Alex,Xu,BFA Studio I,2.0,2.33,2.0,2.0,3.67,2.0,2.0
 Product Design,486,Tim,Clark,BFA Studio I,5.0,5.0,5.0,5.0,5.0,5.0,5.0
 Product Design,486,John,Leahy,BFA Studio I,4.04,3.94,3.7,3.83,4.52,3.84,3.89
 Product Design,486,Avik,Maitra,BFA Studio I,4.46,4.7,4.25,4.33,4.29,4.03,4.36

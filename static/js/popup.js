@@ -1,9 +1,17 @@
 // EventListener function for "Submit" Button
 function list_toggled_questions() {
-  // Refreshes Chrome Tab with title matching "Class Scheudle*"
+  // Refresh Query 1 -- for "Classes"
   chrome.tabs.query({title: "Class Schedule*",currentWindow: true}, function(tabs) {
     if (typeof(tabs[0]) != "undefined") {
       chrome.tabs.reload(tabs[0].id);
+    }
+  });
+
+  // Refresh Query 2 -- for "DuckWeb"
+  chrome.tabs.query({title: "Look-Up*",currentWindow: true}, function(tabs) {
+    if (typeof(tabs[0]) != "undefined") {
+      window.alert("Refresh Duckweb to display changes.")
+      // chrome.tabs.reload(tabs[0].id);
     }
   });
 

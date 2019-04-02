@@ -1,3 +1,9 @@
+German,101,Prisilla,Sanchez,1st Year German,4.53,4.3,4.31,4.48,4.48,4.39,4.43
+German,101,Linda,Schmidt,1st Year German,4.43,4.43,4.5,4.36,4.57,4.57,4.79
+German,101,Roland,Spalinger,1st Year German,4.27,4.33,4.33,4.2,4.6,4.6,4.47
+German,101,Iliana,Tsoukala,1st Year German,4.54,4.73,4.36,4.73,4.73,4.36,4.46
+German,101,Kaitlin,Yeomans,1st Year German,4.53,4.24,4.41,4.47,4.82,4.65,4.71
+German,101,Jeremiah,Young,1st Year German,4.0,4.0,3.7,4.0,4.4,4.0,4.0
 German,101,Corinna,Fehle,1st Year German,4.47,4.53,4.4,4.53,4.33,4.33,4.47
 German,101,Rafael,Jaros,1st Year German,4.75,4.83,4.33,4.67,4.75,4.58,4.83
 German,101,Madeline,Saxton,1st Year German,4.45,4.54,4.29,4.55,4.49,4.3,4.45
@@ -6,7 +12,6 @@ German,101,Isabelle,Trapp,1st Year German,4.5,4.5,4.38,4.5,4.81,4.44,4.56
 German,101,Matthias,Vogel,1st Year German,4.56,4.67,4.38,4.8,4.66,4.51,4.4
 German,101,Jacob,Barto,1st Year German,4.54,4.7,4.34,4.51,4.54,4.61,4.53
 German,101,Eva,Hoffmann,1st Year German,4.33,4.39,4.18,4.27,4.5,4.3,4.37
-German,101,Prisilla,Sanchez,1st Year German,4.73,4.27,4.46,4.46,4.64,4.46,4.36
 German,101,Alexis,Smith,1st Year German,4.6,4.6,4.6,4.7,4.7,4.5,4.3
 German,101,Stephanie,Frazier,1st Year German,4.47,4.47,4.4,4.73,4.33,4.47,4.53
 German,101,Johannes,Hees,1st Year German,3.93,3.86,3.71,3.86,3.93,3.71,4.14
@@ -138,12 +143,12 @@ German,198,Susan,Anderson,Wrk Advising,4.5,4.5,4.75,5.0,5.0,4.75,4.75
 German,198,Alexander,Mathas,Wrk Advising,3.93,4.15,3.98,4.15,4.37,4.19,3.88
 German,198,Alexander,Mathas,Wrk Advising Conf,4.5,4.5,4.5,4.5,4.5,4.5,4.5
 German,198,Susan,Anderson,Wrk Advising Conf,3.5,3.5,3.5,3.5,3.5,3.5,3.5
+German,199,Susan,Anderson,Sp St College Connect,3.9,4.02,3.94,3.79,4.39,4.07,3.7
+German,199,Matthias,Vogel,Sp St College Connect,4.13,4.26,3.73,3.84,4.56,4.09,3.7
 German,199,Corinne,Bayerl,Sp St College Connect,4.19,4.37,3.98,4.16,4.67,4.31,4.06
-German,199,Matthias,Vogel,Sp St College Connect,3.98,4.16,3.65,3.73,4.55,3.99,3.59
 German,199,Yasmin,Staunau,Sp St Conversation I,4.56,4.8,4.71,4.69,4.68,4.66,4.48
 German,199,Matthias,Vogel,Sp St Global Scholars,4.27,4.41,3.99,4.31,4.48,4.07,4.04
 German,199,Yasmin,Staunau,Sp St German Conversa,4.67,4.67,4.58,4.67,4.58,4.58,4.33
-German,199,Susan,Anderson,Sp St College Connect,3.9,4.04,3.96,3.79,4.38,4.05,3.7
 German,199,Helmut,Plant,Sp St Grammar Overview,4.28,4.16,4.43,4.39,4.92,4.5,4.16
 German,199,Martin,Klebes,Sp St Conversation I,4.4,4.8,4.6,4.6,4.6,4.4,4.2
 German,199,Susan,Anderson,Sp St Invisible Threat,4.17,4.5,4.67,4.5,4.5,4.33,4.17
@@ -173,10 +178,10 @@ German,199,Alexander,Mathas,Sp St College Connect,3.77,4.08,3.54,3.69,4.08,3.85,
 German,199,Kenneth,Calhoon,Sp St German Cinema,3.71,3.71,3.79,4.17,3.96,4.21,3.62
 German,199,Claire,Van Den Broek,Sp St Conversation II,4.2,4.2,3.8,4.6,4.2,4.0,4.2
 German,199,Claire,Van Den Broek,Sp St Conversation I,4.2,4.2,3.8,4.6,4.2,4.0,4.2
+German,201,Joscha,Klueppel,2nd Year German,4.35,4.44,4.05,4.39,4.57,4.11,4.2
+German,201,Christine,Vigeant,2nd Year German,4.4,4.53,4.24,4.38,4.55,4.53,4.23
+German,201,Verena,Zabel,2nd Year German,4.11,3.78,3.44,3.94,4.22,4.0,3.83
 German,201,Lisa,Hoeller,2nd Year German,4.32,4.53,4.1,4.4,4.61,4.45,4.4
-German,201,Joscha,Klueppel,2nd Year German,4.64,4.82,4.46,4.73,4.73,4.64,4.64
-German,201,Christine,Vigeant,2nd Year German,4.5,4.51,4.2,4.42,4.6,4.51,4.34
-German,201,Verena,Zabel,2nd Year German,4.11,4.0,3.44,4.11,4.33,4.22,3.89
 German,201,Yasmin,Staunau,2nd Year German,4.58,4.67,4.5,4.69,4.78,4.7,4.58
 German,201,Kizzi,van Lake,2nd Year German,4.66,4.81,4.51,4.67,4.72,4.52,4.58
 German,201,Stephanie,Chapman,2nd Year German,3.85,3.83,3.7,4.0,4.03,3.83,3.68
@@ -278,15 +283,15 @@ German,205,Clemens,Ackermann,Intensive 2nd Yr Ger,4.4,4.4,4.33,4.67,4.4,4.47,4.3
 German,205,Verena,Kick,Intensive 2nd Yr Ger,4.5,4.58,4.58,4.5,4.75,4.8,4.67
 German,220M,Martin,Klebes,Kierkegaard to Kafka,3.92,3.58,4.17,3.67,4.33,3.25,4.33
 German,220M,Gantt,Gurley,Kierkegaard to Kafka,4.8,4.87,4.2,4.6,4.73,4.33,4.8
+German,221,Susan,Anderson,Postwar Germany,3.9,3.94,4.12,3.95,3.91,3.86,4.03
 German,221,Corinne,Bayerl,Postwar Germany,4.31,4.36,4.32,4.37,4.41,4.4,4.39
-German,221,Susan,Anderson,Postwar Germany,3.95,3.97,4.15,3.99,3.94,3.88,4.06
 German,222,Matthias,Vogel,Voices of Dissent,4.11,4.1,3.96,3.99,4.22,4.01,4.2
 German,222,Jeffrey,Librett,Voices of Dissent,3.54,3.28,3.52,3.43,3.49,3.48,3.55
 German,222,Josiah,Simon,Voices of Dissent,4.1,4.12,4.0,4.08,4.2,4.1,4.12
 German,222,Katharina,Loew,Voices of Dissent,3.27,2.92,3.33,3.36,3.67,2.77,3.59
 German,223,Matthias,Vogel,Ger: Multicul Society,4.16,4.23,4.09,4.11,4.43,4.11,4.1
 German,250,Martin,Klebes,Culture of Money,2.6,2.86,2.88,2.92,3.49,3.06,2.71
-German,251,Sonja,Boos,Sexuality,3.99,4.1,4.09,4.18,4.29,4.11,3.92
+German,251,Sonja,Boos,Sexuality,4.08,4.15,4.03,4.12,4.23,4.1,4.01
 German,252,Sonja,Boos,War, Violence, Trauma,3.96,4.02,4.0,3.96,4.3,4.03,3.9
 German,257,Martin,Klebes,German Cul & Thought,3.53,3.51,3.76,3.66,3.83,3.52,3.5
 German,258,Sonja,Boos,German Cul & Thought,4.1,4.3,4.3,3.9,4.4,4.2,4.1
@@ -295,6 +300,7 @@ German,258,Dorothee,Ostmeier,German Cul & Thought,3.91,3.81,3.53,3.69,3.96,3.38,
 German,258,Martin,Klebes,German Cul & Thought,3.38,3.31,3.71,3.62,3.48,3.27,3.16
 German,259,Sonja,Boos,German Cul & Thought,4.29,4.35,4.29,4.12,4.29,3.94,4.18
 German,259,Alexander,Mathas,German Cul & Thought,4.02,4.0,4.1,3.98,4.04,4.08,3.92
+German,311,Lisa,Hoeller,Interm Lang Training,4.38,4.12,4.25,4.06,4.56,4.31,3.93
 German,311,Anna-Lisa,Baumeister,Interm Lang Training,3.27,2.87,2.27,2.87,3.87,3.07,2.87
 German,311,Stephanie,Chapman,Interm Lang Training,2.93,2.8,3.0,2.67,4.33,3.67,2.6
 German,311,Alexis,Smith,Interm Lang Training,4.5,4.67,4.25,4.38,4.67,4.46,4.38
@@ -352,7 +358,7 @@ German,351,Corinne,Bayerl,Diversity in Germany,4.3,4.3,4.3,4.2,4.3,4.4,4.6
 German,351,Susan,Anderson,Diversity in Germany,4.12,4.28,4.31,4.23,4.36,4.22,4.17
 German,352,Martin,Klebes,Authors in German Lit,4.14,4.37,4.28,4.08,4.25,3.86,4.1
 German,352,Dawn,Marlan,Authors in German Lit,4.06,4.15,3.92,3.86,3.91,3.77,3.99
-German,354,Susan,Anderson,German Gender Studies,4.32,4.39,4.43,4.35,4.68,4.31,4.38
+German,354,Susan,Anderson,German Gender Studies,4.31,4.4,4.5,4.44,4.62,4.34,4.35
 German,354,Dorothee,Ostmeier,German Gender Studies,3.84,4.04,3.35,3.96,4.49,3.64,3.92
 German,354,Alexander,Mathas,German Gender Studies,4.5,4.62,4.5,4.5,4.5,4.38,4.62
 German,354,Corinne,Bayerl,German Gender Studies,4.61,4.78,4.61,4.83,4.94,4.72,4.67
@@ -367,9 +373,9 @@ German,355,Kenneth,Calhoon,German Cinema,4.33,4.55,4.38,4.4,4.08,3.7,4.2
 German,356,Dorothee,Ostmeier,German Fairy Tales,3.56,3.4,3.09,3.36,3.77,3.14,3.57
 German,357,Sonja,Boos,Nature, Cul, & Environ,3.93,4.36,3.69,4.07,4.5,3.64,3.86
 German,357,Kenneth,Calhoon,Nature, Cul, & Environ,3.71,3.71,3.71,3.57,4.57,3.86,3.71
+German,360,Martin,Klebes,Poetry, Plays, & Prose,3.85,4.04,4.0,4.0,4.23,3.77,3.46
 German,360,Jeffrey,Librett,Poetry, Plays, & Prose,4.0,4.0,4.4,4.0,4.4,4.0,4.0
 German,360,Kenneth,Calhoon,Poetry, Plays, & Prose,4.5,4.5,4.5,4.33,4.62,4.5,4.29
-German,360,Martin,Klebes,Poetry, Plays, & Prose,4.33,4.33,4.0,4.0,4.33,3.67,3.67
 German,360,Alexander,Mathas,Intro to German Lit,4.3,4.4,4.3,4.3,4.3,4.2,4.6
 German,361,Sonja,Boos,Literary Movements,4.46,4.69,4.38,4.62,4.23,4.38,4.62
 German,361,Susan,Anderson,Literary Movements,4.8,4.8,4.8,4.4,4.6,4.6,4.4
@@ -390,6 +396,7 @@ German,368,Alexander,Mathas,Themes in German Lit,4.5,4.38,4.5,4.5,4.38,4.25,4.12
 German,368,Susan,Anderson,Themes in German Lit,4.0,4.5,4.5,4.25,4.25,4.0,4.0
 German,368,Doris,Pfaffinger,Themes in German Lit,4.25,4.56,4.31,4.31,4.56,4.25,4.12
 German,399,Sonja,Boos,Sp St Kafka,5.0,5.0,5.0,4.5,4.5,4.5,4.75
+German,407,Sonja,Boos,Seminar,4.33,4.5,3.83,3.83,4.83,4.33,4.5
 German,407,Sonja,Boos,Sem Film and Gender,4.07,4.29,4.0,3.93,4.14,4.0,4.14
 German,407,Dorothee,Ostmeier,Sem Fairy Tales,4.53,4.53,3.4,3.87,4.73,4.07,4.33
 German,407,Alexander,Mathas,Sem Post/Humanism,4.5,5.0,5.0,5.0,4.75,5.0,4.75
@@ -417,7 +424,7 @@ German,410,Katharina,Loew,Poetics of Technology,4.22,4.33,4.44,4.22,4.11,4.22,4.
 German,410,Michael,Stern,Theories of Repetition,4.46,4.64,4.36,4.09,4.73,4.36,4.36
 German,410,Martin,Klebes,Doctor Faustus,4.6,4.4,4.7,4.2,4.8,4.4,4.6
 German,410,Michael,Stern,The Singing Socrates,4.67,4.67,4.0,4.0,5.0,3.67,4.33
-German,411,Matthias,Vogel,Adv Language Training,4.27,4.53,4.15,4.28,4.64,4.13,4.1
+German,411,Matthias,Vogel,Adv Language Training,4.29,4.52,4.2,4.31,4.63,4.15,4.11
 German,411,Yasmin,Staunau,Adv Language Training,4.4,4.5,4.3,4.5,4.6,4.5,4.3
 German,411,Corinne,Bayerl,Adv Language Training,4.1,4.27,4.23,4.23,4.39,4.21,3.63
 German,412,Corinne,Bayerl,Adv Language Training,4.5,4.72,4.33,4.51,4.75,4.46,4.51
@@ -441,6 +448,7 @@ German,460,Alexander,Mathas,German Lit: Topic,3.86,4.43,3.29,3.71,5.0,3.71,3.86
 German,460,Sonja,Boos,Top Lit Critic & Phil,3.8,4.2,3.6,4.2,4.0,3.2,3.4
 German,460,Alexander,Mathas,Top German Lit,4.4,4.5,3.6,3.8,4.9,4.3,4.4
 German,460,Martin,Klebes,Top Jelinek,4.62,4.5,4.62,4.25,4.5,4.25,4.5
+German,507,Sonja,Boos,Seminar,4.33,4.5,3.83,3.83,4.83,4.33,4.5
 German,507,Sonja,Boos,Sem Film and Gender,4.07,4.29,4.0,3.93,4.14,4.0,4.14
 German,507,Jeffrey,Librett,Sem Music in Literatur,4.43,4.71,4.14,4.29,4.71,3.29,4.57
 German,507,Dorothee,Ostmeier,Sem Fairy Tales,4.53,4.53,3.4,3.87,4.73,4.07,4.33
@@ -473,7 +481,7 @@ German,608,Jeffrey,Librett,Translation Stdy Coll,5.0,5.0,5.0,5.0,5.0,5.0,5.0
 German,608,Karen,McPherson,Translation Stdy Coll,5.0,5.0,5.0,5.0,5.0,5.0,5.0
 German,608,Jeffrey,Librett,Coll Translation Study,4.67,4.67,4.67,4.67,4.67,4.67,4.67
 German,608,Karen,McPherson,Coll Translation Study,4.67,4.67,4.67,4.67,4.67,4.67,4.67
-German,609,Matthias,Vogel,Prac Language Teach,4.94,4.94,4.6,4.54,5.0,4.83,4.77
+German,609,Matthias,Vogel,Prac Language Teach,4.82,4.88,4.48,4.43,5.0,4.67,4.75
 German,609,Matthias,Vogel,Prac Language Teaching,5.0,5.0,4.9,4.73,5.0,5.0,4.57
 German,609,Matthias,Vogel,Prac 1st Yr Pedagogy,4.27,4.45,4.44,4.23,4.82,4.36,4.18
 German,609,Matthias,Vogel,Prac 2nd Yr Pedagogy,4.48,4.48,4.48,4.48,4.62,4.48,4.33
@@ -495,5 +503,5 @@ German,625,Jeffrey,Librett,Translat-Transform,4.21,4.32,3.94,3.96,4.12,4.0,4.21
 German,625,Martin,Klebes,Translat-Transform,4.5,4.5,5.0,4.0,4.75,4.5,4.5
 German,625,Dorothee,Ostmeier,Translat-Transform,4.4,4.4,3.2,3.6,4.8,3.8,4.6
 German,666,Dorothee,Ostmeier,Genres of German Lit,4.75,4.75,4.5,4.75,5.0,4.5,4.75
-German,690,Martin,Klebes,Literary Studies,4.5,5.0,4.25,4.25,4.75,3.5,4.5
+German,690,Martin,Klebes,Literary Studies,4.08,4.5,4.46,4.12,4.71,3.92,4.25
 German,690,Susan,Anderson,Literary Studies,4.27,4.42,4.43,4.33,4.68,4.14,4.38

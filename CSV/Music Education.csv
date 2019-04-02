@@ -1,7 +1,7 @@
 Music Education,326,Beth,Wheeler,Foundations Music Educ,4.33,4.23,4.28,4.42,4.37,3.87,4.29
 Music Education,326,Julia,McCallum,Foundations Music Educ,4.38,4.12,4.0,3.88,4.25,4.25,4.38
 Music Education,326,Phyllis,Paul,Foundations Music Educ,4.61,4.67,4.63,4.62,4.61,4.47,4.68
-Music Education,386,Melissa,Brunkan,Teaching Lab I,5.0,5.0,4.67,4.33,4.67,4.33,5.0
+Music Education,386,Melissa,Brunkan,Teaching Lab I,5.0,5.0,4.58,4.42,4.58,4.42,5.0
 Music Education,386,Christopher,Olin,Teaching Lab I,4.39,4.64,4.06,4.39,3.44,3.78,4.31
 Music Education,386,Timothy,Paul,Teaching Lab I,2.71,2.71,2.71,2.29,3.29,2.57,2.43
 Music Education,387,Melissa,Brunkan,Teaching Lab I,4.0,4.0,3.0,3.0,5.0,3.0,3.0
@@ -11,6 +11,12 @@ Music Education,387,Timothy,Paul,Teaching Lab I,4.19,3.56,4.0,3.81,2.81,2.75,3.1
 Music Education,388,Melissa,Brunkan,Teaching Lab I,5.0,5.0,5.0,4.5,5.0,4.5,5.0
 Music Education,388,Eric,Wiltshire,Teaching Lab I,4.42,4.58,3.83,4.25,4.25,4.25,4.42
 Music Education,388,Christopher,Olin,Teaching Lab I,3.75,3.75,2.5,3.0,3.75,3.25,3.75
+Music Education,392,Morgan,Bates,Top High Brass Tech,4.5,4.25,4.75,4.25,5.0,4.75,4.25
+Music Education,392,Jacqueline,Cordova-Arrington,Top Flute/Clarinet Tec,5.0,5.0,4.67,4.67,5.0,4.67,5.0
+Music Education,392,Darian,Douglas,Top High String Tech,5.0,5.0,4.83,4.83,5.0,5.0,4.83
+Music Education,392,Won,Kim,Top Flute/Clarinet Tec,4.27,4.27,4.57,4.27,4.67,4.83,4.43
+Music Education,392,Brian,McWhorter,Top High Brass Tech,3.75,3.88,3.5,3.5,4.5,3.88,3.62
+Music Education,392,Lydia,Van Dreel,Top High Brass Tech,4.88,4.98,4.88,4.88,4.87,4.8,4.98
 Music Education,392,Evan,Miles,Top Voice Tech,3.7,3.7,3.25,3.8,3.7,3.35,3.65
 Music Education,392,Melissa,Pena,Top Oboe/Bassoon Tech,4.87,4.87,4.87,4.87,4.93,4.87,4.93
 Music Education,392,Steve,Vacchi,Top Oboe/Bassoon Tech,4.87,4.94,4.79,4.68,4.87,4.87,4.8
@@ -20,8 +26,6 @@ Music Education,392,Henry,Henniger,Top Low Brass Tech,4.11,4.16,4.26,4.11,4.36,4
 Music Education,392,Idit,Shner,Top Sax/Jazz Tech,4.25,4.39,4.3,4.42,4.38,4.25,4.31
 Music Education,392,Katherine,Von Bernthal,Top Sax/Jazz Tech,3.5,3.6,3.38,3.5,3.73,3.5,3.38
 Music Education,392,William,Wagoner,Top Percussion Tech,4.73,4.86,4.66,4.65,4.58,4.62,4.76
-Music Education,392,Won,Kim,Top Flute/Clarinet Tec,4.2,4.2,4.8,4.2,5.0,5.0,4.2
-Music Education,392,Lydia,Van Dreel,Top High Brass Tech,4.86,4.98,4.86,4.86,4.84,4.77,4.98
 Music Education,392,Molly,Barth,Top Flute/Clarinet Tec,5.0,5.0,4.75,5.0,4.75,4.5,5.0
 Music Education,392,Louis,DeMartino,Top Flute/Clarinet Tec,4.4,4.69,4.19,4.44,4.56,4.25,4.35
 Music Education,392,Aaron,Kahn,Top High Brass Tech,3.3,3.45,3.0,3.27,4.33,3.85,3.08
@@ -36,7 +40,6 @@ Music Education,392,John,Davison,Top High Brass Tech,2.83,2.33,2.0,3.0,4.17,2.5,
 Music Education,392,Fritz,Gearhart,Top String Tech,4.06,4.12,4.25,4.12,4.12,4.12,4.06
 Music Education,392,Megan,Perdue,Top Voice Tech,5.0,5.0,5.0,5.0,4.5,5.0,5.0
 Music Education,392,Sam,Golter,Top Flute/Clarinet Tec,5.0,5.0,5.0,4.5,4.5,4.5,5.0
-Music Education,392,Brian,McWhorter,Top High Brass Tech,3.0,3.25,2.5,2.5,4.5,3.25,2.75
 Music Education,392,Christopher,Olin,Top Guitar Tech,4.0,4.75,4.5,4.25,4.5,4.5,4.75
 Music Education,392,Mike,Grose,Top Tuba/Euph Tech,3.5,4.0,2.5,3.0,4.5,3.0,3.5
 Music Education,392,Steve,Vacchi,Top Bassoon Tech,4.5,4.75,4.5,4.5,4.5,4.75,4.75
@@ -65,10 +68,10 @@ Music Education,392,Aaron,Pergram,Top Woodwind Tech,4.33,4.67,4.67,4.67,4.67,4.3
 Music Education,392,Nicoleen,Willson,Top Woodwind Tech,4.67,4.67,4.67,4.67,4.67,4.67,4.67
 Music Education,392,Jeffrey,Williams,Top Trombone Tech,3.14,3.29,3.0,2.57,3.71,3.29,3.14
 Music Education,392,Charles,Dowd,Top Tech Perc,4.62,4.21,4.33,4.08,3.54,4.29,4.5
+Music Education,406,Beth,Wheeler,Fld Prac Public,4.38,4.67,4.25,4.33,4.17,4.38,4.62
 Music Education,406,Eric,Wiltshire,Fld Prac Public School,4.83,4.83,4.83,4.83,4.83,4.83,4.83
 Music Education,406,Melissa,Brunkan,Fld Prac Public,4.5,4.75,4.5,4.5,4.75,4.5,4.75
 Music Education,406,Eric,Wiltshire,Fld Prac Public,5.0,5.0,5.0,5.0,5.0,5.0,5.0
-Music Education,406,Beth,Wheeler,Fld Prac Public,5.0,5.0,5.0,5.0,5.0,5.0,5.0
 Music Education,406,Gordon,Ogo,Fld Prac Public Band,4.5,4.5,4.0,5.0,4.5,4.5,5.0
 Music Education,406,Eric,Wiltshire,Fld Prac Public Band,4.25,4.25,4.0,4.25,3.25,4.0,5.0
 Music Education,406,Julia,McCallum,Fld Prac Public School,4.8,4.8,4.8,4.8,4.8,4.8,4.8
@@ -79,12 +82,12 @@ Music Education,406,Timothy,Paul,Fld Prac Public Band,4.0,3.0,4.0,3.0,4.0,4.0,4.
 Music Education,406,Frank,Diaz,Fld Prac Music Ed,4.5,4.5,4.0,4.5,4.5,4.5,4.5
 Music Education,406,Amy,Fickenscher,Fld Prac Music Ed,4.5,4.5,4.5,4.5,4.5,4.5,4.5
 Music Education,406,Eric,Wiltshire,Fld Band Council,4.23,4.23,4.23,4.23,4.23,4.23,4.23
+Music Education,407,Eric,Wiltshire,Sem Band Materials,4.15,4.38,3.75,3.95,3.85,4.08,4.58
 Music Education,407,Andy,Strietelmeier,Sem Student Teach,2.5,1.83,2.0,2.17,3.67,2.33,3.5
 Music Education,407,Jason,Silveira,Sem Band Materials,4.65,4.88,4.81,4.58,4.71,4.52,4.65
 Music Education,407,Beth,Wheeler,Sem Cult Ctx Mus Ed,4.0,3.0,5.0,4.0,4.0,4.0,3.0
 Music Education,407,Beth,Wheeler,Sem Student Teach,3.25,3.75,2.75,3.25,3.75,3.0,3.5
 Music Education,407,Julia,McCallum,Sem Instruc Frameworks,4.36,4.72,4.72,4.72,4.89,4.53,4.36
-Music Education,407,Eric,Wiltshire,Sem Band Materials,4.5,4.75,4.5,4.5,4.5,4.75,4.75
 Music Education,407,Frank,Diaz,Sem Teachng & Wellness,4.6,4.6,4.2,4.75,4.0,4.0,4.6
 Music Education,407,Timothy,Paul,Sem Band Materials,4.44,4.26,4.55,4.08,4.45,3.74,4.62
 Music Education,407,Frank,Diaz,Sem String Materials,4.67,5.0,4.17,4.5,4.67,4.0,5.0
@@ -102,7 +105,7 @@ Music Education,409,Christopher,Olin,Practicum,4.12,4.12,3.38,4.12,3.62,3.62,4.1
 Music Education,409,Eric,Wiltshire,Practicum,2.5,3.5,2.25,3.0,3.0,2.25,3.0
 Music Education,410,Eric,Wiltshire,Educ Jazz Methods,4.47,4.65,3.74,4.53,4.46,4.22,4.65
 Music Education,411,Eric,Wiltshire,Band Methods,4.12,4.18,3.6,3.89,4.15,3.86,4.11
-Music Education,412,Beth,Wheeler,Elementary Music Meth,4.42,4.58,4.42,4.33,4.58,4.58,4.33
+Music Education,412,Beth,Wheeler,Elementary Music Meth,4.49,4.6,4.44,4.43,4.26,4.43,4.43
 Music Education,412,Julia,McCallum,Elementary Music Meth,4.83,4.83,4.83,4.6,4.94,4.77,4.83
 Music Education,412,Phyllis,Paul,Elementary Music Meth,4.84,4.76,4.73,4.54,4.41,4.39,4.92
 Music Education,413,Melissa,Brunkan,Secondary Choral Meth,5.0,5.0,4.67,4.67,5.0,4.67,5.0
@@ -114,7 +117,7 @@ Music Education,428,Julia,McCallum,Music Early Childhood,4.11,3.89,3.67,3.44,4.3
 Music Education,428,Phyllis,Paul,Music Early Childhood,4.5,4.42,4.83,4.5,4.42,4.67,4.58
 Music Education,429,Beth,Wheeler,Music in Special Educ,4.56,4.44,4.81,4.44,4.81,4.69,4.62
 Music Education,429,Phyllis,Paul,Music in Special Educ,4.75,4.65,4.64,4.52,4.4,4.55,4.7
-Music Education,430,Andy,Strietelmeier,Music Classroom Mgmt,3.25,3.12,2.33,2.88,4.5,3.5,3.11
+Music Education,430,Andy,Strietelmeier,Music Classroom Mgmt,3.19,3.16,2.77,2.74,4.48,3.62,3.09
 Music Education,430,Beth,Wheeler,Music Classroom Mgmt,3.88,4.0,3.75,4.0,4.62,4.12,4.0
 Music Education,430,Julia,McCallum,Music Classroom Mgmt,4.5,4.6,4.8,4.6,4.8,4.7,4.8
 Music Education,430,Frank,Diaz,Music Classroom Mgmt,4.93,4.93,4.86,4.82,4.81,4.88,4.89
@@ -136,17 +139,17 @@ Music Education,472,Claire,Wachter,Piano Pedagogy II,4.58,4.75,4.54,4.46,4.88,4.
 Music Education,472,Michael,Seregow,Piano Pedagogy II,4.75,5.0,5.0,4.62,4.88,4.88,4.62
 Music Education,472,Winifred,Kerner,Piano Pedagogy II,2.8,3.0,2.4,3.0,3.6,2.6,2.8
 Music Education,473,Claire,Wachter,Piano Pedagogy III,4.69,4.75,4.62,4.62,4.75,4.41,4.7
-Music Education,486,Beth,Wheeler,Teaching Lab II,4.5,4.75,4.25,4.75,4.75,4.5,4.5
+Music Education,486,Beth,Wheeler,Teaching Lab II,4.5,4.5,4.33,4.5,4.5,4.33,4.5
 Music Education,486,Julia,McCallum,Teaching Lab II,4.75,4.75,4.75,4.75,5.0,4.75,4.75
 Music Education,486,Phyllis,Paul,Teaching Lab II,4.47,4.47,4.53,4.48,4.58,4.47,4.78
 Music Education,487,Christopher,Olin,Teaching Lab II,3.33,3.33,2.33,2.67,4.0,2.33,3.33
 Music Education,488,Frank,Diaz,Teaching Lab II,4.67,4.67,4.67,4.67,4.67,4.67,4.67
 Music Education,488,Eric,Wiltshire,Teaching Lab II,4.09,4.27,3.69,4.22,4.19,4.01,4.22
 Music Education,488,Christopher,Olin,Teaching Lab II,3.5,3.5,3.0,3.0,4.5,3.5,4.5
+Music Education,507,Eric,Wiltshire,Sem Band Materials,4.15,4.38,3.75,3.95,3.85,4.08,4.58
 Music Education,507,Andy,Strietelmeier,Sem Student Teach,2.5,1.83,2.0,2.17,3.67,2.33,3.5
 Music Education,507,Jason,Silveira,Sem Band Materials,4.65,4.88,4.81,4.58,4.71,4.52,4.65
 Music Education,507,Andy,Strietelmeier,Sem String Materials,3.0,2.83,3.0,2.67,4.33,3.17,2.83
-Music Education,507,Eric,Wiltshire,Sem Band Materials,4.5,4.75,4.5,4.5,4.5,4.75,4.75
 Music Education,507,Frank,Diaz,Sem Teachng & Wellness,4.6,4.6,4.2,4.75,4.0,4.0,4.6
 Music Education,507,Frank,Diaz,Sem String Materials,4.67,5.0,4.17,4.5,4.67,4.0,5.0
 Music Education,507,David,Hedgecoth,Sem Band Materials,5.0,5.0,4.8,5.0,5.0,4.8,4.8
@@ -155,7 +158,7 @@ Music Education,508,Craig,Bender,Wrk Band Instr Repair,4.75,4.75,4.75,4.75,4.75,
 Music Education,508,Craig,Bender,Wrk Band Instru Repair,5.0,5.0,5.0,5.0,5.0,5.0,5.0
 Music Education,510,Eric,Wiltshire,Educ Jazz Methods,3.65,4.07,2.86,3.87,4.08,3.21,3.75
 Music Education,511,Eric,Wiltshire,Band Methods,4.14,4.3,3.62,3.8,4.21,3.84,4.11
-Music Education,512,Beth,Wheeler,Elementary Music Meth,4.42,4.58,4.42,4.33,4.58,4.58,4.33
+Music Education,512,Beth,Wheeler,Elementary Music Meth,4.49,4.6,4.44,4.43,4.26,4.43,4.43
 Music Education,512,Julia,McCallum,Elementary Music Meth,5.0,5.0,5.0,4.88,4.88,4.88,5.0
 Music Education,512,Phyllis,Paul,Elementary Music Meth,4.75,4.75,4.75,4.75,4.5,4.0,4.75
 Music Education,513,Christopher,Olin,Secondary Choral Meth,3.92,4.08,2.83,3.67,3.33,2.62,3.83
@@ -165,7 +168,7 @@ Music Education,528,Julia,McCallum,Music Early Childhood,4.11,3.89,3.67,3.44,4.3
 Music Education,528,Phyllis,Paul,Music Early Childhood,4.5,4.42,4.83,4.5,4.42,4.67,4.58
 Music Education,529,Beth,Wheeler,Music in Special Educ,4.56,4.44,4.81,4.44,4.81,4.69,4.62
 Music Education,529,Phyllis,Paul,Music in Special Educ,4.68,4.68,4.67,4.54,4.35,4.3,4.71
-Music Education,530,Andy,Strietelmeier,Music Classroom Mgmt,3.25,3.12,2.33,2.88,4.5,3.5,3.11
+Music Education,530,Andy,Strietelmeier,Music Classroom Mgmt,3.19,3.16,2.77,2.74,4.48,3.62,3.09
 Music Education,530,Beth,Wheeler,Music Classroom Mgmt,3.88,4.0,3.75,4.0,4.62,4.12,4.0
 Music Education,530,Julia,McCallum,Music Classroom Mgmt,4.5,4.6,4.8,4.6,4.8,4.7,4.8
 Music Education,530,Frank,Diaz,Music Classroom Mgmt,4.88,4.91,4.79,4.89,4.78,4.88,4.91
@@ -202,6 +205,7 @@ Music Education,609,Michael,Seregow,Prac Piano Pedagogy,4.5,4.5,5.0,4.0,5.0,3.5,
 Music Education,609,Timothy,Paul,Prac Sept Experience,4.0,3.5,3.0,4.0,2.5,3.5,4.0
 Music Education,609,Eric,Wiltshire,Prac Sept Experience,4.0,3.0,3.0,3.0,2.5,2.5,4.0
 Music Education,609,Leslie,Straka,Prac CMI Prep/Teaching,5.0,5.0,5.0,5.0,5.0,5.0,5.0
+Music Education,610,Jason,Silveira,Quantitative Research,4.67,4.67,4.67,4.33,5.0,5.0,4.67
 Music Education,613,Frank,Diaz,Res Methods Music Educ,4.64,4.78,4.59,4.78,4.65,4.83,4.73
 Music Education,632,Frank,Diaz,Music in Sch & Society,4.91,4.95,4.55,4.74,4.65,4.72,4.88
 Music Education,632,Christopher,Olin,Music in Sch & Society,4.5,4.0,3.5,4.0,4.0,3.5,4.5
@@ -213,6 +217,7 @@ Music Education,638,Julia,McCallum,Curric Strat Music Ed,4.0,4.25,4.25,4.0,4.75,
 Music Education,638,Frank,Diaz,Curric Strat Music Ed,4.79,4.86,4.76,4.72,4.81,4.87,4.78
 Music Education,638,Christopher,Olin,Curric Strat Music Ed,5.0,5.0,3.0,3.0,4.0,2.0,3.0
 Music Education,638,Harry,Price,Curric Strat Music Ed,4.0,4.33,4.67,3.67,4.33,3.33,4.0
+Music Education,639,Craig,Phillips,Top Voice Ped/Prac,5.0,5.0,4.0,4.33,4.67,4.67,5.0
 Music Education,639,Paul,Krueger,Top Jazz Ped/Prac,5.0,5.0,5.0,5.0,5.0,5.0,5.0
 Music Education,639,Timothy,Pack,Top Theory Ped/Prac,4.8,4.9,5.0,4.8,4.9,4.4,4.7
 Music Education,639,Claire,Wachter,Top Piano Ped/Prac,4.54,4.75,4.21,4.33,4.42,4.38,4.54

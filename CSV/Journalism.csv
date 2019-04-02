@@ -1,9 +1,9 @@
+Journalism,100,Ed,Madison,Media Professions,4.66,4.57,4.63,4.64,4.48,4.5,4.6
 Journalism,100,Gubae,Beyene,Media Professions,4.14,3.86,4.0,4.0,3.86,4.0,4.29
 Journalism,100,Lisa,Heyamoto,Media Professions,4.61,4.57,4.59,4.62,4.54,4.55,4.56
 Journalism,100,Troy,Elias,Media Professions,4.64,4.54,4.63,4.62,4.47,4.56,4.55
 Journalism,100,Kathryn,Kuttis,Media Professions,4.52,4.28,4.53,4.53,4.28,4.4,4.49
 Journalism,100,David,Morris,Media Professions,4.2,4.4,4.27,4.4,4.47,4.33,4.27
-Journalism,100,Ed,Madison,Media Professions,4.56,4.49,4.57,4.55,4.39,4.36,4.49
 Journalism,100,Laura,Strait,Media Professions,4.36,4.46,4.54,4.36,4.54,4.54,4.36
 Journalism,100,William,Ryan,Media Professions,4.1,4.08,4.02,4.15,4.13,4.03,4.04
 Journalism,100,Irma,Fisher,Media Professions,4.71,4.71,4.71,4.68,4.68,4.71,4.72
@@ -13,8 +13,8 @@ Journalism,100,Matthew,Pittman,Media Professions,4.6,4.47,4.6,4.53,4.67,4.53,4.5
 Journalism,100,David,Staton,Media Professions,4.36,4.36,4.27,4.5,4.5,4.46,4.14
 Journalism,100,Erica,Ciszek,Media Professions,4.25,4.58,4.42,4.5,4.75,4.42,4.58
 Journalism,100,Michaelle,Stellavato,Media Professions,3.93,4.0,4.13,4.2,4.27,3.93,4.0
+Journalism,101,Todd,Milbourn,Grammar for Communicat,3.83,3.92,4.13,3.89,4.06,3.98,3.78
 Journalism,101,Phil,Duncan,Grammar for Communicat,4.11,4.11,4.22,4.0,4.33,4.22,4.11
-Journalism,101,Todd,Milbourn,Grammar for Communicat,3.57,3.7,3.88,3.63,3.97,3.77,3.49
 Journalism,101,Patricia,Curtin,Grammar for Communicat,3.87,3.88,3.78,4.0,3.94,3.96,3.84
 Journalism,101,Thomas,Wheeler,Grammar for Communicat,4.03,4.05,3.94,3.71,4.27,4.24,4.0
 Journalism,101,David,Morris,Grammar for Communicat,3.8,4.0,4.07,3.93,4.27,4.33,3.87
@@ -27,11 +27,13 @@ Journalism,101,Erica,Ciszek,Grammar for Communicat,4.31,4.47,4.31,4.53,4.69,4.44
 Journalism,101,Tracy,Miller,Grammar for Journalist,3.55,3.31,3.54,3.59,3.64,3.41,3.66
 Journalism,101,Tracy,Miller,Grammar for Communicat,3.5,3.28,3.33,3.61,3.38,3.12,3.58
 Journalism,101,Leigh,Jasheway,Grammar for Journalist,4.07,4.18,4.05,4.0,4.3,4.22,4.16
+Journalism,199,Derek,Brandow,Sp St College Connect,4.57,4.57,3.57,4.43,4.57,4.57,4.14
+Journalism,199,Julianne H.,Newton,Sp St College Connect,3.78,4.06,3.96,3.76,4.45,4.21,3.54
+Journalism,199,Margy,Parker,Sp St College Connect,3.87,4.07,3.83,3.82,4.42,4.22,3.65
 Journalism,199,Charlie,Butler,Sp St Media Social Act,4.41,4.59,4.35,4.29,4.8,4.58,4.34
 Journalism,199,Ed,Madison,Sp St Media Social Chg,4.14,4.12,3.89,3.67,4.12,3.93,4.15
 Journalism,199,Peter,Alilunas,Sp St College Connect,4.62,4.81,4.12,4.44,4.75,4.69,4.69
 Journalism,199,Leigh,Jasheway,Sp St College Connect,4.51,4.65,4.22,4.42,4.58,4.52,4.21
-Journalism,199,Margy,Parker,Sp St College Connect,3.73,3.97,3.79,3.66,4.3,4.15,3.6
 Journalism,199,Leigh,Jasheway,Sp St Comdy Hero Bully,4.49,4.61,4.35,4.42,4.45,4.2,4.38
 Journalism,199,Steven,Asbury,Sp St Indesign Pub Rel,4.93,4.95,4.82,4.88,4.82,4.78,4.95
 Journalism,199,Leigh,Jasheway,Sp St Comedy HeroBully,4.43,4.47,4.13,4.27,4.43,4.07,4.27
@@ -43,7 +45,6 @@ Journalism,199,Jing-Yun,Chen,Sp St Chinese Media,2.67,3.33,2.67,3.0,2.83,2.83,2.
 Journalism,199,Kun,Li,Sp St Chinese Media,2.83,3.0,2.83,3.0,3.0,2.5,2.83
 Journalism,199,Marquis,Blaine,Sp St College Connect,4.03,4.17,3.8,3.97,3.91,3.85,3.62
 Journalism,199,Melissa,Hart,Sp St OR Travel Write,4.65,4.78,4.35,4.35,4.57,4.43,4.48
-Journalism,199,Julianne H.,Newton,Sp St College Connect,3.72,4.05,3.87,3.67,4.44,4.16,3.43
 Journalism,199,Susan,Steffen,Sp St College Connect,3.85,3.89,3.38,3.6,4.28,3.94,3.29
 Journalism,199,Leonard,Henderson,Sp St Btcmp I Video Pd,4.86,4.92,4.61,4.71,4.64,4.64,4.9
 Journalism,199,Dan,Morrison,Sp St Travel Writing,4.09,4.01,3.53,3.49,4.29,3.92,3.94
@@ -66,14 +67,16 @@ Journalism,199,Zanne,Miller,Sp St College Connect,4.38,4.31,4.23,4.15,4.08,4.31,
 Journalism,199,William,Morrill,Sp St College Connect,4.24,4.52,4.57,4.29,4.62,4.38,3.9
 Journalism,199,Alan,Stavitsky,Sp St College Connect,3.8,4.13,4.0,3.87,3.8,4.07,3.73
 Journalism,199,Mary-Kate,Mackey,Sp St Zine Back Page,4.5,4.57,4.14,4.43,4.29,3.71,4.43
+Journalism,201,Charlie,Deitz,Media and Society,4.46,4.55,4.56,4.62,4.36,4.52,4.41
+Journalism,201,Maxwell,Foxman,Media and Society,4.06,4.06,4.1,4.07,4.45,4.11,4.11
+Journalism,201,S. Senyo,Ofori-Parku,Media and Society,4.21,4.3,4.37,4.34,4.31,4.29,4.19
+Journalism,201,Bish,Sen,Media and Society,3.95,3.95,4.0,3.98,3.83,3.93,3.91
 Journalism,201,Netsanet,Debebe,Media and Society,4.33,4.17,4.33,4.33,4.17,4.17,4.17
 Journalism,201,Sumi,Louis,Media and Society,3.75,3.51,4.04,3.88,4.24,3.71,3.58
 Journalism,201,Justin,Francese,Media and Society,4.09,4.09,4.09,3.95,4.09,4.19,4.09
 Journalism,201,Andrew,McLaughlin,Media and Society,4.21,4.32,4.32,4.32,4.53,4.32,4.21
-Journalism,201,S. Senyo,Ofori-Parku,Media and Society,4.13,4.18,4.27,4.24,4.26,4.22,4.16
 Journalism,201,Gretchen,Soderlund,Media and Society,4.11,4.23,4.22,4.13,4.18,4.22,4.09
 Journalism,201,Peter,Alilunas,Media and Society,4.73,4.84,4.76,4.77,4.6,4.55,4.62
-Journalism,201,Bish,Sen,Media and Society,3.96,3.96,4.01,3.99,3.82,3.93,3.92
 Journalism,201,Theodore,Harrison,Media and Society,3.0,2.86,3.0,3.43,3.71,3.57,3.43
 Journalism,201,Thipkanok,Wongphothiphan,Media and Society,3.71,3.57,4.29,4.29,4.29,4.0,4.14
 Journalism,201,Ashley,Cordes,Media and Society,4.65,4.81,4.88,4.88,4.69,4.69,4.62
@@ -200,7 +203,7 @@ Journalism,207,Kelli,Matthews,Gateway to Media III,3.33,3.6,3.16,3.33,3.84,3.35,
 Journalism,207,Dan,Morrison,Gateway to Media III,3.58,3.66,3.01,3.18,4.06,3.18,3.6
 Journalism,207,Sung,Park,Gateway to Media III,3.55,3.54,3.2,3.1,3.78,3.04,3.6
 Journalism,207,Tracy,Miller,Gateway to Media III,3.58,3.47,3.26,3.53,3.74,3.32,3.47
-Journalism,208,Gabriela,Martinez,Intro Documentary Prod,4.42,4.41,4.46,4.3,4.49,4.38,4.39
+Journalism,208,Gabriela,Martinez,Intro Documentary Prod,4.31,4.3,4.29,4.17,4.45,4.21,4.34
 Journalism,208,Jesse,Abdenour,Intro Documentary Prod,4.17,4.06,4.0,4.11,4.33,3.78,4.28
 Journalism,208,Sonia,De La Cruz,Intro Documentary Prod,4.21,4.07,4.0,3.93,4.13,4.13,4.13
 Journalism,208,Rebecca,Toews,Intro Documentary Prod,3.91,3.73,3.18,3.46,4.46,3.64,4.0
@@ -215,6 +218,11 @@ Journalism,209,Ed,Madison,Understanding Media,4.14,4.29,3.69,4.03,3.89,3.82,4.09
 Journalism,209,Hiroko,Minami,Understanding Media,3.91,3.73,4.09,3.96,3.94,3.89,3.75
 Journalism,209,Benjamin,Birkinbine,Understanding Media,5.0,5.0,4.0,4.0,5.0,5.0,4.0
 Journalism,209,Randall,Livingstone,Understanding Media,4.42,4.38,4.46,4.31,4.35,4.35,4.27
+Journalism,211,Lisa,Heyamoto,Gateway to Media,4.52,4.71,4.5,4.44,4.53,4.45,4.62
+Journalism,211,Todd,Milbourn,Gateway to Media,3.99,3.99,3.91,3.79,3.94,3.83,4.06
+Journalism,211,Dan,Morrison,Gateway to Media,4.29,4.38,4.26,4.17,4.48,4.19,4.44
+Journalism,213,Seth,Lewis,Fact or Fiction,4.39,4.33,4.39,4.65,4.61,4.22,4.5
+Journalism,314,Amanda,Cote,Intro to Media Studies,4.33,4.67,4.61,4.65,4.58,4.43,4.51
 Journalism,314,Shehram,Mokhtar,Intro to Media Studies,4.6,4.4,4.8,4.8,4.4,4.0,4.2
 Journalism,314,Jeremy,Swartz,Intro to Media Studies,4.0,4.24,3.87,4.0,4.22,3.69,4.09
 Journalism,314,Peter,Alilunas,Intro to Media Studies,4.82,4.88,4.76,4.8,4.74,4.71,4.81
@@ -224,11 +232,13 @@ Journalism,314,Patrick,Jones,Intro to Media Studies,4.29,4.43,4.29,4.43,4.64,4.4
 Journalism,314,Carlnita,Greene,Intro to Media Studies,5.0,4.67,4.67,4.67,5.0,5.0,5.0
 Journalism,314,Janet,Wasko,Intro to Media Studies,2.97,2.87,3.19,3.07,3.31,3.08,2.97
 Journalism,314,Janet,Wasko,Intro Communic Stu,3.71,3.71,3.79,3.86,3.75,3.18,3.39
+Journalism,315H,Nicole,Dahmen,Honors Med Theo & Res,4.56,4.62,4.62,4.62,4.62,4.56,4.5
 Journalism,315H,Kim,Sheehan,Honors Med Theo & Res,4.62,4.68,4.62,4.48,4.76,4.56,4.55
+Journalism,320,Dayna,Chatman,Gend, Media, & Divers,3.68,3.79,3.89,4.11,3.85,3.17,3.71
+Journalism,320,Gretchen,Soderlund,Gend, Media, & Divers,3.88,3.92,3.76,3.86,4.16,3.95,3.9
 Journalism,320,Spencer,Cherasia,Gend, Media, & Divers,4.62,4.54,4.62,4.62,4.62,4.62,4.54
 Journalism,320,Andrew,Robbins,Gend, Media & Diversty,4.5,4.71,4.71,4.64,4.64,4.64,4.5
 Journalism,320,Erin,Hanna,Gend, Media, & Divers,4.47,4.56,4.57,4.55,4.43,4.44,4.43
-Journalism,320,Gretchen,Soderlund,Gend, Media, & Divers,3.77,3.82,3.65,3.77,4.1,3.85,3.82
 Journalism,320,Kris,Anderson Wright,Gend, Media, & Divers,4.37,4.34,4.4,4.25,4.37,4.43,4.22
 Journalism,320,Andrew,Robbins,Gend, Media, & Divers,4.59,4.65,4.53,4.59,4.53,4.59,4.65
 Journalism,320,Carlnita,Greene,Gend, Media, & Divers,3.71,3.74,3.92,3.76,3.88,3.86,3.69
@@ -251,13 +261,14 @@ Journalism,320,Debra,Merskin,Women/Minorit & Media,4.21,4.36,4.23,4.05,4.31,4.21
 Journalism,320,Gabriela,Martinez,Women/Minorit & Media,4.39,4.43,4.52,4.35,4.48,4.43,4.17
 Journalism,320,Estella,Porras,Women/Minorit & Media,3.63,3.53,3.38,3.36,4.28,3.66,3.56
 Journalism,330,Rebecca,Force,Intro Electronic Media,4.76,4.83,4.58,4.63,4.68,4.4,4.77
+Journalism,331,Sung,Park,Digital Video Prod,4.57,4.43,4.05,4.09,4.71,4.24,4.52
 Journalism,331,Rebecca,Force,Digital Video Prod,4.63,4.68,4.45,4.54,4.64,4.38,4.67
 Journalism,331,Dan,Morrison,Digital Video Prod,4.47,4.12,4.18,4.35,4.5,4.44,4.62
 Journalism,331,Paul,Machu,Digital Video Prod,2.69,2.62,2.19,2.27,3.31,2.5,2.56
 Journalism,331,Andre,Sirois,Digital Video Prod,4.33,4.2,4.07,3.87,4.47,4.07,4.33
 Journalism,331,Daniel,Miller,TV Field Production,4.0,3.67,3.27,3.07,4.0,3.47,4.07
 Journalism,331,Rebecca,Force,TV Field Production,4.71,4.79,4.64,4.71,4.86,4.64,4.86
-Journalism,333,Nicole,Dahmen,Writing for Multimedia,4.37,4.42,4.55,4.42,4.65,4.41,4.22
+Journalism,333,Nicole,Dahmen,Writing for Multimedia,4.35,4.41,4.52,4.34,4.64,4.41,4.24
 Journalism,333,Todd,Milbourn,Writing for Multimedia,4.25,4.25,4.5,4.0,4.5,4.5,4.0
 Journalism,333,Julia,Mahncke,Writing for Multimedia,3.09,3.42,3.37,3.01,3.65,3.05,2.99
 Journalism,333,Kyle,McDaniel,Writing for Multimedia,3.12,2.62,2.88,2.88,3.29,3.0,2.88
@@ -279,10 +290,10 @@ Journalism,340,Christopher,Stadler,Principles Advertising,3.92,3.9,3.97,3.79,4.1
 Journalism,340,Randall,Livingstone,Principles Advertising,4.13,4.11,4.16,4.08,4.28,4.11,4.06
 Journalism,340,David,Koranda,Principles Advertising,3.2,3.42,2.87,3.31,3.66,2.77,3.19
 Journalism,340,Kim,Sheehan,Principles Advertising,4.27,4.41,4.3,4.34,4.21,3.89,4.27
-Journalism,342,Deb,Morrison,Creative Strategist,4.58,4.64,4.38,4.44,4.24,4.19,4.58
+Journalism,342,Deb,Morrison,Creative Strategist,4.57,4.63,4.38,4.44,4.25,4.2,4.57
 Journalism,342,Esi,Thompson,Creative Strategist,4.2,4.15,4.18,4.09,4.07,4.11,4.18
+Journalism,350,Dean,Mundy,Princ Public Relations,4.61,4.73,4.68,4.65,4.6,4.55,4.56
 Journalism,350,Connie,Chandler,Princ Public Relations,4.05,3.99,4.13,3.98,4.13,4.07,4.07
-Journalism,350,Dean,Mundy,Princ Public Relations,4.63,4.74,4.7,4.67,4.62,4.58,4.59
 Journalism,350,Courtney,Munther,Princ Public Relations,4.57,4.71,4.63,4.65,4.53,4.37,4.55
 Journalism,350,Nicole,Dahmen,Princ Public Relations,4.3,4.5,4.4,4.5,4.6,4.5,4.3
 Journalism,350,Mandy,Drakeford,Princ Public Relations,4.53,4.59,4.71,4.65,4.65,4.59,4.59
@@ -302,11 +313,11 @@ Journalism,350,Tiffany,Gallicano,Princ Public Relations,3.49,3.47,3.82,3.55,3.82
 Journalism,350,Lisa,Forster,Princ Public Relations,4.15,4.23,4.08,4.15,4.38,4.0,4.23
 Journalism,350,Jessalynn,Strauss,Princ Public Relations,4.09,4.43,4.39,4.38,4.39,3.89,4.04
 Journalism,350,Patricia,Curtin,Princ Public Relations,4.09,4.25,4.32,4.29,4.25,3.99,4.0
+Journalism,352,Joe,Harwood,Strat Writ & Media Rel,4.6,4.68,4.34,4.52,4.55,4.41,4.61
+Journalism,352,John,Mitchell,Strat Writ & Media Rel,4.67,4.69,4.6,4.54,4.76,4.62,4.75
+Journalism,352,Lance,Robertson,Strat Writ & Media Rel,4.6,4.67,4.65,4.58,4.68,4.62,4.71
 Journalism,352,Jared,Macary,Strat Writ & Media Rel,4.6,4.8,4.6,4.6,4.8,4.6,4.8
-Journalism,352,Joe,Harwood,Strat Writ & Media Rel,4.59,4.68,4.33,4.51,4.54,4.39,4.6
-Journalism,352,John,Mitchell,Strat Writ & Media Rel,4.66,4.68,4.59,4.52,4.76,4.6,4.74
 Journalism,352,Courtney,Munther,Strat Writ & Media Rel,4.78,4.83,4.69,4.73,4.85,4.69,4.84
-Journalism,352,Lance,Robertson,Strat Writ & Media Rel,4.58,4.65,4.63,4.54,4.65,4.59,4.69
 Journalism,352,Dean,Mundy,Strat Writ & Media Rel,4.76,4.95,4.93,4.72,4.8,4.72,4.85
 Journalism,352,Matt,Eichner,Strat Writ & Media Rel,4.12,3.86,4.05,4.18,4.39,4.1,4.07
 Journalism,352,Kathryn,Thier,Strat Writ & Media Rel,4.65,4.71,4.57,4.66,4.78,4.53,4.78
@@ -315,13 +326,13 @@ Journalism,352,David,Remund,Strat Writ & Media Rel,4.67,4.67,4.33,4.58,4.58,4.58
 Journalism,352,Derek,Moscato,Strat Writ & Media Rel,4.33,4.56,4.33,4.56,4.56,3.89,4.44
 Journalism,352,Patricia,Curtin,Strat Writ & Media Rel,4.74,4.73,4.83,4.78,4.65,4.44,4.83
 Journalism,352,Kathleen,Kevrekian,Strat Writ & Media Rel,3.5,3.08,3.13,3.05,3.85,3.48,3.8
+Journalism,361,Marquis,Blaine,Reporting I,4.4,4.49,4.11,4.37,4.4,3.87,4.41
+Journalism,361,Charlie,Butler,Reporting I,4.55,4.65,4.47,4.54,4.74,4.5,4.55
+Journalism,361,Todd,Milbourn,Reporting I,4.6,4.7,4.66,4.54,4.47,4.55,4.72
+Journalism,361,Lori,Shontz,Reporting I,4.66,4.85,4.29,4.53,4.79,4.45,4.68
 Journalism,361,Nicole,Dahmen,Reporting I,4.78,4.93,4.71,4.87,4.42,4.27,4.93
 Journalism,361,Jesse,Abdenour,Reporting I,4.16,4.24,3.65,4.03,4.28,3.62,4.24
-Journalism,361,Lori,Shontz,Reporting I,4.61,4.83,4.25,4.48,4.76,4.4,4.66
 Journalism,361,Peter,Laufer,Reporting I,4.7,4.8,4.3,4.64,4.52,4.18,4.52
-Journalism,361,Marquis,Blaine,Reporting I,4.54,4.68,4.32,4.53,4.56,4.09,4.63
-Journalism,361,Charlie,Butler,Reporting I,4.55,4.67,4.43,4.52,4.74,4.54,4.55
-Journalism,361,Todd,Milbourn,Reporting I,4.58,4.68,4.63,4.53,4.44,4.5,4.72
 Journalism,361,Lisa,Heyamoto,Reporting I,4.6,4.73,4.33,4.54,4.68,4.3,4.54
 Journalism,361,Bethany Grace,Howe,Reporting I,3.82,3.82,3.38,3.53,4.47,3.64,3.72
 Journalism,361,Jeslyn,Lemke,Reporting I,3.77,3.46,3.0,3.54,4.38,3.46,4.15
@@ -349,9 +360,9 @@ Journalism,361,David,Forster,Reporting I,4.25,4.26,3.84,3.49,3.96,4.13,4.2
 Journalism,361,Jim,Upshaw,Reporting I,4.29,4.43,4.14,4.0,4.71,3.86,4.29
 Journalism,361,Melissa,Hart,Reporting I,5.0,5.0,4.73,5.0,4.91,4.82,4.82
 Journalism,361,Michael,Werner,Reporting I,3.94,4.22,3.78,3.83,4.42,4.11,3.97
+Journalism,365,Torsten,Kjellstrand,Photojournalism,4.7,4.78,4.55,4.49,4.71,4.47,4.69
 Journalism,365,David,Morris,Photojournalism,5.0,5.0,5.0,5.0,4.75,4.75,5.0
 Journalism,365,Dan,Morrison,Photojournalism,4.43,4.42,4.24,4.24,4.66,4.24,4.52
-Journalism,365,Torsten,Kjellstrand,Photojournalism,4.74,4.83,4.59,4.47,4.72,4.5,4.74
 Journalism,365,Alec,Tefertiller,Photojournalism,4.4,4.6,4.8,4.4,5.0,4.8,4.6
 Journalism,365,Kyle,McDaniel,Photojournalism,3.75,3.67,3.83,3.67,3.83,3.67,3.75
 Journalism,365,Christopher,Pietsch,Photojournalism,4.29,4.33,3.95,3.67,4.6,3.9,4.48
@@ -359,8 +370,8 @@ Journalism,365,Sung,Park,Photojournalism,4.56,4.38,4.75,4.25,4.44,3.94,4.69
 Journalism,365,Jenny,Dean,Photojournalism,4.0,4.5,4.5,4.0,4.5,4.0,3.5
 Journalism,365,Kathleen,Campbell,Photojournalism,4.41,4.39,4.47,4.12,4.54,4.12,4.42
 Journalism,365,Erik,Palmer,Photojournalism,3.27,2.64,3.54,3.09,2.91,3.0,3.09
-Journalism,371,Charlie,Butler,Feature Writing I,4.59,4.6,4.57,4.55,4.73,4.56,4.49
-Journalism,371,Lisa,Heyamoto,Feature Writing I,4.4,4.58,4.3,4.47,4.53,4.25,4.44
+Journalism,371,Charlie,Butler,Feature Writing I,4.65,4.66,4.64,4.63,4.77,4.63,4.58
+Journalism,371,Lisa,Heyamoto,Feature Writing I,4.43,4.59,4.32,4.49,4.54,4.29,4.47
 Journalism,371,Marquis,Blaine,Feature Writing I,4.79,4.79,4.57,4.79,4.86,4.43,4.71
 Journalism,371,John,Russial,Feature Writing I,4.4,4.33,4.22,4.03,4.62,4.29,4.24
 Journalism,371,Bethany Grace,Howe,Feature Writing I,4.5,5.0,4.0,4.5,5.0,4.5,4.5
@@ -377,7 +388,7 @@ Journalism,371,Mary-Kate,Mackey,Feature Writing I,4.33,4.33,3.93,3.86,4.15,4.08,
 Journalism,371,Mary-Kate,Mackey,Magazine Article I,4.32,4.4,4.22,4.17,4.2,4.11,4.25
 Journalism,371,Melissa,Hart,Magazine Article I,4.76,4.9,4.64,4.76,4.66,4.67,4.84
 Journalism,371,Susan,Steffen,Magazine Article I,4.54,4.54,3.92,4.15,4.46,4.0,4.31
-Journalism,385,Tim,Gleason,Communication Law,3.72,3.8,3.78,3.74,3.87,3.67,3.72
+Journalism,385,Tim,Gleason,Communication Law,3.69,3.78,3.78,3.73,3.87,3.64,3.7
 Journalism,385,Kyu Ho,Youm,Communication Law,3.54,3.32,3.46,3.55,4.01,3.2,3.68
 Journalism,385,Jeremy,Swartz,Communication Law,4.75,4.5,4.25,4.75,4.5,4.25,4.75
 Journalism,385,Matthew,Bean,Communication Law,4.48,4.45,4.35,4.13,4.21,4.29,4.55
@@ -386,9 +397,9 @@ Journalism,385,Jacob,Dittmer,Communication Law,4.58,4.69,4.62,4.56,4.48,4.34,4.6
 Journalism,385,Ahran,Park,Communication Law,4.48,4.43,4.76,4.81,4.52,4.67,4.57
 Journalism,386,Janet,Wasko,Communication Econ,3.42,3.46,3.7,3.59,3.68,3.52,3.38
 Journalism,386,Andre,Sirois,Communication Econ,4.37,4.49,4.43,4.4,4.77,4.51,4.31
+Journalism,387,Thomas,Bivins,Media History,4.23,4.35,4.42,4.33,4.21,4.21,4.24
 Journalism,387,Andrew,McLaughlin,Media History,5.0,5.0,4.67,4.67,4.33,4.67,5.0
 Journalism,387,Gretchen,Soderlund,Media History,3.85,3.96,3.99,3.9,4.11,4.08,3.84
-Journalism,387,Thomas,Bivins,Media History,4.26,4.41,4.43,4.35,4.22,4.23,4.27
 Journalism,387,Jeremy,Swartz,Media History,4.64,4.68,4.47,4.55,4.71,4.47,4.68
 Journalism,387,Kyle,McDaniel,Media History,3.5,3.47,3.6,3.84,3.8,3.16,3.48
 Journalism,387,Bethany Grace,Howe,Media History,4.89,5.0,4.89,4.78,4.78,4.78,4.78
@@ -425,6 +436,7 @@ Journalism,396,Fatoumata,Sow,Intl Communication,3.12,2.96,3.15,3.31,3.23,3.0,3.1
 Journalism,396,Sonia,De La Cruz,Intl Communication,3.11,3.19,3.55,3.32,3.54,3.41,3.13
 Journalism,396,Janet,Kwami,Intl Communication,3.92,3.84,3.71,3.7,3.97,3.41,3.82
 Journalism,396,Kyu Ho,Youm,Intl Communication,2.82,2.68,2.73,2.59,3.88,2.76,2.9
+Journalism,397,Donnalyn,Pompper,Media Ethics,4.2,4.22,4.33,4.02,4.42,4.51,4.24
 Journalism,397,Layire,Diop,Media Ethics,3.49,3.72,3.81,3.7,3.93,3.77,3.48
 Journalism,397,Thomas,Bivins,Media Ethics,4.0,4.11,4.25,4.1,3.9,3.72,3.93
 Journalism,397,Jeremy,Swartz,Media Ethics,4.04,4.12,3.85,3.89,4.32,3.66,3.74
@@ -438,6 +450,10 @@ Journalism,397,Darshan,Sawantdesai,Media Ethics,3.92,3.97,3.83,3.71,4.04,4.05,3.
 Journalism,397,Anne,Conaway,Mass Media Ethics,4.05,4.05,4.09,4.1,4.19,3.71,4.14
 Journalism,397,Randall,Livingstone,Media Ethics,4.15,4.15,4.31,4.23,4.54,4.38,4.23
 Journalism,397,Thomas,Bivins,Mass Media Ethics,4.14,4.21,4.34,4.15,3.83,3.84,4.11
+Journalism,399,Steven,Asbury,Sp St Intro to Design,4.86,4.71,4.79,4.71,4.64,4.64,4.79
+Journalism,399,Sally,Garner,Sp St Transfer Seminar,4.53,4.61,4.64,4.61,4.69,4.6,4.51
+Journalism,399,Stephanie,Heffner,Sp St Transfer Seminar,4.86,5.0,4.86,4.86,5.0,4.86,5.0
+Journalism,399,Kelli,Matthews,Sp St Sports Comm,4.15,4.0,3.81,4.12,4.42,4.04,4.15
 Journalism,399,Steven,Asbury,Sp St Design I,4.73,4.74,4.62,4.6,4.63,4.46,4.78
 Journalism,399,Sung,Park,Sp St Smartphone Phot,4.62,4.71,4.64,4.46,4.69,4.54,4.51
 Journalism,399,Miranda,Atkinson,Sp St Transfer Seminar,4.5,4.55,4.59,4.6,4.66,4.59,4.44
@@ -448,7 +464,6 @@ Journalism,399,Miranda,Atkinson,Sp St Job/Int Search,4.59,4.73,4.73,4.79,4.65,4.
 Journalism,399,Nicole,Dahmen,Sp St Design for PR,4.57,4.57,4.66,4.61,4.76,4.47,4.66
 Journalism,399,Rachel,Allen,Sp St Transfer Seminar,4.6,4.59,4.64,4.58,4.55,4.54,4.47
 Journalism,399,Shan,Anderson,Sp St Mobile Publishng,4.51,4.17,4.19,4.18,4.4,3.99,4.72
-Journalism,399,Sally,Garner,Sp St Transfer Seminar,4.52,4.6,4.64,4.61,4.69,4.6,4.52
 Journalism,399,Dan,Morrison,Sp St Science&Mem Disc,4.5,4.5,3.0,4.0,5.0,4.0,5.0
 Journalism,399,Deb,Morrison,Sp St Science&Mem Disc,5.0,5.0,4.0,5.0,5.0,4.33,5.0
 Journalism,399,Jimmy,Grabow,Sp St Job/Int Search,4.56,4.48,4.56,4.52,4.56,4.41,4.52
@@ -475,20 +490,24 @@ Journalism,399,Deb,Morrison,Sp St Sustainblty Comm,4.77,4.69,4.23,4.46,4.46,4.31
 Journalism,399,Gregory,Kerber,Sp St Transfer Seminar,4.44,4.48,4.55,4.55,4.56,4.59,4.45
 Journalism,399,William,Morrill,Sp St Career Mentor,4.52,4.52,4.56,4.52,4.65,4.46,4.42
 Journalism,399,Kelli,Matthews,Sp St Social Media,4.36,4.57,4.0,4.36,4.71,4.62,4.38
+Journalism,406,Kaitlin,Bane,Sp Pr Variety Prod,4.47,4.24,4.33,4.35,4.33,4.21,4.33
 Journalism,406,Rebecca,Force,Sp Pr Variety Prod,4.4,4.26,4.21,4.25,4.29,4.28,4.37
 Journalism,406,Rebecca,Force,Sp Pr Duck TV,4.73,4.25,4.52,4.58,4.35,4.58,4.67
 Journalism,406,Rebecca,Force,Sp Pr Variety Product,4.34,4.21,4.23,4.26,4.22,4.24,4.33
+Journalism,408,Shan,Anderson,Wrk Briefs & Projects,4.5,4.33,3.5,4.17,4.17,3.83,4.33
+Journalism,408,Steven,Asbury,Wrk Typography,4.78,4.81,4.71,4.71,4.6,4.64,4.76
+Journalism,408,Derek,Brandow,Wrk Confidence,4.89,4.92,4.83,4.87,4.8,4.79,4.9
+Journalism,408,Leonard,Henderson,Wrk Lighting for Video,4.9,4.93,4.84,4.83,4.81,4.85,4.9
+Journalism,408,Kelli,Matthews,Wrk Allen Hall Pub Rel,4.48,4.41,4.45,4.42,4.35,4.5,4.46
+Journalism,408,Tom,McDonnell,Wrk Allen Hall Advert,4.35,4.35,3.99,4.14,4.31,4.25,4.39
+Journalism,408,Margy,Parker,Wrk Portfolio for PR,4.47,4.57,4.49,4.36,4.51,4.57,4.55
 Journalism,408,Deb,Morrison,Wrk Sports Media,4.78,4.89,4.78,4.67,5.0,4.78,4.78
 Journalism,408,Lori,Shontz,Wrk Sports Media,4.89,4.78,4.56,4.56,4.89,4.67,4.67
-Journalism,408,Derek,Brandow,Wrk Confidence,4.88,4.91,4.82,4.88,4.79,4.78,4.9
-Journalism,408,Leonard,Henderson,Wrk Lighting for Video,4.91,4.93,4.84,4.83,4.81,4.85,4.91
 Journalism,408,Lisa,Heyamoto,Wrk Super J NYC Exper,4.73,4.83,4.69,4.51,4.73,4.51,4.83
 Journalism,408,David,Koranda,Wrk Ad Team,4.74,4.69,4.55,4.56,4.68,4.65,4.76
 Journalism,408,Kathryn,Kuttis,Wrk Portfolio Pub Rel,4.31,4.46,4.46,4.54,4.23,4.15,4.33
 Journalism,408,Scott,Maier,Wrk Prj Mgt Media Wrld,4.57,4.29,4.43,4.14,4.57,4.0,4.14
-Journalism,408,Kelli,Matthews,Wrk Allen Hall Pub Rel,4.51,4.44,4.48,4.44,4.36,4.53,4.49
 Journalism,408,Kelli,Matthews,Wrk PDX Experience,4.38,4.38,4.12,4.38,4.5,4.38,4.25
-Journalism,408,Tom,McDonnell,Wrk Allen Hall Advert,4.33,4.34,3.96,4.12,4.32,4.24,4.38
 Journalism,408,Deb,Morrison,Wrk NYC Experience,4.87,4.79,4.71,4.72,4.65,4.67,4.88
 Journalism,408,Damian,Radcliffe,Wrk Super J NYC Exper,4.59,4.53,4.21,4.34,4.75,4.26,4.84
 Journalism,408,Damian,Radcliffe,Wrk Demystifying Media,4.58,4.51,4.41,4.62,4.54,4.44,4.58
@@ -498,7 +517,6 @@ Journalism,408,Connie,Chandler,Wrk Portfolio for PR,4.5,4.54,4.5,4.31,4.54,4.62,
 Journalism,408,Torsten,Kjellstrand,Wrk Prof Storytelling,4.56,4.67,4.44,4.33,4.44,4.56,4.33
 Journalism,408,Kelli,Matthews,Wrk Allen Hall PR,4.53,4.5,4.62,4.56,4.47,4.59,4.62
 Journalism,408,Tom,McDonnell,Wrk Port for Creatives,4.36,4.42,3.94,4.19,4.31,3.97,4.33
-Journalism,408,Steven,Asbury,Wrk Typography,4.79,4.81,4.71,4.71,4.61,4.65,4.76
 Journalism,408,Sung,Park,Wrk Visual Portfolio,4.67,4.56,4.44,4.44,4.67,4.44,4.56
 Journalism,408,Donnalyn,Pompper,Wrk Portfolio for PR,3.75,3.88,4.12,3.5,4.25,4.0,3.75
 Journalism,408,Nic,Walcott,Wrk Intro Premiere Pro,4.4,4.6,4.4,4.4,4.6,4.4,4.4
@@ -560,7 +578,6 @@ Journalism,408,Deb,Morrison,Wrk Climate Chg Story,5.0,5.0,5.0,5.0,5.0,5.0,5.0
 Journalism,408,Sung,Park,Wrk Jnl Port Developmt,4.4,4.6,4.4,4.0,4.8,4.4,5.0
 Journalism,408,Sung,Park,Wrk Audio Fld Rec & Ed,4.67,4.67,4.33,4.83,4.33,4.33,4.5
 Journalism,408,Margy,Parker,Wrk Allen Hall Pub Rel,4.55,4.55,4.58,4.56,4.56,4.58,4.56
-Journalism,408,Margy,Parker,Wrk Portfolio for PR,4.54,4.54,4.46,4.46,4.54,4.54,4.64
 Journalism,408,Brandon,Thornton,Wrk Brief Writing,4.83,4.83,4.67,4.75,4.75,4.75,4.75
 Journalism,408,Mark,Lewis,Wrk Presentations,5.0,5.0,4.94,5.0,4.87,4.89,4.93
 Journalism,408,Kathryn,Kuttis,Wrk Portfolios Pub Rel,4.73,4.78,4.7,4.65,4.48,4.61,4.65
@@ -653,12 +670,16 @@ Journalism,408,Melissa,Hart,Wrk Report/Info Strat,4.0,5.0,4.0,5.0,5.0,3.0,5.0
 Journalism,408,Kathryn,Campbell,Wrk Investigative Rptg,4.5,4.5,4.5,4.5,4.25,4.25,4.5
 Journalism,408,David,Koranda,Wrk Curiosity/Strategy,4.4,4.5,4.1,4.1,4.6,4.3,4.5
 Journalism,408,Seth,Walker,Wrk Port Media Market,4.62,4.62,4.75,4.75,4.75,4.62,4.88
+Journalism,409,Maya,Lazaro,Prac Allen Hall Studio,4.57,4.64,4.43,4.29,4.86,4.43,4.57
 Journalism,409,Kathryn,Thier,Prac Catalyst Prod Wk,5.0,5.0,4.86,5.0,5.0,5.0,5.0
 Journalism,409,Brent,Walth,Prac Catalyst Prod Wk,5.0,5.0,4.71,5.0,5.0,5.0,5.0
 Journalism,409,Ed,Madison,Prac Allen Hall Studio,4.33,4.39,4.1,4.11,4.33,4.16,4.27
 Journalism,409,Kelli,Matthews,Prac Bateman,4.11,4.11,4.11,4.08,4.39,4.22,4.35
 Journalism,409,Joshua,Netzer,Prac Portland Exp,4.4,4.53,4.38,4.37,4.69,4.46,4.31
 Journalism,409,Patricia,Curtin,Prac Bateman,4.81,4.61,4.5,4.72,5.0,4.58,5.0
+Journalism,410,Shan,Anderson,Making Mobile Content,3.7,3.7,3.8,3.7,4.1,3.8,3.8
+Journalism,410,Nicole,Dahmen,Honors Thesis Prospect,4.22,4.56,4.44,4.33,4.67,4.44,4.0
+Journalism,410,Torsten,Kjellstrand,Reporting the Science,4.75,4.83,4.0,4.25,4.83,4.42,4.5
 Journalism,410,Dan,Morrison,Sci & Mem Oregon Coast,4.93,4.85,4.45,4.61,5.0,4.45,4.77
 Journalism,410,Tom,McDonnell,Sci & Memory Ghana Pro,4.4,4.6,4.0,4.6,4.6,4.2,4.8
 Journalism,410,Shan,Anderson,Muse for Portfolios,3.78,3.78,3.67,3.67,4.0,3.89,3.78
@@ -715,6 +736,10 @@ Journalism,410,William,Ryan,Designing for Media,4.12,4.25,3.75,4.0,4.38,3.5,4.12
 Journalism,410,Michael,Werner,Gateway to Media I,4.29,4.29,3.52,3.76,4.38,3.86,4.38
 Journalism,410,Shan,Anderson,Writing/Design Concept,4.71,4.64,4.29,4.51,4.49,4.18,4.34
 Journalism,410,Deb,Morrison,Writing/Design Concept,4.85,5.0,4.46,4.69,4.46,4.15,4.77
+Journalism,411M,Janet,Wasko,US Film Industry,4.0,3.95,4.0,4.0,4.0,3.95,3.95
+Journalism,412,Carl,Bybee,Top Consumer Culture,3.12,3.06,2.76,2.81,3.53,2.88,3.14
+Journalism,412,Bish,Sen,Top Reality TV,4.18,4.19,4.14,3.98,4.2,4.06,4.18
+Journalism,412,Kyu Ho,Youm,Top Comm & Democracy,3.26,3.3,3.55,3.23,4.05,3.06,3.31
 Journalism,412,Kay,Chansiri,Top Media & Body Image,3.71,3.75,3.93,3.91,4.14,3.87,3.55
 Journalism,412,Bish,Sen,Top Television&Society,4.31,4.31,4.13,4.25,4.36,4.23,4.21
 Journalism,412,Erin,Hanna,Top US Film Industry,4.12,4.2,4.29,4.21,4.26,4.22,4.1
@@ -726,12 +751,9 @@ Journalism,412,Seth,Lewis,Top Fact or Fiction,4.2,4.22,4.16,4.14,4.08,3.84,4.08
 Journalism,412,Daniel,Steinhart,Top Global Hollywood,4.42,4.48,4.55,4.35,4.41,4.47,4.42
 Journalism,412,Jeremy,Swartz,Top Civic Media,4.28,4.4,4.05,4.23,4.52,4.09,4.21
 Journalism,412,Janet,Wasko,Top Understand Disney,4.1,3.99,4.06,3.93,4.1,4.05,4.08
-Journalism,412,Carl,Bybee,Top Consumer Culture,3.08,3.01,2.68,2.73,3.44,2.84,3.08
 Journalism,412,Seth,Lewis,Top Fact or Fiction?,4.31,4.41,4.41,4.17,4.34,4.21,4.17
-Journalism,412,Bish,Sen,Top Reality TV,4.28,4.27,4.21,4.09,4.16,4.17,4.29
 Journalism,412,Daniel,Steinhart,Top US Film Industry,4.23,4.31,4.44,4.33,4.19,4.21,4.26
 Journalism,412,Janet,Wasko,Top Political Economy,3.16,3.28,3.2,3.12,3.79,3.28,3.16
-Journalism,412,Kyu Ho,Youm,Top Comm & Democracy,3.41,3.36,3.65,3.33,4.19,3.09,3.54
 Journalism,412,Eric,Adae,Top Brands/Intl Market,4.54,4.91,4.82,4.73,4.91,4.73,4.73
 Journalism,412,Carlnita,Greene,Top Social Media & Soc,2.84,2.97,3.12,2.81,3.31,3.28,2.87
 Journalism,412,Carlnita,Greene,Top Media & Pop Cult,3.41,3.46,3.64,3.59,4.09,3.77,3.36
@@ -865,19 +887,20 @@ Journalism,440,Lisa,Forster,Public Relat Writing,4.5,4.5,4.5,4.5,4.5,4.5,4.5
 Journalism,440,Kelli,Matthews,Public Relat Writing,5.0,5.0,5.0,5.0,5.0,5.0,5.0
 Journalism,441,Teresa,Monroe,Advertis Copywriting,4.0,3.62,3.5,3.5,3.38,2.62,3.75
 Journalism,442,Shan,Anderson,Advertising Layout,4.48,4.43,4.3,4.3,4.2,4.42,4.34
+Journalism,443,S. Senyo,Ofori-Parku,Advertising Media Plan,4.05,4.26,4.05,4.32,4.47,4.16,4.26
 Journalism,443,Heather,Shoenberger,Advertising Media Plan,4.25,4.33,4.07,4.2,4.53,4.36,4.32
 Journalism,443,David,Koranda,Advertising Media Plan,4.36,4.39,4.15,4.21,4.51,4.1,4.38
 Journalism,443,Christopher,Chavez,Advertising Media Plan,4.0,4.21,4.04,4.17,4.75,4.12,4.0
 Journalism,443,Harshavardhan,Gangadharbatla,Advertising Media Plan,4.73,4.82,4.73,4.54,4.82,4.73,4.64
 Journalism,443,Renee,Wilkinson,Advertising Media Plan,3.75,3.5,3.75,3.38,4.25,3.38,3.75
-Journalism,444,Christopher,Chavez,Agency Account Mgmt,4.44,4.59,4.44,4.49,4.61,4.29,4.49
+Journalism,444,Christopher,Chavez,Agency Account Mgmt,4.44,4.58,4.41,4.47,4.6,4.29,4.46
 Journalism,444,Suzanne,Gorham,Agency Account Mgmt,4.8,4.81,4.7,4.71,4.82,4.74,4.79
 Journalism,444,David,Koranda,Agency Account Mgmt,4.49,4.46,4.25,4.36,4.43,3.96,4.49
 Journalism,444,Kim,Sheehan,Agency Account Mgmt,4.59,4.64,4.57,4.58,4.62,4.47,4.56
 Journalism,446,Timothy,Christy,Advertising & Society,4.12,4.35,4.17,3.88,4.14,4.29,4.08
 Journalism,447,Deb,Morrison,Advertising Portfolio,4.38,4.75,4.0,4.38,4.38,4.25,4.5
+Journalism,448,Paul,Swangard,Advertising Campaigns,4.28,4.23,4.23,4.16,4.43,4.21,4.25
 Journalism,448,Tom,McDonnell,Advertising Campaigns,4.29,4.24,4.16,4.23,4.39,3.99,4.27
-Journalism,448,Paul,Swangard,Advertising Campaigns,4.3,4.22,4.23,4.16,4.43,4.21,4.26
 Journalism,448,David,Koranda,Advertising Campaigns,4.35,4.17,3.98,4.15,4.53,4.05,4.34
 Journalism,448,Shan,Anderson,Advertising Campaigns,4.12,3.88,3.62,4.12,3.88,3.75,4.14
 Journalism,448,Deb,Morrison,Advertising Campaigns,4.26,4.23,4.06,4.25,4.19,4.05,4.32
@@ -890,10 +913,10 @@ Journalism,448,Jennifer,Bell,Advertising Campaigns,4.5,4.5,4.0,4.25,4.5,4.25,4.2
 Journalism,448,Charles,Frazer,Advertising Campaigns,4.1,3.86,4.06,3.99,4.18,3.89,4.0
 Journalism,448,Timothy,Christy,Advertising Campaigns,3.78,3.89,4.0,3.56,5.0,3.89,3.67
 Journalism,449,David,Koranda,Adv Advertis Campaigns,4.67,4.62,4.61,4.59,4.7,4.56,4.7
+Journalism,452,Mandy,Drakeford,Strat Pub Relat Comm,3.78,3.8,3.64,3.79,3.97,3.53,3.81
+Journalism,452,Kathryn,Kuttis,Strat Pub Relat Comm,4.34,4.22,4.01,4.21,3.91,3.82,4.41
+Journalism,452,Courtney,Munther,Strat Pub Relat Comm,4.61,4.77,4.61,4.63,4.83,4.6,4.65
 Journalism,452,Connie,Chandler,Strat Pub Relat Comm,4.4,4.43,4.35,4.18,4.6,4.43,4.49
-Journalism,452,Mandy,Drakeford,Strat Pub Relat Comm,3.81,3.82,3.68,3.81,3.93,3.55,3.86
-Journalism,452,Kathryn,Kuttis,Strat Pub Relat Comm,4.33,4.27,3.94,4.2,3.89,3.85,4.42
-Journalism,452,Courtney,Munther,Strat Pub Relat Comm,4.62,4.76,4.62,4.68,4.83,4.58,4.69
 Journalism,452,Margy,Parker,Strat Pub Relat Comm,3.82,3.82,3.53,3.79,4.54,3.76,4.14
 Journalism,452,Kathryn,Thier,Strat Pub Relat Comm,4.45,4.54,4.46,4.33,4.72,4.49,4.58
 Journalism,452,Alec,Tefertiller,Strat Pub Relat Comm,4.36,4.54,4.36,4.27,4.91,4.46,4.18
@@ -911,7 +934,8 @@ Journalism,452,Thomas,Hagley,Strat Pub Relat Comm,4.19,4.25,4.31,4.0,4.5,4.25,4.
 Journalism,452,Tiffany,Gallicano,Adv Public Relat Writ,4.44,4.39,4.44,4.36,4.67,4.23,4.35
 Journalism,452,Thomas,Hagley,Adv Public Relat Writ,4.54,4.76,4.28,4.29,4.74,4.47,4.54
 Journalism,452,Kathryn,Hubbell,Adv Public Relat Writ,3.67,4.0,4.33,3.67,4.0,4.67,3.67
-Journalism,453,Taeho,Lee,Strat Planning & Cases,4.06,3.91,3.95,3.94,4.28,3.88,4.0
+Journalism,453,Taeho,Lee,Strat Planning & Cases,4.08,3.98,3.92,3.97,4.33,3.84,4.1
+Journalism,453,Hollie,Smith,Strat Planning & Cases,4.71,4.79,4.79,4.79,4.75,4.54,4.74
 Journalism,453,Dean,Mundy,Strat Planning & Cases,4.64,4.75,4.64,4.7,4.77,4.46,4.65
 Journalism,453,Autumn,Shafer,Strat Planning & Cases,4.47,4.57,4.55,4.53,4.71,4.42,4.62
 Journalism,453,Kelli,Matthews,Strat Planning & Cases,4.03,4.09,3.68,3.81,4.09,3.75,4.02
@@ -926,12 +950,12 @@ Journalism,453,Patricia,Curtin,Pub Rel Plan & Prob,5.0,5.0,4.89,5.0,5.0,5.0,5.0
 Journalism,453,Thomas,Hagley,Pub Rel Plan & Prob,4.06,4.09,4.25,4.02,4.38,3.93,4.27
 Journalism,453,John,Mitchell,Pub Rel Plan & Prob,4.31,4.36,4.38,4.28,4.5,4.29,4.27
 Journalism,453,Kelli,Matthews,Pub Rel Plan & Prob,4.46,4.46,4.08,4.46,4.85,4.23,4.62
+Journalism,454,Lance,Robertson,Public Relat Campaigns,4.48,4.49,4.45,4.39,4.65,4.4,4.42
 Journalism,454,Kelli,Matthews,Public Relat Campaigns,4.33,4.42,4.22,4.19,4.49,4.18,4.28
 Journalism,454,Connie,Chandler,Public Relat Campaigns,4.51,4.59,4.31,4.12,4.63,4.44,4.42
 Journalism,454,Kathryn,Kuttis,Public Relat Campaigns,4.1,4.07,4.02,3.99,3.98,3.77,4.07
 Journalism,454,Margy,Parker,Public Relat Campaigns,4.33,4.36,4.3,4.21,4.69,4.41,4.28
 Journalism,454,John,Mitchell,Public Relat Campaigns,4.45,4.58,4.41,4.43,4.66,4.48,4.38
-Journalism,454,Lance,Robertson,Public Relat Campaigns,4.59,4.68,4.59,4.45,4.71,4.65,4.5
 Journalism,454,Chris,Pryor,Public Relat Campaigns,4.62,4.66,4.63,4.55,4.71,4.48,4.52
 Journalism,454,Ricardo,Valencia,Public Relat Campaigns,4.3,4.5,4.7,4.7,4.8,4.6,4.6
 Journalism,454,Wendy,Ames Dionisio,Public Relat Campaigns,3.79,3.69,3.51,3.51,3.83,3.6,3.76
@@ -951,32 +975,38 @@ Journalism,454,Thomas,Hagley,Publ Relat Campaigns,4.2,4.5,4.1,4.2,4.7,4.3,3.9
 Journalism,454,Cary,Greenwood,Publ Relat Campaigns,2.4,2.1,2.4,1.7,3.2,2.7,2.7
 Journalism,455,Estella,Porras,3rd World Devel Commun,3.88,3.85,3.61,3.67,4.27,3.97,3.85
 Journalism,456,Deb,Morrison,Creative Strategist,4.65,4.68,4.34,4.5,4.4,4.14,4.63
-Journalism,457,David,Koranda,Curiosity for Strateg,4.48,4.56,4.06,4.33,4.56,4.01,4.42
-Journalism,458,Shan,Anderson,Writ Design Concepts,4.34,4.22,4.24,4.1,4.27,4.03,4.33
-Journalism,458,Tom,McDonnell,Writ Design Concepts,4.66,4.56,4.46,4.45,4.49,4.23,4.63
+Journalism,457,David,Koranda,Curiosity for Strateg,4.49,4.56,4.07,4.33,4.56,4.01,4.42
+Journalism,458,Shan,Anderson,Writ Design Concepts,4.34,4.22,4.23,4.1,4.28,4.04,4.32
+Journalism,458,Tom,McDonnell,Writ Design Concepts,4.64,4.54,4.45,4.43,4.5,4.18,4.62
 Journalism,458,Troy,Elias,Writ Design Concepts,4.49,4.54,4.15,4.38,4.46,4.17,4.55
 Journalism,458,Christopher,Stadler,Writ Design Concepts,4.32,4.17,4.0,4.04,4.56,3.92,4.28
 Journalism,458,Deb,Morrison,Writ Design Concepts,4.5,4.57,4.17,4.31,4.22,4.13,4.6
+Journalism,459,Tom,McDonnell,Adv Branding & Content,4.08,4.31,3.85,4.15,4.23,3.31,4.08
 Journalism,459,Deb,Morrison,Branding and Content,4.63,4.67,4.41,4.51,4.5,4.42,4.69
 Journalism,459,Bob,Rickert,Branding and Content,4.56,4.67,4.44,4.56,4.67,4.5,4.67
+Journalism,460,Steven,Asbury,Top Adver Dsgn & Prod,4.76,4.88,4.88,4.71,4.71,4.53,4.81
+Journalism,460,Steven,Asbury,Top Design for Media,4.63,4.59,4.61,4.52,4.67,4.44,4.7
+Journalism,460,Christopher,Chavez,Top Advert & Culture,4.5,4.58,4.45,4.54,4.61,4.32,4.49
+Journalism,460,Suzanne,Gorham,Top Leadership Tools,4.8,4.93,4.93,4.8,4.8,4.87,4.73
+Journalism,460,Dave,Markowitz,Top Brnd Insght w/data,3.86,3.86,4.29,4.0,4.86,4.29,4.14
+Journalism,460,Tom,McDonnell,Top Adv Creat Writ Ad,4.67,4.67,4.44,4.44,4.44,4.33,4.56
+Journalism,460,Deb,Morrison,Top Theory/Prac in Adv,4.38,4.81,4.0,4.52,4.33,4.14,4.57
+Journalism,460,Bob,Rickert,Top Ideasmithing,4.45,4.5,4.06,4.39,4.32,4.04,4.46
+Journalism,460,Paul,Swangard,Top Sports Brand Strat,4.6,4.4,4.34,4.55,4.38,3.95,4.49
 Journalism,460,Eric,Adae,Top Advert & Culture,4.9,4.8,4.5,4.8,4.9,4.8,4.8
 Journalism,460,Shan,Anderson,Top Soc Media Content,4.13,4.18,3.84,3.8,4.3,3.89,4.28
 Journalism,460,Troy,Elias,Top Advert & Culture,4.36,4.47,4.23,4.39,4.29,4.11,4.31
 Journalism,460,David,Koranda,Top Adv Media/Planning,4.0,4.14,3.76,4.09,4.48,3.9,4.09
-Journalism,460,Bob,Rickert,Top Ideasmithing,4.43,4.49,4.04,4.37,4.31,4.02,4.45
 Journalism,460,Kim,Sheehan,Top Green Brand Strat,4.44,4.5,4.44,4.39,4.49,4.35,4.41
 Journalism,460,Heather,Shoenberger,Top Insight w/Data,4.67,4.89,4.67,4.56,4.56,4.67,4.67
-Journalism,460,Christopher,Chavez,Top Advert & Culture,4.5,4.61,4.49,4.56,4.68,4.39,4.51
 Journalism,460,Christopher,Chavez,Top Global Brand Strat,4.79,4.92,4.83,4.88,4.92,4.83,4.79
 Journalism,460,Tom,McDonnell,Top Sci & Mem Ghana,4.8,4.6,4.4,4.4,4.8,4.4,4.6
 Journalism,460,Deb,Morrison,Top Idea Industry Sem,4.81,4.78,4.56,4.78,4.61,4.47,4.75
 Journalism,460,S. Senyo,Ofori-Parku,Top Green Brand Strat,4.29,4.59,4.41,4.53,4.53,4.29,4.35
 Journalism,460,Kim,Sheehan,Top Brand Responsiblty,4.64,4.64,4.68,4.59,4.68,4.54,4.5
-Journalism,460,Steven,Asbury,Top Design for Media,4.58,4.55,4.59,4.52,4.65,4.44,4.69
 Journalism,460,Christopher,Chavez,Top Leadership Tools,4.27,4.6,4.53,4.53,4.6,4.4,4.07
 Journalism,460,Tom,McDonnell,Top Adv Creat Writ/Adv,4.25,4.25,4.08,4.17,4.25,3.92,4.08
 Journalism,460,Heather,Shoenberger,Top Br& Insight w/Data,4.67,4.71,4.22,4.57,4.71,4.47,4.67
-Journalism,460,Paul,Swangard,Top Sports Brand Strat,4.65,4.39,4.29,4.55,4.35,3.87,4.45
 Journalism,460,Suzanne,Gorham,Top Ldshp Intell &Infl,4.83,4.79,4.65,4.61,4.65,4.56,4.72
 Journalism,460,Suzanne,Gorham,Top Client-Side Mgmt,4.71,4.76,4.69,4.72,4.65,4.57,4.6
 Journalism,460,Deb,Morrison,Top Br& Strat Seminar,4.71,4.58,4.71,4.71,4.48,4.32,4.57
@@ -1016,16 +1046,16 @@ Journalism,460,Harshavardhan,Gangadharbatla,Top Interact Media Sem,4.42,4.33,4.2
 Journalism,460,Charles,Frazer,Top New Venture Chmp,4.6,4.6,3.8,4.6,4.6,4.6,4.2
 Journalism,460,William,Ryan,Top Desgning for Media,4.83,4.83,3.67,4.5,4.67,4.0,4.83
 Journalism,460,Harshavardhan,Gangadharbatla,Brand Dev Interact Med,4.1,4.1,4.1,4.4,4.5,4.1,4.0
+Journalism,461,John,Russial,Newspaper Editing,4.4,4.38,4.38,4.37,4.46,3.81,4.21
 Journalism,461,Todd,Milbourn,Newspaper Editing,2.33,3.0,3.17,2.83,4.0,3.5,2.33
-Journalism,461,John,Russial,Newspaper Editing,4.4,4.38,4.39,4.38,4.47,3.81,4.21
 Journalism,461,Kathryn,Campbell,Newspaper Editing,4.0,4.75,4.25,4.0,4.75,4.0,4.5
+Journalism,462,Peter,Laufer,Reporting II,4.8,4.84,4.58,4.71,4.74,4.53,4.8
+Journalism,462,Scott,Maier,Reporting II,4.45,4.51,4.38,4.28,4.66,4.46,4.41
+Journalism,462,Kathryn,Thier,Reporting II,4.59,4.67,4.63,4.63,4.71,4.61,4.63
 Journalism,462,Matt,Eichner,Reporting II,4.38,4.38,4.5,4.38,4.62,4.62,4.38
-Journalism,462,Scott,Maier,Reporting II,4.46,4.52,4.38,4.29,4.68,4.45,4.41
 Journalism,462,Lori,Shontz,Reporting II,4.33,4.51,3.78,4.34,4.62,4.01,4.47
 Journalism,462,Brent,Walth,Reporting II,4.71,4.76,4.51,4.5,4.8,4.39,4.75
 Journalism,462,Rebecca,Force,Reporting II,4.56,4.69,4.27,4.38,4.71,4.28,4.53
-Journalism,462,Kathryn,Thier,Reporting II,4.58,4.63,4.56,4.6,4.68,4.54,4.68
-Journalism,462,Peter,Laufer,Reporting II,4.82,4.86,4.63,4.79,4.72,4.51,4.78
 Journalism,462,Lance,Robertson,Reporting II,3.95,3.95,3.8,3.9,4.25,4.1,3.75
 Journalism,462,Damian,Radcliffe,Reporting II,4.65,4.78,4.46,4.65,4.86,4.44,4.7
 Journalism,462,Hector,Tobar,Reporting II,4.57,4.72,4.39,4.3,4.57,4.38,4.49
@@ -1041,8 +1071,8 @@ Journalism,462,Michael,Thoele,Reporting II,4.55,4.55,4.42,4.39,4.45,4.39,4.67
 Journalism,462,Gregory,Miller,Reporting II,4.33,4.67,4.67,4.33,4.33,4.33,4.67
 Journalism,462,Dean,Rea,Reporting II,4.36,4.73,4.73,4.54,4.73,4.54,4.54
 Journalism,462,Jon,Furman,Reporting II,3.9,4.2,3.7,3.8,4.1,3.4,3.9
-Journalism,463,Damian,Radcliffe,Top Audio Story,4.64,4.77,4.52,4.59,4.78,4.41,4.53
-Journalism,463,Andrew,DeVigal,Top Engaged Journalism,4.83,4.67,4.0,4.67,4.67,4.33,4.67
+Journalism,463,Andrew,DeVigal,Top Engaged Journalism,4.42,4.43,4.0,4.53,4.53,4.17,4.23
+Journalism,463,Damian,Radcliffe,Top Audio Story,4.61,4.73,4.52,4.55,4.74,4.42,4.5
 Journalism,463,Todd,Milbourn,Top Story Development,4.0,4.43,3.86,3.86,4.71,3.86,3.57
 Journalism,463,Brent,Walth,Top Investigative Rptg,4.89,4.98,4.81,4.93,4.97,4.58,4.93
 Journalism,463,Dan,Morrison,Top News Lab,4.53,4.56,4.31,4.22,4.83,4.42,4.53
@@ -1085,6 +1115,7 @@ Journalism,463,Jessica,Mac Murray,Top Enviroment Writing,4.6,4.4,4.6,4.6,4.2,4.2
 Journalism,463,Erik,Palmer,Top Sprts/Feature Writ,2.82,2.54,3.18,2.73,3.64,3.18,2.73
 Journalism,464,Steven,Asbury,Newspaper Design,4.71,4.75,4.54,4.5,4.67,4.5,4.75
 Journalism,465,John,Russial,Cyberjournalism,3.62,3.5,3.25,3.38,4.0,3.5,3.38
+Journalism,466,Sung,Park,Top Adv Photojrlism,4.5,4.5,4.08,4.33,4.58,4.5,4.42
 Journalism,466,Sung,Park,Top Adv Photo Music,4.5,4.5,4.17,4.33,4.33,4.5,4.5
 Journalism,466,Sung,Park,Top Lightng for Stills,4.88,4.83,4.68,4.64,4.78,4.74,4.92
 Journalism,466,Torsten,Kjellstrand,Top Adv Photojournalsm,4.81,4.87,4.38,4.61,4.81,4.4,4.76
@@ -1101,6 +1132,7 @@ Journalism,466,Sung,Park,Top Sports Photojrnlsm,4.5,4.6,4.2,4.2,4.8,4.5,4.5
 Journalism,466,Sung,Park,Top Studio Loc Light,4.6,4.6,4.2,4.4,4.6,4.2,4.6
 Journalism,466,Sung,Park,Top Digital Storytell,4.5,4.5,4.0,4.0,5.0,5.0,4.5
 Journalism,466,Lee,Emmert,Top Digital Storytell,4.07,3.66,4.13,3.94,3.12,3.39,4.07
+Journalism,467,Daniel,Miller,Top Hum Rghts & Cinema,4.04,4.0,4.04,3.65,3.92,3.88,4.27
 Journalism,467,Elinam,Amevor,Top Development Comm,4.5,4.38,4.38,4.5,4.38,4.25,4.5
 Journalism,467,Gabriela,Martinez,Top World Documentary,4.48,4.47,4.53,4.4,4.48,4.45,4.43
 Journalism,467,Gabriela,Martinez,Top Latin Amer Cinema,4.37,4.44,4.48,4.34,4.5,4.38,4.45
@@ -1160,7 +1192,7 @@ Journalism,480,Courtney,Munther,Top Nonprf Crowdfundng,4.54,4.64,4.36,4.36,4.73,
 Journalism,480,Courtney,Munther,Top Fundraising Comm,4.83,5.0,4.0,4.5,4.83,4.33,5.0
 Journalism,480,Kathryn,Kuttis,Top Bus & Fin Comm,4.5,4.5,4.1,4.2,4.5,4.1,4.78
 Journalism,480,Laurie,Honda,Top Strat Social Media,2.27,2.13,2.47,2.07,3.07,2.2,2.0
-Journalism,483,Peter,Laufer,Journalistic Interview,4.8,4.88,4.44,4.66,4.67,4.37,4.71
+Journalism,483,Peter,Laufer,Journalistic Interview,4.76,4.84,4.38,4.6,4.64,4.32,4.69
 Journalism,483,Michael,Thoele,Journalistic Interview,4.68,4.69,4.78,4.49,4.67,4.52,4.67
 Journalism,483,Hector,Tobar,Journalistic Interview,3.67,3.67,3.5,3.5,4.0,3.33,3.83
 Journalism,483,Jeslyn,Lemke,Journalistic Interview,4.33,4.67,3.67,4.33,4.67,4.0,4.33
@@ -1174,12 +1206,12 @@ Journalism,483,Susan,Steffen,Journalistic Interview,4.38,4.46,3.92,4.15,4.69,4.2
 Journalism,483,Carol,Bassett,Journalistic Interview,3.59,3.71,3.63,3.47,3.67,3.51,3.61
 Journalism,483,Marquis,Blaine,Journalistic Interview,4.0,3.75,3.5,4.25,4.25,3.0,3.5
 Journalism,492,Hiroko,Minami,Intl Journalism,2.69,2.5,3.19,2.62,3.47,2.81,2.69
+Journalism,494,Autumn,Shafer,Strat Comm Research,4.28,4.38,4.4,4.25,4.57,4.18,4.3
 Journalism,494,Tugce,Ertem Eray,Strat Comm Research,4.14,4.29,4.29,4.14,4.14,4.14,4.14
 Journalism,494,Taeho,Lee,Strat Comm Research,3.96,3.88,4.14,3.86,4.18,3.96,3.9
 Journalism,494,Donnalyn,Pompper,Strat Comm Research,3.11,2.83,3.39,2.82,3.59,3.23,3.13
 Journalism,494,Alec,Tefertiller,Strat Comm Research,4.67,4.67,4.67,4.71,4.67,4.64,4.57
 Journalism,494,Heather,Shoenberger,Strat Comm Research,3.86,3.81,3.77,3.91,4.29,3.87,3.94
-Journalism,494,Autumn,Shafer,Strat Comm Research,4.34,4.45,4.47,4.31,4.62,4.24,4.37
 Journalism,494,Esi,Thompson,Strat Comm Research,3.77,3.98,4.04,4.05,4.61,3.82,3.77
 Journalism,494,Wendy,Ames Dionisio,Strat Comm Research,2.9,2.95,2.51,2.73,2.88,2.49,2.87
 Journalism,494,Tammra,Lockwood,Strat Comm Research,2.41,2.53,2.12,2.53,3.19,2.28,2.51
@@ -1195,10 +1227,10 @@ Journalism,495,Tobias,Hopp,Top Strategic Communic,3.77,4.0,4.0,3.92,4.0,3.92,3.9
 Journalism,495,Patricia,Curtin,Top Strat Comm Res,3.66,3.87,3.75,3.92,4.28,3.47,3.66
 Journalism,495,Joshua,Netzer,Top Strategic Communic,4.67,4.5,4.83,4.33,4.33,4.33,4.67
 Journalism,495,Donna,Davis,Top Strat Comm Res,3.79,4.11,3.79,3.95,4.32,4.26,3.95
+Journalism,496,Thomas,Bivins,Top Satire Ethic&Fr Sp,4.38,4.4,4.39,4.22,4.48,4.31,4.31
+Journalism,496,Kyu Ho,Youm,Top Comprtiv Media Law,3.67,3.62,3.34,3.67,4.08,3.4,3.65
 Journalism,496,Thomas,Bivins,Top Satir Eth/FreeSpch,4.62,4.55,4.38,4.41,4.41,4.32,4.59
 Journalism,496,Kyu Ho,Youm,Top Strat Comm Law,3.7,3.7,3.66,3.97,3.98,3.66,3.86
-Journalism,496,Thomas,Bivins,Top Satire Ethic&Fr Sp,4.1,4.2,4.15,3.95,4.4,4.1,4.1
-Journalism,496,Kyu Ho,Youm,Top Comprtiv Media Law,4.25,4.21,3.73,3.97,4.44,3.73,4.16
 Journalism,496,Thomas,Bivins,Top Satire Ethic&FrSph,4.48,4.56,4.12,4.24,4.52,4.48,4.32
 Journalism,496,Jeremy,Swartz,Top Philosphy of Comm,4.67,4.67,4.33,4.33,4.56,4.22,4.67
 Journalism,496,Matthew,Bean,Top Copyright & Media,3.33,3.11,3.23,2.83,3.89,3.22,3.17
@@ -1244,6 +1276,7 @@ Journalism,508,Marquis,Blaine,Wrk Sp Editorial Proj,3.58,3.58,3.33,3.33,4.0,3.25
 Journalism,508,Rebecca,Force,Wrk Video Boot Camp,4.0,4.0,3.6,3.8,4.2,3.4,3.6
 Journalism,508,Alan,Stavitsky,Wrk Wordstock Teachers,4.42,4.17,4.25,4.42,4.18,4.5,4.25
 Journalism,508,David,Koranda,Wrk Curiosity/Strategy,4.4,4.5,4.1,4.1,4.6,4.3,4.5
+Journalism,510,Torsten,Kjellstrand,Reporting the Science,4.75,4.83,4.0,4.25,4.83,4.42,4.5
 Journalism,510,Seth,Lewis,Algorithms/Automation,5.0,5.0,4.6,4.6,5.0,4.6,5.0
 Journalism,510,Todd,Milbourn,Media Entrepreneurship,3.83,4.5,4.17,4.17,4.0,4.0,3.67
 Journalism,510,Kelli,Matthews,Social Media Insights,4.4,4.2,4.1,4.3,4.7,4.4,4.5
@@ -1262,10 +1295,11 @@ Journalism,510,Lee,Emmert,Adv Photojournalism,4.5,4.5,4.33,4.0,4.17,4.33,4.67
 Journalism,510,Harshavardhan,Gangadharbatla,PR & Advertising Res,4.18,4.24,4.23,4.27,4.41,4.32,4.18
 Journalism,510,David,Koranda,Curiosity for Strtgst,4.12,3.82,3.35,4.06,4.5,3.35,4.0
 Journalism,510,Shan,Anderson,Writing/Design Concept,4.7,4.7,4.3,4.6,4.56,4.5,4.4
+Journalism,511M,Janet,Wasko,US Film Industry,4.0,3.95,4.0,4.0,4.0,3.95,3.95
+Journalism,512,Kyu Ho,Youm,Top Comm & Democracy,3.33,3.45,3.61,3.24,4.24,3.14,3.36
 Journalism,512,Bish,Sen,Top Television&Society,4.36,4.36,4.0,4.36,4.54,4.36,4.3
 Journalism,512,Jeremy,Swartz,Top Civic Media,3.42,3.5,3.08,3.19,3.85,3.19,3.12
 Journalism,512,Janet,Wasko,Top Understand Disney,4.17,4.04,4.03,4.0,4.16,4.07,4.15
-Journalism,512,Kyu Ho,Youm,Top Comm & Democracy,3.71,3.71,3.86,3.43,4.71,3.29,3.86
 Journalism,512,Carlnita,Greene,Top Social Media & Soc,2.84,2.97,3.12,2.81,3.31,3.28,2.87
 Journalism,512,Debra,Merskin,Top Ecofeminism &Media,4.33,4.67,3.67,3.67,4.67,3.67,4.67
 Journalism,512,Leigh,Jasheway,Top Comedy in Media,4.25,4.25,4.18,4.13,4.3,4.07,4.09
@@ -1347,12 +1381,14 @@ Journalism,556,Deb,Morrison,Creative Strategist,4.69,4.79,4.42,4.55,4.37,4.24,4.
 Journalism,557,David,Koranda,Curiosity for Strateg,4.58,4.62,4.2,4.4,4.61,4.06,4.54
 Journalism,558,Shan,Anderson,Writ Design Concepts,4.23,4.12,4.15,4.08,4.22,3.98,4.23
 Journalism,559,Deb,Morrison,Branding and Content,4.67,4.69,4.42,4.53,4.46,4.43,4.7
+Journalism,560,Dave,Markowitz,Top Brnd Insght w/data,3.86,3.86,4.29,4.0,4.86,4.29,4.14
+Journalism,560,Deb,Morrison,Top Theory/Prac in Adv,4.38,4.81,4.0,4.52,4.33,4.14,4.57
+Journalism,560,Bob,Rickert,Top Ideasmithing,4.58,4.58,4.21,4.36,4.44,4.16,4.61
+Journalism,560,Paul,Swangard,Top Sports Brand Strat,4.55,4.36,4.36,4.53,4.42,4.13,4.53
 Journalism,560,Christopher,Chavez,Top Global Brand Strat,4.79,4.92,4.83,4.88,4.92,4.83,4.79
 Journalism,560,Heather,Shoenberger,Top Br& Insight w/Data,4.89,4.78,4.44,4.78,4.78,4.22,4.89
-Journalism,560,Paul,Swangard,Top Sports Brand Strat,4.59,4.27,4.27,4.5,4.41,4.14,4.5
 Journalism,560,Troy,Elias,Top Advert & Culture,4.38,4.54,4.54,4.54,4.46,4.31,4.38
 Journalism,560,Kim,Sheehan,Top Green Brand Strat,4.6,4.66,4.63,4.6,4.6,4.45,4.6
-Journalism,560,Bob,Rickert,Top Ideasmithing,4.52,4.52,4.07,4.07,4.29,3.97,4.52
 Journalism,560,Heather,Shoenberger,Top Adv Analytics,4.7,4.8,4.3,4.8,4.7,4.5,4.7
 Journalism,560,Christopher,Stadler,Top Oregon Brand,3.82,3.71,3.41,3.82,4.12,3.35,3.71
 Journalism,560,Brandon,Thornton,Top Ess of Strat Plan,4.5,4.43,4.14,4.36,3.29,3.57,4.79
@@ -1373,7 +1409,7 @@ Journalism,560,William,Ryan,Top Desgning for Media,4.83,4.83,3.67,4.5,4.67,4.0,4
 Journalism,560,Harshavardhan,Gangadharbatla,Brand Dev Interact Med,4.1,4.1,4.1,4.4,4.5,4.1,4.0
 Journalism,561,Todd,Milbourn,Newspaper Editing,2.33,3.0,3.17,2.83,4.0,3.5,2.33
 Journalism,561,John,Russial,Newspaper Editing,4.34,4.38,4.41,4.31,4.47,3.51,3.84
-Journalism,562,Lori,Shontz,Reporting II,4.16,4.49,3.88,4.32,4.7,4.25,4.3
+Journalism,562,Lori,Shontz,Reporting II,4.29,4.61,4.11,4.55,4.71,4.35,4.44
 Journalism,562,Marquis,Blaine,Reporting II,4.0,4.5,3.5,4.0,5.0,4.0,4.0
 Journalism,562,Jonathan,Palfreman,Reporting II,4.41,4.48,3.93,4.21,4.67,4.15,4.12
 Journalism,562,Scott,Maier,Reporting II,4.31,4.41,4.3,4.24,4.67,4.27,4.3
@@ -1381,9 +1417,10 @@ Journalism,562,Alex,Tizon,Reporting II,4.17,4.17,3.67,3.67,4.17,3.92,3.75
 Journalism,562,Rebecca,Force,Reporting II,4.4,4.6,3.8,3.8,4.6,3.8,4.2
 Journalism,562,David,Forster,Reporting II,4.33,4.33,4.56,4.22,4.22,4.44,4.33
 Journalism,562,Dean,Rea,Reporting II,4.36,4.73,4.73,4.54,4.73,4.54,4.54
+Journalism,563,Andrew,DeVigal,Top Engaged Journalism,4.0,4.2,4.0,4.4,4.4,4.0,3.8
+Journalism,563,Damian,Radcliffe,Top Audio Story,4.5,4.67,4.45,4.39,4.7,4.45,4.32
 Journalism,563,Marquis,Blaine,Top Adv Story Develop,4.0,4.37,3.9,3.67,4.53,4.07,4.17
 Journalism,563,Todd,Milbourn,Top Story Development,4.0,4.43,3.86,3.86,4.71,3.86,3.57
-Journalism,563,Damian,Radcliffe,Top Audio Story,4.52,4.73,4.4,4.4,4.78,4.44,4.33
 Journalism,563,Brent,Walth,Top Investigative Rptg,4.92,4.97,4.78,4.94,5.0,4.58,4.97
 Journalism,563,Emily,Harris,Top Producing Story,3.67,4.0,3.33,4.33,4.67,3.67,3.33
 Journalism,563,Hector,Tobar,Top Adv Story Develop,4.75,4.5,4.25,4.25,4.5,4.0,3.75
@@ -1425,6 +1462,7 @@ Journalism,563,Melissa,Hart,Top Enviroment Writing,4.75,4.83,4.58,4.42,4.92,4.92
 Journalism,563,Jessica,Mac Murray,Top Enviroment Writing,4.6,4.4,4.6,4.6,4.2,4.2,4.4
 Journalism,564,Steven,Asbury,Newspaper Design,4.69,4.75,4.5,4.5,4.62,4.56,4.75
 Journalism,565,John,Russial,Cyberjournalism,3.62,3.5,3.25,3.38,4.0,3.5,3.38
+Journalism,566,Sung,Park,Top Adv Photojrlism,4.5,4.5,4.08,4.33,4.58,4.5,4.42
 Journalism,566,Sung,Park,Top Lightng for Stills,4.75,4.67,4.58,4.5,4.67,4.58,4.83
 Journalism,566,Torsten,Kjellstrand,Top Adv Photojournalsm,4.79,4.87,4.35,4.62,4.84,4.33,4.73
 Journalism,566,Sung,Park,Top Multimedia Story,4.43,4.46,4.45,4.3,4.73,4.32,4.58
@@ -1474,7 +1512,7 @@ Journalism,580,Kelli,Matthews,Top Strat Social Media,4.31,4.42,4.25,4.36,4.31,4.
 Journalism,580,Courtney,Munther,Top Nonprf Crowdfundng,4.54,4.64,4.36,4.36,4.73,4.18,4.64
 Journalism,580,Courtney,Munther,Top Fundraising Comm,4.83,5.0,4.0,4.5,4.83,4.33,5.0
 Journalism,580,Laurie,Honda,Top Strat Social Media,2.27,2.13,2.47,2.07,3.07,2.2,2.0
-Journalism,583,Peter,Laufer,Journalistic Interview,4.83,4.91,4.49,4.71,4.69,4.36,4.78
+Journalism,583,Peter,Laufer,Journalistic Interview,4.75,4.84,4.38,4.61,4.63,4.29,4.73
 Journalism,583,Michael,Thoele,Journalistic Interview,4.6,4.8,5.0,4.0,4.8,4.0,4.8
 Journalism,583,Hector,Tobar,Journalistic Interview,4.12,4.12,3.75,3.75,4.21,3.74,4.13
 Journalism,583,Gabriela,Martinez,Journalistic Interview,4.67,4.67,5.0,4.67,5.0,4.67,4.67
@@ -1482,6 +1520,7 @@ Journalism,583,Melissa,Hart,Journalistic Interview,4.7,5.0,4.6,4.8,4.8,4.6,4.5
 Journalism,583,Susan,Steffen,Journalistic Interview,4.38,4.46,3.92,4.15,4.69,4.23,4.15
 Journalism,583,Carol,Bassett,Journalistic Interview,4.33,4.44,4.44,4.11,4.56,4.11,4.0
 Journalism,583,Jonathan,Palfreman,Journalistic Interview,4.36,4.3,3.95,3.82,4.54,4.0,4.12
+Journalism,594,Autumn,Shafer,Strat Comm Research,3.98,4.06,4.05,3.95,4.3,3.89,4.0
 Journalism,595,Joshua,Netzer,Top Str Comm Res Meth,4.22,4.44,4.56,4.33,4.22,4.44,4.22
 Journalism,595,Joshua,Netzer,Top Strategic Communic,4.45,4.42,4.58,4.34,4.5,4.47,4.41
 Journalism,595,Jennifer,Schwartz,Top Strat Comm Res,2.94,2.69,2.69,2.51,3.35,2.69,2.94
@@ -1495,14 +1534,15 @@ Journalism,596,Kyu Ho,Youm,Top Digital Freedom,3.75,3.5,3.75,3.5,3.75,3.25,3.88
 Journalism,596,Kyu Ho,Youm,Top Comparat Media Law,4.2,4.4,4.2,4.0,4.0,3.8,4.4
 Journalism,596,Thomas,Bivins,Top Ethics Strat Com,4.59,4.68,4.54,4.44,4.36,4.31,4.34
 Journalism,606,Deb,Morrison,Sp Pr Sustainability,4.11,4.67,3.33,3.67,4.44,3.89,4.0
+Journalism,607,Kim,Sheehan,Brand Responsibility,5.0,5.0,4.86,4.86,4.86,4.86,5.0
 Journalism,607,Alan,Stavitsky,Sem Teacher as Writer,5.0,5.0,5.0,5.0,5.0,4.5,5.0
+Journalism,608,Mac,Campbell,Wrk Motion Graphics,4.54,4.65,4.54,4.5,4.58,4.27,4.42
+Journalism,608,Steven,Kray,Wrk Audio Storytell I,4.87,4.84,4.84,4.87,4.83,4.65,4.78
 Journalism,608,Erin,Aigner,Wrk Storytell W/Data,3.17,3.5,3.33,2.67,3.83,3.67,3.0
 Journalism,608,Wes,Pope,Wrk Immersive Storytel,3.86,3.86,3.14,3.29,4.29,4.14,3.86
 Journalism,608,Torsten,Kjellstrand,Wrk Story in Stills,3.86,4.71,3.5,4.21,3.64,3.93,4.14
-Journalism,608,Mac,Campbell,Wrk Motion Graphics,4.62,4.77,4.46,4.46,4.69,4.31,4.46
 Journalism,608,Steven,Kray,Wrk Audio Storytelling,4.36,4.64,4.27,4.73,4.91,4.36,4.27
 Journalism,608,Nikolas,Wise,Wrk Design/Interactive,4.67,4.83,4.43,4.52,4.87,4.37,4.35
-Journalism,608,Steven,Kray,Wrk Audio Storytell I,4.9,4.9,4.9,4.9,4.79,4.66,4.8
 Journalism,608,Beth,Nakamura,Wrk Story in Stills,4.5,4.38,4.08,4.17,5.0,4.54,4.54
 Journalism,608,Erin,Aigner,Wrk Storytell w/Data,4.33,4.75,4.33,4.58,4.5,3.83,4.75
 Journalism,608,Ketzel,Levine,Wrk Audio Storytell II,4.67,4.67,4.33,4.5,4.67,4.17,4.67
@@ -1515,12 +1555,14 @@ Journalism,608,Sung,Park,Wrk Story in Stills,4.38,4.75,4.62,4.38,4.12,4.25,4.38
 Journalism,608,Lauren,Kessler,Wrk Audio Storytelling,4.5,4.5,4.33,4.58,4.5,4.36,4.58
 Journalism,608,Joshua,Netzer,Wrk Wordstock Teachers,4.0,4.0,3.0,4.0,4.0,2.0,3.0
 Journalism,608,Alan,Stavitsky,Wrk Wordstock Teachers,4.75,4.75,4.25,4.75,3.0,1.75,4.75
+Journalism,610,Regina,Lawrence,Writing for Grad Sch,4.12,4.25,3.5,4.12,4.5,3.62,4.12
+Journalism,610,Kelli,Matthews,Crisis Communication,4.83,4.83,4.08,4.58,4.83,4.75,4.75
+Journalism,610,Brent,Walth,Thinking Story,4.94,5.0,4.96,4.91,4.8,4.76,4.85
 Journalism,610,Seth,Lewis,Hist & Theo New Media,4.14,4.23,4.61,4.05,4.45,3.83,4.23
 Journalism,610,Julianne H.,Newton,Digital Ethics,4.75,4.88,4.88,4.5,4.62,4.62,4.5
 Journalism,610,Mac,Campbell,Fdn Explan Journalism,4.9,5.0,5.0,5.0,4.8,4.9,4.6
 Journalism,610,Donna,Davis,Communication Ethics,4.6,4.6,4.2,4.4,4.4,4.6,4.6
 Journalism,610,Marquis,Blaine,Thinking Story,3.33,3.83,3.0,3.5,4.0,3.0,2.67
-Journalism,610,Kelli,Matthews,Crisis Communication,4.67,4.67,4.5,4.5,4.67,4.5,4.5
 Journalism,610,Donna,Davis,Strat Comm Research,4.67,4.75,4.67,4.58,4.83,4.67,4.5
 Journalism,610,Peter,Alilunas,Sex, Media & Regulatn,4.75,4.88,4.75,4.88,4.75,4.57,4.57
 Journalism,610,Charlie,Butler,Reporting Story,2.75,4.25,3.25,5.0,5.0,4.5,3.75
@@ -1528,7 +1570,6 @@ Journalism,610,Wes,Pope,MultiMed Practices,4.0,4.34,3.95,3.94,4.71,4.38,4.23
 Journalism,610,Regina,Lawrence,Poli Comm/Elections,3.83,4.0,3.67,3.67,2.83,2.83,4.0
 Journalism,610,Wes,Pope,Fdn Multimed Journalsm,3.94,3.72,3.24,3.11,4.59,3.9,3.98
 Journalism,610,Brian,Terrett,Crisis Communication,4.4,4.7,4.4,4.3,4.4,4.4,4.3
-Journalism,610,Brent,Walth,Thinking Story,4.89,5.0,5.0,4.89,4.67,4.67,4.78
 Journalism,610,Patricia,Curtin,Strat Comm Research,4.0,4.17,3.17,4.33,4.17,3.33,4.17
 Journalism,610,Bish,Sen,Hist & Theo New Media,4.62,4.81,4.57,4.65,4.49,4.33,4.73
 Journalism,610,Carol,Stabile,Media Theory III,4.59,4.82,4.62,4.78,4.87,4.51,4.71
@@ -1584,8 +1625,11 @@ Journalism,610,Gabriela,Martinez,International Comm,4.22,4.67,4.44,4.33,4.67,4.4
 Journalism,610,Deb,Morrison,Creativity Strat Comm,4.42,4.75,3.83,3.92,4.58,3.92,4.33
 Journalism,610,Courtney,Dillard,Top Strat Comm Res/Pln,4.44,4.44,4.33,4.11,4.56,4.11,4.67
 Journalism,610,Deb,Morrison,Strategic Creativity,4.25,4.75,4.0,3.75,3.5,3.5,4.25
+Journalism,611,Regina,Lawrence,Mass Commun & Society,4.4,4.55,4.33,4.32,4.05,3.87,4.28
+Journalism,611,Seth,Lewis,Mass Commun & Society,4.4,4.8,4.8,4.4,4.8,4.8,4.6
+Journalism,611,Julianne H.,Newton,Mass Commun & Society,4.79,4.92,4.71,4.67,4.92,4.71,4.71
+Journalism,611,Damian,Radcliffe,Mass Commun & Society,4.58,4.67,4.75,4.25,4.67,4.58,4.58
 Journalism,611,Donna,Davis,Mass Commun & Society,4.43,4.61,4.45,4.27,4.79,4.43,4.31
-Journalism,611,Regina,Lawrence,Mass Commun & Society,4.3,4.6,4.5,4.3,4.1,3.9,3.9
 Journalism,611,Scott,Maier,Mass Commun & Society,4.19,4.11,4.29,4.25,4.56,4.0,4.17
 Journalism,611,Helen,de Michiel,Mass Commun & Society,4.5,4.56,4.5,4.33,4.72,4.33,4.44
 Journalism,611,Eve,Epstein,Mass Commun & Society,4.0,4.43,4.43,4.43,4.29,4.29,4.14
@@ -1593,8 +1637,7 @@ Journalism,611,Jonathan,Palfreman,Mass Commun & Society,4.43,4.5,4.1,4.41,4.54,4
 Journalism,611,Michael,Huntsberger,Mass Commun & Society,4.5,4.5,3.67,3.83,4.33,3.33,4.33
 Journalism,611,Debra,Merskin,Mass Commun & Society,2.83,3.0,3.33,2.83,4.33,4.0,2.17
 Journalism,611,Alan,Stavitsky,Mass Commun & Society,4.35,4.43,4.12,4.12,4.83,4.26,4.35
-Journalism,611,Julianne H.,Newton,Mass Commun & Society,4.75,5.0,4.75,4.75,5.0,4.75,4.75
-Journalism,612,Patricia,Curtin,Media Theory I,4.48,4.75,4.76,4.71,4.81,4.25,4.46
+Journalism,612,Patricia,Curtin,Media Theory I,4.46,4.69,4.74,4.57,4.88,4.21,4.4
 Journalism,613,Gabriela,Martinez,Media Theory II,4.33,4.75,4.0,4.0,4.75,4.33,4.42
 Journalism,613,Janet,Wasko,Media Theory II,3.6,3.33,3.8,3.47,3.4,3.47,3.8
 Journalism,613,Patricia,Curtin,Mass Communic Theories,4.75,5.0,4.5,4.75,5.0,4.75,4.75
@@ -1606,21 +1649,22 @@ Journalism,617,Donnalyn,Pompper,Top Soc Resp w Corp/NP,4.57,4.43,4.43,4.29,4.43,
 Journalism,617,Tiffany,Gallicano,Top Nonprofit Pub Rel,4.33,4.5,4.5,4.17,4.83,4.67,4.5
 Journalism,617,Patricia,Curtin,Top Globaliz & Campgn,4.5,4.67,4.5,4.33,5.0,4.83,4.67
 Journalism,618,Brian,McCarthy,Strategic Comm Mgmt,4.72,4.87,4.93,4.66,4.87,4.87,4.72
+Journalism,619,Julianne H.,Newton,Teach & Profess Life,4.07,4.57,3.71,4.14,4.36,3.79,4.0
 Journalism,619,Nicole,Dahmen,Teach & Profess Life,4.31,4.39,4.49,4.13,4.69,4.42,4.29
 Journalism,619,Kim,Sheehan,Teach & Profess Life,4.53,4.58,4.41,4.45,4.65,4.43,4.44
 Journalism,619,Lauren,Kessler,Teach & Profess Life,3.2,2.8,3.2,3.2,3.0,2.2,3.6
-Journalism,619,Julianne H.,Newton,Teach & Profess Life,4.14,4.57,3.86,4.14,4.14,3.86,4.14
 Journalism,619,Stephen,Ponder,Teach & Profess Life,4.67,4.67,4.67,4.67,4.5,4.5,4.67
 Journalism,620,Tiffany,Gallicano,Publ Rel Plan Theory,4.5,4.0,4.67,4.0,4.83,4.33,4.67
+Journalism,621,Courtney,Munther,Found Strategic Commun,4.5,4.6,4.8,4.4,4.6,4.6,4.6
 Journalism,621,Maureen,O Connor,Found Strategic Commun,4.17,4.35,3.9,3.91,4.32,3.8,4.21
 Journalism,621,Donna,Davis,Found Strategic Commun,4.3,4.3,4.4,4.3,4.1,4.3,4.2
 Journalism,621,Courtney,Dillard,Found Strategic Commun,4.33,4.72,4.78,4.72,4.61,4.5,4.33
-Journalism,623,Donna,Davis,Creativity Strat Comm,4.0,3.96,3.57,3.77,4.53,3.96,4.06
+Journalism,623,Donna,Davis,Creativity Strat Comm,4.03,4.04,3.59,3.84,4.52,3.93,4.12
 Journalism,623,Alan,Stavitsky,Creativity Strat Comm,2.79,3.04,2.73,3.0,4.21,2.94,2.58
 Journalism,623,Deb,Morrison,Creativity Strat Comm,2.38,2.75,1.75,2.25,3.0,2.38,2.38
+Journalism,624,Gudrun,Granholm,Top Finance Strat Comm,4.44,4.56,4.78,4.83,4.56,3.83,4.39
 Journalism,624,David,Koranda,Top Campgn Plan & Mgmt,3.33,3.67,2.67,3.33,3.17,2.5,3.0
 Journalism,624,Erin,Hart,Top Comm Social Impact,5.0,4.75,4.75,4.75,5.0,4.0,5.0
-Journalism,624,Gudrun,Granholm,Top Finance Strat Comm,4.22,4.44,4.56,4.67,4.44,4.0,4.44
 Journalism,624,Donna,Davis,Top Proj Mgmt & Plning,4.35,4.49,4.43,4.51,4.65,4.47,4.24
 Journalism,624,Lou,Capozzi,Top Str Com Creativity,4.42,4.75,4.25,4.33,4.58,4.42,4.5
 Journalism,624,Gudrun,Granholm,Top Art of the Pitch,3.53,4.13,3.8,4.0,4.6,4.27,3.6
@@ -1639,8 +1683,8 @@ Journalism,625,H Leslie,Steeves,Intro to the Faculty,2.97,3.44,3.43,3.37,4.02,4.
 Journalism,626,Pam,Didner,Strategic Mktg Comm,3.71,3.86,2.86,3.29,4.71,1.86,3.57
 Journalism,626,Suzanne,Haviland,Strategic Mktg Comm,3.53,3.77,3.41,3.53,4.26,3.62,3.5
 Journalism,626,David,Remund,Strategic Mktg Comm,4.5,4.6,4.4,4.7,4.7,4.3,4.6
+Journalism,627,Wes,Pope,Fdn Multimed Journalsm,3.99,3.96,3.68,3.76,3.77,3.97,4.11
 Journalism,627,Andrew,DeVigal,Fdn Multimed Journalsm,3.86,3.71,3.57,3.43,3.86,3.57,4.0
-Journalism,627,Wes,Pope,Fdn Multimed Journalsm,3.57,3.43,3.29,3.43,3.29,3.86,3.71
 Journalism,628,Wes,Pope,Multimed Jour Practice,3.43,3.43,3.29,3.0,3.86,3.71,3.57
 Journalism,631,Carol,Bassett,Lit of Literary Jour,4.58,4.67,4.75,4.58,4.58,4.58,4.67
 Journalism,633,Lauren,Kessler,Top Write Photo Narrat,3.83,4.38,4.04,4.0,4.5,2.75,3.54
@@ -1664,7 +1708,7 @@ Journalism,641,Christopher,Chavez,Qualitative Res Meth,4.0,4.29,4.21,3.86,4.64,4
 Journalism,641,Julianne H.,Newton,Qualitative Res Meth,3.17,3.25,3.5,3.0,4.58,3.75,3.33
 Journalism,642,John,Russial,Quantitative Res Meth,4.29,4.33,4.31,4.41,4.77,4.5,4.25
 Journalism,642,Heather,Shoenberger,Quantitative Res Meth,4.0,4.2,3.4,3.6,5.0,4.0,3.6
-Journalism,643,Gretchen,Soderlund,Adv Doctoral Seminar,3.8,4.0,3.8,3.7,4.4,3.7,3.7
+Journalism,643,Gretchen,Soderlund,Adv Doctoral Seminar,3.98,4.0,3.98,3.93,4.53,4.02,3.93
 Journalism,643,Gretchen,Soderlund,Proseminar II,4.4,4.6,4.4,4.43,4.6,4.27,4.37
 Journalism,643,H Leslie,Steeves,Proseminar II,4.54,4.79,4.75,4.54,4.96,4.73,4.75
 Journalism,643,Janet,Wasko,Proseminar II,4.67,5.0,4.67,4.67,4.67,4.33,4.0
@@ -1675,6 +1719,7 @@ Journalism,646,Janet,Wasko,Pol Econ of Communic,4.35,4.41,4.42,4.12,4.25,4.2,4.4
 Journalism,647,Thomas,Bivins,Found of Comm Ethics,4.75,4.5,4.0,4.67,4.25,3.75,4.75
 Journalism,647,Thomas,Bivins,Theo Found Comm Ethics,4.4,4.8,4.6,4.4,4.4,4.0,4.6
 Journalism,648,Carl,Bybee,Cultur Appr to Commun,3.78,4.02,3.49,3.67,4.26,3.46,4.0
+Journalism,649,Gabriela,Martinez,International Comm,4.62,4.75,4.75,4.62,4.88,4.62,4.62
 Journalism,649,Gabriela,Martinez,Intl Communication,4.89,4.93,4.79,4.79,4.79,4.79,4.8
 Journalism,652,Carl,Bybee,Communic & Pol: Topic,5.0,5.0,4.67,4.67,4.33,4.33,5.0
 Journalism,654,Andrew,DeVigal,Report in Communities,3.71,4.0,3.71,3.57,4.0,3.71,3.43

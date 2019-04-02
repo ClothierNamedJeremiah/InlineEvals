@@ -1,7 +1,7 @@
 Ethnic Studies,100,Daniel,HoSang,Music Politics Califrn,4.31,4.36,4.02,4.26,4.36,4.17,4.43
 Ethnic Studies,100,Loren,Kajikawa,Music Politics Califrn,4.46,4.51,4.14,4.33,4.5,4.2,4.4
+Ethnic Studies,101,Lynn,Fujiwara,Intro Ethnic Studies,4.08,4.14,4.16,4.09,4.08,4.13,4.14
 Ethnic Studies,101,Cristina,Faiver,Intro Ethnic Studies,5.0,5.0,5.0,5.0,5.0,5.0,5.0
-Ethnic Studies,101,Lynn,Fujiwara,Intro Ethnic Studies,4.07,4.13,4.12,4.03,4.06,4.1,4.1
 Ethnic Studies,101,Alai,Reyes-Santos,Intro Ethnic Studies,3.94,3.98,3.58,3.88,4.07,3.77,3.96
 Ethnic Studies,101,Charise,Cheney,Intro Ethnic Studies,4.26,4.31,4.09,4.18,3.92,3.96,4.25
 Ethnic Studies,101,MeCherri,Abedi-Anim,Intro Ethnic Studies,4.5,4.5,4.25,4.5,4.5,4.5,4.5
@@ -10,6 +10,10 @@ Ethnic Studies,101,Christine,Finley,Intro Ethnic Studies,3.94,3.77,3.78,3.72,4.1
 Ethnic Studies,101,Melissa,Baird,Intro Ethnic Studies,4.27,4.3,4.22,4.25,4.16,4.09,4.22
 Ethnic Studies,101,Michael,Hames-Garcia,Intro Ethnic Studies,3.87,3.72,4.06,3.94,3.84,3.78,3.93
 Ethnic Studies,101,Ernesto,Garay,Intro Ethnic Studies,3.97,3.79,3.85,3.83,4.03,3.76,3.85
+Ethnic Studies,199,Kirby,Brown,Sp St NAIS Community,4.8,4.8,4.8,4.8,4.8,4.8,4.8
+Ethnic Studies,199,Michael,Hames-Garcia,Sp St College Connect,3.89,4.05,3.86,3.85,4.16,4.07,3.68
+Ethnic Studies,199,Ernesto,Martinez,Sp St College Connect,4.52,4.49,4.11,4.26,4.38,4.29,4.31
+Ethnic Studies,199,Jennifer,O'Neal,Sp St NAIS Community,4.7,4.7,4.5,4.6,4.5,4.7,4.6
 Ethnic Studies,199,Kirby,Brown,Sp St NAIS ARC,4.2,4.4,3.8,4.4,4.8,4.0,4.2
 Ethnic Studies,199,Charise,Cheney,Sp St Umoja Community,3.77,4.01,3.74,3.87,3.82,3.83,3.81
 Ethnic Studies,199,Jennifer,O'Neal,Sp St NAIS ARC,4.2,4.6,4.2,4.4,4.8,4.2,4.2
@@ -17,9 +21,7 @@ Ethnic Studies,199,Laura,Pulido,Sp St Studnt Organizng,4.46,4.46,4.46,4.58,4.83,
 Ethnic Studies,199,Kirby,Brown,Sp St Native Studies,3.8,4.0,4.0,4.0,4.4,4.2,3.8
 Ethnic Studies,199,Jennifer,O'Neal,Sp St Native Studies,4.0,4.2,3.8,3.8,4.2,3.8,3.6
 Ethnic Studies,199,Laura,Pulido,Sp St Student Organiz,4.0,4.25,4.0,4.25,4.25,4.25,4.25
-Ethnic Studies,199,Michael,Hames-Garcia,Sp St College Connect,3.89,4.06,3.9,3.83,4.13,4.08,3.7
 Ethnic Studies,199,Brian,Klopotek,Sp St Native Studies,3.57,3.57,3.14,3.43,4.29,3.43,3.57
-Ethnic Studies,199,Ernesto,Martinez,Sp St College Connect,4.57,4.44,4.15,4.27,4.43,4.34,4.31
 Ethnic Studies,199,Alai,Reyes-Santos,Sp St Race Ethics Just,4.33,4.33,4.5,4.33,4.33,4.67,4.33
 Ethnic Studies,199,Charise,Cheney,Sp St Umoja Res Commun,3.4,3.47,3.0,3.13,3.47,3.07,3.47
 Ethnic Studies,199,Brian,Klopotek,Sp St College Connect,3.91,4.27,4.0,4.0,4.09,4.18,4.0
@@ -34,7 +36,8 @@ Ethnic Studies,199,Alai,Reyes-Santos,Sp St Race Gend Global,4.11,4.22,3.89,4.33,
 Ethnic Studies,199,Anselmo,Villanueva,Sp St Mult Eth/Rac Exp,4.36,4.46,4.14,4.27,4.57,4.46,4.36
 Ethnic Studies,199,Charise,Cheney,Sp St Hip-Hop Pol/Poet,4.0,3.95,3.53,3.68,3.58,3.89,4.0
 Ethnic Studies,199,Anselmo,Villanueva,Sp St MultiEth/Rac Exp,3.69,3.75,3.31,3.44,4.19,3.56,3.69
-Ethnic Studies,250,Charise,Cheney,Intro African-Amer Stu,4.39,4.42,4.15,4.29,4.05,4.07,4.45
+Ethnic Studies,224M,Ana,Lara,Intro African Diaspora,3.5,3.17,3.75,3.08,3.17,3.75,3.75
+Ethnic Studies,250,Charise,Cheney,Intro African-Amer Stu,4.43,4.46,4.18,4.31,4.07,4.11,4.47
 Ethnic Studies,250,Tracy,Locke,Intro African-Amer Stu,3.1,2.68,3.0,3.32,3.74,2.9,3.26
 Ethnic Studies,250,Sharon,Luk,Intro African-Amer Stu,4.5,4.75,4.75,4.75,4.75,4.75,4.75
 Ethnic Studies,250,Alai,Reyes-Santos,Intro African-Amer Stu,4.39,4.44,4.15,4.35,4.33,4.12,4.4
@@ -49,15 +52,16 @@ Ethnic Studies,254,Michael,Hames-Garcia,Intro Chican/Lat Stu,4.09,4.17,4.06,4.07
 Ethnic Studies,254,Susi,Gomez,Intro Chican/Lat Stu,3.55,3.4,3.4,3.4,4.25,3.65,3.5
 Ethnic Studies,254,David,Vazquez,Intro Chican/Lat Stu,3.79,3.79,3.68,3.79,3.64,3.54,3.79
 Ethnic Studies,254,Maurice,Magana,Intro Chican/Lat Stu,3.9,3.79,3.97,3.86,3.54,3.76,4.17
+Ethnic Studies,256,Brian,Klopotek,Intro Nativ Amer Stu,4.04,3.98,4.12,4.09,3.97,3.77,4.17
 Ethnic Studies,256,Jed,Kuhn,Intro Nativ Amer Stu,4.58,4.58,4.62,4.67,4.62,4.67,4.67
 Ethnic Studies,256,Tracy,Locke,Intro Nativ Amer Stu,3.0,2.96,2.88,3.25,3.54,2.75,3.21
-Ethnic Studies,256,Brian,Klopotek,Intro Nativ Amer Stu,4.02,3.96,4.11,4.08,3.94,3.75,4.17
 Ethnic Studies,256,Christine,Finley,Intro Nativ Amer Stu,4.5,4.45,4.28,4.28,4.44,4.3,4.57
 Ethnic Studies,256,Shari,Huhndorf,Intro Nativ Amer Stu,4.32,4.31,4.32,4.28,4.04,4.01,4.25
 Ethnic Studies,256,Kathleen,Rodgers,Intro Nativ Amer Stu,4.0,4.0,4.2,4.2,4.2,4.0,4.4
-Ethnic Studies,301,Michael,Hames-Garcia,Theoret Persp Ethn St,4.46,4.69,4.53,4.51,4.49,4.47,4.48
+Ethnic Studies,301,Michael,Hames-Garcia,Theoret Persp Ethn St,4.44,4.68,4.45,4.48,4.44,4.42,4.47
 Ethnic Studies,301,Alai,Reyes-Santos,Theoret Persp Ethn St,4.59,4.65,4.29,4.47,4.71,4.35,4.53
 Ethnic Studies,301,Daniel,HoSang,Theoret Persp Ethn St,4.89,4.78,4.56,4.44,4.67,4.56,4.78
+Ethnic Studies,310,Marcel,Brousseau,Top Sport, Race, Gendr,4.19,4.29,4.14,4.24,4.52,4.48,4.48
 Ethnic Studies,310,Lynn,Fujiwara,Top Race & Soc Media,4.12,4.14,4.26,4.23,4.31,4.15,4.17
 Ethnic Studies,310,Charise,Cheney,Race & Sex in Hip Hop,4.68,4.64,3.93,4.04,3.79,3.86,4.5
 Ethnic Studies,310,Charise,Cheney,Top Race/Sex/Hip-Hop,4.24,4.33,3.66,3.86,3.62,3.68,4.38
@@ -68,24 +72,25 @@ Ethnic Studies,310,Christine,Finley,Top Cinema of the 70s,4.82,4.89,4.78,4.85,4.
 Ethnic Studies,310,Daniel,HoSang,Top Race/Gend/Sports,4.76,4.79,4.67,4.72,4.68,4.32,4.61
 Ethnic Studies,310,Irum,Shiekh,Top Race & The Media,4.46,4.48,4.26,4.3,4.61,4.26,4.43
 Ethnic Studies,310,Lynn,Fujiwara,Race & Pop Cul: Topic,4.43,4.57,4.29,4.14,4.57,4.43,4.29
-Ethnic Studies,330,Ernesto,Martinez,Women of Color: Issues,4.64,4.69,4.47,4.5,4.46,4.38,4.61
+Ethnic Studies,330,Ernesto,Martinez,Women of Color: Issues,4.61,4.66,4.44,4.48,4.49,4.4,4.61
 Ethnic Studies,330,Alai,Reyes-Santos,Women of Color: Issues,4.7,4.8,4.42,4.61,4.7,4.61,4.77
 Ethnic Studies,330,Christine,Finley,Women of Color: Issues,4.38,4.33,4.14,4.24,4.62,4.33,4.67
 Ethnic Studies,345M,Loren,Kajikawa,Music, Politics & Race,4.56,4.59,4.54,4.53,4.46,4.46,4.54
 Ethnic Studies,345M,Daniel,HoSang,Music, Politics & Race,4.48,4.59,4.54,4.56,4.42,4.45,4.52
 Ethnic Studies,350,Brian,Klopotek,Native Americans & Env,4.29,4.26,4.2,4.16,4.2,3.9,4.28
-Ethnic Studies,352,Michael,Hames-Garcia,Soc Equ & Crim Justice,4.37,4.38,4.25,4.33,4.2,4.17,4.39
+Ethnic Studies,352,Michael,Hames-Garcia,Soc Equ & Crim Justice,4.4,4.4,4.24,4.34,4.2,4.17,4.42
+Ethnic Studies,370,Lynn,Fujiwara,Top AsianAm Media Film,4.0,4.06,4.06,4.06,4.24,3.88,4.18
 Ethnic Studies,370,Lani,Teves,Top Nat Amers & Film,4.4,4.48,4.57,4.4,4.64,4.57,4.57
 Ethnic Studies,370,Brian,Klopotek,Top Natives in Film,4.3,4.2,4.1,4.1,4.0,4.0,4.4
 Ethnic Studies,370,Irum,Shiekh,Top Race & Palest Cine,4.9,4.7,4.7,4.7,4.8,4.7,5.0
 Ethnic Studies,370,Christine,Finley,Top Natv Am Gen & Film,4.71,4.83,4.44,4.56,4.72,4.72,5.0
 Ethnic Studies,370,Christine,Finley,Top NatvAmer in Film,4.42,4.26,4.21,4.42,4.53,4.26,4.53
 Ethnic Studies,370,Brian,Klopotek,Top Nat Amer in Cinema,4.4,4.4,4.4,4.2,4.2,4.0,4.4
+Ethnic Studies,399,Alai,Reyes-Santos,Sp St Race/Ethics/Just,4.51,4.64,4.67,4.61,4.67,4.64,4.55
 Ethnic Studies,399,Jed,Kuhn,Sp St Nat/Mex Am Relat,4.44,4.67,4.67,4.33,4.78,4.56,4.56
 Ethnic Studies,399,Lynn,Fujiwara,Sp St Imm'grnt Rights,4.58,4.58,4.5,4.67,4.75,4.42,4.75
 Ethnic Studies,399,Tracy,Locke,Sp St Race Gend Health,4.17,3.75,3.33,3.42,3.75,3.25,4.08
 Ethnic Studies,399,Sharon,Luk,Sp St Race & Soc Mvmts,3.88,4.0,4.06,4.06,4.19,3.62,4.0
-Ethnic Studies,399,Alai,Reyes-Santos,Sp St Race/Ethics/Just,4.53,4.65,4.47,4.47,4.59,4.41,4.47
 Ethnic Studies,399,Mark,Harris,Sp St Afr-Amer in Eugn,4.83,4.89,4.83,4.83,4.83,4.72,4.94
 Ethnic Studies,399,Jennifer,O'Neal,Sp St Oregon Indians,4.62,4.62,4.5,4.44,4.5,4.38,4.81
 Ethnic Studies,399,Mika,Tanner,Sp St Write fr Margins,4.1,3.9,3.8,3.9,4.6,3.5,4.5
@@ -112,6 +117,7 @@ Ethnic Studies,399,Brian,Klopotek,Sp St Nativ Am & Envir,4.7,4.3,4.5,4.4,4.3,4.1
 Ethnic Studies,399,Daniel,HoSang,Sp St Race/Gend Sports,5.0,5.0,5.0,5.0,4.5,4.5,5.0
 Ethnic Studies,399,Thomas,Ball,Sp St Oregon Indians,4.4,4.4,4.3,4.4,4.1,3.9,4.5
 Ethnic Studies,399,Claudia,Long,Sp St Pac NW Leaders,4.0,4.0,3.88,4.0,4.25,4.0,4.25
+Ethnic Studies,407,Brian,Klopotek,Sem Nat Am & Latinx,4.6,4.8,4.8,4.9,4.9,4.5,4.9
 Ethnic Studies,407,Ernesto,Martinez,Sem Queer Ethnic Lit,4.91,4.91,4.73,4.82,4.64,4.36,4.91
 Ethnic Studies,407,Brian,Klopotek,Sem Natv Amer+Afr Amer,4.18,4.18,4.36,4.09,4.64,4.27,4.54
 Ethnic Studies,407,Brian,Klopotek,Sem Native & Latin@,4.33,4.33,4.0,4.0,4.33,4.0,4.67
@@ -125,8 +131,8 @@ Ethnic Studies,407,Michael,Hames-Garcia,Sem Intro Pris Ind Com,4.57,4.64,4.62,4.
 Ethnic Studies,407,Alai,Reyes-Santos,Sem Postcol/Global Std,4.44,4.44,4.11,4.11,4.56,4.56,4.22
 Ethnic Studies,407,Michael,Hames-Garcia,Sem Chicana/o Novel,5.0,5.0,4.67,5.0,5.0,4.67,5.0
 Ethnic Studies,407,Claudia,Long,Sem Indig Women,3.36,3.54,3.18,2.91,3.73,2.73,3.64
+Ethnic Studies,410,Ernesto,Martinez,Queer Ethnic Lit,4.83,4.89,4.7,4.64,4.43,4.25,4.81
 Ethnic Studies,410,Ernesto,Martinez,Queer Migrations,4.34,4.51,4.34,4.04,4.36,3.97,4.48
-Ethnic Studies,410,Ernesto,Martinez,Queer Ethnic Lit,4.76,4.88,4.71,4.59,4.35,4.29,4.82
 Ethnic Studies,410,Lani,Teves,Crit Indigenous Theory,4.6,4.6,4.6,4.6,4.6,4.8,4.6
 Ethnic Studies,410,Lani,Teves,Native Feminisms,4.56,4.67,4.89,4.78,4.89,4.89,4.67
 Ethnic Studies,410,Christine,Finley,Native Feminisms,4.77,4.77,4.69,4.69,4.69,4.67,4.83
@@ -137,9 +143,10 @@ Ethnic Studies,410,Alai,Reyes-Santos,Caribbean Literature,4.91,4.91,4.73,4.54,4.
 Ethnic Studies,410,Anselmo,Villanueva,Multi Ethnic/Rac'l Exp,3.88,3.96,3.79,3.62,4.26,3.91,3.78
 Ethnic Studies,440,Michael,Hames-Garcia,Top Black/Brown Power,4.56,4.44,4.56,4.44,4.67,4.67,4.67
 Ethnic Studies,440,Mika,Tanner,Top Conf Asian Am Lit,4.4,4.4,4.8,4.6,4.6,4.4,4.6
-Ethnic Studies,442,Alai,Reyes-Santos,Caribbean Lit & Polit,4.51,4.44,4.08,4.2,4.45,3.94,4.56
+Ethnic Studies,442,Alai,Reyes-Santos,Caribbean Lit & Polit,4.61,4.56,4.07,4.36,4.36,4.16,4.65
 Ethnic Studies,450,Michael,Hames-Garcia,Race and Incarceration,4.55,4.52,4.36,4.48,4.39,4.39,4.56
 Ethnic Studies,450,Irum,Shiekh,Race and Incarceration,4.46,4.36,4.18,4.18,4.36,4.46,4.36
+Ethnic Studies,452,Charise,Cheney,Top White by Law,5.0,5.0,4.67,4.67,4.5,4.83,5.0
 Ethnic Studies,452,Irum,Shiekh,Top Race Post 9/11,4.75,4.58,4.38,4.54,4.67,4.5,4.71
 Ethnic Studies,452,Charise,Cheney,Top Crit Race Theory,4.4,4.5,4.2,4.21,4.15,4.01,4.32
 Ethnic Studies,452,Charise,Cheney,Top Crit Race/Legal Th,4.62,4.75,4.5,4.5,4.12,4.12,4.88
@@ -158,6 +165,7 @@ Ethnic Studies,499,Alai,Reyes-Santos,ES Proseminar,4.12,4.23,3.81,4.05,4.19,4.13
 Ethnic Studies,499,Brian,Klopotek,ES Proseminar,4.45,4.5,4.59,4.41,4.59,4.55,4.44
 Ethnic Studies,499,Charise,Cheney,ES Proseminar,3.6,3.52,3.21,3.28,3.39,3.24,3.45
 Ethnic Studies,499,Michael,Hames-Garcia,ES Proseminar,4.5,4.5,4.43,4.29,4.71,4.57,4.31
+Ethnic Studies,507,Brian,Klopotek,Sem Nat Am & Latinx,4.6,4.8,4.8,4.9,4.9,4.5,4.9
 Ethnic Studies,507,Ernesto,Martinez,Sem Queer Ethnic Lit,4.91,4.91,4.73,4.82,4.64,4.36,4.91
 Ethnic Studies,507,Brian,Klopotek,Sem Natv Amer+Afr Amer,4.18,4.18,4.36,4.09,4.64,4.27,4.54
 Ethnic Studies,507,Brian,Klopotek,Sem NativeAm Ethnohist,4.75,4.75,4.75,4.75,5.0,4.75,4.75
@@ -167,8 +175,8 @@ Ethnic Studies,507,Brian,Klopotek,Sem Nativ Am Ethnohist,4.33,4.33,4.33,4.0,4.33
 Ethnic Studies,507,Michael,Hames-Garcia,Sem Intro Pris Ind Com,4.57,4.64,4.62,4.36,4.43,3.86,4.79
 Ethnic Studies,507,Michael,Hames-Garcia,Sem Chicana/o Novel,5.0,5.0,4.67,5.0,5.0,4.67,5.0
 Ethnic Studies,507,Claudia,Long,Sem Indig Women,3.36,3.54,3.18,2.91,3.73,2.73,3.64
+Ethnic Studies,510,Ernesto,Martinez,Queer Ethnic Lit,4.83,4.89,4.7,4.64,4.43,4.25,4.81
 Ethnic Studies,510,Ernesto,Martinez,Queer Migrations,4.34,4.51,4.34,4.04,4.36,3.97,4.48
-Ethnic Studies,510,Ernesto,Martinez,Queer Ethnic Lit,4.76,4.88,4.71,4.59,4.35,4.29,4.82
 Ethnic Studies,510,Lani,Teves,Crit Indigenous Theory,4.6,4.6,4.6,4.6,4.6,4.8,4.6
 Ethnic Studies,510,Lani,Teves,Native Feminisms,4.56,4.67,4.89,4.78,4.89,4.89,4.67
 Ethnic Studies,510,Christine,Finley,Native Feminisms,4.77,4.77,4.69,4.69,4.69,4.67,4.83
@@ -176,9 +184,10 @@ Ethnic Studies,510,Christine,Finley,Queer Migrations,4.29,4.33,3.87,4.13,4.27,3.
 Ethnic Studies,510,Christine,Finley,Queer Indigen Studies,4.7,4.5,4.5,4.3,4.6,4.5,4.8
 Ethnic Studies,510,Alai,Reyes-Santos,Caribbean Literature,4.91,4.91,4.73,4.54,4.91,4.54,4.64
 Ethnic Studies,540,Michael,Hames-Garcia,Top Black/Brown Power,4.56,4.44,4.56,4.44,4.67,4.67,4.67
-Ethnic Studies,542,Alai,Reyes-Santos,Caribbean Lit & Polit,4.39,4.39,3.92,4.03,4.28,3.81,4.5
+Ethnic Studies,542,Alai,Reyes-Santos,Caribbean Lit & Polit,4.59,4.59,3.94,4.35,4.19,4.2,4.67
 Ethnic Studies,550,Michael,Hames-Garcia,Race and Incarceration,4.55,4.52,4.36,4.48,4.39,4.39,4.56
 Ethnic Studies,550,Irum,Shiekh,Race and Incarceration,4.46,4.36,4.18,4.18,4.36,4.46,4.36
+Ethnic Studies,552,Charise,Cheney,Top White by Law,5.0,5.0,4.67,4.67,4.5,4.83,5.0
 Ethnic Studies,552,Charise,Cheney,Top Crit Race Theory,4.4,4.5,4.2,4.21,4.15,4.01,4.32
 Ethnic Studies,552,Irum,Shiekh,Top Race Post 9/11,5.0,4.83,4.58,4.75,4.83,4.67,4.92
 Ethnic Studies,552,Charise,Cheney,Top Crit Race/Legal Th,4.62,4.75,4.5,4.5,4.12,4.12,4.88

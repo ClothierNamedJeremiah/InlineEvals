@@ -47,6 +47,20 @@ Mathematics,095,Margot,Black,Intermediate Algebra,3.88,3.85,3.87,4.09,3.91,3.87,
 Mathematics,095,Patrick,Schultz,Intermediate Algebra,4.25,4.5,4.12,4.25,4.38,4.38,4.38
 Mathematics,095,Kerry,Sipe,Intermediate Algebra,4.25,4.25,4.25,4.5,4.75,4.25,4.25
 Mathematics,095,Hung-Mei,Hsiao,Intermediate Algebra,4.41,4.69,4.43,4.56,4.51,4.52,4.23
+Mathematics,101,Tricia,Bevans,Fnd Alg & Mth Modeling,3.41,3.71,3.58,3.51,3.88,3.65,3.18
+Mathematics,101,Cassandra,Fisher,Fnd Alg & Mth Modeling,4.26,4.26,4.44,4.54,4.47,4.19,4.11
+Mathematics,101,Hayden,Harker,Fnd Alg & Mth Modeling,3.46,3.64,4.27,4.09,4.09,4.09,3.91
+Mathematics,101,Kristen,Henderson,Fnd Alg & Mth Modeling,3.54,3.62,3.38,3.54,4.0,3.46,3.08
+Mathematics,101,Elina,Kleshcheva,Fnd Alg & Mth Modeling,3.7,3.9,4.0,4.2,4.3,4.1,3.7
+Mathematics,101,Liliana,Pazdan-Siudeja,Fnd Alg & Mth Modeling,3.11,2.94,3.17,3.28,3.78,3.44,2.89
+Mathematics,101,Matt,Petersen,Fnd Alg & Mth Modeling,3.17,2.98,2.86,2.68,3.73,3.3,2.99
+Mathematics,101,Mike,Price,Fnd Alg & Mth Modeling,4.41,4.5,4.27,4.32,4.5,4.32,4.23
+Mathematics,101,Dev,Sinha,Fnd Alg & Mth Modeling,3.54,3.23,3.08,3.38,4.08,3.38,3.54
+Mathematics,101,David,Steinberg,Fnd Alg & Mth Modeling,3.11,2.83,3.17,3.0,3.89,3.67,3.11
+Mathematics,101,Craig,Tingey,Fnd Alg & Mth Modeling,3.84,3.72,3.34,3.66,3.67,3.58,3.66
+Mathematics,101,Kai Shyang,Wang,Fnd Alg & Mth Modeling,4.14,4.18,4.0,4.32,4.5,4.23,4.09
+Mathematics,105,Elina,Kleshcheva,University Math I,3.42,3.23,3.72,3.65,3.7,3.71,3.43
+Mathematics,105,Peng,Lu,University Math I,3.23,3.0,3.39,3.55,3.56,3.27,3.14
 Mathematics,105,Jesse,Cohen,University Math I,3.94,4.0,4.07,4.06,4.25,4.12,4.12
 Mathematics,105,Alonso,Delfin Ares de Parga,University Math I,4.01,4.12,4.25,4.28,4.42,4.17,4.15
 Mathematics,105,Greg,Knapp,University Math I,4.1,4.3,4.3,4.4,4.4,4.1,4.3
@@ -59,7 +73,6 @@ Mathematics,105,Doeke,Buursma,University Math I,4.82,4.82,4.82,4.76,4.76,4.76,4.
 Mathematics,105,Helen,Jenne,University Math I,4.1,4.1,4.3,4.4,4.5,4.0,3.8
 Mathematics,105,Bradley,Burdick,University Math I,3.91,4.18,4.09,4.09,4.46,4.27,4.09
 Mathematics,105,Christophe,Dethier,University Math I,4.18,4.09,4.09,4.09,4.27,4.36,4.18
-Mathematics,105,Elina,Kleshcheva,University Math I,3.4,3.23,3.72,3.64,3.67,3.69,3.42
 Mathematics,105,James,Isenberg,University Math I,3.61,3.45,3.61,3.66,3.77,3.8,3.58
 Mathematics,105,Alexander,Kleshchev,University Math I,3.63,3.59,3.84,3.87,3.52,3.57,3.53
 Mathematics,105,Eric,Hogle,University Math I,4.5,4.5,4.25,4.25,4.62,3.88,4.25
@@ -99,6 +112,7 @@ Mathematics,105,Aaron,Bennett,University Math I,3.5,3.5,4.0,4.0,3.0,4.0,3.5
 Mathematics,105,Andrew,Detzel,University Math I,3.88,3.88,4.0,4.0,4.0,4.0,4.0
 Mathematics,105,Daniel,Dickinson,University Math I,3.67,3.83,3.83,3.83,3.67,3.83,3.5
 Mathematics,105,Aaron,Montgomery,University Math I,4.27,4.54,4.73,4.91,4.82,4.64,4.18
+Mathematics,106,Craig,Tingey,University Math II,4.05,4.11,4.05,4.05,3.95,4.14,4.03
 Mathematics,106,Robin,Allison,University Math II,3.0,2.69,3.19,3.19,3.69,3.19,3.12
 Mathematics,106,Yang,Hu,University Math II,3.2,2.8,3.6,2.9,3.7,3.7,3.3
 Mathematics,106,Kristen,Henderson,University Math II,4.01,4.31,4.18,4.26,4.28,4.22,3.98
@@ -117,7 +131,6 @@ Mathematics,106,Elina,Kleshcheva,University Math II,3.52,3.5,3.75,3.81,3.84,3.91
 Mathematics,106,Martin,Hiserote,University Math II,3.33,3.2,3.67,3.67,4.5,4.0,3.6
 Mathematics,106,Bronson,Lim,University Math II,4.83,4.67,4.67,4.5,4.67,4.67,4.5
 Mathematics,106,Adam,Welly,University Math II,4.47,4.59,4.41,4.47,4.41,4.41,4.41
-Mathematics,106,Craig,Tingey,University Math II,4.15,4.23,4.11,4.13,4.0,4.22,4.09
 Mathematics,106,Jeffrey,Battiste,University Math II,3.99,3.92,4.01,4.2,4.12,4.11,3.99
 Mathematics,106,Elizabeth,Henning,University Math II,4.29,4.43,4.36,4.36,4.5,4.5,4.29
 Mathematics,106,Leanne,Merrill,University Math II,4.56,4.67,4.62,4.69,4.75,4.76,4.45
@@ -166,12 +179,33 @@ Mathematics,107,Scott,Fallstrom,University Math III,4.03,4.24,4.29,4.29,4.32,4.0
 Mathematics,107,Blair,Ahlquist,University Math III,4.0,4.0,3.83,4.17,4.0,3.67,3.67
 Mathematics,107,Li-An,Wang,University Math III,3.5,3.5,3.5,3.75,3.5,3.5,3.5
 Mathematics,107,Margot,Black,University Math III,3.04,3.45,3.44,3.64,3.57,3.15,3.33
+Mathematics,111,Adam,Bamforth,College Algebra,2.69,2.08,2.46,2.38,3.69,3.25,2.38
+Mathematics,111,Andrey,Blinov,College Algebra,2.25,1.58,2.08,2.08,2.92,2.58,1.92
+Mathematics,111,Holt,Bodish,College Algebra,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+Mathematics,111,Andre,Bunton,College Algebra,2.64,2.29,2.64,2.71,3.57,2.71,2.64
+Mathematics,111,Doeke,Buursma,College Algebra,4.11,4.24,4.36,4.31,4.48,4.44,4.14
+Mathematics,111,Jesse,Cohen,College Algebra,3.63,3.34,3.53,3.87,4.19,3.86,3.56
+Mathematics,111,Alonso,Delfin Ares de Parga,College Algebra,3.67,3.58,3.88,3.88,4.46,4.13,3.71
+Mathematics,111,Heather,Fang,College Algebra,2.47,2.18,2.88,3.0,3.65,2.77,2.35
+Mathematics,111,Mike,Gartner,College Algebra,3.63,3.85,3.96,3.9,4.39,4.01,3.65
+Mathematics,111,Gary,Guth,College Algebra,3.86,3.81,3.81,4.09,4.09,4.05,3.76
+Mathematics,111,Sean,Haight,College Algebra,3.96,4.09,4.09,4.39,4.65,4.39,3.7
+Mathematics,111,Daniel,Hothem,College Algebra,3.69,3.51,3.93,3.93,3.98,3.91,3.62
+Mathematics,111,Yang,Hu,College Algebra,3.5,3.15,3.77,3.79,4.08,4.02,3.38
+Mathematics,111,Nathan,Hunter,College Algebra,3.98,3.99,4.07,4.14,4.42,4.29,3.9
+Mathematics,111,Nicolas,Jaramillo Torres,College Algebra,2.07,1.73,1.87,1.8,2.73,2.13,2.4
+Mathematics,111,Helen,Jenne,College Algebra,4.28,4.27,4.41,4.53,4.68,4.45,4.27
+Mathematics,111,Diego,Manco Berrio,College Algebra,3.88,4.0,3.88,4.25,4.12,4.25,3.75
+Mathematics,111,Matt,Petersen,College Algebra,3.17,2.75,2.92,3.0,3.58,3.58,3.17
+Mathematics,111,Samantha,Platt,College Algebra,3.96,3.92,4.04,4.24,4.4,4.24,4.04
+Mathematics,111,Nate,Schieber,College Algebra,3.71,4.29,3.93,4.29,4.23,4.07,3.57
+Mathematics,111,Chandan,Tankala,College Algebra,3.92,3.75,3.58,4.25,4.42,4.0,3.58
+Mathematics,111,Max,Vargas,College Algebra,2.62,2.19,3.19,3.12,3.94,3.5,2.75
+Mathematics,111,Joe,Webster,College Algebra,4.29,4.45,4.41,4.51,4.44,4.4,4.26
 Mathematics,111,Karl,Wallulis,College Algebra,3.95,4.02,4.0,4.1,4.14,4.08,3.96
 Mathematics,111,Corey,Brooke,College Algebra,3.74,3.84,3.76,4.06,4.31,4.0,3.74
-Mathematics,111,Jesse,Cohen,College Algebra,3.79,3.66,3.74,3.98,4.38,4.02,3.76
 Mathematics,111,Elliot,Granath,College Algebra,3.8,3.69,3.93,4.01,4.06,4.29,3.84
 Mathematics,111,Michael,Gwynn,College Algebra,4.71,4.85,4.64,4.78,4.81,4.67,4.64
-Mathematics,111,Yang,Hu,College Algebra,3.28,2.89,3.59,3.52,3.95,3.93,3.14
 Mathematics,111,Elina,Kleshcheva,College Algebra,4.56,4.73,4.64,4.78,4.87,4.82,4.79
 Mathematics,111,Kai Shyang,Wang,College Algebra,4.21,4.26,4.31,4.4,4.53,4.44,4.23
 Mathematics,111,Wenjing,Yao,College Algebra,3.48,3.38,3.77,3.88,3.86,3.8,3.46
@@ -181,7 +215,6 @@ Mathematics,111,Bradley,Burdick,College Algebra,3.89,3.98,4.0,4.12,4.4,4.18,3.9
 Mathematics,111,Sam,Chandler,College Algebra,3.72,3.59,4.19,3.99,4.34,4.07,3.71
 Mathematics,111,Champ,Davis,College Algebra,4.27,4.13,4.16,4.38,4.55,4.42,4.16
 Mathematics,111,Jay,Hathaway,College Algebra,3.32,3.11,3.13,3.36,3.95,3.86,3.45
-Mathematics,111,Daniel,Hothem,College Algebra,3.77,3.66,3.98,3.9,4.08,3.9,3.72
 Mathematics,111,Marissa,Masden,College Algebra,4.05,4.02,3.92,3.98,4.18,3.95,3.83
 Mathematics,111,Liliana,Pazdan-Siudeja,College Algebra,3.93,3.91,4.22,4.31,4.2,4.16,3.9
 Mathematics,111,Nathan,Taylor,College Algebra,3.71,3.67,3.53,3.69,4.25,3.87,3.65
@@ -190,7 +223,6 @@ Mathematics,111,Ivo,Vekemans,College Algebra,2.77,2.55,2.9,2.65,3.48,3.02,2.74
 Mathematics,111,Jon,Aycock,College Algebra,3.54,3.38,3.65,3.92,4.36,3.92,3.62
 Mathematics,111,Elijah,Bodish,College Algebra,3.88,3.62,4.0,3.81,4.0,3.94,3.88
 Mathematics,111,Keegan,Boyle,College Algebra,3.52,3.34,3.54,3.83,4.13,3.92,3.46
-Mathematics,111,Alonso,Delfin Ares de Parga,College Algebra,3.74,3.52,3.88,3.87,4.49,4.21,3.73
 Mathematics,111,Dana,Fry,College Algebra,4.17,4.22,4.44,4.42,4.59,4.5,4.15
 Mathematics,111,Paul,Herstedt,College Algebra,4.05,4.11,4.25,4.41,4.66,4.22,4.13
 Mathematics,111,Elisha,Hulbert,College Algebra,3.17,3.12,3.57,3.78,3.9,3.5,3.18
@@ -218,15 +250,12 @@ Mathematics,111,Gautam,Webb,College Algebra,3.31,3.31,3.57,3.91,3.71,3.7,3.42
 Mathematics,111,Gavin,Armstrong,College Algebra,4.39,4.38,4.55,4.53,4.52,4.54,4.3
 Mathematics,111,David,Collett,College Algebra,4.23,4.33,4.32,4.31,4.5,4.39,4.19
 Mathematics,111,Ben,Dyer,College Algebra,3.95,3.88,3.89,4.15,4.32,4.05,3.84
-Mathematics,111,Mike,Gartner,College Algebra,3.73,4.0,4.0,4.18,4.64,4.18,3.91
 Mathematics,111,Fred,Hervert,College Algebra,3.93,3.92,4.16,4.2,4.0,4.05,3.86
 Mathematics,111,Martin,Hiserote,College Algebra,3.0,2.81,3.36,3.62,3.72,3.56,3.11
 Mathematics,111,Jeffrey,Musyt,College Algebra,4.48,4.62,4.48,4.62,4.83,4.67,4.43
 Mathematics,111,Ryan,Takahashi,College Algebra,4.06,4.15,4.17,4.32,4.54,4.26,3.92
 Mathematics,111,Robert,Usher,College Algebra,3.81,3.71,3.98,4.15,4.23,4.11,3.8
 Mathematics,111,Andrew,Wray,College Algebra,4.3,4.33,4.33,4.38,4.61,4.36,4.23
-Mathematics,111,Nathan,Hunter,College Algebra,4.11,4.06,4.26,4.15,4.56,4.51,4.13
-Mathematics,111,Helen,Jenne,College Algebra,4.32,4.3,4.4,4.53,4.68,4.46,4.32
 Mathematics,111,Matt,Lukac,College Algebra,4.21,4.31,4.35,4.48,4.53,4.48,4.19
 Mathematics,111,Fill,Staley,College Algebra,4.36,4.41,4.33,4.39,4.68,4.55,4.36
 Mathematics,111,Arunima,Bhattacharya,College Algebra,3.17,3.06,3.07,3.57,3.45,3.37,3.36
@@ -244,13 +273,11 @@ Mathematics,111,Dan,Raies,College Algebra,3.98,4.08,4.02,4.28,4.44,3.89,3.8
 Mathematics,111,Karl,Schmidt,College Algebra,3.92,3.9,4.17,4.22,4.32,4.2,3.85
 Mathematics,111,Sarah,Frei,College Algebra,4.25,4.39,4.45,4.48,4.45,4.33,4.2
 Mathematics,111,Douglas,Hintz,College Algebra,4.55,4.63,4.64,4.64,4.65,4.62,4.56
-Mathematics,111,Joe,Webster,College Algebra,4.44,4.56,4.48,4.57,4.42,4.54,4.47
 Mathematics,111,Hannah,Winkler,College Algebra,4.51,4.53,4.45,4.5,4.62,4.58,4.47
 Mathematics,111,Patrick,Durkin,College Algebra,4.07,4.07,4.01,4.26,4.32,4.21,3.97
 Mathematics,111,Christopher,Mehl,College Algebra,4.55,4.61,4.34,4.56,4.75,4.66,4.6
 Mathematics,111,Anthony,Meyer,College Algebra,4.21,4.28,4.23,4.19,4.29,4.32,4.12
 Mathematics,111,Thomas,Pitts,College Algebra,3.77,3.79,3.56,3.71,3.95,3.78,3.76
-Mathematics,111,Doeke,Buursma,College Algebra,4.26,4.3,4.45,4.2,4.6,4.45,4.15
 Mathematics,111,Nick,Davidson,College Algebra,4.46,4.54,4.49,4.55,4.68,4.55,4.3
 Mathematics,111,Christophe,Dethier,College Algebra,3.8,3.56,3.62,3.9,4.36,4.15,3.77
 Mathematics,111,Emilio,Gardella,College Algebra,3.2,3.17,3.51,3.57,3.83,3.6,3.27
@@ -361,24 +388,29 @@ Mathematics,111,Daniel,Dickinson,College Algebra,4.33,4.56,4.39,4.61,4.39,4.39,4
 Mathematics,111,Tyler,Kloefkorn,College Algebra,4.45,4.55,4.7,4.55,4.47,4.55,4.5
 Mathematics,111,David,Nash,College Algebra,3.9,4.42,4.32,4.47,4.21,4.11,3.95
 Mathematics,111,Wendy,Sullivan,College Algebra,3.4,3.4,3.7,3.5,3.6,3.6,3.4
-Mathematics,112,Elisa,Bellah,Elementary Functions,3.8,3.8,4.17,4.15,4.18,4.23,3.87
+Mathematics,112,Elisa,Bellah,Elementary Functions,3.99,4.03,4.29,4.27,4.26,4.31,3.92
+Mathematics,112,Corey,Brooke,Elementary Functions,3.92,3.58,3.92,4.0,4.17,3.83,3.75
+Mathematics,112,Champ,Davis,Elementary Functions,4.37,4.32,4.63,4.68,4.42,4.42,4.32
+Mathematics,112,Patrick,Durkin,Elementary Functions,4.43,4.42,4.31,4.47,4.57,4.5,4.37
+Mathematics,112,Allan,Hendrickson,Elementary Functions,2.98,2.79,2.7,2.9,3.44,3.27,3.03
+Mathematics,112,Elisha,Hulbert,Elementary Functions,3.6,3.4,3.73,3.93,3.93,3.67,3.27
+Mathematics,112,Andrew,Lebovitz,Elementary Functions,4.26,4.13,4.33,4.19,4.32,4.49,4.17
+Mathematics,112,Dane,Miyata,Elementary Functions,4.43,4.47,4.49,4.56,4.54,4.56,4.28
+Mathematics,112,Liliana,Pazdan-Siudeja,Elementary Functions,4.32,4.4,4.57,4.55,4.47,4.45,4.31
+Mathematics,112,Jake,Potter,Elementary Functions,2.3,2.05,2.55,2.2,3.65,3.0,2.45
+Mathematics,112,Nathan,Taylor,Elementary Functions,3.4,3.17,3.12,3.38,4.14,3.5,3.33
 Mathematics,112,Ross,Casebolt,Elementary Functions,3.74,3.54,3.86,4.05,4.49,4.32,3.91
 Mathematics,112,Greg,Knapp,Elementary Functions,4.0,3.83,4.42,4.5,4.58,4.5,3.83
 Mathematics,112,Marissa,Masden,Elementary Functions,4.31,4.62,4.5,4.56,4.69,4.56,4.44
-Mathematics,112,Dane,Miyata,Elementary Functions,4.47,4.57,4.57,4.53,4.55,4.57,4.33
-Mathematics,112,Liliana,Pazdan-Siudeja,Elementary Functions,4.39,4.47,4.62,4.6,4.46,4.46,4.38
 Mathematics,112,Bo,Phillips,Elementary Functions,3.94,3.76,3.94,3.99,4.05,4.04,3.97
 Mathematics,112,Kelly,Pohland,Elementary Functions,4.06,4.1,4.3,4.39,4.76,4.38,3.96
-Mathematics,112,Nathan,Taylor,Elementary Functions,3.54,3.46,3.09,3.54,4.18,3.64,3.54
 Mathematics,112,Gautam,Webb,Elementary Functions,4.14,4.12,4.15,4.23,4.33,4.19,4.05
 Mathematics,112,Isaac,Ahern,Elementary Functions,2.57,2.25,2.85,2.92,3.5,3.04,2.4
 Mathematics,112,Elijah,Bodish,Elementary Functions,4.56,4.44,4.12,4.44,4.62,4.5,4.5
 Mathematics,112,Jesse,Cohen,Elementary Functions,3.68,3.56,3.6,4.2,4.08,4.16,3.68
 Mathematics,112,Elliot,Granath,Elementary Functions,3.53,3.35,3.53,3.82,4.0,4.0,3.41
-Mathematics,112,Allan,Hendrickson,Elementary Functions,3.2,2.96,2.88,3.08,3.58,3.43,3.27
 Mathematics,112,Yang,Hu,Elementary Functions,3.42,3.16,3.37,3.63,4.21,3.84,3.21
 Mathematics,112,Chris,Keane,Elementary Functions,3.82,3.73,3.82,4.0,4.27,4.09,3.82
-Mathematics,112,Andrew,Lebovitz,Elementary Functions,4.46,4.38,4.54,4.31,4.46,4.54,4.46
 Mathematics,112,Gavin,Armstrong,Elementary Functions,3.88,3.83,4.15,4.22,4.25,4.13,3.81
 Mathematics,112,Cassandra,Fisher,Elementary Functions,4.17,4.29,4.47,4.39,4.39,4.36,4.22
 Mathematics,112,Mike,Gartner,Elementary Functions,3.91,3.81,3.71,4.01,4.25,4.01,3.94
@@ -401,7 +433,6 @@ Mathematics,112,Craig,Tingey,Elementary Functions,4.13,4.24,4.02,3.94,4.27,4.24,
 Mathematics,112,Andrew,Wray,Elementary Functions,4.09,4.16,4.09,4.24,4.44,4.16,4.2
 Mathematics,112,Wenjing,Yao,Elementary Functions,3.6,3.31,3.82,4.03,3.9,3.72,3.39
 Mathematics,112,Bradley,Burdick,Elementary Functions,2.63,2.57,2.96,3.22,3.5,2.87,2.77
-Mathematics,112,Patrick,Durkin,Elementary Functions,4.45,4.47,4.39,4.48,4.56,4.48,4.41
 Mathematics,112,Sarah,Frei,Elementary Functions,4.29,4.34,4.5,4.55,4.71,4.48,4.27
 Mathematics,112,Christy,Hazel,Elementary Functions,4.5,4.66,4.66,4.8,4.79,4.73,4.45
 Mathematics,112,Clover,May,Elementary Functions,4.07,4.03,4.28,4.02,4.26,4.24,4.15
@@ -522,15 +553,16 @@ Mathematics,199,Arkady,Vaintrob,Sp St Proof Orient Mth,4.0,4.2,3.2,4.0,3.8,3.2,4
 Mathematics,201,David,Steinberg,Algebra Math Lab,4.25,4.08,4.25,4.0,4.25,4.25,4.25
 Mathematics,202,Eric,Merchant,Geometry Math Lab,4.21,4.57,4.5,4.5,4.43,4.36,4.07
 Mathematics,203,David,Steinberg,Anly & Nm Theo Mth Lab,4.54,4.38,4.46,4.46,4.54,4.62,4.62
+Mathematics,204,Matt,Petersen,Prob & Stats Math Lab,4.25,4.12,3.71,3.62,3.75,3.88,4.0
 Mathematics,204,Eric,Merchant,Prob & Stats Math Lab,4.0,4.5,4.25,4.08,4.17,4.08,3.75
-Mathematics,205,Daniel,Dugger,Foundations Math Lab,4.33,4.75,4.0,4.75,4.58,4.42,4.08
-Mathematics,206,Daniel,Dugger,Combinatorics Math Lab,4.33,4.78,4.11,4.56,4.67,4.33,4.33
+Mathematics,205,Daniel,Dugger,Foundations Math Lab,4.4,4.7,4.24,4.73,4.67,4.47,4.28
+Mathematics,206,Daniel,Dugger,Combinatorics Math Lab,4.43,4.74,4.32,4.54,4.69,4.49,4.37
+Mathematics,211,Tricia,Bevans,Fund Element Math I,4.27,4.34,4.18,4.28,4.41,4.1,4.33
+Mathematics,211,Craig,Tingey,Fund Element Math I,4.49,4.42,4.29,4.14,4.3,4.4,4.45
 Mathematics,211,Fill,Staley,Fund Element Math I,5.0,5.0,4.5,4.5,3.5,5.0,5.0
-Mathematics,211,Tricia,Bevans,Fund Element Math I,4.33,4.39,4.21,4.34,4.41,4.13,4.36
 Mathematics,211,Kristen,Henderson,Fund Element Math I,3.65,3.4,3.45,3.35,4.2,3.55,3.9
 Mathematics,211,Tammy,Nezol,Fund Element Math I,3.91,3.74,3.89,4.07,4.11,3.8,4.0
 Mathematics,211,Bradley,Burdick,Fund Element Math I,4.8,4.8,5.0,5.0,4.8,4.8,4.6
-Mathematics,211,Craig,Tingey,Fund Element Math I,4.36,4.23,4.18,4.0,4.04,4.14,4.46
 Mathematics,211,Eric,Hogle,Fund Element Math I,4.75,4.62,4.38,4.5,4.38,4.62,4.5
 Mathematics,211,Andrew,Hampton,Fund Element Math I,4.47,4.51,4.63,4.48,4.59,4.54,4.49
 Mathematics,211,Dev,Sinha,Fund Element Math I,4.08,3.82,3.95,3.89,4.29,3.78,4.21
@@ -580,7 +612,7 @@ Mathematics,213,Shlomo,Libeskind,Fund Element Math III,4.35,4.43,4.14,4.23,4.5,4
 Mathematics,213,Andrea,Richmond,Fund Element Math III,4.3,4.46,4.2,4.25,4.77,4.42,4.44
 Mathematics,213,Hung-Mei,Hsiao,Fund Element Math III,4.0,4.29,4.12,4.0,4.59,4.06,4.24
 Mathematics,213,Mike,Price,Fund Element Math III,4.4,4.75,4.7,4.65,4.7,4.55,4.45
-Mathematics,231,Eric,Merchant,Elem Discrete Math I,4.41,4.52,4.44,4.59,4.35,4.33,4.35
+Mathematics,231,Eric,Merchant,Elem Discrete Math I,4.41,4.53,4.45,4.6,4.35,4.33,4.33
 Mathematics,231,Mauricio,Gomez Lopez,Elem Discrete Math I,4.41,4.53,4.18,4.12,4.65,4.35,4.41
 Mathematics,231,Yefeng,Shen,Elem Discrete Math I,4.15,4.23,4.23,4.23,4.31,4.31,4.23
 Mathematics,231,Ilan,Weinschelbaum,Elem Discrete Math I,4.33,4.4,4.43,4.4,4.64,3.93,4.2
@@ -615,8 +647,9 @@ Mathematics,231,Daniel,Moseley,Elem Discrete Math I,3.89,4.11,4.33,4.22,4.22,4.2
 Mathematics,231,Nicholas,Proudfoot,Elem Discrete Math I,3.8,3.87,3.93,4.0,3.8,3.73,3.73
 Mathematics,231,Edward,Richmond,Elem Discrete Math I,4.31,4.25,4.21,4.4,4.39,4.4,4.3
 Mathematics,231,David,Nash,Elem Discrete Math I,4.17,4.33,4.67,4.67,4.67,4.33,4.17
+Mathematics,232,Boris,Botvinnik,Elem Discrete Math II,3.68,3.63,3.74,3.76,3.79,3.74,3.94
+Mathematics,232,Ilan,Weinschelbaum,Elem Discrete Math II,3.9,4.2,3.9,4.2,4.4,3.7,3.8
 Mathematics,232,Wei,Zhang,Elem Discrete Math II,3.5,3.5,3.43,3.79,3.86,3.64,3.5
-Mathematics,232,Boris,Botvinnik,Elem Discrete Math II,3.86,3.81,3.91,3.9,3.97,3.91,4.13
 Mathematics,232,Doeke,Buursma,Elem Discrete Math II,4.76,4.8,4.8,4.68,4.8,4.8,4.84
 Mathematics,232,Eric,Merchant,Elem Discrete Math II,4.6,4.72,4.55,4.69,4.45,4.46,4.57
 Mathematics,232,Helen,Jenne,Elem Discrete Math II,4.53,4.53,4.68,4.53,4.68,4.47,4.47
@@ -653,13 +686,13 @@ Mathematics,233,Sergey,Yuzvinsky,Elem Discrete Math III,4.27,4.39,4.42,4.51,4.35
 Mathematics,233,Maxym,Yattselev,Elem Discrete Math III,4.14,4.14,4.29,4.38,4.43,4.33,4.24
 Mathematics,233,Edward,Richmond,Elem Discrete Math III,4.18,4.28,4.33,4.35,4.33,4.26,4.2
 Mathematics,233,Mohammad,Javaheri,Elem Discrete Math III,3.86,4.24,4.28,4.41,3.96,3.9,3.83
+Mathematics,241,Hayden,Harker,Calc Bus & Soc Sci I,4.05,4.08,4.16,4.16,4.32,4.13,4.06
 Mathematics,241,Cassandra,Fisher,Calc Bus & Soc Sci I,4.2,3.8,4.2,4.4,4.4,4.2,4.0
 Mathematics,241,Bo,Phillips,Calc Bus & Soc Sci I,4.25,4.25,4.25,4.5,4.0,4.25,4.33
 Mathematics,241,Jon,Aycock,Calc Bus & Soc Sci I,4.09,4.19,4.0,4.38,4.67,4.33,4.19
 Mathematics,241,Elijah,Bodish,Calc Bus & Soc Sci I,4.05,4.14,4.14,4.29,4.33,4.24,4.29
 Mathematics,241,Bijan,Shahir,Calc Bus & Soc Sci I,4.02,3.97,3.94,3.97,4.17,4.19,4.04
 Mathematics,241,Marcin,Bownik,Calc Bus & Soc Sci I,3.02,2.89,3.21,3.32,3.44,3.31,3.13
-Mathematics,241,Hayden,Harker,Calc Bus & Soc Sci I,4.13,4.19,4.23,4.25,4.4,4.2,4.15
 Mathematics,241,Allan,Hendrickson,Calc Bus & Soc Sci I,4.4,4.2,4.4,4.2,4.6,4.8,4.2
 Mathematics,241,Tammy,Nezol,Calc Bus & Soc Sci I,4.4,4.4,4.6,4.6,4.2,4.6,4.6
 Mathematics,241,Fill,Staley,Calc Bus & Soc Sci I,4.72,4.67,4.56,4.72,4.89,4.83,4.61
@@ -705,6 +738,8 @@ Mathematics,241,Stuart,Thomas,Calc Bus & Soc Sci I,3.57,3.42,3.69,3.6,3.5,3.78,3
 Mathematics,241,Tristan,Brand,Calc Bus & Soc Sci I,3.83,3.33,4.5,4.5,3.83,3.67,4.17
 Mathematics,241,Hutian,Liang,Calc Bus & Soc Sci I,4.33,4.33,4.0,4.67,3.67,4.33,4.0
 Mathematics,241,Wei,Sun,Calc Bus & Soc Sci I,3.73,3.82,3.82,3.91,4.09,3.73,3.82
+Mathematics,242,Greg,Knapp,Calc Bus & Soc Sci II,3.76,3.92,3.92,3.96,4.08,4.08,3.84
+Mathematics,242,Bijan,Shahir,Calc Bus & Soc Sci II,4.18,4.25,4.21,4.37,4.37,4.3,4.24
 Mathematics,242,Elisha,Hulbert,Calc Bus & Soc Sci II,4.17,4.0,4.67,4.17,4.5,4.33,4.17
 Mathematics,242,Nathan,Hunter,Calc Bus & Soc Sci II,3.43,3.29,3.43,3.43,3.86,3.57,3.29
 Mathematics,242,Andrew,Lebovitz,Calc Bus & Soc Sci II,5.0,4.86,5.0,5.0,5.0,5.0,4.86
@@ -721,7 +756,6 @@ Mathematics,242,Paul,Herstedt,Calc Bus & Soc Sci II,3.67,3.0,3.67,4.0,4.0,3.67,3
 Mathematics,242,Cathy,Hsu,Calc Bus & Soc Sci II,4.12,4.38,4.5,4.38,4.0,4.38,4.25
 Mathematics,242,Martin,Hiserote,Calc Bus & Soc Sci II,3.67,4.0,3.89,3.89,4.11,3.89,3.89
 Mathematics,242,Ben,Reid,Calc Bus & Soc Sci II,4.5,4.64,4.5,4.57,4.57,4.57,4.43
-Mathematics,242,Bijan,Shahir,Calc Bus & Soc Sci II,4.19,4.31,4.22,4.42,4.29,4.31,4.24
 Mathematics,242,Tianyuan,Xu,Calc Bus & Soc Sci II,4.12,4.33,4.21,4.33,4.21,4.12,4.29
 Mathematics,242,Claire,Dodson,Calc Bus & Soc Sci II,4.58,4.75,4.58,4.75,4.67,4.67,4.58
 Mathematics,242,Emilio,Gardella,Calc Bus & Soc Sci II,4.0,3.83,3.83,4.0,4.33,4.33,3.83
@@ -751,11 +785,11 @@ Mathematics,242,John,Jasper,Calc Bus & Soc Sci II,3.75,3.5,3.67,3.42,3.67,3.75,3
 Mathematics,242,Stuart,Thomas,Calc Bus & Soc Sci II,2.67,2.32,2.69,2.69,2.85,3.1,2.88
 Mathematics,242,Kristine,Pelatt,Calc Bus & Soc Sci II,4.05,4.05,4.09,4.29,4.43,4.09,4.19
 Mathematics,242,Josiah,Thornton,Calc Bus & Soc Sci II,3.23,3.15,3.31,3.23,3.62,3.15,3.38
+Mathematics,243,Kristen,Henderson,Intro Probabil & Stats,3.99,4.04,3.96,4.07,3.99,4.07,4.0
 Mathematics,243,Arunima,Bhattacharya,Intro Probabil & Stats,3.76,3.67,3.89,3.72,3.89,4.0,3.79
 Mathematics,243,Corey,Brooke,Intro Probabil & Stats,3.8,3.8,4.0,4.2,3.8,4.0,4.2
 Mathematics,243,Ross,Casebolt,Intro Probabil & Stats,4.42,4.51,4.48,4.49,4.68,4.51,4.45
 Mathematics,243,Elliot,Granath,Intro Probabil & Stats,3.67,3.67,4.0,4.0,3.67,4.0,3.5
-Mathematics,243,Kristen,Henderson,Intro Probabil & Stats,4.15,4.22,4.11,4.22,4.03,4.16,4.16
 Mathematics,243,Marissa,Masden,Intro Probabil & Stats,4.83,4.83,4.83,4.5,4.83,4.67,4.83
 Mathematics,243,Dane,Miyata,Intro Probabil & Stats,4.44,4.89,4.67,4.67,4.56,4.56,4.44
 Mathematics,243,Kelly,Pohland,Intro Probabil & Stats,4.46,4.5,4.46,4.54,4.58,4.54,4.31
@@ -828,9 +862,10 @@ Mathematics,243,Brian,Stonelake,Intro Probabil & Stats,4.71,4.75,4.71,4.71,4.79,
 Mathematics,243,N,Phillips,Intro Probabil & Stats,2.79,2.58,3.09,2.86,2.93,3.04,2.97
 Mathematics,243,Aaron,Leeman,Intro Probabil & Stats,4.33,4.33,4.4,4.33,4.53,4.73,4.4
 Mathematics,243,Qi-Man,Shao,Intro Probabil & Stats,2.52,2.36,3.1,3.11,3.12,3.11,2.66
-Mathematics,246,Fill,Staley,Calc for Biol Sci I,4.6,4.64,4.44,4.4,4.6,4.64,4.52
-Mathematics,246,Andrew,Wray,Calc for Biol Sci I,4.49,4.63,4.57,4.71,4.81,4.49,4.49
-Mathematics,246,Cassandra,Fisher,Calc for Biol Sci I,4.3,4.42,4.46,4.55,4.42,4.36,4.18
+Mathematics,246,Elijah,Bodish,Calc for Biol Sci I,4.12,4.12,3.88,3.88,4.0,4.12,4.25
+Mathematics,246,Cassandra,Fisher,Calc for Biol Sci I,4.26,4.33,4.42,4.5,4.4,4.3,4.12
+Mathematics,246,Fill,Staley,Calc for Biol Sci I,4.41,4.43,4.29,4.34,4.51,4.57,4.47
+Mathematics,246,Andrew,Wray,Calc for Biol Sci I,4.62,4.71,4.64,4.77,4.81,4.6,4.57
 Mathematics,246,Ilan,Weinschelbaum,Calc for Biol Sci I,4.53,4.47,4.53,4.87,4.47,4.6,4.4
 Mathematics,246,Fred,Hervert,Calc for Biol Sci I,4.03,4.0,4.2,4.15,4.0,4.08,3.96
 Mathematics,246,Wei,Zhang,Calc for Biol Sci I,2.67,2.5,2.67,2.83,3.67,2.5,2.83
@@ -871,6 +906,17 @@ Mathematics,247,Jennifer,Burman,Calc for Biol Sci II,4.05,3.86,3.9,4.19,4.43,4.1
 Mathematics,247,Jeremy,Wade,Calc for Biol Sci II,4.31,4.62,4.44,4.31,4.44,4.5,4.38
 Mathematics,247,Aaron,Leeman,Calc for Biol Sci II,4.52,4.64,4.46,4.48,4.48,4.2,4.36
 Mathematics,247,Alexander,Jordan,Calc for Biol Sci II,3.6,3.4,3.6,3.85,3.84,3.45,3.6
+Mathematics,251,Jon,Aycock,Calculus I,3.37,3.26,3.56,3.19,4.26,3.85,3.3
+Mathematics,251,Christophe,Dethier,Calculus I,4.27,4.21,4.22,4.33,4.56,4.27,4.29
+Mathematics,251,Dana,Fry,Calculus I,4.43,4.57,4.5,4.79,4.64,4.43,4.36
+Mathematics,251,Christy,Hazel,Calculus I,4.38,4.52,4.45,4.5,4.48,4.45,4.29
+Mathematics,251,Huaxin,Lin,Calculus I,2.83,2.62,2.97,3.49,3.52,3.14,2.89
+Mathematics,251,Gabe,Montes de Oca,Calculus I,4.42,4.4,4.57,4.62,4.65,4.62,4.37
+Mathematics,251,Maria,Nemirovskaya,Calculus I,3.88,3.79,4.06,4.12,3.96,3.88,3.89
+Mathematics,251,Eric,Ramos,Calculus I,4.32,4.32,4.37,4.58,4.11,4.32,4.16
+Mathematics,251,Bijan,Shahir,Calculus I,4.05,3.93,3.98,3.99,4.45,4.26,4.05
+Mathematics,251,Yefeng,Shen,Calculus I,3.27,2.95,3.43,3.66,3.51,3.26,3.15
+Mathematics,251,Ryan,Takahashi,Calculus I,3.66,3.75,3.87,4.12,4.24,3.71,3.67
 Mathematics,251,Champ,Davis,Calculus I,4.6,4.6,4.6,4.7,4.6,4.5,4.5
 Mathematics,251,Jake,Potter,Calculus I,4.21,4.16,4.19,4.08,4.68,4.35,4.29
 Mathematics,251,Elisa,Bellah,Calculus I,4.47,4.44,4.68,4.54,4.6,4.76,4.42
@@ -890,12 +936,9 @@ Mathematics,251,Nathan,Hunter,Calculus I,4.56,4.67,4.41,4.37,4.59,4.74,4.63
 Mathematics,251,Nate,Wells,Calculus I,4.2,4.21,4.25,4.18,4.5,4.29,4.15
 Mathematics,251,Patrick,Durkin,Calculus I,4.3,4.55,4.6,4.45,4.5,4.45,4.3
 Mathematics,251,Mauricio,Gomez Lopez,Calculus I,4.47,4.47,4.42,4.63,4.68,4.47,4.53
-Mathematics,251,Christy,Hazel,Calculus I,4.3,4.42,4.37,4.42,4.41,4.35,4.27
 Mathematics,251,Robert,Lipshitz,Calculus I,4.0,4.06,4.17,4.17,4.33,4.17,3.94
 Mathematics,251,Clover,May,Calculus I,4.18,4.17,4.28,4.14,4.34,4.21,4.29
 Mathematics,251,N,Phillips,Calculus I,3.37,3.2,3.47,3.31,3.85,3.38,3.43
-Mathematics,251,Yefeng,Shen,Calculus I,3.31,2.98,3.62,3.77,3.64,3.31,3.02
-Mathematics,251,Ryan,Takahashi,Calculus I,3.99,3.98,4.13,4.29,4.47,3.98,3.92
 Mathematics,251,Joe,Webster,Calculus I,4.2,4.52,4.26,4.31,4.47,4.31,3.91
 Mathematics,251,Andrew,Wray,Calculus I,4.0,4.39,4.35,4.65,4.33,4.39,4.35
 Mathematics,251,Doeke,Buursma,Calculus I,4.37,4.41,4.42,4.43,4.62,4.46,4.45
@@ -906,7 +949,6 @@ Mathematics,251,Leanne,Merrill,Calculus I,4.65,4.83,4.8,4.7,4.92,4.82,4.68
 Mathematics,251,Liliana,Pazdan-Siudeja,Calculus I,4.2,4.25,4.45,4.49,4.4,4.34,4.23
 Mathematics,251,Thomas,Pitts,Calculus I,4.0,4.07,4.07,4.2,4.2,3.93,4.13
 Mathematics,251,Taslima,Rehman,Calculus I,4.2,4.13,4.27,4.6,4.47,4.4,4.27
-Mathematics,251,Bijan,Shahir,Calculus I,4.07,3.96,3.95,4.0,4.42,4.21,4.06
 Mathematics,251,Leila,Vaden,Calculus I,3.46,3.39,3.49,3.51,3.84,3.72,3.5
 Mathematics,251,Shida,Wang,Calculus I,3.56,3.37,3.42,3.16,3.75,3.69,3.41
 Mathematics,251,Keegan,Boyle,Calculus I,3.87,3.93,4.2,4.07,4.33,4.2,4.0
@@ -918,7 +960,6 @@ Mathematics,251,Qingyun,Wang,Calculus I,4.11,4.17,4.11,4.17,4.24,4.27,4.11
 Mathematics,251,Janelle,Currey,Calculus I,4.37,4.5,4.45,4.56,4.49,4.42,4.33
 Mathematics,251,Max,Kutler,Calculus I,4.3,4.43,4.35,4.36,4.37,4.23,4.29
 Mathematics,251,Nick,Davidson,Calculus I,4.55,4.67,4.62,4.6,4.74,4.69,4.58
-Mathematics,251,Christophe,Dethier,Calculus I,4.29,4.28,4.22,4.35,4.63,4.29,4.37
 Mathematics,251,Bradley,Burdick,Calculus I,3.84,3.79,4.0,3.95,4.16,3.95,3.79
 Mathematics,251,David,Collett,Calculus I,4.39,4.54,4.46,4.56,4.61,4.5,4.39
 Mathematics,251,Ben,Dyer,Calculus I,4.54,4.57,4.54,4.61,4.46,4.54,4.5
@@ -942,7 +983,6 @@ Mathematics,251,Karl,Schmidt,Calculus I,3.81,3.89,4.11,4.07,4.26,4.04,3.78
 Mathematics,251,Christin,Bibby,Calculus I,3.93,3.84,4.17,4.17,4.27,4.21,3.95
 Mathematics,251,Daniel,Dugger,Calculus I,4.36,4.64,4.57,4.46,4.46,4.39,4.29
 Mathematics,251,Joey,Iverson,Calculus I,3.99,3.91,4.0,3.95,4.31,4.18,3.98
-Mathematics,251,Gabe,Montes de Oca,Calculus I,4.57,4.52,4.78,4.78,4.61,4.7,4.61
 Mathematics,251,Nathan,Perlmutter,Calculus I,3.55,3.28,3.44,3.68,4.01,3.73,3.61
 Mathematics,251,David,Steinberg,Calculus I,4.57,4.66,4.59,4.62,4.54,4.57,4.54
 Mathematics,251,Trithang,Tran,Calculus I,3.68,3.56,3.92,3.64,4.62,3.92,3.58
@@ -952,7 +992,6 @@ Mathematics,251,Shlomo,Gelaki,Calculus I,3.56,3.35,3.73,3.74,3.82,3.59,3.49
 Mathematics,251,Nicholas,Howell,Calculus I,3.83,3.72,3.53,3.65,4.2,3.83,3.83
 Mathematics,251,Rob,Muth,Calculus I,4.19,4.31,4.26,4.34,4.14,4.21,4.17
 Mathematics,251,Matthew,Arbo,Calculus I,3.48,3.18,3.52,3.53,3.51,3.57,3.4
-Mathematics,251,Maria,Nemirovskaya,Calculus I,3.87,3.78,4.11,4.13,3.99,3.88,3.9
 Mathematics,251,Patrick,Schultz,Calculus I,3.9,3.83,4.04,3.98,4.1,4.07,3.85
 Mathematics,251,Jeffrey,Vaaler,Calculus I,4.25,4.25,4.15,4.4,4.15,4.0,4.1
 Mathematics,251,Haotian,Wu,Calculus I,4.35,4.35,4.35,4.55,4.6,4.35,4.3
@@ -1029,9 +1068,15 @@ Mathematics,251,Dawn,Archey,Calculus I,4.28,4.5,4.44,4.61,4.61,4.44,4.11
 Mathematics,251,Jonathan,Brown,Calculus I,3.77,3.64,4.09,3.96,4.18,4.09,3.64
 Mathematics,251,Ruth,Vanderpool,Calculus I,3.29,2.57,3.14,3.07,3.5,3.29,3.21
 Mathematics,251,Mark,Walsh,Calculus I,4.15,4.23,3.69,4.15,4.08,3.54,3.54
+Mathematics,252,Cassandra,Fisher,Calculus II,4.16,4.24,4.3,4.38,4.5,4.28,4.15
+Mathematics,252,Drew,Johnson,Calculus II,4.34,4.35,4.25,4.44,4.33,4.29,4.4
+Mathematics,252,Cynthia "Cindy",Lester,Calculus II,4.02,4.07,4.33,4.35,4.46,4.12,3.93
+Mathematics,252,Peng,Lu,Calculus II,3.67,3.64,3.81,3.84,4.0,3.9,3.74
+Mathematics,252,Alexander,Polishchuk,Calculus II,3.42,3.06,3.52,3.83,3.84,3.55,3.47
+Mathematics,252,Robert,Usher,Calculus II,4.36,4.38,4.51,4.67,4.67,4.49,4.31
+Mathematics,252,Shida,Wang,Calculus II,3.95,3.89,3.98,4.08,4.15,4.18,4.18
 Mathematics,252,Allan,Hendrickson,Calculus II,2.73,2.54,2.54,3.0,3.0,3.09,2.64
 Mathematics,252,Jeff,Monroe,Calculus II,4.6,4.54,4.36,4.46,4.27,4.46,4.36
-Mathematics,252,Cassandra,Fisher,Calculus II,4.11,4.26,4.11,4.26,4.42,4.21,4.16
 Mathematics,252,Christy,Hazel,Calculus II,4.51,4.62,4.72,4.54,4.59,4.69,4.49
 Mathematics,252,Paul,Herstedt,Calculus II,3.8,4.0,3.73,3.87,3.93,3.67,4.27
 Mathematics,252,Adam,Layne,Calculus II,3.98,4.03,3.86,4.07,4.18,3.77,3.9
@@ -1041,11 +1086,9 @@ Mathematics,252,Craig,Tingey,Calculus II,4.41,4.48,4.33,4.36,4.32,4.31,4.4
 Mathematics,252,Nate,Wells,Calculus II,4.52,4.33,4.33,4.17,4.65,4.57,4.27
 Mathematics,252,Doeke,Buursma,Calculus II,3.95,4.15,4.0,4.15,4.35,4.0,3.95
 Mathematics,252,Patrick,Durkin,Calculus II,4.58,4.78,4.63,4.58,4.63,4.58,4.63
-Mathematics,252,Drew,Johnson,Calculus II,4.35,4.34,4.24,4.44,4.38,4.31,4.39
 Mathematics,252,N,Phillips,Calculus II,3.67,3.0,3.67,4.0,4.0,3.0,3.0
 Mathematics,252,Ryan,Takahashi,Calculus II,4.22,4.19,4.34,4.36,4.65,4.35,4.24
 Mathematics,252,Jennifer,Thorenson,Calculus II,4.01,3.99,4.22,4.31,4.23,4.2,4.05
-Mathematics,252,Robert,Usher,Calculus II,4.35,4.4,4.6,4.7,4.65,4.5,4.4
 Mathematics,252,Hao,Wang,Calculus II,4.46,4.45,4.54,4.58,4.56,4.6,4.49
 Mathematics,252,Joe,Webster,Calculus II,4.45,4.63,4.53,4.57,4.63,4.51,4.53
 Mathematics,252,Christophe,Dethier,Calculus II,4.17,4.15,4.14,4.17,4.35,4.32,4.33
@@ -1056,9 +1099,7 @@ Mathematics,252,Gavin,Armstrong,Calculus II,4.42,4.56,4.79,4.55,4.67,4.66,4.38
 Mathematics,252,Keegan,Boyle,Calculus II,4.23,4.23,4.0,4.23,4.59,4.46,4.32
 Mathematics,252,Bradley,Burdick,Calculus II,2.83,2.78,3.0,3.23,3.67,2.78,2.61
 Mathematics,252,Weiyong,He,Calculus II,3.92,3.82,3.82,4.01,4.18,4.01,3.99
-Mathematics,252,Cynthia "Cindy",Lester,Calculus II,3.98,4.04,4.24,4.39,4.5,4.24,3.78
 Mathematics,252,Karl,Schmidt,Calculus II,4.42,4.42,4.53,4.55,4.71,4.56,4.44
-Mathematics,252,Shida,Wang,Calculus II,4.1,4.05,4.1,4.1,4.1,4.15,4.1
 Mathematics,252,David,Levin,Calculus II,3.2,2.92,3.33,3.2,3.38,3.4,3.33
 Mathematics,252,Jeffrey,Musyt,Calculus II,4.75,4.81,4.62,4.71,4.92,4.76,4.68
 Mathematics,252,Maria,Nemirovskaya,Calculus II,3.93,3.68,4.05,4.12,4.33,4.16,3.89
@@ -1094,7 +1135,6 @@ Mathematics,252,Andrew,Schopieray,Calculus II,4.37,4.56,4.7,4.7,4.78,4.41,4.44
 Mathematics,252,Tal,Weissblat,Calculus II,3.24,3.25,3.47,3.58,3.24,3.7,3.62
 Mathematics,252,Alex,Ellis,Calculus II,4.22,4.41,4.26,4.41,4.3,4.33,4.18
 Mathematics,252,Nathan,Perlmutter,Calculus II,4.25,4.2,4.1,4.25,4.45,4.3,4.3
-Mathematics,252,Alexander,Polishchuk,Calculus II,3.65,3.5,3.85,4.15,3.92,3.65,3.69
 Mathematics,252,Aaron,Shatzer,Calculus II,4.55,4.76,4.69,4.55,4.76,4.62,4.45
 Mathematics,252,Junwu,Tu,Calculus II,4.1,4.1,4.06,4.19,4.08,3.98,4.1
 Mathematics,252,Deborah,Vicinsky,Calculus II,4.17,4.27,4.46,4.56,4.28,4.26,4.26
@@ -1112,7 +1152,6 @@ Mathematics,252,Adam,Welly,Calculus II,4.58,4.75,4.58,4.54,4.67,4.54,4.38
 Mathematics,252,Tianyuan,Xu,Calculus II,3.98,4.0,4.1,4.32,4.44,4.1,4.05
 Mathematics,252,Thomas,Bell,Calculus II,4.64,4.71,4.69,4.68,4.78,4.71,4.67
 Mathematics,252,Boris,Botvinnik,Calculus II,3.8,3.8,4.1,3.9,3.95,3.95,3.85
-Mathematics,252,Peng,Lu,Calculus II,3.86,3.9,4.14,4.1,4.05,4.09,3.9
 Mathematics,252,Jeremiah,Bartz,Calculus II,3.74,3.47,3.96,3.84,4.11,3.9,3.89
 Mathematics,252,Luis,Santiago Moreno,Calculus II,3.71,3.51,3.99,4.05,3.87,4.01,3.8
 Mathematics,252,Alexander,Kleshchev,Calculus II,4.38,4.37,4.47,4.54,4.34,4.27,4.29
@@ -1153,6 +1192,9 @@ Mathematics,252,David,Spivak,Calculus II,4.52,4.56,4.36,4.52,4.32,4.44,4.52
 Mathematics,252,Jennifer,Burman,Calculus II,3.83,4.0,4.5,4.17,4.67,4.17,3.67
 Mathematics,252,William,Kronholm,Calculus II,4.09,4.14,4.09,4.33,4.43,4.19,4.33
 Mathematics,252,James,Wilson,Calculus II,3.85,3.7,3.8,3.75,3.95,3.85,3.7
+Mathematics,253,Drew,Johnson,Calculus III,4.43,4.33,4.26,4.57,4.4,4.45,4.37
+Mathematics,253,Shida,Wang,Calculus III,3.82,3.65,3.87,3.88,4.17,4.04,3.94
+Mathematics,253,Nate,Wells,Calculus III,4.44,4.44,4.44,4.19,4.56,4.38,4.38
 Mathematics,253,Craig,Tingey,Calculus III,4.32,4.32,4.19,4.02,4.37,4.32,4.35
 Mathematics,253,N,Phillips,Calculus III,3.0,3.0,2.67,3.0,4.0,2.67,3.67
 Mathematics,253,Jake,Potter,Calculus III,4.27,4.27,4.36,4.36,4.64,4.27,4.36
@@ -1163,13 +1205,11 @@ Mathematics,253,Sarah,Frei,Calculus III,4.12,4.38,4.19,4.38,4.75,4.5,4.31
 Mathematics,253,Huaxin,Lin,Calculus III,4.18,4.1,4.26,4.33,3.92,4.1,4.27
 Mathematics,253,Eric,Hogle,Calculus III,4.41,4.39,4.21,4.42,4.62,4.31,4.37
 Mathematics,253,Alexander,Kleshchev,Calculus III,4.01,4.05,4.29,4.39,4.1,4.08,4.13
-Mathematics,253,Shida,Wang,Calculus III,4.09,3.96,4.17,4.09,4.39,4.3,4.04
 Mathematics,253,Clover,May,Calculus III,3.78,4.44,4.0,4.11,4.33,4.33,4.22
 Mathematics,253,Patrick,Durkin,Calculus III,4.24,4.24,4.43,4.38,4.57,4.33,4.33
 Mathematics,253,Adam,Layne,Calculus III,3.93,3.84,3.7,4.02,4.3,3.66,4.05
 Mathematics,253,Tianyuan,Xu,Calculus III,4.23,4.23,4.13,4.38,4.2,4.17,4.29
 Mathematics,253,Hayden,Harker,Calculus III,4.39,4.46,4.34,4.34,4.53,4.24,4.33
-Mathematics,253,Drew,Johnson,Calculus III,4.5,4.39,4.39,4.5,4.61,4.67,4.56
 Mathematics,253,Maria,Nemirovskaya,Calculus III,4.0,3.91,4.0,4.23,3.96,4.0,4.04
 Mathematics,253,Ben,Reid,Calculus III,4.25,4.42,4.38,4.54,4.71,4.38,4.29
 Mathematics,253,Chris,Sinclair,Calculus III,4.5,4.5,4.67,4.58,4.5,4.5,4.58
@@ -1233,12 +1273,13 @@ Mathematics,253,Jennifer,Burman,Calculus III,4.3,3.8,4.0,4.2,4.7,4.0,4.2
 Mathematics,253,Zhuang,Niu,Calculus III,3.09,3.09,3.46,3.64,3.46,3.6,3.0
 Mathematics,253,Hutian,Liang,Calculus III,4.11,4.21,4.16,4.21,3.94,4.0,4.05
 Mathematics,253,Jeremy,Wade,Calculus III,4.18,4.12,4.06,3.94,4.47,4.53,4.24
+Mathematics,256,Qingyun,Wang,Intro Differ Equations,3.42,3.33,3.27,3.42,3.75,4.17,3.58
+Mathematics,256,Micah,Warren,Intro Differ Equations,3.45,3.31,3.39,3.65,3.72,3.57,3.68
 Mathematics,256,Clover,May,Intro Differ Equations,4.49,4.43,4.45,4.32,4.47,4.38,4.36
 Mathematics,256,Mauricio,Gomez Lopez,Intro Differ Equations,4.55,4.62,4.25,4.35,4.6,4.55,4.62
 Mathematics,256,Bijan,Shahir,Intro Differ Equations,4.0,4.29,4.0,4.43,4.43,4.71,4.0
 Mathematics,256,Huaxin,Lin,Intro Differ Equations,4.11,3.98,4.28,4.34,3.98,4.19,4.21
 Mathematics,256,Peng,Lu,Intro Differ Equations,4.18,4.14,4.12,4.3,4.07,4.11,4.17
-Mathematics,256,Micah,Warren,Intro Differ Equations,3.65,3.53,3.64,3.78,3.82,3.75,3.71
 Mathematics,256,Martin,Hiserote,Intro Differ Equations,4.0,3.67,4.33,4.0,4.33,4.33,4.0
 Mathematics,256,Jean,Nganou,Intro Differ Equations,4.01,4.05,4.28,4.08,4.08,4.15,4.03
 Mathematics,256,Victor,Ostrik,Intro Differ Equations,4.23,4.14,4.21,4.45,4.27,4.22,4.29
@@ -1272,6 +1313,7 @@ Mathematics,256,Sergiy,Bezualiy,Intro Differ Equations,3.87,3.73,4.23,4.11,4.18,
 Mathematics,256,David,Spivak,Intro Differ Equations,4.33,4.5,3.89,4.0,4.06,4.0,4.39
 Mathematics,256,Chad,Giusti,Intro Differ Equations,4.19,4.03,3.97,4.0,4.65,3.92,4.11
 Mathematics,256,Zhuang,Niu,Intro Differ Equations,3.5,3.5,3.9,4.1,4.0,3.7,3.5
+Mathematics,261,Dev,Sinha,Calculus with Theory I,5.0,5.0,5.0,5.0,5.0,5.0,5.0
 Mathematics,261,Ben,Young,Calculus with Theory I,4.57,4.57,4.57,4.86,4.43,3.71,4.57
 Mathematics,261,Nicholas,Proudfoot,Calculus with Theory I,4.17,3.99,4.65,4.37,4.49,4.03,4.36
 Mathematics,261,Jon,Brundan,Calculus with Theory I,4.74,4.74,4.52,4.71,4.41,4.12,4.67
@@ -1296,6 +1338,8 @@ Mathematics,263,Vadim,Vologodski,Calculus with Theo III,4.83,4.83,4.83,4.83,4.83
 Mathematics,263,David,Levin,Honors Calculus III,3.5,3.5,3.75,4.0,4.25,3.5,4.25
 Mathematics,263,Alexander,Polishchuk,Honors Calculus III,3.86,3.71,3.57,4.0,3.57,3.43,4.29
 Mathematics,263,Hal,Sadofsky,Honors Calculus III,4.6,4.6,4.2,4.3,4.4,4.4,4.6
+Mathematics,281,Yefeng,Shen,Several-Variab Calc I,4.13,4.13,4.22,4.26,4.13,4.0,4.3
+Mathematics,281,Jennifer,Thorenson,Several-Variab Calc I,4.14,4.09,4.41,4.31,4.26,4.13,4.11
 Mathematics,281,Gabe,Montes de Oca,Several-Variab Calc I,4.0,4.25,4.25,4.75,4.38,4.5,4.38
 Mathematics,281,Arkady,Berenstein,Several-Variab Calc I,3.87,3.62,4.07,3.87,3.98,4.16,3.97
 Mathematics,281,Clover,May,Several-Variab Calc I,4.4,4.52,4.52,4.56,4.68,4.44,4.6
@@ -1304,7 +1348,6 @@ Mathematics,281,Shida,Wang,Several-Variab Calc I,3.84,3.76,4.04,3.56,4.08,4.24,4
 Mathematics,281,Adam,Layne,Several-Variab Calc I,3.73,4.0,4.0,4.2,4.13,4.0,3.87
 Mathematics,281,Leanne,Merrill,Several-Variab Calc I,4.63,4.7,4.53,4.53,4.6,4.7,4.43
 Mathematics,281,Weiyong,He,Several-Variab Calc I,4.03,3.86,4.15,4.2,4.1,4.11,4.03
-Mathematics,281,Jennifer,Thorenson,Several-Variab Calc I,4.17,4.09,4.46,4.36,4.3,4.21,4.12
 Mathematics,281,Andrew,Schopieray,Several-Variab Calc I,4.31,4.38,4.31,4.44,4.44,4.25,4.31
 Mathematics,281,Haotian,Wu,Several-Variab Calc I,4.16,4.09,4.06,3.97,4.39,4.27,4.18
 Mathematics,281,Ellen,Eischen,Several-Variab Calc I,4.22,4.09,4.57,4.3,4.39,4.26,4.04
@@ -1341,6 +1384,8 @@ Mathematics,282,Bruce,Barnes,Several-Variab Calc II,4.25,4.45,4.47,4.25,4.44,4.5
 Mathematics,282,Chad,Giusti,Several-Variab Calc II,4.16,4.11,3.9,4.0,4.37,4.0,4.21
 Mathematics,282,Daniel,Dugger,Several-Variab Calc II,4.62,4.54,4.62,4.69,4.46,4.46,4.69
 Mathematics,282,Zhuang,Niu,Several-Variab Calc II,3.21,2.64,3.64,3.14,3.64,3.5,3.14
+Mathematics,307,Keegan,Boyle,Introduction to Proof,4.56,4.56,4.56,4.62,4.75,4.44,4.5
+Mathematics,307,Jeffrey,Musyt,Introduction to Proof,4.33,4.44,4.33,4.44,4.56,4.44,4.44
 Mathematics,307,Ryan,Takahashi,Introduction to Proof,4.17,4.33,4.21,4.38,4.42,4.38,4.33
 Mathematics,307,Gavin,Armstrong,Introduction to Proof,3.84,3.58,4.21,3.79,3.94,3.84,3.9
 Mathematics,307,Patrick,Durkin,Introduction to Proof,4.53,4.76,4.29,4.35,4.82,4.41,4.29
@@ -1402,22 +1447,24 @@ Mathematics,315,Aaron,Heuser,Elementary Analysis,3.78,4.0,3.75,3.56,3.44,3.33,4.
 Mathematics,315,John,Leahy,Elementary Analysis,4.0,4.5,4.0,4.0,3.5,4.0,4.25
 Mathematics,315,Li-An,Wang,Elementary Analysis,3.91,4.54,4.09,4.18,4.54,4.0,4.18
 Mathematics,315,Craig,Tingey,Elementary Analysis,4.36,4.46,4.21,4.24,4.62,4.54,4.19
+Mathematics,316,Yuan,Xu,Fund of Analysis I,3.78,3.72,4.04,4.16,3.84,3.82,3.9
 Mathematics,316,Dan,Raies,Fund of Analysis I,4.31,4.31,4.08,4.23,4.23,4.0,4.15
 Mathematics,316,Shabnam,Akhtari,Fund of Analysis I,4.31,4.23,4.27,4.27,4.35,4.31,4.35
 Mathematics,316,Ben,Elias,Fund of Analysis I,4.11,4.07,3.81,4.11,4.3,3.67,3.96
-Mathematics,316,Yuan,Xu,Fund of Analysis I,3.96,3.79,4.17,4.21,4.12,3.92,4.21
 Mathematics,317,Ben,Elias,Fund of Analysis II,4.67,4.83,4.5,4.33,4.83,3.67,4.67
 Mathematics,317,Yuan,Xu,Fund of Analysis II,4.5,4.5,4.75,4.75,4.75,4.5,4.5
 Mathematics,320,Micah,Warren,Theo of Diff Equations,3.6,3.8,3.2,3.8,4.0,3.8,3.6
+Mathematics,341,Boris,Botvinnik,Elem Linear Algebra,4.01,3.81,4.09,4.07,3.98,4.1,4.07
+Mathematics,341,Maria,Nemirovskaya,Elem Linear Algebra,3.53,3.67,3.8,3.87,4.13,3.6,3.8
+Mathematics,341,Jennifer,Thorenson,Elem Linear Algebra,4.12,4.1,4.3,4.4,4.3,4.26,4.09
+Mathematics,341,Qingyun,Wang,Elem Linear Algebra,4.16,4.09,4.34,4.11,4.4,4.37,4.06
 Mathematics,341,Doeke,Buursma,Elem Linear Algebra,4.75,4.75,4.75,4.75,4.75,4.75,4.75
-Mathematics,341,Qingyun,Wang,Elem Linear Algebra,4.0,4.14,4.29,4.21,4.36,4.21,3.71
 Mathematics,341,Arkady,Berenstein,Elem Linear Algebra,3.93,3.72,4.14,4.08,4.02,4.13,4.01
 Mathematics,341,Hannah,Feng,Elem Linear Algebra,3.78,3.52,3.91,3.91,4.0,3.87,3.61
 Mathematics,341,Eric,Hogle,Elem Linear Algebra,4.5,4.62,4.29,4.46,4.54,4.33,4.38
 Mathematics,341,Hayden,Harker,Elem Linear Algebra,4.5,4.6,4.45,4.5,4.6,4.3,4.35
 Mathematics,341,Drew,Johnson,Elem Linear Algebra,4.5,4.54,4.46,4.5,4.54,4.65,4.42
 Mathematics,341,Cynthia "Cindy",Lester,Elem Linear Algebra,3.88,3.92,3.92,3.96,3.96,4.04,3.92
-Mathematics,341,Jennifer,Thorenson,Elem Linear Algebra,4.21,4.28,4.38,4.48,4.38,4.45,4.14
 Mathematics,341,Leanne,Merrill,Elem Linear Algebra,4.54,4.59,4.59,4.53,4.6,4.54,4.45
 Mathematics,341,Jean,Nganou,Elem Linear Algebra,3.63,3.3,3.84,3.95,3.87,3.7,3.62
 Mathematics,341,Vadim,Vologodski,Elem Linear Algebra,3.83,3.44,3.74,3.91,3.7,3.74,4.04
@@ -1439,7 +1486,6 @@ Mathematics,341,Aaron,Shatzer,Elem Linear Algebra,4.32,4.41,4.5,4.46,4.54,4.41,4
 Mathematics,341,Alexander,Kleshchev,Elem Linear Algebra,4.58,4.58,4.5,4.58,4.46,4.42,4.46
 Mathematics,341,Sergey,Yuzvinsky,Elem Linear Algebra,4.08,4.04,4.15,4.2,3.97,3.92,4.03
 Mathematics,341,Jonathan,Comes,Elem Linear Algebra,4.61,4.69,4.79,4.83,4.61,4.6,4.58
-Mathematics,341,Boris,Botvinnik,Elem Linear Algebra,4.09,3.91,4.16,4.13,4.07,4.17,4.09
 Mathematics,341,Robert,Fisette,Elem Linear Algebra,3.56,3.25,3.31,3.44,4.31,3.5,3.19
 Mathematics,341,Aaron,Montgomery,Elem Linear Algebra,4.63,4.78,4.76,4.8,4.57,4.64,4.45
 Mathematics,341,Daniel,Moseley,Elem Linear Algebra,4.32,4.22,4.24,4.35,4.54,4.29,4.39
@@ -1491,12 +1537,14 @@ Mathematics,346,Gary,Seitz,Number Theory,3.83,3.67,4.33,3.83,3.33,4.0,3.67
 Mathematics,346,Nicholas,Proudfoot,Number Theory,4.04,3.85,4.37,4.26,4.08,3.89,3.78
 Mathematics,347,Shabnam,Akhtari,Fund of Number Theo I,4.22,4.26,4.17,4.09,4.09,4.09,4.35
 Mathematics,348,Shabnam,Akhtari,Fund of Number Theo II,4.38,4.56,4.12,4.12,4.31,4.31,4.38
+Mathematics,351,Eric,Merchant,Elem Numeric Analy I,4.5,4.53,4.5,4.53,4.61,4.58,4.49
 Mathematics,351,Yuan,Xu,Elem Numeric Analy I,4.2,4.08,4.2,4.3,4.24,4.23,4.24
 Mathematics,351,Ben,Young,Elem Numeric Analy I,4.08,4.19,4.19,4.18,4.25,4.15,4.12
 Mathematics,351,Marcin,Bownik,Elem Numeric Analy I,4.05,3.93,4.22,4.04,4.36,4.38,3.99
 Mathematics,352,Yuan,Xu,Elem Numeric Analy II,4.16,4.16,4.2,4.32,4.3,4.22,4.15
 Mathematics,352,Ben,Young,Elem Numeric Analy II,4.24,4.21,4.05,4.11,4.34,4.37,4.21
 Mathematics,352,Marcin,Bownik,Elem Numeric Analy II,4.23,4.21,4.31,4.17,4.45,4.39,4.23
+Mathematics,391,Arkady,Vaintrob,Fund Abstract Alg I,4.07,3.93,3.93,4.0,4.0,3.53,4.13
 Mathematics,391,David,Steinberg,Fund Abstract Alg I,4.05,4.16,4.05,4.16,4.0,4.21,3.84
 Mathematics,391,Eric,Merchant,Fund Abstract Alg I,4.42,4.26,4.26,4.58,4.26,4.21,4.42
 Mathematics,391,Shlomo,Libeskind,Fund Abstract Alg I,4.5,4.56,4.17,4.42,4.66,4.21,4.55
@@ -1515,8 +1563,8 @@ Mathematics,393,Shlomo,Libeskind,Fund Abstract Alg III,4.5,4.54,3.93,4.02,4.59,4
 Mathematics,393,Katherine,Smith,Fund Abstract Alg III,5.0,5.0,5.0,5.0,5.0,5.0,5.0
 Mathematics,393,Marie,Vitulli,Fund Abstract Alg III,3.6,3.2,4.0,3.6,3.8,3.7,3.5
 Mathematics,393,Arkady,Vaintrob,Fund Abstract Alg III,3.14,3.14,3.14,3.36,3.29,2.64,3.64
+Mathematics,394,David,Steinberg,Geom Adv Viewpoint I,4.47,4.48,4.32,4.36,4.48,4.46,4.53
 Mathematics,394,Eric,Merchant,Geom Adv Viewpoint I,3.8,3.9,3.2,3.6,3.9,3.8,3.6
-Mathematics,394,David,Steinberg,Geom Adv Viewpoint I,4.46,4.43,4.29,4.36,4.43,4.57,4.64
 Mathematics,394,Jean,Nganou,Geom Adv Viewpoint I,4.19,4.02,4.2,4.07,4.16,3.58,3.94
 Mathematics,394,Daniel,Dugger,Geom Adv Viewpoint I,4.32,4.46,4.32,4.5,4.46,4.36,4.32
 Mathematics,394,Shlomo,Libeskind,Geom Adv Viewpoint I,4.24,4.46,4.07,4.04,4.47,3.95,4.24
@@ -1570,6 +1618,7 @@ Mathematics,412,Shabnam,Akhtari,Func Complex Var II,4.33,4.33,4.11,4.33,4.0,4.22
 Mathematics,412,Weiyong,He,Func Complex Var II,4.0,4.0,4.0,4.5,4.5,4.5,4.0
 Mathematics,412,Peter,Gilkey,Func Complex Var II,4.2,4.0,4.0,4.0,4.6,4.2,4.8
 Mathematics,412,Nicholas,Proudfoot,Func Complex Var II,4.83,4.83,4.5,4.67,4.33,3.67,4.83
+Mathematics,413,N,Phillips,Intro Analysis I,3.8,3.8,4.2,4.0,4.4,3.6,4.2
 Mathematics,413,Huaxin,Lin,Intro Analysis I,4.11,4.07,4.12,4.08,4.03,3.9,3.89
 Mathematics,413,Weiyong,He,Intro Analysis I,4.25,4.25,4.12,4.0,4.5,4.38,4.5
 Mathematics,413,Bartlomiej,Siudeja,Intro Analysis I,4.12,4.12,4.0,4.5,4.38,3.38,3.5
@@ -1599,6 +1648,7 @@ Mathematics,421,Marcin,Bownik,Fourier Analysis I,4.29,4.21,4.14,3.87,4.33,4.13,4
 Mathematics,421,Peng,Lu,Fourier Analysis I,3.25,3.38,3.25,3.12,4.38,3.62,3.25
 Mathematics,421,Yuan,Xu,Fourier Analysis I,4.33,4.25,4.33,4.38,3.89,4.11,4.44
 Mathematics,421,Huaxin,Lin,Fourier Analysis I,4.29,4.14,4.14,4.29,4.43,4.14,4.57
+Mathematics,421M,James,Imamura,Fourier Analysis I,3.5,3.25,2.62,3.25,3.88,3.25,3.62
 Mathematics,421M,James,Isenberg,Fourier Analysis I,3.9,3.95,3.65,4.05,4.1,3.9,3.8
 Mathematics,422,Micah,Warren,Fourier Analysis II,4.43,4.29,4.0,4.43,4.43,4.29,4.29
 Mathematics,422,James,Isenberg,Fourier Analysis II,4.12,4.25,3.88,4.5,4.0,4.12,4.38
@@ -1608,6 +1658,7 @@ Mathematics,422,Peng,Lu,Fourier Analysis II,4.5,4.0,3.5,4.5,4.5,4.0,4.5
 Mathematics,422,James,Isenberg,Diff Equ/Four Ana III,4.2,4.4,3.8,4.6,4.2,4.0,4.2
 Mathematics,422,Marcin,Bownik,Diff Equ/Four Ana III,4.44,4.33,4.33,4.44,4.78,4.44,4.22
 Mathematics,422,Yuan,Xu,Diff Equ/Four Ana III,4.0,4.2,4.2,4.4,4.6,4.2,3.6
+Mathematics,425,Liliana,Pazdan-Siudeja,Statistical Methods I,4.29,4.29,4.47,4.41,4.44,4.59,4.12
 Mathematics,425,Wenjing,Yao,Statistical Methods I,4.17,3.94,4.11,4.17,4.06,4.11,4.18
 Mathematics,425,Craig,Tingey,Statistical Methods I,4.47,4.32,4.21,4.11,4.42,4.26,4.47
 Mathematics,425,Eric,Merchant,Statistical Methods I,4.48,4.65,4.49,4.61,4.44,4.28,4.35
@@ -1616,6 +1667,7 @@ Mathematics,425,Hayden,Harker,Statistical Methods I,4.32,4.49,4.5,4.4,4.46,4.34,
 Mathematics,425,David,Levin,Statistical Methods I,3.58,3.44,3.79,3.76,4.05,3.78,3.74
 Mathematics,425,Hao,Wang,Statistical Methods I,3.69,3.62,4.01,3.79,3.83,4.04,3.51
 Mathematics,426,Hao,Wang,Statistical Methods II,3.75,3.75,3.75,3.75,4.0,4.0,3.75
+Mathematics,431,Nicolas,Addington,Intro to Topology,4.0,4.09,3.82,4.27,4.46,3.64,4.09
 Mathematics,431,Nicholas,Proudfoot,Intro to Topology,4.54,4.73,4.52,4.43,4.48,4.3,4.27
 Mathematics,431,Robert,Lipshitz,Intro to Topology,4.54,4.69,4.15,4.15,4.31,4.23,4.38
 Mathematics,431,Ben,Elias,Intro to Topology,4.36,4.46,4.18,4.73,4.46,3.91,4.46
@@ -1643,6 +1695,7 @@ Mathematics,441,Sergey,Yuzvinsky,Linear Algebra,3.89,4.11,4.22,4.22,4.22,4.33,3.
 Mathematics,441,Hal,Sadofsky,Linear Algebra,4.6,4.4,4.0,4.0,4.6,4.2,4.2
 Mathematics,441,Brad,Shelton,Linear Algebra,4.65,4.65,4.2,4.75,4.2,4.1,4.65
 Mathematics,441,David,Nash,Linear Algebra,4.73,4.82,4.73,4.91,4.73,4.46,4.46
+Mathematics,444,Alexander,Polishchuk,Intro Abstract Alg I,3.86,3.14,3.71,3.71,4.29,3.64,4.14
 Mathematics,444,Ellen,Eischen,Intro Abstract Alg I,4.4,4.4,4.6,4.2,4.8,4.6,4.6
 Mathematics,444,Nicolas,Addington,Intro Abstract Alg I,4.6,4.2,4.2,4.4,4.8,4.0,4.2
 Mathematics,444,Victor,Ostrik,Intro Abstract Alg I,4.25,4.3,4.2,4.33,4.02,3.53,3.98
@@ -1684,8 +1737,9 @@ Mathematics,458,Shabnam,Akhtari,Intro Mth Cryptography,4.21,4.21,4.11,4.11,4.16,
 Mathematics,458,Ellen,Eischen,Intro Mth Cryptography,4.14,4.04,4.09,4.18,4.23,4.04,4.09
 Mathematics,458,Victor,Ostrik,Intro Mth Cryptography,4.28,4.17,4.17,4.22,4.39,4.22,4.44
 Mathematics,458,Ben,Young,Intro Mth Cryptography,4.3,4.44,4.22,4.33,4.41,4.44,4.26
+Mathematics,461,Nicholas,Proudfoot,Intro Methods Stats I,4.57,4.6,4.67,4.77,4.66,4.72,4.59
+Mathematics,461,Micah,Warren,Intro Methods Stats I,2.79,2.64,2.75,2.84,3.0,2.81,2.82
 Mathematics,461,David,Levin,Intro Methods Stats I,3.8,3.78,3.79,3.82,3.82,3.85,3.89
-Mathematics,461,Micah,Warren,Intro Methods Stats I,2.78,2.59,2.81,2.85,3.04,2.93,2.67
 Mathematics,461,Ellen,Eischen,Intro Methods Stats I,4.58,4.58,4.65,4.69,4.58,4.38,4.52
 Mathematics,461,Bartlomiej,Siudeja,Intro Methods Stats I,3.38,3.0,3.12,3.38,3.62,3.06,3.56
 Mathematics,461,Hao,Wang,Intro Methods Stats I,3.5,3.29,3.75,3.53,4.1,3.8,3.67
@@ -1717,6 +1771,7 @@ Mathematics,511,Shabnam,Akhtari,Func Complex Var I,4.29,4.41,4.24,4.24,4.18,4.35
 Mathematics,511,Nicholas,Proudfoot,Func Complex Var I,4.06,3.69,4.0,4.06,4.38,3.56,3.81
 Mathematics,512,Nicholas,Proudfoot,Func Complex Var II,4.83,4.83,4.5,4.67,4.33,3.67,4.83
 Mathematics,512,James,Isenberg,Func Complex Var II,4.58,4.54,4.33,4.54,4.25,4.12,4.46
+Mathematics,513,N,Phillips,Intro Analysis I,3.8,3.8,4.2,4.0,4.4,3.6,4.2
 Mathematics,513,Huaxin,Lin,Intro Analysis I,4.11,4.07,4.12,4.08,4.03,3.9,3.89
 Mathematics,513,Weiyong,He,Intro Analysis I,4.25,4.25,4.12,4.0,4.5,4.38,4.5
 Mathematics,513,Bartlomiej,Siudeja,Intro Analysis I,4.12,4.12,4.0,4.5,4.38,3.38,3.5
@@ -1738,10 +1793,12 @@ Mathematics,520,Marcin,Bownik,Diff Equ/Four Ana I,4.33,4.33,4.67,4.67,4.22,4.22,
 Mathematics,521,James,Isenberg,Fourier Analysis I,3.78,3.62,3.49,4.02,4.3,3.31,3.84
 Mathematics,521,Yuan,Xu,Fourier Analysis I,4.33,4.25,4.33,4.38,3.89,4.11,4.44
 Mathematics,521,Huaxin,Lin,Fourier Analysis I,4.29,4.14,4.14,4.29,4.43,4.14,4.57
+Mathematics,521M,James,Imamura,Fourier Analysis I,3.5,3.25,2.62,3.25,3.88,3.25,3.62
 Mathematics,522,James,Isenberg,Fourier Analysis II,4.25,4.5,4.0,4.75,4.5,4.5,4.5
 Mathematics,522,James,Isenberg,Diff Equ/Four Ana III,4.2,4.4,3.8,4.6,4.2,4.0,4.2
 Mathematics,522,Marcin,Bownik,Diff Equ/Four Ana III,4.44,4.33,4.33,4.44,4.78,4.44,4.22
 Mathematics,522,Yuan,Xu,Diff Equ/Four Ana III,4.0,4.2,4.2,4.4,4.6,4.2,3.6
+Mathematics,525,Liliana,Pazdan-Siudeja,Statistical Methods I,4.29,4.29,4.47,4.41,4.44,4.59,4.12
 Mathematics,525,Craig,Tingey,Statistical Methods I,4.47,4.32,4.21,4.11,4.42,4.26,4.47
 Mathematics,525,Eric,Merchant,Statistical Methods I,4.47,4.64,4.46,4.58,4.48,4.32,4.32
 Mathematics,525,Peter,Ralph,Statistical Methods I,4.19,4.09,4.33,4.43,4.76,4.57,4.24
@@ -1749,6 +1806,7 @@ Mathematics,525,Hayden,Harker,Statistical Methods I,4.32,4.49,4.5,4.4,4.46,4.34,
 Mathematics,525,David,Levin,Statistical Methods I,3.58,3.44,3.79,3.76,4.05,3.78,3.74
 Mathematics,525,Hao,Wang,Statistical Methods I,3.54,3.23,3.92,3.48,3.54,3.76,3.27
 Mathematics,526,Hao,Wang,Statistical Methods II,3.75,3.75,3.75,3.75,4.0,4.0,3.75
+Mathematics,531,Nicolas,Addington,Intro to Topology,4.0,4.09,3.82,4.27,4.46,3.64,4.09
 Mathematics,531,Nicholas,Proudfoot,Intro to Topology,4.54,4.73,4.52,4.43,4.48,4.3,4.27
 Mathematics,531,Robert,Lipshitz,Intro to Topology,4.54,4.69,4.15,4.15,4.31,4.23,4.38
 Mathematics,531,Ben,Elias,Intro to Topology,4.36,4.46,4.18,4.73,4.46,3.91,4.46
@@ -1771,6 +1829,7 @@ Mathematics,541,Shida,Wang,Linear Algebra,3.36,3.21,4.0,3.14,3.64,3.36,4.08
 Mathematics,541,Sergey,Yuzvinsky,Linear Algebra,3.89,4.11,4.22,4.22,4.22,4.33,3.89
 Mathematics,541,Brad,Shelton,Linear Algebra,4.65,4.65,4.2,4.75,4.2,4.1,4.65
 Mathematics,541,David,Nash,Linear Algebra,4.73,4.82,4.73,4.91,4.73,4.46,4.46
+Mathematics,544,Alexander,Polishchuk,Intro Abstract Alg I,3.86,3.14,3.71,3.71,4.29,3.64,4.14
 Mathematics,544,Ellen,Eischen,Intro Abstract Alg I,4.4,4.4,4.6,4.2,4.8,4.6,4.6
 Mathematics,544,Nicolas,Addington,Intro Abstract Alg I,4.6,4.2,4.2,4.4,4.8,4.0,4.2
 Mathematics,544,Victor,Ostrik,Intro Abstract Alg I,4.25,4.3,4.2,4.33,4.02,3.53,3.98
@@ -1802,6 +1861,7 @@ Mathematics,557,Bartlomiej,Siudeja,Discrete Dynam Systems,3.12,3.12,3.25,3.62,3.
 Mathematics,557,Victor,Ostrik,Discrete Dynam Systems,3.9,3.8,3.9,4.0,4.0,3.8,3.65
 Mathematics,557,Marcin,Bownik,Discrete Dynam Systems,4.1,4.1,4.1,4.1,4.44,4.2,4.2
 Mathematics,557,Daniel,Dugger,Discrete Dynam Systems,4.29,4.47,4.47,4.41,4.18,4.41,4.12
+Mathematics,561,Nicholas,Proudfoot,Intro Methods Stats I,4.57,4.6,4.67,4.77,4.66,4.72,4.59
 Mathematics,561,David,Levin,Intro Methods Stats I,3.95,3.97,3.94,3.95,3.89,4.04,3.99
 Mathematics,561,Micah,Warren,Intro Methods Stats I,2.78,2.59,2.81,2.85,3.04,2.93,2.67
 Mathematics,561,Ellen,Eischen,Intro Methods Stats I,4.58,4.58,4.65,4.69,4.58,4.38,4.52
@@ -1819,11 +1879,13 @@ Mathematics,564,Chris,Sinclair,Math Statistics I,4.5,4.5,4.38,4.38,4.25,4.25,4.6
 Mathematics,565,Chris,Sinclair,Math Statistics II,4.71,4.83,4.83,4.83,4.79,4.54,4.83
 Mathematics,567,Chris,Sinclair,Stochastic Processes,4.41,4.31,4.08,4.28,3.8,4.05,4.3
 Mathematics,567,David,Levin,Stochastic Processes,4.33,4.5,4.5,4.67,4.5,4.33,4.5
+Mathematics,607,N,Phillips,Sem Logic,4.33,4.33,4.33,4.33,4.0,4.33,3.67
+Mathematics,607,Mike,Price,Sem New Grad Emp Teach,4.63,4.63,4.65,4.45,4.75,4.48,4.47
+Mathematics,607,Peter,Ralph,Sem Appl Stoch Process,4.75,5.0,5.0,5.0,5.0,4.5,4.75
 Mathematics,607,Boris,Botvinnik,Sem Moduli Spaces,4.0,4.0,3.67,3.67,4.33,4.33,4.0
 Mathematics,607,Shida,Wang,Sem Int to Quantum Top,4.0,4.2,4.4,3.6,4.0,4.4,3.8
 Mathematics,607,Ben,Young,Sem Computer Algebra,4.62,4.62,4.5,4.38,4.38,4.88,4.12
 Mathematics,607,Shabnam,Akhtari,Sem Algebraic Num Theo,4.5,4.5,4.5,4.17,4.5,4.33,4.17
-Mathematics,607,Mike,Price,Sem New Grad Emp Teach,4.56,4.56,4.44,4.33,4.78,4.25,4.22
 Mathematics,607,James,Isenberg,Sem Yang Mills Theory,4.0,4.0,4.0,4.0,4.0,3.5,3.5
 Mathematics,607,Vadim,Vologodski,Sem Rational Homotopy,4.5,4.67,4.5,4.67,4.33,4.5,4.33
 Mathematics,607,Ben,Young,Sem Symmetric Function,4.67,4.83,4.5,4.67,4.67,5.0,4.67
@@ -1878,10 +1940,10 @@ Mathematics,607,Nicholas,Proudfoot,Sem Combnatrl Cmmt Alg,4.5,4.5,4.75,4.75,4.75
 Mathematics,607,Marcin,Bownik,Sem Arith Combinator,4.5,4.5,4.0,4.5,4.5,5.0,4.0
 Mathematics,607,Nicholas,Proudfoot,Sem Symplectic Geom,4.67,4.67,4.5,4.67,4.83,4.83,4.5
 Mathematics,607,Hal,Sadofsky,Sem Formal Group Laws,5.0,5.0,5.0,5.0,5.0,5.0,5.0
+Mathematics,616,Marcin,Bownik,Real Analysis,4.48,4.59,4.48,4.38,4.38,4.33,4.54
 Mathematics,616,Weiyong,He,Real Analysis,4.0,3.2,3.8,3.4,3.4,3.8,4.2
 Mathematics,616,N,Phillips,Real Analysis,3.86,3.71,3.71,3.57,4.43,4.0,4.14
 Mathematics,616,Huaxin,Lin,Real Analysis,3.8,3.7,4.14,3.97,4.28,3.79,3.95
-Mathematics,616,Marcin,Bownik,Real Analysis,4.55,4.55,4.55,4.4,4.23,4.32,4.47
 Mathematics,616,David,Levin,Real Analysis,4.14,4.0,3.57,4.14,4.29,3.57,4.71
 Mathematics,616,Chris,Sinclair,Real Analysis,4.46,4.38,4.38,4.38,4.38,3.69,4.46
 Mathematics,617,Weiyong,He,Real Analysis,3.33,2.33,3.67,2.67,3.33,2.67,3.33
@@ -1897,6 +1959,7 @@ Mathematics,618,Yuan,Xu,Real Analysis,4.0,4.0,4.33,4.33,4.33,4.33,4.67
 Mathematics,618,Huaxin,Lin,Real Analysis,4.17,4.17,4.12,4.29,4.04,3.83,4.17
 Mathematics,619,Marcin,Bownik,Complex Analysis,4.67,4.67,4.67,4.67,4.33,4.67,4.33
 Mathematics,619,Maxym,Yattselev,Complex Analysis,4.57,4.43,4.29,4.14,4.71,4.43,4.0
+Mathematics,634,Robert,Lipshitz,Algebraic Topology,4.69,4.77,4.62,4.62,4.46,3.92,4.54
 Mathematics,634,Dev,Sinha,Algebraic Topology,3.62,3.56,2.89,3.05,3.96,3.88,4.0
 Mathematics,634,Boris,Botvinnik,Algebraic Topology,4.17,4.11,3.94,4.32,4.54,3.3,4.41
 Mathematics,634,Nicholas,Proudfoot,Algebraic Topology,4.75,4.75,4.75,4.88,4.75,4.5,4.75
@@ -1922,11 +1985,11 @@ Mathematics,638,James,Isenberg,Differential Geometry,4.4,4.6,4.8,4.6,4.4,4.2,4.2
 Mathematics,639,Peter,Gilkey,Differential Geometry,4.6,4.2,4.2,4.2,4.8,4.8,4.4
 Mathematics,639,Peng,Lu,Differential Geometry,4.8,4.8,4.6,4.6,4.4,4.2,4.8
 Mathematics,639,James,Isenberg,Differential Geometry,4.33,4.33,4.0,4.0,4.0,4.0,4.33
+Mathematics,647,Jon,Brundan,Abstract Algebra,4.69,4.77,4.45,4.63,4.6,4.14,4.68
 Mathematics,647,Victor,Ostrik,Abstract Algebra,4.36,4.36,4.64,4.73,4.27,4.18,4.5
 Mathematics,647,Alexander,Kleshchev,Abstract Algebra,4.32,4.41,4.46,4.54,4.21,3.9,4.46
 Mathematics,647,Arkady,Vaintrob,Abstract Algebra,4.0,3.71,3.57,3.57,4.14,3.57,4.14
 Mathematics,647,Alexander,Polishchuk,Abstract Algebra,3.69,3.54,4.0,4.08,3.67,3.77,3.69
-Mathematics,647,Jon,Brundan,Abstract Algebra,4.68,4.73,4.47,4.58,4.55,4.07,4.67
 Mathematics,647,Sergey,Yuzvinsky,Abstract Algebra,4.18,3.91,4.0,4.0,4.4,3.73,4.18
 Mathematics,647,Brad,Shelton,Abstract Algebra,4.78,4.67,4.33,4.33,4.22,3.89,4.67
 Mathematics,648,Victor,Ostrik,Abstract Algebra,4.78,4.78,4.89,4.78,4.56,4.56,4.56
@@ -1946,6 +2009,7 @@ Mathematics,649,Brad,Shelton,Abstract Algebra,4.67,4.83,4.0,4.83,4.5,4.0,4.67
 Mathematics,672,Chris,Sinclair,Theory of Probability,4.5,4.5,4.56,4.55,4.48,4.31,4.55
 Mathematics,672,David,Levin,Theory of Probability,4.33,4.0,4.0,4.0,4.33,4.67,4.67
 Mathematics,673,Chris,Sinclair,Theory of Probability,4.5,4.5,4.5,4.5,4.58,4.17,4.67
+Mathematics,681,Alexander,Kleshchev,Top Reprsntion Theory,4.88,4.88,4.88,4.88,4.88,4.62,4.88
 Mathematics,681,Nicolas,Addington,Top Comm Alg/Alg Geom,3.75,3.5,2.75,3.75,4.25,4.0,3.0
 Mathematics,681,Ben,Elias,Top Comm Alg/Alg Geom,4.71,4.86,4.57,4.71,4.86,4.86,4.0
 Mathematics,681,Alexander,Polishchuk,Top Comm Alg/Alg Geom,3.8,3.8,4.0,4.2,4.2,4.2,4.4
@@ -1972,6 +2036,7 @@ Mathematics,683,Alexander,Kleshchev,Top Representatn Theo,5.0,5.0,5.0,5.0,5.0,5.
 Mathematics,683,Alexander,Polishchuk,Top Algebraic Geometry,4.2,3.8,3.8,3.8,4.2,4.0,4.0
 Mathematics,683,Vadim,Vologodski,Top Algebraic Geom II,5.0,5.0,5.0,4.5,4.0,5.0,5.0
 Mathematics,683,Victor,Ostrik,Top Algebraic Geom II,4.5,4.5,4.0,4.0,5.0,4.0,4.5
+Mathematics,684,Yuan,Xu,Top Harmonic Analysis,4.67,4.33,4.33,5.0,4.33,4.33,4.0
 Mathematics,684,N,Phillips,Top Functionl Analysis,4.67,4.67,4.67,4.67,4.67,4.67,4.33
 Mathematics,684,Huaxin,Lin,Top Functionl Analysis,5.0,5.0,5.0,5.0,5.0,5.0,5.0
 Mathematics,684,Chris,Sinclair,Top Stochastic Process,4.57,4.57,4.71,4.43,4.71,4.57,4.29
@@ -1992,6 +2057,7 @@ Mathematics,686,N,Phillips,Top Analysis,5.0,5.0,5.0,5.0,5.0,5.0,4.5
 Mathematics,686,N,Phillips,Top C Algebras,4.0,5.0,4.0,5.0,5.0,4.0,4.0
 Mathematics,686,N,Phillips,Top Function Analysis,4.5,4.5,4.5,4.5,4.5,5.0,4.5
 Mathematics,686,Marcin,Bownik,Top Op Theo/C-*Alg III,5.0,5.0,5.0,5.0,5.0,5.0,5.0
+Mathematics,690,Mauricio,Gomez Lopez,Top Morse Theory,5.0,4.8,4.8,4.8,5.0,4.8,5.0
 Mathematics,690,Robert,Lipshitz,Top Charact Classes,4.75,5.0,5.0,5.0,4.75,4.75,4.75
 Mathematics,690,N,Phillips,Top K-Theory,4.5,4.83,4.5,4.83,5.0,4.5,4.5
 Mathematics,690,Dev,Sinha,Top Char Classes,4.0,3.08,3.17,2.75,4.83,4.83,3.83

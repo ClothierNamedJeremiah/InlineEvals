@@ -21,8 +21,8 @@ Ceramics,199,Sana,Krusoe,Sp St Func/Form/Metaph,4.33,4.33,4.33,4.33,4.0,4.33,4.3
 Ceramics,199,Lori,Heagle,Sp St Fabrication,4.4,5.0,4.6,4.6,4.4,4.4,4.8
 Ceramics,199,John,Arndt,Sp St Design Tools,4.71,4.57,3.71,4.14,4.86,3.86,4.86
 Ceramics,199,Sana,Krusoe,Sp St Eating & Art,4.0,4.08,3.15,3.15,4.0,3.31,3.85
+Ceramics,255,Kayla,Thompson,Intro to Ceramics,4.39,4.29,4.09,3.93,4.56,4.36,4.44
 Ceramics,255,Brian,Gillis,Intro to Ceramics,4.78,4.76,4.72,4.68,4.58,4.71,4.71
-Ceramics,255,Kayla,Thompson,Intro to Ceramics,4.29,4.29,4.29,3.86,4.71,4.43,4.29
 Ceramics,255,Jessica,Swanson,Intro to Ceramics,4.55,4.63,4.34,4.27,4.27,4.08,4.59
 Ceramics,255,Leah,Howell,Top Intro to Ceramics,4.7,4.7,4.6,4.6,4.8,4.8,4.5
 Ceramics,255,Jessica,Swanson,Top Intro to Ceramics,4.6,4.59,4.29,4.36,4.3,4.26,4.59
@@ -59,7 +59,8 @@ Ceramics,255,Renae,Kowitz,Top Moldmaking,5.0,5.0,4.67,5.0,5.0,4.67,5.0
 Ceramics,255,Dan,Schmitt,Top Wheel-throwing,4.57,4.57,4.14,4.14,4.43,4.43,4.43
 Ceramics,255,Andrew,Gee,Handbuilding,4.46,4.36,4.27,4.46,4.0,3.73,4.64
 Ceramics,255,Sana,Krusoe,Top Lowfire,4.4,3.7,3.5,3.8,3.5,3.4,4.0
-Ceramics,354,Brian,Gillis,Industrial Ceramics,4.34,4.26,4.28,4.32,4.13,4.21,4.43
+Ceramics,354,Brian,Gillis,Industrial Ceramics,4.41,4.29,4.26,4.32,4.16,4.2,4.51
+Ceramics,355,Leah,Howell,Top Intermed Ceramics,4.71,4.71,4.43,4.86,5.0,4.71,4.57
 Ceramics,355,Brian,Gillis,Top Ceramic Circus,4.73,4.74,4.59,4.71,4.73,4.76,4.76
 Ceramics,355,Stacy Jo,Scott,Top Interm Ceramics,4.43,5.0,4.5,4.25,4.5,4.38,4.5
 Ceramics,355,Stacy Jo,Scott,Top Intermed Ceramics,4.14,4.29,4.14,4.0,4.29,4.29,3.86
@@ -99,13 +100,14 @@ Ceramics,408,Brian,Gillis,Wrk Advanced Ceramics,4.8,4.8,4.8,4.8,4.8,4.8,4.8
 Ceramics,408,Stacy Jo,Scott,Wrk Digital Ceramics,5.0,5.0,5.0,5.0,5.0,5.0,5.0
 Ceramics,408,Brian,Gillis,Wrk 3D Digital Fabrica,4.75,4.62,4.25,4.5,4.5,4.38,4.5
 Ceramics,408,Brian,Gillis,Wrk Ceramics Manufact,5.0,5.0,5.0,5.0,5.0,5.0,5.0
+Ceramics,410,Stacy Jo,Scott,Digital/Analog,4.75,4.69,4.58,4.53,4.73,4.61,4.85
 Ceramics,410,Brian,Gillis,Capstne Method & Mater,4.46,4.3,4.07,4.42,4.51,4.12,4.68
-Ceramics,410,Stacy Jo,Scott,Digital/Analog,4.83,4.83,4.5,4.83,4.83,4.67,4.83
 Ceramics,410,Stacy Jo,Scott,Advanced Ceramics,3.8,3.8,4.0,4.0,4.0,3.8,4.0
 Ceramics,410,Brian,Gillis,Advanced Ceramics,4.0,3.67,4.0,3.67,4.0,3.67,4.33
 Ceramics,410,Brian,Gillis,Cap Method & Material,4.33,4.17,3.83,4.0,3.92,4.17,4.33
 Ceramics,410,John,Arndt,Prototypes & Manufactu,4.44,4.44,4.11,3.89,3.78,4.33,4.78
 Ceramics,410,Brian,Gillis,Prototypes & Manufactu,4.67,4.44,4.11,3.78,3.78,4.33,4.89
+Ceramics,455,Brian,Gillis,Advanced Ceramics,5.0,4.75,5.0,5.0,5.0,4.75,5.0
 Ceramics,468,Sana,Krusoe,Glaze/Fire I,4.66,4.52,3.89,4.54,4.57,3.93,4.86
 Ceramics,469,Sana,Krusoe,Glaze/Fire II,4.11,4.04,3.49,3.87,4.01,3.43,4.52
 Ceramics,490,Brian,Gillis,Iss & Prac in Ceramics,4.22,4.44,4.22,4.56,4.56,4.0,4.11
@@ -113,7 +115,7 @@ Ceramics,490,Sana,Krusoe,Iss & Prac in Ceramics,4.0,4.5,4.0,4.5,5.0,4.5,4.0
 Ceramics,490,Brandon,Boan,Iss & Prac in Ceramics,4.0,3.5,3.5,3.0,3.5,3.5,3.5
 Ceramics,490,Jason,Rhodes,Iss & Prac in Ceramics,4.0,4.0,3.5,3.5,3.5,3.5,4.0
 Ceramics,508,Brian,Gillis,Wrk 3D Digital Fabrica,4.75,4.62,4.25,4.5,4.5,4.38,4.5
-Ceramics,510,Stacy Jo,Scott,Digital/Analog,4.83,4.83,4.5,4.83,4.83,4.67,4.83
+Ceramics,510,Stacy Jo,Scott,Digital/Analog,4.75,4.69,4.58,4.53,4.73,4.61,4.85
 Ceramics,590,Brian,Gillis,Iss & Prac in Ceramics,4.22,4.44,4.22,4.56,4.56,4.0,4.11
 Ceramics,590,Sana,Krusoe,Iss & Prac in Ceramics,4.0,4.5,4.0,4.5,5.0,4.5,4.0
 Ceramics,590,Brandon,Boan,Iss & Prac in Ceramics,4.0,3.5,3.5,3.0,3.5,3.5,3.5

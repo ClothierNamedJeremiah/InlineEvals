@@ -1,4 +1,4 @@
-Interior Architecture,204,Kyu-Ho,Ahn,Under Contemp Inter,3.72,3.46,3.66,3.73,3.69,3.43,3.72
+Interior Architecture,204,Kyu-Ho,Ahn,Under Contemp Inter,3.76,3.5,3.71,3.77,3.72,3.48,3.76
 Interior Architecture,383,Linda,Zimmer,Interior Design Studio,3.88,4.0,3.88,3.62,3.5,3.88,3.75
 Interior Architecture,407,Esther,Hagenlocher,Sem Domestic Scenes,4.6,4.72,4.18,4.37,4.53,4.18,4.68
 Interior Architecture,407,Kyu-Ho,Ahn,Sem Sensory Branding,2.5,3.0,2.5,2.75,4.25,2.25,2.25
@@ -13,7 +13,8 @@ Interior Architecture,407,Alison,Snyder,Sem NYC-PDX Cultures,5.0,5.0,3.0,4.0,3.0
 Interior Architecture,407,Esther,Hagenlocher,Sem Reflective Surface,4.75,4.5,4.25,4.5,4.5,3.5,5.0
 Interior Architecture,409,Otto,Poticha,Prac Off Campus Exper,4.54,4.36,4.36,4.18,4.27,4.54,4.73
 Interior Architecture,410,David,Schmitz,Interior Retrofit,3.83,3.67,2.83,3.33,4.33,3.0,3.67
-Interior Architecture,444,Linda,Zimmer,Furniture: Theo/Analy,3.9,3.91,4.01,4.01,4.03,3.76,3.86
+Interior Architecture,444,Linda,Zimmer,Furniture: Theo/Analy,3.93,3.95,4.04,4.05,4.04,3.8,3.9
+Interior Architecture,445,Esther,Hagenlocher,Comp Project Prep,2.89,3.11,2.56,2.67,2.89,2.33,3.22
 Interior Architecture,445,Kyu-Ho,Ahn,Comp Project Prep,3.73,3.6,3.6,3.73,4.07,3.0,3.67
 Interior Architecture,445,Linda,Zimmer,Comp Project Prep,4.6,4.6,4.6,4.6,4.6,4.6,4.6
 Interior Architecture,445,Alison,Snyder,Comp Project Prep,4.38,4.27,4.07,3.95,4.31,3.79,4.4
@@ -34,7 +35,7 @@ Interior Architecture,473,Paul,DeJong,Working Draw in IARC,3.92,4.08,4.25,4.0,3.
 Interior Architecture,473,Joshua,Hilton,Working Draw for IARC,2.0,2.11,2.44,2.33,3.56,3.0,2.22
 Interior Architecture,473,Paul,DeJong,Working Draw for IARC,3.56,3.81,4.0,3.75,4.62,4.0,3.69
 Interior Architecture,473,Tobias,Barwood,Working Draw for IARC,4.23,4.23,4.15,3.77,3.85,3.46,4.46
-Interior Architecture,474,Solmaz,Mohammadzadeh Kive,Hist Interior Arch I,2.85,3.08,2.69,3.23,3.69,2.77,3.15
+Interior Architecture,474,Solmaz,Mohammadzadeh Kive,Hist Interior Arch I,2.66,2.66,2.2,3.03,3.32,2.35,2.93
 Interior Architecture,474,Gabrielle,Harlan,Hist Interior Arch I,3.9,3.79,4.1,3.69,4.1,3.9,3.76
 Interior Architecture,474,Erin,Cunningham,Hist Interior Arch I,4.56,4.77,4.77,4.71,4.71,4.53,4.46
 Interior Architecture,475,Solmaz,Mohammadzadeh Kive,Hist Interior Arch II,2.53,2.6,2.53,3.2,3.07,2.47,2.87
@@ -43,8 +44,9 @@ Interior Architecture,475,Erin,Cunningham,Hist Interior Arch II,4.73,4.85,4.86,4
 Interior Architecture,476,Solmaz,Mohammadzadeh Kive,Hist Interior Arch III,3.5,3.44,3.69,3.75,3.56,3.5,3.38
 Interior Architecture,476,Gabrielle,Harlan,Hist Interior Arch III,4.14,4.09,4.46,4.27,4.41,4.23,4.32
 Interior Architecture,476,Erin,Cunningham,Hist Interior Arch III,4.67,4.73,4.71,4.72,4.56,4.53,4.62
+Interior Architecture,484,Ella,Dickey,Interior Design,4.09,4.0,3.54,3.18,3.91,3.64,4.18
+Interior Architecture,484,Solmaz,Mohammadzadeh Kive,Interior Design,2.8,2.6,2.63,2.51,3.25,2.59,2.84
 Interior Architecture,484,Lisa,Kuhnhausen,Interior Design,4.17,4.0,4.33,4.33,4.17,4.17,4.17
-Interior Architecture,484,Solmaz,Mohammadzadeh Kive,Interior Design,3.33,2.85,3.08,2.85,3.69,3.0,3.31
 Interior Architecture,484,Ashley,Tackett,Interior Design,4.4,4.3,4.4,4.2,4.4,4.4,4.2
 Interior Architecture,484,James,Givens,Interior Design,4.18,4.23,4.18,4.46,3.48,3.9,4.04
 Interior Architecture,484,Cem,Kayatekin,Interior Design,4.75,4.75,5.0,5.0,5.0,4.75,4.75
@@ -69,9 +71,9 @@ Interior Architecture,484,David,Suttle,Interior Design,4.0,4.1,3.2,3.9,4.12,3.8,
 Interior Architecture,484,Jeffrey,Lamb,Interior Design,3.33,2.78,2.78,2.44,3.67,3.22,3.44
 Interior Architecture,484,Juli,Brode,Interior Design,4.38,4.31,4.46,3.92,3.54,3.69,4.69
 Interior Architecture,484,Francis,Dardis,Interior Design,4.25,3.88,4.5,4.38,4.12,4.0,4.38
+Interior Architecture,486,Tom,Bonamici,Furniture Design,4.61,4.5,4.42,4.71,4.64,4.19,4.77
 Interior Architecture,486,Esther,Hagenlocher,Furniture Design,4.7,4.76,3.99,4.27,4.28,4.42,4.69
 Interior Architecture,486,Kevin,Rowland,Furniture Design,4.82,4.81,4.53,4.5,4.69,4.56,4.86
-Interior Architecture,486,Tom,Bonamici,Furniture Design,4.81,4.75,4.24,4.56,4.76,4.09,4.85
 Interior Architecture,486,Zoe,Mowat,Furniture Design,3.8,3.4,4.3,3.6,4.0,3.5,4.3
 Interior Architecture,486,Sara,Huston,Furniture Design,3.0,2.8,2.6,2.2,3.5,2.9,3.78
 Interior Architecture,486,Hal,Homstvedt,Furniture Design,4.0,3.5,3.14,3.36,4.21,3.93,4.21
@@ -95,6 +97,7 @@ Interior Architecture,489,Kyu-Ho,Ahn,Interior Des Com Pr II,4.46,4.33,4.17,4.04,
 Interior Architecture,489,Kelsey,Buzzell,Interior Des Com Pr II,4.29,4.57,4.29,4.43,4.57,4.43,4.43
 Interior Architecture,489,Linda,Zimmer,Interior Des Com Pr II,4.54,4.61,4.3,4.18,4.18,4.23,4.36
 Interior Architecture,489,Alison,Snyder,Interior Des Com Pr II,4.17,3.96,4.03,3.62,4.37,3.88,4.47
+Interior Architecture,492,Siobhan,Rockcastle,Electric Lighting,4.21,4.43,4.36,4.36,4.43,4.36,4.14
 Interior Architecture,492,Virginia,Cartwright,Electric Lighting,3.12,3.4,3.05,3.08,3.57,2.8,3.17
 Interior Architecture,492,Jill,Mulholland,Electric Lighting,3.5,3.42,2.67,3.25,4.5,2.83,3.5
 Interior Architecture,507,Esther,Hagenlocher,Sem Domestic Scenes,4.6,4.72,4.18,4.37,4.53,4.18,4.68
@@ -110,7 +113,8 @@ Interior Architecture,507,Alison,Snyder,Sem NYC-PDX Cultures,5.0,5.0,3.0,4.0,3.0
 Interior Architecture,507,Esther,Hagenlocher,Sem Reflective Surface,4.75,4.5,4.25,4.5,4.5,3.5,5.0
 Interior Architecture,510,Jan,Fillinger,Green Des Bld Interior,3.88,4.38,3.38,4.12,4.12,4.0,4.5
 Interior Architecture,510,David,Schmitz,Interior Retrofit,3.83,3.67,2.83,3.33,4.33,3.0,3.67
-Interior Architecture,544,Linda,Zimmer,Furniture: Theo/Analy,3.9,3.91,4.01,4.01,4.03,3.76,3.86
+Interior Architecture,544,Linda,Zimmer,Furniture: Theo/Analy,3.93,3.95,4.04,4.05,4.04,3.8,3.9
+Interior Architecture,545,Esther,Hagenlocher,Comp Project Prep,2.89,3.11,2.56,2.67,2.89,2.33,3.22
 Interior Architecture,545,Kyu-Ho,Ahn,Comp Project Prep,3.73,3.6,3.6,3.73,4.07,3.0,3.67
 Interior Architecture,545,Linda,Zimmer,Comp Project Prep,4.6,4.6,4.6,4.6,4.6,4.6,4.6
 Interior Architecture,545,Alison,Snyder,Comp Project Prep,4.38,4.27,4.07,3.95,4.31,3.79,4.4
@@ -130,7 +134,7 @@ Interior Architecture,573,Paul,DeJong,Working Draw in IARC,3.92,4.08,4.25,4.0,3.
 Interior Architecture,573,Joshua,Hilton,Working Draw for IARC,2.0,2.11,2.44,2.33,3.56,3.0,2.22
 Interior Architecture,573,Paul,DeJong,Working Draw for IARC,3.56,3.81,4.0,3.75,4.62,4.0,3.69
 Interior Architecture,573,Tobias,Barwood,Working Draw for IARC,4.23,4.23,4.15,3.77,3.85,3.46,4.46
-Interior Architecture,574,Solmaz,Mohammadzadeh Kive,Hist Interior Arch I,2.85,3.08,2.69,3.23,3.69,2.77,3.15
+Interior Architecture,574,Solmaz,Mohammadzadeh Kive,Hist Interior Arch I,2.66,2.66,2.2,3.03,3.32,2.35,2.93
 Interior Architecture,574,Gabrielle,Harlan,Hist Interior Arch I,3.9,3.79,4.1,3.69,4.1,3.9,3.76
 Interior Architecture,574,Erin,Cunningham,Hist Interior Arch I,4.56,4.77,4.77,4.71,4.71,4.53,4.46
 Interior Architecture,575,Solmaz,Mohammadzadeh Kive,Hist Interior Arch II,2.53,2.6,2.53,3.2,3.07,2.47,2.87
@@ -139,8 +143,9 @@ Interior Architecture,575,Erin,Cunningham,Hist Interior Arch II,4.73,4.85,4.86,4
 Interior Architecture,576,Solmaz,Mohammadzadeh Kive,Hist Interior Arch III,3.5,3.44,3.69,3.75,3.56,3.5,3.38
 Interior Architecture,576,Gabrielle,Harlan,Hist Interior Arch III,4.14,4.09,4.46,4.27,4.41,4.23,4.32
 Interior Architecture,576,Erin,Cunningham,Hist Interior Arch III,4.67,4.73,4.71,4.72,4.56,4.53,4.62
+Interior Architecture,584,Ella,Dickey,Interior Design,4.09,4.0,3.54,3.18,3.91,3.64,4.18
+Interior Architecture,584,Solmaz,Mohammadzadeh Kive,Interior Design,2.8,2.6,2.63,2.51,3.25,2.59,2.84
 Interior Architecture,584,Lisa,Kuhnhausen,Interior Design,4.17,4.0,4.33,4.33,4.17,4.17,4.17
-Interior Architecture,584,Solmaz,Mohammadzadeh Kive,Interior Design,3.33,2.85,3.08,2.85,3.69,3.0,3.31
 Interior Architecture,584,Ashley,Tackett,Interior Design,4.4,4.3,4.4,4.2,4.4,4.4,4.2
 Interior Architecture,584,James,Givens,Interior Design,4.18,4.23,4.18,4.46,3.48,3.9,4.04
 Interior Architecture,584,Cem,Kayatekin,Interior Design,4.75,4.75,5.0,5.0,5.0,4.75,4.75
@@ -164,9 +169,9 @@ Interior Architecture,584,David,Suttle,Interior Design,4.0,4.1,3.2,3.9,4.12,3.8,
 Interior Architecture,584,Jeffrey,Lamb,Interior Design,3.33,2.78,2.78,2.44,3.67,3.22,3.44
 Interior Architecture,584,Juli,Brode,Interior Design,4.38,4.31,4.46,3.92,3.54,3.69,4.69
 Interior Architecture,584,Francis,Dardis,Interior Design,4.25,3.88,4.5,4.38,4.12,4.0,4.38
+Interior Architecture,586,Tom,Bonamici,Furniture Design,4.61,4.5,4.42,4.71,4.64,4.19,4.77
 Interior Architecture,586,Esther,Hagenlocher,Furniture Design,4.7,4.76,3.99,4.27,4.28,4.42,4.69
 Interior Architecture,586,Kevin,Rowland,Furniture Design,4.82,4.81,4.53,4.5,4.69,4.56,4.86
-Interior Architecture,586,Tom,Bonamici,Furniture Design,4.81,4.75,4.24,4.56,4.76,4.09,4.85
 Interior Architecture,586,Zoe,Mowat,Furniture Design,3.8,3.4,4.3,3.6,4.0,3.5,4.3
 Interior Architecture,586,Sara,Huston,Furniture Design,3.0,2.8,2.6,2.2,3.5,2.9,3.78
 Interior Architecture,586,Hal,Homstvedt,Furniture Design,4.0,3.5,3.14,3.36,4.21,3.93,4.21
@@ -189,6 +194,7 @@ Interior Architecture,589,Kyu-Ho,Ahn,Interior Des Com Pr II,4.46,4.33,4.17,4.04,
 Interior Architecture,589,Kelsey,Buzzell,Interior Des Com Pr II,4.29,4.57,4.29,4.43,4.57,4.43,4.43
 Interior Architecture,589,Linda,Zimmer,Interior Des Com Pr II,4.54,4.61,4.3,4.18,4.18,4.23,4.36
 Interior Architecture,589,Alison,Snyder,Interior Des Com Pr II,4.17,3.96,4.03,3.62,4.37,3.88,4.47
+Interior Architecture,592,Siobhan,Rockcastle,Electric Lighting,4.21,4.43,4.36,4.36,4.43,4.36,4.14
 Interior Architecture,592,Virginia,Cartwright,Electric Lighting,3.12,3.4,3.05,3.08,3.57,2.8,3.17
 Interior Architecture,592,Jill,Mulholland,Electric Lighting,3.5,3.42,2.67,3.25,4.5,2.83,3.5
 Interior Architecture,600M,Kyu-Ho,Ahn,Inclusive Arch Design,4.0,3.75,3.75,3.75,4.25,3.75,4.5

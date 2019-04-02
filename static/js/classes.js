@@ -1,7 +1,7 @@
-// Header's for Questions
-var HEADERS = ["Course Quality","Quality of Instruction","Course Organization","Effective use of Time","Instructor Availability","Grading Clarity","Amount Learned"]
-var COLUMNS_DISPLAYED;
-var PREFS;
+// GLOBAL VARIABLES
+var HEADERS = ["Course Quality","Quality of Instruction","Course Organization","Effective use of Time","Instructor Availability","Grading Clarity","Amount Learned"]  // Header's for Questions
+var COLUMNS_DISPLAYED; // number of addtional columns being displayed
+var PREFS; // User's preferences for which questions they want displayed
 
 // opens vals.txt
 function open_file_map(callback) {
@@ -37,22 +37,22 @@ function read_file_map(){
 
 // opens CSV/file_name
 function open_data_file(callback,file_map) {
-    var subjects = document.getElementById('subj_id');
-    var current = subjects.options[subjects.selectedIndex].value;
-    var file_name = file_map.get(current)
-    file_name = "CSV/" + file_name
-    console.log("Trying to open:",file_name)
-		const url = chrome.runtime.getURL(file_name);
-		var xhr = new XMLHttpRequest();
-		xhr.open('GET', url, true);
-	 	xhr.onreadystatechange = function() {
-			if (xhr.readyState == 4 && xhr.status == 200) {
-				if (typeof callback == "function") {
-					aDictionary = callback.apply(xhr)
-				}
+  var subjects = document.getElementById('subj_id');
+  var current = subjects.options[subjects.selectedIndex].value;
+  var file_name = file_map.get(current)
+  file_name = "CSV/" + file_name
+  console.log("Trying to open:",file_name)
+	const url = chrome.runtime.getURL(file_name);
+	var xhr = new XMLHttpRequest();
+	xhr.open('GET', url, true);
+ 	xhr.onreadystatechange = function() {
+		if (xhr.readyState == 4 && xhr.status == 200) {
+			if (typeof callback == "function") {
+				aDictionary = callback.apply(xhr)
 			}
-		};
-		xhr.send();
+		}
+	};
+	xhr.send();
 }
 
 // Read's the file from function 'open_data_file' and creates a dictionary

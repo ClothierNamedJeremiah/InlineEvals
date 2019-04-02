@@ -13,11 +13,18 @@
 
 	"author": "Jeremiah Clothier & Isaac Lance",
 
-  	"content_scripts": [{
+  	"content_scripts": [
+			{
     	"css": ["static/css/styles.css"],
-    	"js": ["static/js/content.js"],
+    	"js": ["static/js/classes.js"],
     	"matches": ["http://classes.uoregon.edu/pls/prod/*"]
-  	}],
+  	},
+		{
+			"css": ["static/css/styles.css"],
+			"js": ["static/js/duckweb.js"],
+			"matches": ["https://duckweb.uoregon.edu/pls/prod/bwskfcls.P_GetCrse_Advanced*"]
+		}
+],
 
 		"web_accessible_resources": [
     	"CSV/*.csv",

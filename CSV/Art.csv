@@ -1,3 +1,4 @@
+Art,101,Farhad,Bahram,Understand Contemp Art,4.02,4.14,4.27,3.92,4.11,4.03,3.86
 Art,101,Farhad,Bahram,Underst Contemp Media,3.96,4.07,4.17,4.12,4.1,4.03,3.92
 Art,101,Alison,Ho,Underst Contemp Media,3.53,3.31,3.89,3.57,3.42,3.57,3.52
 Art,101,Tyrras,Warren,Underst Contemp Media,4.3,4.44,4.4,4.34,4.07,4.16,4.19
@@ -8,8 +9,8 @@ Art,101,Kartz,Ucci,Underst Contemp Media,2.89,2.64,2.84,2.67,2.95,3.14,2.71
 Art,111,Farhad,Bahram,The Artist Experience,4.01,4.1,4.23,4.08,4.13,4.1,3.85
 Art,111,Tyrras,Warren,The Artist Experience,4.11,4.24,4.24,4.15,4.07,4.01,3.96
 Art,111,Mike,Bray,The Artist Experience,3.93,3.72,4.02,3.91,3.83,3.76,3.89
+Art,115,Christopher,Michlig,Surface, Space, & Time,4.41,4.56,4.34,4.45,4.22,4.14,4.27
 Art,115,Donald,Morgan,Surface, Space, & Time,4.01,3.93,4.08,3.94,3.92,3.95,3.93
-Art,115,Christopher,Michlig,Surface, Space, & Time,4.41,4.56,4.35,4.46,4.23,4.14,4.28
 Art,115,Jack,Ryan,Surface, Space, & Time,3.83,3.74,3.86,3.67,3.97,3.68,3.71
 Art,115,Anne,Magratten,Surface, Space, & Time,4.67,4.67,4.67,5.0,4.67,4.33,4.33
 Art,115,Isami,Ching,Surface, Space, & Time,4.75,4.25,4.5,5.0,5.0,3.75,4.75
@@ -17,12 +18,13 @@ Art,115,Jared,Davis-Haug,Surface, Space, & Time,4.5,4.62,4.62,4.5,4.62,4.0,4.5
 Art,115,Kathleen,Caprario,Basic Design: Fundamen,4.33,4.33,4.28,4.33,4.33,4.33,4.11
 Art,115,Jack,Ryan,Basic Design: Fundamen,3.61,3.36,3.58,3.36,3.64,3.31,3.52
 Art,115,Marcia,Adzich,Basic Design: Fundamen,3.81,3.67,3.87,3.83,3.7,3.65,3.56
+Art,116,Christopher,Michlig,Core Interdis Lab,4.71,4.82,4.49,4.6,4.51,4.31,4.68
+Art,116,Jack,Ryan,Core Interdis Lab,4.33,4.28,4.16,4.07,4.31,4.17,4.21
+Art,116,Kate,Wagle,Core Interdis Lab,3.5,3.5,2.88,3.0,4.0,2.75,3.25
 Art,116,Brian,Gillis,Core Interdis Lab,4.21,4.25,4.39,4.18,4.22,3.93,4.38
 Art,116,Mike,Bray,Core Interdis Lab,4.02,4.05,3.76,4.07,4.06,3.86,3.9
-Art,116,Christopher,Michlig,Core Interdis Lab,4.7,4.83,4.46,4.59,4.5,4.28,4.65
 Art,116,Jessie,Vala,Core Interdis Lab,4.33,4.44,4.23,4.33,4.26,4.07,4.35
 Art,116,Laura,Hughes,Core Interdis Lab,4.47,4.51,4.0,3.99,4.54,4.31,4.49
-Art,116,Jack,Ryan,Core Interdis Lab,4.33,4.29,4.16,4.09,4.33,4.15,4.22
 Art,116,Jessica,Swanson,Core Interdis Lab,4.06,4.02,4.06,3.84,4.24,3.71,3.97
 Art,116,Leah,Howell,Core Interdis Lab,4.17,3.92,3.75,3.83,4.17,3.67,4.25
 Art,116,Stephanie,Parnes,Core Interdis Lab,4.13,4.4,3.67,4.13,4.47,4.13,4.2
@@ -108,8 +110,8 @@ Art,198,Skipper,McFarlane,Top Intro InDesign,4.17,4.33,4.2,4.33,4.17,4.17,4.5
 Art,198,Skipper,McFarlane,Top Interm InDesign,4.0,3.8,4.0,4.2,4.0,4.2,3.8
 Art,198,Skipper,McFarlane,Top Interm Photoshop,3.81,4.12,4.06,4.19,4.04,4.25,3.69
 Art,198,Skipper,McFarlane,Top Interm Dreamweaver,4.5,4.5,4.5,4.5,4.5,4.5,4.5
+Art,199,Jessica,Swanson,Sp St Sketchbk & Proc,3.67,3.97,3.77,3.38,4.5,3.81,3.3
 Art,199,Jessica,Swanson,Sp St Exhibition,3.86,3.86,2.93,3.5,4.0,3.64,4.07
-Art,199,Jessica,Swanson,Sp St Sketchbk & Proc,4.0,4.19,4.0,3.67,4.62,3.95,3.48
 Art,199,Colleen,Choquette,Sp St Art & Activism,4.38,4.25,3.75,4.25,4.25,3.88,4.5
 Art,199,Rebecca,Childers,Sp St Letterpress,4.75,4.5,4.33,4.41,4.19,4.47,4.72
 Art,199,Steve,Baggs,Sp St Drawing Comics,5.0,5.0,5.0,5.0,5.0,5.0,5.0
@@ -151,13 +153,14 @@ Art,199,John,Arndt,Sp St Design Tools,4.18,3.91,3.36,3.54,4.27,3.27,4.46
 Art,199,Carla,Bengtson,Sp St Contemp Media,4.8,4.8,4.6,4.6,4.8,4.8,4.8
 Art,199,Barbara,Pickett,Sp St Contemp Media,4.83,4.83,4.83,4.83,4.83,4.83,4.83
 Art,199,Edwin,Way,Special Studies China,4.4,4.4,4.4,4.4,4.4,4.4,4.4
-Art,233,James,Schauer,Drawing I,4.53,4.51,4.47,4.59,4.34,4.36,4.51
+Art,233,Sumer,Khan,Drawing I,4.44,4.34,4.29,4.35,4.52,4.38,4.42
+Art,233,Donald,Morgan,Drawing I,4.45,4.48,4.49,4.54,4.31,4.25,4.41
+Art,233,James,Schauer,Drawing I,4.52,4.5,4.46,4.58,4.33,4.35,4.51
+Art,233,Jessica,Swanson,Drawing I,4.22,4.44,4.44,4.33,4.56,4.0,4.56
 Art,233,Marissa,Benedict,Drawing I,4.7,4.7,4.5,4.6,4.2,4.3,4.8
-Art,233,Donald,Morgan,Drawing I,4.43,4.47,4.48,4.53,4.3,4.25,4.42
 Art,233,Jack,Ryan,Drawing I,3.91,3.61,3.8,3.51,3.88,3.54,4.1
 Art,233,Alex,Wurts,Drawing I,4.45,4.41,4.41,4.51,4.34,4.12,4.56
 Art,233,Wendy,Heldmann,Drawing I,4.33,4.22,4.63,4.58,4.24,4.42,4.07
-Art,233,Sumer,Khan,Drawing I,4.31,4.21,4.21,4.26,4.46,4.33,4.26
 Art,233,Jan,Reaves,Drawing I,4.48,4.54,4.49,4.53,4.42,4.19,4.5
 Art,233,Sylvan,Lionni,Drawing I,3.92,4.36,4.11,4.03,3.71,3.58,4.12
 Art,233,Mandy,Hampton,Drawing I,4.17,3.83,4.17,4.08,4.09,3.75,4.17
@@ -213,10 +216,11 @@ Art,233,Chang-Ae,Song,Drawing,4.1,3.79,3.91,4.23,3.87,3.53,3.98
 Art,233,Amanda,Wojick,Drawing,4.25,4.31,4.2,4.06,3.56,3.75,4.25
 Art,233,Carla,Bengtson,Drawing,3.9,3.8,3.6,3.8,4.2,4.0,4.0
 Art,233,David,Siebert,Drawing,3.73,3.36,3.36,3.36,3.9,3.7,3.5
+Art,333,Stephanie,Parnes,Drawing II,4.45,4.53,4.45,4.41,4.55,4.41,4.48
+Art,333,Jessica,Swanson,Drawing II,5.0,5.0,5.0,5.0,5.0,5.0,5.0
+Art,333,Jessie,Vala,Drawing II,4.48,4.45,4.47,4.48,4.45,4.43,4.4
 Art,333,Andrew,Campbell,Drawing II,4.57,4.57,4.14,4.29,4.86,4.57,4.43
 Art,333,Laura,Hughes,Drawing II,4.41,4.36,4.31,4.31,4.51,4.31,4.42
-Art,333,Stephanie,Parnes,Drawing II,4.39,4.5,4.39,4.4,4.54,4.4,4.39
-Art,333,Jessie,Vala,Drawing II,4.44,4.44,4.39,4.44,4.45,4.28,4.33
 Art,333,Carla,Bengtson,Drawing II,4.28,4.23,4.12,4.3,4.44,3.92,4.14
 Art,333,Jan,Reaves,Drawing II,4.44,4.48,4.32,4.43,4.4,4.09,4.4
 Art,333,Sylvan,Lionni,Drawing II,4.32,4.36,4.21,4.27,4.33,3.86,4.33
@@ -235,8 +239,9 @@ Art,333,Emily,Crabtree,Drawing II,3.93,3.51,3.96,3.86,3.69,3.27,3.44
 Art,333,Wendi,Turchan,Drawing II,4.28,4.25,4.22,4.19,4.15,4.19,4.1
 Art,333,Gabriella,Soraci,Drawing II,4.62,4.66,4.52,4.59,4.48,4.44,4.43
 Art,333,Bernard,Brooks,Drawing II,4.53,4.53,4.33,4.4,4.47,4.47,4.4
-Art,381,Rebecca,Childers,Letterpress,4.6,4.58,4.42,4.37,4.46,4.47,4.66
+Art,381,Rebecca,Childers,Letterpress,4.6,4.57,4.41,4.36,4.46,4.44,4.65
 Art,381,Allison,Hyde,Letterpress,4.49,4.58,4.6,4.42,4.67,4.33,4.6
+Art,407,Nathan,Ward,Sem Vis Artist Lecture,4.6,4.4,4.4,4.6,4.4,4.6,4.4
 Art,407,Wendy,Heldmann,Sem Dept Art Lectures,4.13,4.17,4.12,4.35,4.3,4.27,4.1
 Art,407,Dan,Powell,Sem Dismantl Cartesian,4.86,4.8,4.65,4.71,4.76,4.49,4.87
 Art,407,Wendy,Heldmann,Sem Vis Artist Lecture,5.0,5.0,5.0,5.0,5.0,5.0,5.0
